@@ -1,0 +1,21 @@
+# Unique Worlds
+
+Worlds with distinctive characteristics that shape their societies in unusual ways.
+## Awyr
+
+**System:** Aether
+
+A low-gravity world with a dense atmosphere, allowing for human flight with minimal clothing and equipment.
+
+The combination of reduced gravity and thick air means that with simple wing-suits or even less, humans can achieve sustained flight. This fundamentally shapes Awyr's architecture, transportation, social customs, and sense of space.
+## Periapt
+
+**System:** Ptica
+
+A world with such an elliptical orbit that society transforms completely twice a year.
+
+The extreme seasonal variation—between close approach to the star and distant retreat—requires completely different social, economic, and physical arrangements for summer and winter. Periapt's people effectively maintain two parallel civilisations, switching between them as the orbit demands.
+
+---
+
+*Note: These entries are brief. Individual world files can be created as more detail is developed.*
