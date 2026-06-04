@@ -2,28 +2,23 @@
 
 **Common names**: "feznuts", "fez", "meta"
 
-## Production & Supply
+## Chemical and Strategic Profile
 
-|Metric|Value|
-|---|---|
-|Annual harvest|~47,000 tonnes (highly variable)|
-|Price range|1–15 million quid per kilogram|
+Metastable iron-zinc-uranium tennessite (often abbreviated as FeZnUTs or simply "fez") is a highly prized and exceptionally rare strategic resource. Its primary application is in the construction and maintenance of Jump Gates. Although not strictly necessary for their construction, fez drastically reduces the construction time, resource requirements, and ongoing maintenance costs of these massive, externally sustained warp fields. Consequently, control of fez harvests directly dictates which star systems can afford to build gates and fully integrate into the high-tier galactic economy.
 
-### Sources
+## Production and Market Dynamics
 
-|Source|Share|
-|---|---|
-|Tethys-Var|~13.5%|
-|Nagara Deep|~2%|
-|The Sunken Gardens of Prell|~0.5%|
-|Thousands of scattered minor sources|<0.1% each, ~85% total|
+The supply of fez is highly constrained and unpredictable, making it a frequent catalyst for speculation, political maneuvering, and outright conflict.
+- Annual harvest: Approximately 47,000 tonnes, though this figure is highly variable.
+- Market price: Fluctuates violently between 1 and 15 million quid per kilogram.  
 
-## Market Control
+## Sourcing and Control
 
-The **Tethys Consortium** controls 67% of harvesting licences on Tethys-Var. Notable external traders: Sable Cartel futures division (speculation/derivatives), Arrhenos Merchant Fleet (direct trade), independent harvesters (mostly illegal operations).
+The overwhelming majority of fez is gathered from thousands of minor, scattered sources, none of which account for more than 0.1% of the market share individually (totaling roughly 85% of the galactic supply). However, a few major sources hold outsized strategic value:
+- Tethys-Var: Supplies ~13.5% of the galactic harvest.
+- Nagara Deep: Supplies ~2%.
+- The Sunken Gardens of Prell: Supplies ~0.5%.
 
-## Strategic Importance
-
-Fez is prized for making jump gates more efficient to run and maintain. Its scarcity and the unpredictability of harvests make it a frequent source of conflict, speculation, and political manoeuvring.
+The Tethys Consortium exercises dominant market control by holding 67% of the harvesting licences on Tethys-Var. Other major players in the fez market include the Arrhenos Merchant Fleet (handling direct trade), the Sable Cartel futures division (handling speculation and derivatives), and numerous independent harvesters running largely illegal operations. 
 
 See also: Tethys-Var

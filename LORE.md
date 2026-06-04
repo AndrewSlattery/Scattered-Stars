@@ -36,40 +36,42 @@ Latest revision: 3862 C 4.3/7
 
 # The C Calendar
 
+The C Calendar serves as the standard timekeeping system across human space, providing a unified chronological framework despite the vast differences in local planetary orbits and rotations. The system is built on a decimal-leaning structure for sub-day units, while roughly maintaining the length of the historical Earth year.  
+
 ## Units
 
-|Unit|Composition|
-|---|---|
-|second|base unit|
-|minute|100 seconds|
-|hour|50 minutes|
-|day|20 hours|
-|week|10 days|
-|month|4 weeks (40 days)|
-|year|9 months + Gap (365–366 days)|
+- second | base unit | 0.864 SI seconds
+- minute | 100 seconds | 86.4 SI seconds
+- hour | 50 minutes | 72 SI minutes
+- day | 20 hours | 1 SI day (= 86400 SI seconds)
+- week | 10 days
+- month | 4 weeks or 40 days
+- year | 9 months + Gap (365 or 366 days)
 
 ## Daily Rhythm
 
-The 20-hour day shifts familiar times: dawn ~5th hour, midday 10th hour, evening ~15th hour, midnight 20th hour.
+The 20-hour day significantly shifts the numerical designation of familiar times compared to historical systems. Dawn typically occurs around the 5th hour, midday at the 10th hour, evening approaches near the 15th hour, and midnight strikes at the 20th hour.
 
 ## Date Format
 
-Standard: `year C month.week/day` (e.g. `3540 C 4.2/7` = Year 3540, month 4, week 2, day 7) Gap days: `yyyy C Gap day` (e.g. `3862 C Gap 4`)
+The standard date format is recorded as year C month.week/day.
+
+For example, 3540 C 4.2/7 designates Year 3540, the 4th month, the 2nd week, and the 7th day.
 
 ## The Gap
 
-Five or six buffer days between the final month and the new year, outside the regular month structure. Regional traditions have accumulated around these days:
+To align the 360-day structured calendar with the roughly 365.25-day standard year, the calendar includes "The Gap". This is a period of five (or six, in leap years) buffer days inserted between the final month of the old year and the first month of the new year. These days exist outside the regular month structure and are formatted as yyyy C Gap day (e.g., 3862 C Gap 4).
 
-|Day|Region|Observance|
-|---|---|---|
-|Gap 1–3|Mandate|"Misrule" days; Emperor temporarily abdicates|
-|Gap 2|Haven Ascendant|Ship supply assessment followed by a great feast|
-|Gap 4|Arrhenos|Foundation Day; commemoration of first generation born on-world|
-|Gap 6|Multiple|Considered auspicious for risky ventures, contracts, and marriages|
+Over the centuries, deep-rooted regional traditions and superstitions have accumulated around the Gap days. Here are some examples. More information on each can be found in the relevant power's files.
+
+- Gap 1–3 | Mandate | "Misrule" days; Emperor temporarily abdicates
+- Gap 2 | Haven Ascendant | Ship supply assessment followed by a great feast
+- Gap 4 | Arrhenos | Foundation Day; commemoration of first generation born on-world
+- Gap 6 | Multiple | Considered auspicious for risky ventures, contracts, and marriages
 
 ## Regional Variations
 
-Planets whose orbits cannot synchronise to the C year (~365.25 days) often maintain local years alongside the standard.
+While the C Calendar is the standard for interstellar coordination, planets whose orbital periods cannot easily be adjusted to synchronise to the standard year frequently maintain parallel local calendars to track their own seasons and solar cycles.
 
 ---
 
@@ -80,19 +82,26 @@ Planets whose orbits cannot synchronise to the C year (~365.25 days) often maint
 
 ## Languages and Communication
 
-**Linguistic diversity**: Planets with multiple settlements maintain many unique local languages; major powers may promote particular standards (e.g. Mandate Classical).
+Linguistic Diversity: Linguistic fragmentation is common across human space. Planets with multiple, geographically isolated settlements often maintain dozens of unique local languages. Conversely, major powers frequently promote specific linguistic standards to unify their territories, such as the enforcement of Mandate Classical.
 
-**Trade Tongue**: A universal lingua franca spoken throughout human space by anyone who interacts across systems—not anyone's native language, but nearly everyone's second.
+The Trade Tongue: To facilitate interstellar commerce and diplomacy, a universal lingua franca known simply as "Trade Tongue" has developed. While it is almost never spoken as a native language, it functions as a nearly ubiquitous second language for anyone interacting across star systems.
 
-**Communication lag**: Inter-system comms are possible but either extremely slow, very limited bandwidth, or very expensive. Real-time conversation across star systems is effectively impossible for most people. This shapes everything from politics to personal relationships.
+Communication Lag: Real-time conversation between different star systems is impossible; the best you can do is a lag of several hours each way if there is a direct relay.
 
 ## Religion and Philosophy
 
-The vast majority of humans maintain no strong religious commitment, with many holding no religious beliefs at all. Organised religion represents a minority interest across human space, though diverse philosophical traditions remain influential in shaping cultural values, personal ethics, and regional customs. Specific worlds and cultures may have stronger religious traditions, but these are exceptions rather than the rule.
+The vast majority of humanity maintains no strong religious commitment, with a significant portion holding no religious beliefs whatsoever. Organised religion represents a minority interest across human space. Instead, diverse secular philosophical traditions remain highly influential in shaping cultural values, personal ethics, and regional customs. While specific worlds and insular cultures may harbor strong, unified religious traditions, these are notable exceptions rather than the galactic rule.
 
 ## Social Organisation
 
-Social structures vary enormously: imperial hierarchies (Mandate), corporate organisation (Sable Cartel), feudal systems (Vega Throne), direct democracy (various), meritocratic republics (Arrhenos), anarchic frontier communities (Union Freeholds), nomadic consensual governance (Drift Communities). No single model dominates.
+Social and political structures vary enormously, with no single model of governance dominating human space. Notable examples include:
+- Imperial hierarchies, such as The Mandate.
+- Corporate governance, exemplified by the Sable Cartel.
+- Feudal systems, such as the Vega Throne.
+- Meritocratic republics, such as Arrhenos.
+- Direct democracies, practiced by various independent worlds.
+- Anarchic frontier communities, such as the Union Freeholds.
+- Nomadic consensual governance, relied upon by the Drift Communities.
 
 ---
 
@@ -105,41 +114,42 @@ Social structures vary enormously: imperial hierarchies (Mandate), corporate org
 
 ## The Scattering
 
-Beginning 2488 C, humanity expanded to 4,000+ inhabited star systems, ~10,000 worlds, and ~50,000 artificial habitats. Over a million stellar bodies explored; no sentient alien life encountered.
+Beginning in 2488 C, humanity escaped the cradle of Sol and expanded across the galaxy. Today, the diaspora encompasses over 4,000 inhabited star systems, roughly 10,000 terrestrial worlds, and upwards of 50,000 artificial habitats. Over a million stellar bodies have been surveyed and catalogued. In all this time, and across all this space, no sentient alien life has ever been encountered. Humanity is entirely alone.
 
 ## The Fracture
 
-No unification attempts since the **Cascade** of 2756 C, when 847 worlds declared independence within a single standard year. Between 3,000–4,000 independent polities exist (no accurate census).
+The fundamental constraints on FTL travel—and specifically the months-long crawls into and out of star systems—have made a centralized galactic government impossible.
 
-|Scale|Count|
-|---|---|
-|Single-habitat polities|~2,000|
-|Small multi-habitat polities|~1,000|
-|Regional coalitions|~500|
-|Minor powers|~200|
-|Major regional powers|~50|
-|Great powers|7|
-|Disputed/ungoverned territories|Many|
+There have been no serious attempts at unification since the Cascade of 2756 C, when 847 worlds simultaneously declared independence from the Earth-based metropole authorities within a single standard year. Today, human space is deeply fragmented. Between 3,000 and 4,000 independent polities exist, though accurate census data is impossible to maintain across the communication lag.
 
-Independent entities may maintain ties to larger powers whilst preserving sovereignty.
+Single-habitat polities: ~2,000
+Small multi-habitat polities: ~1,000
+Regional coalitions: ~500
+Minor powers: ~200
+Major regional powers: ~50
+Great powers: 7
+
+Note that independent entities may maintain ties to larger powers whilst preserving sovereignty.
 
 ## The Great Powers
 
-1. **The Mandate** — Imperial, centred on Tiamming
-2. **Union of Frontier Freeholds** — Decentralised frontier territories
-3. **Elysian Collective** — Terraforming specialists
-4. **The Sable Cartel** — Corporate finance and infrastructure
-5. **Neo-Solar Republic** — Transhumanist technologists at Sol
-6. **Vega Commercial Throne** — Media and luxury goods feudalism
-7. **The Drift Communities** — Nomadic space-station societies
+While thousands of independent nations exist, the geopolitical landscape is dominated by seven Great Powers who have successfully leveraged infrastructure, commerce, or military might to project influence across the light-years:
 
-See powers/ for detailed information.
+1. The Mandate — A sprawling, imperial hegemony centered on the Tiamming system.
+2. Union of Frontier Freeholds — A fiercely decentralized coalition of border territories.
+3. Elysian Collective — Unrivalled terraforming specialists who command high prices for habitable real estate.
+4. The Sable Cartel — A ruthless corporate oligarchy controlling vital finance and FTL infrastructure.
+5. Neo-Solar Republic — Transhumanist technologists holding the ancestral territory of Sol.
+6. Vega Commercial Throne — A unique feudal society built on media, culture, and luxury goods.
+7. The Drift Communities — Nomadic, space-station societies that master navigation without fixed infrastructure.
+
+(See the powers/ directory for detailed geopolitical and cultural breakdowns).
 
 ## Editorial Notes
 
 Information compiled from Mandate archives, Republic data streams, Drift oral traditions, Union trading records, Cartel intelligence, and independent verification where possible.
 
-**Disclaimer**: Some information may be outdated due to communication lag. Some classified information has been redacted.
+**Disclaimer**: Some information may be outdated. Some classified information has been redacted.
 
 ---
 
@@ -150,28 +160,31 @@ Information compiled from Mandate archives, Republic data streams, Drift oral tr
 
 ## Currency
 
-**The Quid (ϟ)**: Universal currency of human space, recognised across all major and most minor polities. Available in both physical puck and digital forms.
+The Quid (ϟ): The Quid is the universal fiat currency of human space, recognised across all major and most minor polities. It is available and transacted in both secure digital formats and physical "pucks" for use in systems with unstable data infrastructure or for untraceable transactions.  
 
-**Regional currencies**: Great powers issue their own currencies. Minor polities are typically awash in multiple standards. Exchange services are ubiquitous at trade hubs.
+Regional Currencies: While the Quid is the universal standard, great powers routinely issue their own sovereign currencies. Minor polities and frontier systems are typically awash in multiple overlapping monetary standards, making exchange services a ubiquitous and highly profitable necessity at all major trade hubs.
 
 ## Major Trade Routes
 
-|Route|Character|
-|---|---|
-|The Golden Circuit|Electronics, fez, luxury goods; connects major powers and wealthy systems|
-|The Long Haul|Spoke routes into frontier territories for raw materials and salvage|
-|Power Highways|Fortified routes between great powers; art, education, tourism; well-protected against piracy|
+Interstellar trade naturally funnels into established corridors based on safety, infrastructure, and demand.
+
+- The Golden Circuit | A wealthy, high-traffic route connecting major powers; primary goods include advanced electronics, fez, and luxury items.
+- Power Highways | Heavily fortified, highly protected routes between the great powers; known for the safe transit of art, educational resources, and tourism, largely immune to piracy.
+- The Long Haul | A series of spoke routes reaching deep into frontier territories; primarily focused on the extraction and transport of raw materials and salvage back to inner systems.
 
 ## Trade Hubs
 
-- **Tethys-Var** — Fez harvesting and trade
-- **Vega system** — Luxury goods, media
-- **Korsen's Anchorage** — Drift community trade hub
-- **Arrhenos** — Financial services, neutral banking
+The flow of goods has elevated several key systems into vital economic centers:
+- Tethys-Var: The absolute center of the galactic fez harvesting and trading industry.
+- Vega System: The premier hub for the exchange of luxury goods and interstellar media production.
+- Korsen's Anchorage: The primary trade and resupply hub for the nomadic Drift communities.
+- Arrhenos: The capital of galactic financial services and neutral banking. 
 
-## Communication Limitations
+## The Economics of Information
 
-Inter-system communications are possible but constrained: extremely slow, very limited bandwidth, or very expensive. This shapes trade patterns as information about prices and opportunities travels slowly. Time-arbitrage is a recognised financial strategy.
+The physical constraints on inter-system communication fundamentally shape interstellar trade. Because information regarding local prices, resource shortages, and economic opportunities travels slowly—often moving no faster than the ships carrying physical data drives—markets are highly fragmented.
+
+This lag has led to the formalization of "time-arbitrage" as a recognized, highly lucrative financial strategy. Institutions like the Arrhenos Financial Consortium exploit the delay in information propagation to secure vast profits before local markets can adjust to broader galactic realities.
 
 ---
 
@@ -180,24 +193,29 @@ Inter-system communications are possible but constrained: extremely slow, very l
 
 # Human Enhancement Technologies
 
+Medical and cybernetic advancements have fundamentally altered the baseline human condition, though the adoption of these technologies varies wildly across human space.
+
+## Lifespan and Aging
+
+Advances in medical therapies have considerably extended the human lifespan. Barring accidents, violence, or catastrophic illness, the average life expectancy is approximately 200 years. Crucially, the aging process has been dramatically slowed; most humans (even those who are non-augmented) barely age visibly past their fortieth year.
+
 ## Enhancement eXtent (EX) Scale
 
-|EX Range|Classification|Examples|
-|---|---|---|
-|1.0|Unmodified baseline|Includes standard neural implants for communication/data access (considered routine)|
-|1.1–1.5|Medical corrections|Synthetic organs, genetic therapies, age-related treatments|
-|1.6–2.0|Minor augmentation|Enhanced senses, reinforced bones, improved endurance|
-|2.1–3.0|Major augmentation|Extreme height mods, density alterations for different gravities, redundant organs, enhanced musculature|
-|3.1–4.0|Extensive reconstruction|Cyborg classification, major body plan changes|
-|4.0+|Post-human|Radical departures from human morphology|
+To standardize the vast array of modifications across thousands of inhabited star systems, enhancements are categorized using the EX Scale.
 
-## Lifespan
-
-Medical advances have extended human lifespan considerably: most humans barely age visibly past 40, with life expectancy ~200 years (barring accident or violence).
+EX 1.0 | unmodified baseline | standard neural implants for communication and data access, which are considered routine.
+EX 1.1–1.5 | medical corrections | synthetic organs, genetic therapies, age-related treatments
+EX 1.6–2.0 | minor augmentation | enhanced senses, reinforced bones, improved endurance
+EX 2.1–3.0 | major augmentation | extreme height modifications, density alterations for high- or low-gravity environments, redundant organs, enhanced musculature
+EX 3.1–4.0 | extensive reconstruction | classification as a cyborg; involves major changes to the fundamental body plan
+EX 4.0+ | post-human | radical morphological departures from the baseline human form
 
 ## Regional Variations
 
-Enhancement culture varies dramatically: the Neo-Solar Republic has cyborg citizens (EX 4+) forming the plurality; most polities are EX 1.0–2.0 typical; some worlds restrict enhancement for cultural or religious reasons.
+Enhancement culture is deeply tied to regional politics and socio-economic realities.
+- The majority of polities maintain an average population EX rating between 1.0 and 2.0.
+- The Neo-Solar Republic is a notable exception, where heavily modified cyborg citizens (EX 4.0+) form the demographic plurality.
+- Conversely, several worlds heavily restrict or entirely ban enhancements due to deeply held cultural or religious convictions.
 
 ---
 
@@ -208,29 +226,24 @@ Enhancement culture varies dramatically: the Neo-Solar Republic has cyborg citiz
 
 **Common names**: "feznuts", "fez", "meta"
 
-## Production & Supply
+## Chemical and Strategic Profile
 
-|Metric|Value|
-|---|---|
-|Annual harvest|~47,000 tonnes (highly variable)|
-|Price range|1–15 million quid per kilogram|
+Metastable iron-zinc-uranium tennessite (often abbreviated as FeZnUTs or simply "fez") is a highly prized and exceptionally rare strategic resource. Its primary application is in the construction and maintenance of Jump Gates. Although not strictly necessary for their construction, fez drastically reduces the construction time, resource requirements, and ongoing maintenance costs of these massive, externally sustained warp fields. Consequently, control of fez harvests directly dictates which star systems can afford to build gates and fully integrate into the high-tier galactic economy.
 
-### Sources
+## Production and Market Dynamics
 
-|Source|Share|
-|---|---|
-|Tethys-Var|~13.5%|
-|Nagara Deep|~2%|
-|The Sunken Gardens of Prell|~0.5%|
-|Thousands of scattered minor sources|<0.1% each, ~85% total|
+The supply of fez is highly constrained and unpredictable, making it a frequent catalyst for speculation, political maneuvering, and outright conflict.
+- Annual harvest: Approximately 47,000 tonnes, though this figure is highly variable.
+- Market price: Fluctuates violently between 1 and 15 million quid per kilogram.  
 
-## Market Control
+## Sourcing and Control
 
-The **Tethys Consortium** controls 67% of harvesting licences on Tethys-Var. Notable external traders: Sable Cartel futures division (speculation/derivatives), Arrhenos Merchant Fleet (direct trade), independent harvesters (mostly illegal operations).
+The overwhelming majority of fez is gathered from thousands of minor, scattered sources, none of which account for more than 0.1% of the market share individually (totaling roughly 85% of the galactic supply). However, a few major sources hold outsized strategic value:
+- Tethys-Var: Supplies ~13.5% of the galactic harvest.
+- Nagara Deep: Supplies ~2%.
+- The Sunken Gardens of Prell: Supplies ~0.5%.
 
-## Strategic Importance
-
-Fez is prized for making jump gates more efficient to run and maintain. Its scarcity and the unpredictability of harvests make it a frequent source of conflict, speculation, and political manoeuvring.
+The Tethys Consortium exercises dominant market control by holding 67% of the harvesting licences on Tethys-Var. Other major players in the fez market include the Arrhenos Merchant Fleet (handling direct trade), the Sable Cartel futures division (handling speculation and derivatives), and numerous independent harvesters running largely illegal operations. 
 
 See also: Tethys-Var
 
@@ -243,19 +256,24 @@ See also: Tethys-Var
 
 ## Planetary Classification
 
-|Class|Description|
-|---|---|
-|Terrene|Full biosphere compatibility; breathable atmosphere, sustainable ecosystem, no special equipment required|
-|Outdoor|Survivable atmosphere and sustainable ecosystem; long-term habitation possible with minor accommodations|
-|Dome|Surface survivable for short periods; most activity confined to enclosed structures—domes, underground complexes, sealed buildings|
-|Suit|Personal atmosphere suits required at all times except in small maintained habitats; surface activity limited and resource-intensive|
-|Station|No planetary habitation; population lives in fully constructed habitats: orbital stations, worldships, asteroid installations|
+The vast expansion of humanity across ~10,000 worlds and ~50,000 artificial habitats has necessitated a standardized classification system for planetary habitability and terraforming progress.
+
+- Terrene | Features full biosphere compatibility. The atmosphere is breathable, the ecosystem is sustainable, and no special life-support equipment is required.
+- Outdoor | Features a survivable atmosphere and a sustainable ecosystem. Long-term habitation is possible with only minor technological accommodations.
+- Dome | The surface is survivable only for short periods. The vast majority of activity and habitation is confined to enclosed, climate-controlled structures, including domes, sealed buildings, and underground complexes.
+- Suit | Personal atmosphere suits are strictly required at all times outside of small, heavily maintained habitats. Surface activity is extremely limited and highly resource-intensive.
+- Station | Planetary habitation is entirely impossible or bypassed. The population lives exclusively in fully constructed artificial habitats, such as orbital stations, asteroid installations, and worldships.
 
 ## Terraforming Expertise
 
-The **Elysian Collective** leads in terraforming technology: genesis protocols (rapid biosphere establishment), atmospheric processors (advanced atmosphere modification), gravity arrays (field and orbital adjustment).
+Fully transitioning a hostile planet to Terrene or Outdoor status requires specialized ecological engineering.
 
-**The Lazarus Project**: The Collective's ongoing initiative to revive formerly failed terraforming projects across human space.
+The Elysian Collective is a leader in terraforming technology across human space. Their proprietary methodologies include:
+- Genesis protocols: Engineered for the rapid establishment of stable biospheres.
+- Atmospheric processors: Advanced installations designed for large-scale atmosphere modification.
+- Gravity arrays: Technologies capable of localized field and orbital adjustments. 
+
+The Collective is currently administering The Lazarus Project, an ambitious, ongoing initiative attempting to revive and stabilize formerly failed terraforming projects across various star systems.
 
 ---
 
@@ -266,34 +284,32 @@ The **Elysian Collective** leads in terraforming technology: genesis protocols (
 
 ## Overview
 
-The Alcubierre-Vishwanathan (AV) drive enables interstellar travel by manipulating spacetime geometry. Without it, the Scattered Stars would be isolated points of light, separated by journeys of generations.
+The Alcubierre-Vishwanathan (AV) drive enables interstellar travel by manipulating spacetime geometry.
 
 ## Key Constraints
 
-AV drives require _sufficiently flat spacetime_ to operate—a consequence of fundamental physics, not engineering: above a critical curvature threshold, the mathematics required for warp bubbles has no solutions.
+AV drives require sufficiently flat spacetime to operate—a consequence of fundamental physics, not engineering: above a critical curvature threshold, the mathematics required for warp bubbles has no solutions.
 
-Stars create curvature. Curvature forbids warp. Every star system is therefore an island surrounded by a vast exclusion zone where FTL is impossible.
+Stars create curvature, and this curvature forms an impenetrable exclusion zone around every star system where FTL is impossible. The critical radius for this exclusion zone scales weakly with stellar mass as M^⅓.
 
-|Zone|Distance (Sun-like star)|Character|
-|---|---|---|
-|Deep Interior|< 30 AU|Warp impossible; conventional drives only|
-|Transition|30–250 AU|Theoretically possible but unreliable|
-|Jump Shell|> 300 AU|Reliable warp operation|
-
-The critical radius scales weakly with stellar mass (as M^⅓). More massive stars push the threshold further out, but not dramatically.
+For a Sun-like star, the hard cut-off for warp capability is approximately 30 AU.  Inside this boundary, warp is mathematically impossible, forcing ships to rely entirely on conventional sublight drives.  Outside this boundary—in the vast space outside the sphere known as the "jump shell"—warp operation is reliable and immediate.  
 
 ## Practical Upshot
 
-A typical interstellar journey: (1) Depart from inner system → (2) Sublight transit to jump shell [days to weeks] → (3) Warp initiation and interstellar transit [effectively instantaneous] → (4) Warp termination at destination jump shell → (5) Sublight transit to final destination [days to weeks].
+A typical interstellar journey proceeds in three main phases
 
-The sublight legs dominate travel time. A journey of forty light-years might take three weeks, of which virtually all is spent crawling to and from jump shells at conventional speeds.
+- Outbound Crawl: Sublight transit from the inner system to the Jump Shell.
+- The Leap: Warp initiation and interstellar transit, which is effectively instantaneous.
+- Inbound Crawl: Warp termination at the destination system's Jump Shell, followed by sublight transit to the final destination.
+
+The sublight legs dominate travel time. A journey of forty light-years might take three weeks, of which virtually all is spent crawling to and from jump shells at conventional speeds. 
 
 ## Further Reading
 
-- The AV Drive — Technical physics, the curvature limit
-- Historical Development — From Alcubierre's theory to the Bangalore Breakthrough
-- Travel and Navigation — Transit times, system geography, navigation constraints
-- Infrastructure — Jump shell nodes, artificial corridors, strategic implications
+av-drive.md — Technical physics, the curvature limit.
+history.md — From Alcubierre's theory to the Bangalore Breakthrough.
+travel.md — Transit times, system geography, navigation constraints.
+infrastructure.md — Jump shell nodes, artificial corridors, strategic implications.
 
 ---
 
@@ -308,23 +324,19 @@ The AV drive creates a localised distortion of spacetime: contracted ahead, expa
 
 ### The Curvature Limit
 
-Warp bubbles require flat spacetime. Gravitational fields introduce curvature that destabilises the Vishwanathan field configuration. Above a critical curvature threshold, stable bubble formation becomes impossible—not difficult, _impossible_. The field equations have no solutions.
+Warp bubbles require flat spacetime. Gravitational fields introduce curvature that destabilises the Vishwanathan field configuration. Above a critical curvature threshold, stable bubble formation becomes impossible—the field equations simply have no solutions.
 
-For a Sun-like star, this threshold occurs at approximately 30 AU. Closer than this, warp cannot function. The exclusion zone scales as M^⅓ with stellar mass—a star ten times more massive only roughly doubles the exclusion zone. Binary and multiple star systems have complex exclusion geometries where contributions from multiple masses combine; trinary systems can have surprisingly limited accessible jump volumes.
+For a Sun-like star, this threshold occurs at approximately 30 AU. Closer than this, warp cannot function. The exclusion zone scales as M^⅓ with stellar mass—a star ten times more massive only roughly doubles the exclusion zone. Binary and multiple star systems have complex exclusion geometries where contributions from multiple masses combine, especially when the stars orbit each other at great distances.
 
 ## Bubble Characteristics
 
 ### Causal Disconnection
 
-A warp bubble is causally disconnected from its interior. The ship cannot steer; the bubble geometry must be established _before_ departure and propagates along a predetermined geodesic. Navigation is therefore _predictive_: the destination system's position, intervening gravitational influences, and precise bubble geometry must all be calculated before departure. Errors compound across light-years. (See Travel and Navigation for practical implications.)
+A warp bubble is causally disconnected from its interior. The ship cannot steer; the bubble geometry must be established before departure and propagates along a predetermined geodesic. Navigation is therefore predictive: the destination system's position, intervening gravitational influences, and precise bubble geometry must all be calculated before departure.
 
 ### Stability
 
 The Vishwanathan field configuration is metastable—a local minimum, not a global one. Perturbations can trigger decay. Early bubbles collapsed catastrophically; the resulting energy release destroyed three research stations before adequate containment protocols emerged. Modern drives incorporate multiple redundant stability systems. Catastrophic failure is rare but not unknown.
-
-## Summary
-
-The AV drive enables interstellar civilisation, but with constraints written into the structure of spacetime itself. The curvature limit is not a problem to be solved but a fact of the universe to be navigated. Every star system is an island with a vast, empty moat of inaccessible space around its core. Ships must crawl at sublight speeds to reach the jump shell, then leap across light-years, then crawl again to their destinations. This shapes everything: politics, economics, military strategy, daily life. Humanity has adapted. The Scattered Stars endure.
 
 ---
 
@@ -391,22 +403,20 @@ Vishwanathan believed a more fundamental theory would explain these anomalies an
 
 ## The Jump Shell Problem
 
-Jump shells are vast—a sphere 300+ AU in radius has a surface area measured in billions of square AU. No power could patrol or blockade such a volume. A ship _can_ emerge from warp anywhere in the jump shell. But "anywhere" is not useful. What matters is _infrastructure_.
+Jump shells can be vast—a sphere of roughly 30 AU in radius has a surface area measured in thousands of square AU. No power could patrol or blockade such a volume. A ship can emerge from warp anywhere in the jump shell. In practice, however, they mostly appear where there is infrastructure.
 
 ## Infrastructure Concentration
 
 Ships emerging from warp need services:
 
-|Need|Why It Matters|
-|---|---|
-|Navigation updates|Stellar positions drift; local hazards change|
-|Fuel replenishment|Warp is efficient; sublight transit is not|
-|Cargo transfer|Few ships carry goods all the way to final destination|
-|Repair and maintenance|Warp systems require regular servicing|
-|Customs and inspection|Where applicable|
-|Communication relays|Contact with inner system|
+- navigation updates: stellar positions drift and local hazards change
+- fuel replenishment: both for warp and for sublight transit 
+- cargo transfer: ships may not carry goods all the way to final destination
+- repair and maintenance: shipboard systems require regular servicing
+- customs and inspection (where applicable)
+- communication relays: contact with inner systems
 
-This infrastructure clusters at specific points in the jump shell—not because those points are geometrically special, but because _concentration creates efficiency_.
+This infrastructure clusters at specific points in the jump shell—not because those points are geometrically special, but because concentration creates efficiency.
 
 ### The Feedback Loop
 
@@ -414,23 +424,38 @@ A station with repair facilities attracts traffic. Traffic justifies fuel depots
 
 ### The Practical Effect
 
-A ship _can_ emerge anywhere in the jump shell. Without infrastructure support, it faces weeks of additional travel to reach useful facilities. The theoretical freedom to arrive anywhere is practically irrelevant. Control of jump infrastructure is therefore meaningful strategic power. Destroying or blockading the nodes does not prevent travel—ships can always emerge elsewhere—but it imposes massive friction costs.
+A ship can emerge anywhere in the jump shell. Without infrastructure support, it faces weeks of additional travel to reach useful facilities. The theoretical freedom to arrive anywhere is practically irrelevant. Control of jump infrastructure is therefore meaningful strategic power. Destroying or blockading the nodes does not prevent travel—ships can always emerge elsewhere—but it imposes massive friction costs.
 
 ## Infrastructure Types
 
 ### Commercial Nodes
 
-The majority of jump shell infrastructure serves commerce: fuel stations (fusion fuel, reaction mass, exotic matter replenishment), cargo platforms (transfer between interstellar freighters and inner-system vessels), shipyards (repair, maintenance, refitting), habitats (housing for workers and transient crews), communication arrays (links to inner system and other nodes). Major commercial nodes may house tens of thousands permanently, with transient populations several times larger.
+The majority of jump shell infrastructure serves commerce:
+
+- Fuel stations (fusion fuel, reaction mass, exotic matter replenishment)
+- Cargo platforms (transfer between interstellar freighters and inner-system vessels)
+- Shipyards (repair, maintenance, refitting)
+- Habitats (housing for workers and transient crews)
+- Communication arrays (links to inner system and other nodes)
+
+Major commercial nodes may house tens of thousands permanently, with transient populations several times larger.
 
 ### Military Installations
 
-Strategic systems maintain dedicated military infrastructure: sensor arrays (early warning of arriving vessels), defence platforms (weapons capable of engaging ships during the vulnerable post-warp period), naval bases (fleet support, crew rotation, supply depots). Military and commercial infrastructure sometimes coexist; sometimes they are deliberately separated.
+Strategic systems maintain dedicated military infrastructure:
+- Sensor arrays (early warning of arriving vessels)
+- Defence platforms (weapons capable of engaging ships during the vulnerable post-warp period)
+- Naval bases (fleet support, crew rotation, supply depots)
+
+Military and commercial infrastructure sometimes coexist; sometimes they are deliberately separated.
 
 ### Jump Gates
 
-To overcome FTL limitations in systems where natural flat-space corridors don't exist or are inconveniently positioned, civilisations construct massive jump gates in carefully calculated orbits. These artificial "flat space" corridors allow direct FTL transit to otherwise inaccessible worlds. Gate control represents economic prosperity versus isolation, military advantage in conflicts, political leverage over neighbouring systems, and ongoing technological arms races between factions.
+Civilisations with sufficient capital may construct massive jump gates in carefully calculated orbits. These gates must still be constructed in the flat space outside the jump shell.
 
-The strategic resource _fez_ (metastable iron-zinc-uranium tennessite) drastically reduces gate construction time, resource requirements, and maintenance costs, making gates economically viable for smaller or remote systems. Control of fez harvests is a notable advantage affecting which systems can afford to join the galactic economy. See Fez for details.
+Gates can lower engineering and economic limits. They project massive, externally sustained warp fields that allow ships without their own highly expensive AV drives to transit between stars. Furthermore, they establish pre-calculated, hyper-stable trajectories between two specific points, significantly reducing the risks of navigational error and emergence uncertainty. Control of a gate represents immense economic prosperity, military advantage, and political leverage.
+
+The strategic resource fez (metastable iron-zinc-uranium tennessite) drastically reduces gate construction time, resource requirements, and maintenance costs, making gates economically viable for smaller or more remote systems. Control of fez harvests is a notable advantage affecting which systems can afford to join the galactic economy. See Fez for details.
 
 ---
 
@@ -441,87 +466,68 @@ The strategic resource _fez_ (metastable iron-zinc-uranium tennessite) drastical
 
 ## System Geography
 
-Every star system has three distinct zones defined by the curvature limit:
+Every star system is divided into two distinct zones defined by the hard physical boundary of the curvature limit:
 
-|Zone|Distance|Character|
-|---|---|---|
-|Deep Interior|< 30 AU (Sun-like)|Warp impossible; conventional drives (fusion torch, ion, solar sail)|
-|Transition|30–250 AU|Warp theoretically possible but increasingly unreliable; field stability degrades, navigation errors compound, energy requirements spike unpredictably; commercial traffic avoids this region|
-|Jump Shell|> 300 AU|Reliable warp operation; ships establish bubbles here for interstellar transit|
+- inside the jump shell - < approx 30 AU × (n M_Sun)^⅓ - warp impossible; conventional drives only (fusion torch, ion, solar sail).
+- outside the jump shell - > approx 30 AU × (n M_Sun)^⅓ - reliable warp operation; ships establish bubbles here for interstellar transit.
 
 ## Transit Patterns
 
-A typical interstellar journey proceeds in five stages:
+A typical interstellar journey proceeds as follows:
 
-|Stage|Activity|Duration|
-|---|---|---|
-|1|Departure from inner system (planet, station, habitat)|—|
-|2|Sublight transit to jump shell|Days to weeks|
-|3|Warp initiation and interstellar transit|Effectively instantaneous*|
-|4|Warp termination at destination system's jump shell|—|
-|5|Sublight transit to final destination|Days to weeks|
-
-*From the crew's reference frame. External time passes during transit, but the subjective experience is near-instantaneous.
+1. Departure from inner system (planet, station, habitat)
+2. Sublight transit to jump shell - days to weeks
+3. Warp initiation and interstellar transit - almost instantaneous (depending on relative velocities of the endpoints of the transit)
+4. Warp termination at destination system's jump shell
+5. Sublight transit to final destination - days to weeks
 
 ### The Dominance of Sublight
 
-The sublight legs dominate travel time. A journey of forty light-years might take three weeks, of which three weeks is spent crawling to and from jump shells at conventional speeds. Implications: proximity to jump infrastructure matters more than interstellar distance; inner-system geography shapes accessibility; speed within systems is the bottleneck.
+The sublight legs completely dominate travel time. A journey of forty light-years might take a week, of which virtually all the time is spent crawling to and from jump shells at conventional speeds.
+
+Implications:
+- proximity to jump infrastructure matters more than interstellar distance
+- inner-system geography heavily shapes accessibility
+- speed within systems is the ultimate economic bottleneck
 
 ### Example: Arrhenos to Tiamming
 
-|Segment|Distance|Duration|
-|---|---|---|
-|Verenstad surface to Gamma orbital|—|11 minutes (Tether)|
-|Gamma to Arrhenos jump shell|~300 AU|~8 days at high acceleration|
-|Warp transit|~180 light-years|Subjectively negligible|
-|Tiamming jump shell to High Tiamming|~320 AU|~9 days|
-|High Tiamming to surface (First Gate)|—|Hours|
+- Verenstad surface to Gamma orbital | 11 minutes (Tether)
+- Gamma to Arrhenos jump shell at ~30 AU | ~4 days at high acceleration
+- Warp transit over ~180 light-years | Negligible time
+- Tiamming jump shell to High Tiamming at ~32 AU | ~4.5 days
+- High Tiamming to surface (First Gate) | Hours
 
-**Total**: ~17–18 days, virtually all sublight travel.
+**Total**: ~8–10 days, virtually all sublight travel.
 
 ## Navigation
 
 ### Predictive Calculation
 
-Warp bubbles propagate along geodesics determined at initiation. Course corrections are impossible once the bubble forms—the interior is causally disconnected from the exterior. Navigation is therefore _predictive_: before departure, the navigation system must calculate the destination system's current position (accounting for stellar motion), intervening gravitational influences (other stars, dense nebulae, relativistic objects), the precise bubble geometry required to arrive at intended coordinates, and timing to account for the destination's motion during transit. Errors compound across light-years.
+Warp bubbles propagate along geodesics determined at initiation. Course corrections are impossible once the bubble forms—the interior is causally disconnected from the exterior.  Navigation is therefore predictive: before departure, the system must calculate the destination system's current position (accounting for stellar motion), intervening gravitational influences (other stars, dense nebulae, relativistic objects), the precise bubble geometry required, and timing to account for the destination's motion during transit. 
 
 ### Emergence Uncertainty
 
-Modern navigation systems achieve extraordinary precision, but absolute perfection is impossible. Ships routinely emerge within a few AU of their intended coordinates—trivial at interstellar scales, significant at system scales. This uncertainty is one reason infrastructure nodes matter: they provide margin for navigation error.
+Modern navigation systems achieve extraordinary precision, but absolute perfection is impossible. Ships routinely emerge within a few million kilometers of their intended coordinates—trivial at interstellar scales, but significant at system scales. This uncertainty is one reason infrastructure nodes matter: they provide a safety margin for navigation error.  
 
 ### Navigation Aids
 
-Pulsar timing arrays provide absolute position reference across human space. Stellar catalogues track positions and velocities of relevant stars. Gravitational surveys map large-scale mass distributions along common routes. Navigation beacons at major destinations broadcast timing signals to assist final approach. The Drift Communities' navigators are renowned for their skill operating with minimal infrastructure support, calculating jumps to systems where no beacons exist.
+- Pulsar timing arrays provide absolute position reference across human space.
+- Stellar catalogues track positions and velocities of relevant stars.
+- Gravitational surveys map large-scale mass distributions along common routes.
+- Navigation beacons at major destinations broadcast timing signals to assist final approach. 
 
 ## Communication Lag
 
-Inter-system communications are possible but constrained: extremely slow (light-speed limited), very limited bandwidth, or very expensive. Real-time conversation across star systems is effectively impossible for most people. A message from Arrhenos to Tiamming takes approximately 180 years at light speed; practical communication requires couriers or expensive quantum-entangled relays with limited capacity.
+Inter-system communications are possible but constrained. The most efficient way to broadcast information is by radio from planetside or orbit to ports at the jump shell, then transporting the data on a physical substrate at warp speed to another system's bubble, and then radioing into the destination's inner system. Lag between star systems is at least on the order of hours or up to a couple of days, assuming direct broadcast. Indirect communication via intermediate nodes can take days to weeks.
 
 This shapes everything from politics to personal relationships. News travels with ships. Information advantages are temporal as much as epistemic. The Arrhenos Financial Consortium's "time-arbitrage derivatives" explicitly exploit the communication lag between systems.
 
-## Travel Times: Quick Reference
-
-### Within a System
-
-|From|To|Typical Duration|
-|---|---|---|
-|Planet surface|Low orbit|Minutes to hours|
-|Low orbit|Jump shell|5–14 days (varies by system, acceleration tolerance)|
-|Space elevator terminal|Orbital station|Minutes (Tether systems)|
-
-### Between Systems
-
-|Distance|Warp Time|Total Trip|
-|---|---|---|
-|10 light-years|Negligible|10–20 days|
-|50 light-years|Negligible|12–25 days|
-|200 light-years|Negligible|15–30 days|
-
-Note: Interstellar distance has minimal impact on travel time. System geometry dominates.
-
 ### The Hesperine Circuit (Polletio example)
 
-The merchant vessel _Polletio_ runs a circuit including Arrhenos, Tethys-Var, multiple Mandate waypoints, Korsen's Anchorage, and Vega trade stations. **Full circuit duration**: 14 months. This includes extended stops for loading, unloading, crew rest, and accumulation of many individual jumps between systems. The warp transits themselves are a negligible fraction of the total time.
+The merchant vessel Polletio runs a circuit including Arrhenos, Tethys-Var, multiple Mandate waypoints, Korsen's Anchorage, and Vega trade stations. 
+
+Full circuit duration: 14 months. This includes extended stops for loading, unloading, crew rest, and accumulation of many individual jumps between systems. The warp transits themselves are a negligible fraction of the total time.
 
 ---
 

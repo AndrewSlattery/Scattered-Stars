@@ -6,13 +6,13 @@
 
 | C Unit | Old Earth Equivalent |
 |--------|---------------------|
-| 1 C second | ~0.864 Earth seconds |
-| 1 C minute (100 seconds) | ~86.4 Earth seconds |
-| 1 C hour (50 minutes) | ~72 Earth minutes |
-| 1 C day (20 hours) | ~24 Earth hours |
-| 1 C week (10 days) | ~10 Earth days |
-| 1 C month (40 days) | ~40 Earth days |
-| 1 C year | ~365.25 Earth days |
+| 1 C second | 0.864 SI seconds |
+| 1 C minute (100 seconds) | 86.4 SI seconds |
+| 1 C hour (50 minutes) | 72 SI minutes |
+| 1 C day (20 hours) | 24 SI hours |
+| 1 C week (10 days) | 10 SI days |
+| 1 C month (40 days) | 40 SI days |
+| 1 C year | 365.25 SI days |
 
 ### Daily Schedule Reference
 
@@ -22,9 +22,11 @@
 | tenth hour     | Midday               |
 | fifteenth hour | Evening              |
 | twentieth hour | Midnight             |
+
 ## Currency
 
 Exchange rates fluctuate. The quid (ϟ) is the universal standard; local currencies trade against it at variable rates.
+
 ## Enhancement eXtent (EX)
 
 | EX | Classification |
@@ -33,8 +35,9 @@ Exchange rates fluctuate. The quid (ϟ) is the universal standard; local currenc
 | 1.1–1.5 | Medical corrections |
 | 1.6–2.0 | Minor augmentation |
 | 2.1–3.0 | Major augmentation |
-| 3.1–4.0 | Cyborg classification |
+| 3.1–4.0 | Cyborg classification; Extensive reconstruction |
 | 4.0+ | Post-human |
+
 ## Distance
 
 Standard units derived from Old Earth metric system remain in use across human space.
