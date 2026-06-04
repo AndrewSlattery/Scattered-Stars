@@ -1,6 +1,6 @@
-# Scattered Stars — Consolidated Lore
+# Scattered Stars — Setting
 
-_Auto-generated from 125 source files. Do not edit directly._
+_Auto-generated from 13 source files. Do not edit directly._
 
 ---
 
