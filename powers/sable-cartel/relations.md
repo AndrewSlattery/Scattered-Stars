@@ -1,97 +1,65 @@
 # The Sable Cartel: Relations
 
-Every Great Power deals with the Cartel. None is comfortable about it.
+Every Great Power deals with the Cartel. What rewards attention is how differently each one does it—because the differences expose what the legend hides: that the Cartel's leverage is real but uneven, contingent on circumstances it does not always control, and weakest exactly where someone has bothered to test it.
 
-The Cartel's distributed nature means it cannot be excluded from any polity's economy without unacceptable cost. Cartel subsidiaries are too integrated, too useful, too *ordinary* in their daily operations to remove. This gives the Cartel a form of diplomatic immunity that no treaty provides: the immunity of indispensability.
+The old line is that the Cartel cannot be excluded, its services too woven-in to refuse. That is mostly true and not a law of nature. Arrhenos keeps it at a guarded distance and prospers; the Sefkir Reach threw it out and survived being poorer for it; and every power that deals with the Cartel has noticed, even as it goes on dealing. What follows is not a single dependency wearing many faces. These are genuinely different bargains, struck by parties with very different reserves of leverage and nerve.
 
 ---
 
 ## The Mandate
 
-**Relationship**: Necessary commercial engagement; mutual suspicion; active intelligence operations.
+The Cartel's largest market, and the source of its most determined enemy.
 
-The Mandate is the Cartel's largest market by volume. Mandate citizens and subjects use Cartel-affiliated shipping, financial services, and insurance daily. The economic relationship is extensive and deeply embedded.
+Mandate citizens and subjects use Cartel shipping, credit and insurance daily, and the Mandate's own government is among its better customers: Wayline carries military freight under contract, Nexus lends to frontier governors the central treasury would rather not be seen funding. The dependence runs both ways, and the Mandate knows it, which is why it tolerates a thing it does not trust.
 
-The Bureau of Internal Harmony treats the Cartel as a persistent security concern. Bureau analysts attempt to map Cartel operations within Mandate space; the Cartel's compartmentalised structure makes this an exercise in frustration. Bureau operations have identified individual Cartel subsidiaries but have never penetrated above the Subsidiary Director level.
+The Bureau of Internal Harmony does not tolerate it. For decades the Bureau has worked to map the Cartel inside Mandate space, and for decades it has run aground on the Veil—naming subsidiary after subsidiary, never climbing above them. There are Bureau analysts who have given whole careers to this and have, on the evidence, been chasing a coordination that isn't there: hunting the single hand behind a thousand local hands, reading every dead end as proof of the hand's brilliance rather than its absence. The hunt has produced real intelligence and no decapitation, because there is no head to take.
 
-The Mandate tolerates the Cartel because exclusion would be economically devastating—and because the Mandate's own bureaucracy uses Cartel services. Wayline Logistics ships Mandate military supplies under government contract. Nexus Financial provides credit to Mandate frontier governors. The dependencies are mutual, if asymmetric.
-
-**Flash point**: The Yansieve blockade. If Cartel subsidiaries are supplying rebel systems—and the Mandate suspects they are—the commercial relationship becomes a security problem.
-
----
+**Flash point:** Yansieve. If Cartel subsidiaries are running the Mandate's blockade of the rebel systems—and some surely are, whatever the Cartel says and whatever the Directors do or don't know of it—then a commercial nuisance becomes a wartime one, and the Bureau's patience for the whole arrangement thins accordingly.
 
 ## Union of Frontier Freeholds
 
-**Relationship**: Extensive subsidiary operations; mixed reception; economic entanglement.
+The Cartel's natural habitat, and its most revealing failure.
 
-The Freeholds are the Cartel's natural habitat. Minimal regulation, fragmented governance, and an ideology of non-interference create ideal operating conditions. Cartel subsidiaries operate openly in most Freehold systems; some Freeholds actively court Cartel investment.
+The Freeholds are built for it: minimal regulation, fragmented authority, an ideology that recoils from telling anyone what they may not do. Cartel subsidiaries operate in the open across most of Freehold space, and a good many Freeholds court them outright, because Cartel investment buys roads and ports and clinics no one else is offering.
 
-Others resist. Freeholds that have observed the pattern—Cartel lending leading to economic dependency leading to effective Cartel control—have taken measures to limit Cartel penetration. These measures have mixed success; the Cartel is patient and creative about finding alternative approaches.
+Others have watched the pattern run to its end—Nexus credit hardening into Cartel ownership—and pushed back, with the mixed success of people resisting something patient. The cautionary tale and the inspiring one are the same event: in 3829 C the Sefkir Reach expelled every Cartel subsidiary it could find, and did not collapse. It grew poorer, slower, more isolated, and entirely its own, and Freehold debating halls have not stopped arguing over whether that was a tragedy or a price worth paying. The irony escapes no one: a confederation founded on freedom from external masters is the place the Cartel owns most deeply.
 
-The irony is noted: a confederation founded on liberty from external control is partially controlled by an entity that respects no one's sovereignty. Freehold ideologues find this uncomfortable. Freehold pragmatists note that Cartel-invested Freeholds tend to have better infrastructure.
-
-**Flash point**: Korsen's Anchorage, where Nexus Financial Group is headquartered. The Anchorage's neutrality and importance as a trade hub make it the Cartel's most visible Freehold presence.
-
----
+**Flash point:** Korsen's Anchorage, where Nexus is headquartered and the Cartel's Freehold presence is least deniable.
 
 ## Vega Commercial Throne
 
-**Relationship**: Post-war lending; debt leverage; media distribution; cultural friction.
+A debtor that resents the loan and cannot clear it.
 
-The Andromedan Banking War (ended 3839 C) created opportunities the Cartel exploited efficiently. As Vega houses collapsed, Cartel-affiliated lenders stepped in with reconstruction capital—at reasonable rates, with reasonable terms, creating reasonable dependencies.
+When the Andromedan Banking War broke the Vega houses in 3839 C, Cartel-affiliated lenders arrived with reconstruction capital on terms that looked merciful and were, above all, patient. Twenty-three years on, several houses owe money to creditors they cannot prove are Cartel and cannot comfortably repay, and find that certain decisions come easier when they happen to suit a lender's preference. The Capital Division never presses; pressing would frighten the debtor into rash action, and patience is the entire instrument.
 
-Twenty-three years later, several Vega houses carry debt to entities that external analysts assess as Cartel-affiliated. The debt is manageable; the influence it provides is the point. Houses with Cartel creditors find that certain business decisions are shaped by lender preferences they cannot easily refuse.
-
-The Throne's aristocracy resents this dynamic but cannot escape it without repaying debts they cannot currently afford. The Cartel does not press; pressure would be counterproductive. The relationship continues in mutual discomfort.
-
-Blackwell Media operates from Stellavista, maintaining a minor but persistent presence in Vega's media ecosystem. The larger houses regard Blackwell as insignificant. Intelligence analysts regard it differently.
-
----
+Beneath the ledger runs a cultural dislike the debt only sharpens. The Vega aristocracy is bred to inherited rank; the Cartel is the galaxy's purest meritocracy, indifferent to blood and quietly amused by titles. Each finds the other a little disgusting. Blackwell Media keeps a small berth in the Vega feeds—beneath the great concerns' notice, which is precisely the altitude it wants.
 
 ## Neo-Solar Republic
 
-**Relationship**: Mutual hostility; technology acquisition attempts; security concerns.
+The one power the Cartel cannot read.
 
-The Cartel wants Republic technology—specifically, Lattice-compatible neural implants, advanced computational substrates, and experimental physics research. The Republic's technology export restrictions prevent legitimate acquisition; the Cartel has attempted other methods.
+The Republic has what the Cartel wants—Lattice neural technology, advanced computational substrates, physics it cannot buy legally—and guards it as a matter of survival. What makes the Republic a genuinely hard target is not its defences but its medium. Cartel tradecraft runs on opacity, on people who give away nothing they aren't paid to give away; inside the Lattice, deception is costly and exposure is quick. An operative who isn't integrated stands out like a stranger; one who is risks being read. The Cartel's whole method falters here.
 
-The Republic's Lattice-based security makes infiltration difficult. Cartel operatives without Lattice integration stand out in Republic space like unenhanced humans in a post-human society. Operatives *with* Lattice integration risk cognitive exposure—the Lattice makes deception harder.
-
-The Republic views the Cartel as the most likely source of espionage attempts against its research programmes. The Synthesis Defence Collective monitors Cartel-affiliated vessels in Sol system space. Diplomatic relations are minimal.
-
-The Cartel's response to Republic technology restrictions is strategic patience. If the Republic's gate efficiency research succeeds, the Cartel wants to be positioned to profit rather than be disrupted. If it fails, the status quo—in which the Cartel profits from fez markets—continues.
-
----
+So the Republic watches Cartel-flagged vessels in Sol space through the Synthesis Defence Collective and assumes, correctly, that the Cartel is the likeliest author of any attempt on its research. Relations are minimal and cold. This is the rare relationship in which the Cartel is the less comfortable party, and it has settled, for now, on waiting: if the Republic's gate research pays off, the Cartel means to be placed to profit; if it doesn't, the fez markets go on as they are.
 
 ## Elysian Collective
 
-**Relationship**: Occasional friction; logistics competition; contract disputes.
+Two neutralities, nodding across a contract.
 
-The Collective and the Cartel intersect primarily in terraforming logistics. Cartel subsidiaries bid on supply contracts for Collective terraforming projects; the Collective prefers suppliers it can trust with sensitive project details. This creates periodic contract disputes.
-
-The Collective's political neutrality mirrors the Cartel's economic amorality; both organisations will work with anyone. This similarity creates a wary mutual respect. Neither interferes with the other's core operations—the Cartel does not attempt to steal terraforming technology; the Collective does not investigate Cartel logistics.
-
-The relationship is transactional and stable. Neither party has reason to destabilise it.
-
----
+The Collective and the Cartel meet mainly in terraforming logistics, where Cartel subsidiaries bid to supply Collective projects and the Collective, jealous of its methods, awards warily. The disputes are real and small. What lies under them is a sort of recognition: the Collective will work for anyone and judges no one; the Cartel is the same proposition with the ethics removed. Neither tries to subvert the other—the Cartel does not chase terraforming secrets, the Collective does not pick at Cartel logistics—and the upshot is the calmest relationship the Cartel keeps with any power, precisely because neither expects loyalty of the other, only consistency.
 
 ## Drift Communities
 
-**Relationship**: Trade hub encounters; supply chain services; low-intensity intelligence gathering.
+A useful stranger met at the docks.
 
-Drift Communities interact with the Cartel at trade hubs and resupply points. Cartel logistics subsidiaries are among the few entities willing to service nomadic routes with unpredictable schedules. This makes Cartel shipping useful to Drift Communities despite general wariness.
+The Drift hold no fixed infrastructure and keep no fixed schedule, which makes them poor customers for most carriers and fair ones for Wayline, which will service routes others won't. So Cartel logistics and Drift convoys meet at the trade hubs—Korsen's Anchorage above all, where a Drift waystation and the Cartel's most visible bank share a concourse—and do business that suits them both and binds neither.
 
-The Cartel's interest in the Drift Communities is modest—nomadic populations represent limited markets and minimal strategic value. Intelligence gathering focuses on Drift trade routes (useful for logistics planning) and Drift Community movements (useful for avoiding interference with other operations).
-
-The relationship is low-stakes for both parties.
-
----
+The wariness is mutual and mild. The Drift, whose trust lives in memory and in reputation passed mouth to mouth, are constitutionally suspicious of an organisation that keeps everything in ledgers and shows no one its face. The Cartel, for its part, finds little here worth taking: nomadic populations are thin markets and poorer leverage. The two trade, and watch, and expect nothing of each other—which is its own kind of stable.
 
 ## Arrhenos
 
-**Relationship**: Heavily restricted financial services; mutual necessity; careful monitoring.
+The proof that it can be done.
 
-Arrhenos provides the Cartel's financial services with more restrictions than any other client relationship. Accounts are monitored; transactions are flagged for review; Arrhenos regulators maintain dedicated teams analysing Cartel-associated financial flows.
+Arrhenos extends the Cartel its financial services on tighter terms than the Cartel accepts anywhere else. Accounts are monitored; transactions are flagged; dedicated teams pick over Cartel-associated flows as a standing function of the state. The Cartel submits to all of it, because Arrhenos's neutral, quantum-secured banking is the one thing it can neither source elsewhere nor reproduce—and Arrhenos takes the business because excluding it would cost more than watching it does, and because watching it pays: the intelligence Arrhenos gleans from the Cartel's own transactions is a quiet export, sold on, selectively, to others.
 
-The Cartel accepts these restrictions because Arrhenos's financial infrastructure is essential—its quantum-encrypted transactions, neutral accounts, and institutional credibility are irreplaceable. Arrhenos accepts the Cartel's business because the Cartel's economic weight makes exclusion impractical and because monitoring the Cartel's finances generates intelligence that Arrhenos shares, selectively, with other clients.
-
-Neither party trusts the other. Both parties need the other. The arrangement persists.
+It is the cleanest refutation of everything the legend asserts. Here the Cartel is a client, not a gravity well—indispensable to Arrhenos and held at arm's length all the same, on Arrhenos's terms, paying in transparency for a service it cannot do without. The two are dark and light castings of one trade: Arrhenos arbitrages the slowness of information in the open and calls it banking; the Cartel does the same in the shadows and calls it nothing at all. They understand each other precisely, trust each other not at all, and keep an arrangement stable not because either is comfortable but because both can count.

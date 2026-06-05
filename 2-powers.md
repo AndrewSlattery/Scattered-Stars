@@ -2478,55 +2478,81 @@ The Dissolution Protocol's backup infrastructure extends throughout and beyond t
 
 # The Sable Cartel
 
-A corporate entity that has achieved Great Power status through financial leverage, infrastructure control, and strategic ambiguity about where legitimate business ends and criminal enterprise begins.
+Everyone in human space knows three things about the Sable Cartel: that it is everywhere, that it knows everything, and that it cannot be touched. The Cartel has spent generations, and a great deal of money, making sure those are the three things you know.
+
+The reality is harder to fit on a poster. There is no all-seeing eye and no hidden throne room. There are, on the best available estimates, several thousand businesses—banks, freight lines, insurers, security firms, farms, news outlets—bound together by ownership at one or more removes, which mostly cooperate, frequently feud, and share a single fierce interest in common: that the rest of us go on mistaking them for one omniscient hand. The legend is not a by-product of the Cartel's operations. It is among its most valuable products.
 
 | Attribute | Value |
 |-----------|-------|
-| Population | Unknown (employees across subsidiaries number in the billions) |
-| Centre | Unknown |
-| Leadership | 13 Directors (identities classified) |
-| Economy | Diversified: finance, logistics, insurance, security, and undisclosed operations |
-| Character | Corporate opacity, distributed control, deniable reach |
+| Population | No citizens; employees number in the tens of billions, and the families and company towns dependent on Cartel payrolls many times that—most unaware whose payroll it is |
+| Centre | None—an effect of how the Cartel is built, not of where it hides |
+| Leadership | The Thirteen Directors (the number is traditional; the identities are unverified) |
+| Economy | Finance, logistics, insurance, security, commodities, and information—with the profit concentrated in the seams between them |
+| Character | Cultivated opacity; distributed and quarrelsome; a reach that routinely outruns its own coordination |
 
-## What the Cartel Is
+**A note on sources.** Most of what is written about the Cartel originates, eventually, with the Cartel. Defector testimony, Bureau intelligence and market analysis are all downstream of the story the organisation tells about itself. Where this entry can separate what is demonstrable from what is merely well-publicised, it does. It cannot always, and it says so when it cannot.
 
-The Sable Cartel is not a government, not a corporation in any conventional sense, and not a criminal organisation—though it functions as all three depending on context. It is a distributed economic entity: a web of subsidiaries, shell companies, investment vehicles, and operational units connected by ownership structures so layered that mapping the whole is functionally impossible.
+## What the Cartel actually is
 
-The Cartel has no territory in the traditional sense. It has *assets*: stations, ships, warehouses, offices, factories, mines, and financial instruments spread across every major polity and most minor ones. It has no citizens, only employees—and many of those don't know who ultimately signs their paycheques.
+The Cartel owns things, through holding companies that own holding companies, across enough jurisdictions and enough deliberate dead ends that no outside investigator has ever mapped more than a corner of it. The part outsiders miss is that no insider has either. The compartmentalisation that defeats the Mandate's Bureau of Internal Harmony defeats the Cartel's own people just as thoroughly: a regional controller in the Transit Division can no more list the organisation's banks than a customs officer can. The structure was not built to keep secrets from the galaxy so much as to keep them from itself. The people who assembled it did not trust one another; their successors trust one another less.
 
-What makes the Cartel a Great Power is reach. Every other power interacts with Cartel subsidiaries, uses Cartel infrastructure, or trades in markets the Cartel influences. Excluding the Cartel from a polity's economy would be like excluding gravity.
+What holds it together is not a master plan but a set of overlapping incentives, an internal arbitration system its members honour because the alternative is worse, and a shared understanding that the legend shelters all of them. A Wayline freight captain, a Nexus loan officer and an Aegis contractor may go their whole careers without learning they answer, eventually, to the same owners. They profit from it regardless. Doors open; rivals hesitate; regulators assume a depth of coordination that frequently is not there.
 
-See [[Structure]] for organisational details.
+It is easy, writing about the Cartel, to forget how many people simply live inside it. Tens of billions draw a Cartel wage without ever thinking the word; far more are born into the company towns, mining moons and orbital habitats its subsidiaries run, where the Cartel is not a conspiracy but an employer, a landlord, and the name over the clinic and the school. They marry, organise, quarrel with their neighbours, follow their station's zero-g league and retire on Cartel pensions. The shadow-government of rumour and the ordinary working population are the same people, seen from different distances.
 
-## Current Operations
+That assumption is the Cartel's true moat. Its power is real but contingent—built on being useful, being ruthless, and being consistently overestimated. Remove the third and the first two begin to look survivable, and polities have quietly tested the proposition. Arrhenos, the one financial centre the Cartel cannot do without, holds its accounts under restrictions it imposes on no other client and has paid no visible price for the impertinence. When the Sefkir Reach expelled every identifiable Cartel subsidiary in 3829 C, the predicted ruin never arrived; the Reach simply grew poorer, slower and more its own—a bargain a handful of its neighbours now study with quiet interest. The Cartel notices these cases too, and works to keep them rare and unglamorous.
 
-**Tethys-Var**: Using proxies to vie for control of fez harvesting and trade. Multiple Cartel subsidiaries operate on-moon and through Port Lophore, competing with the Tethys Consortium for licences and market share. See [[Operations]].
+## The legend and the ledger
 
-**Vega Markets**: Consolidating position in the aftermath of the Andromedan Banking War (ended 3839 C). Cartel-affiliated lenders provided reconstruction capital to damaged Vega houses; the resulting debt relationships translate into influence.
+The Cartel tends its reputation as carefully as a Vega house tends a brand, and in the opposite direction: not by advertising, but by arranging to be whispered about. A timely non-denial; a leaked document that raises more questions than it settles; an investigator allowed to find exactly enough to be frightened and not enough to act—these are outputs, not accidents.
 
-**Fez Speculation**: The Cartel's futures division remains the most aggressive player in fez derivatives markets. Information advantages—derived from intelligence networks, subsidiary access, and strategic positioning—enable profitable trades that competitors consider suspicious but cannot prove are manipulated.
+The most successful of them is the Bureau of Internal Harmony's own assessment, leaked in 3854 C and quoted ever since: *"We cannot confirm that the Directors are human, alive, or singular entities."* It is a remarkable sentence, and it has done more for the Cartel's mystique than any operation ever could. It is also, almost certainly, a conclusion the Cartel was happy to let the Bureau reach. A thing that might not be human cannot be bargained with, infiltrated, or lulled into a mistake. Dread of the unknown is cheaper than security and never goes off shift.
 
-**Yansieve Opportunity**: The Mandate's blockade of rebel systems creates smuggling opportunities. The Cartel has neither confirmed nor denied involvement.
+This is the snare the Cartel lays for its own chroniclers, the present one included: every retelling of its omniscience is unpaid advertising. The defensible claim is narrower. The Cartel is genuinely good at gathering information, and even better at being thought better at it than it is—and the gap between those two things is the country where a careful rival can still live.
 
-## The 13 Directors
+## The Thirteen
 
-The Cartel's ultimate authority. Their identities are unknown even to most senior Cartel personnel. They communicate through encrypted channels, intermediaries, and a protocol system designed to prevent any single person from identifying more than one Director.
+Authority in the Cartel runs upward to a body known as the Directors, by convention thirteen in number. Past that point, little survives contact with evidence.
 
-Persistent rumour holds that one or more Directors hold senior positions within other Great Powers. The rumour is unprovable and unfalsifiable—which may be the point.
+They exist; the authority that subsidiary directives carry has to originate somewhere. They communicate through the Veil Protocol, a routing system that strips away source and destination alike (see [Structure](structure.md)). And they are, on the balance of probability, no more exotic than their structure requires: a small number of very rich, very careful people who agree with one another far less often than the legend suggests.
 
-See [[Structure]] for details on the Cartel's organisational hierarchy.
+The picture of thirteen minds moving in silent accord is a flattering fiction. What little escapes the Veil suggests something nearer a standoff—blocs, vetoes, initiatives that stall for years because no one can be overruled and no one will give way. The Cartel's famous patience may be less a discipline than a deadlock, reasoned into foresight after the fact. Whether all thirteen seats are presently occupied, whether thirteen is even the current figure, and what happens when a Director dies are questions the organisation has spent real effort ensuring no one can answer—possibly including the Directors themselves.
+
+One rumour outlives all the others: that a Director or two also sits at the head of another Great Power. It cannot be proven, which is exactly why it persists—and why the Cartel has never bothered to kill it.
+
+## Current operations
+
+**Tethys-Var.** Cartel subsidiaries compete through proxies for fez harvesting licences and berths at Port Lophore, contesting the Tethys Consortium's grip on the trade. They also, routinely, compete with one another: nowhere does the Cartel's internal arbitration spend more of its time refereeing Cartel-against-Cartel disputes. See [Operations](operations.md).
+
+**Vega markets.** The Capital Division is consolidating the position it won in the wreckage of the Andromedan Banking War (ended 3839 C), having advanced reconstruction credit to battered Vega houses on reasonable terms that have since matured into leverage. Twenty-three years on, several houses owe debts to creditors they cannot prove are Cartel-held and cannot comfortably repay.
+
+**Fez speculation.** The futures division remains the most aggressive participant in fez derivatives—the same information-arbitrage that Arrhenos practises openly and legally, conducted with a heavier thumb and a longer reach. Rivals are certain the trades are manipulated and have never been able to show it. The Cartel is content to be suspected even of the trades that were merely lucky; the suspicion is worth more than any denial.
+
+**Yansieve.** The Mandate's blockade of the rebel systems has opened the kind of smuggling margins the Cartel exists to capture, and it has neither confirmed nor denied a hand in them. The denial is sincere and the disorganisation is real: some subsidiaries are almost certainly running the blockade while others lend to the Mandate prosecuting it, and the left hand's ignorance of the right is not a pose. The Cartel plays both sides less by design than for want of a centre to forbid it.
 
 ## Relations
 
+Every Great Power deals with the Cartel; none is comfortable about it. See [Relations](relations.md) for detail.
+
 | Power | Relationship |
 |-------|-------------|
-| The Mandate | Necessary commercial engagement; mutual suspicion; Bureau attempts to map Cartel operations |
-| Union of Frontier Freeholds | Extensive subsidiary operations; some Freeholds welcome investment; others resist |
-| Vega Commercial Throne | Post-war lending relationships; cultural products distribution; debt leverage |
-| Neo-Solar Republic | Views Republic as technology acquisition target; Republic views Cartel as security threat |
-| Elysian Collective | Occasional contract disputes; Cartel subsidiaries bid on terraforming logistics |
-| Drift Communities | Trade hub encounters; Cartel operates supply chains servicing Drift routes |
-| Arrhenos | Heavily restricted and monitored financial services; necessary given Cartel economic weight |
+| The Mandate | Necessary commerce, mutual suspicion; the Bureau of Internal Harmony works to map operations it has never penetrated above subsidiary level |
+| Union of Frontier Freeholds | Its natural habitat; some Freeholds court Cartel investment, others have learned to fear the dependency it breeds |
+| Vega Commercial Throne | Post-war debt quietly traded for influence; Blackwell Media keeps a presence the great houses are wrong to dismiss |
+| Neo-Solar Republic | Mutual hostility; the Cartel covets Lattice technology the Republic guards as a security matter |
+| Elysian Collective | Wary, transactional, stable; subsidiaries bid on terraforming logistics and otherwise keep their distance |
+| Drift Communities | Low-stakes trade-hub contact; Cartel logistics service routes few others will |
+| Arrhenos | Indispensable and distrusted in equal measure; the most heavily restricted and closely watched client relationship the Cartel maintains |
+
+## Topics
+
+| Topic | Focus |
+|-------|-------|
+| [Structure](structure.md) | The Directors, the Veil Protocol, the divisions, the contested origins, and what actually holds the organisation together |
+| [Culture](culture.md) | Life inside the Cartel: what its people know, when they learn it, and what it costs to leave |
+| [Operations](operations.md) | The legitimate businesses, the illicit ones, and the deliberately unmappable seam between them |
+| [Known Subsidiaries](fronts.md) | The handful of fronts identified with any confidence—and why the true number is unknowable |
+| [Relations](relations.md) | How each Great Power manages an entity it cannot afford to exclude |
 
 ---
 
@@ -2535,57 +2561,45 @@ See [[Structure]] for details on the Cartel's organisational hierarchy.
 
 # The Sable Cartel: Culture
 
-The Cartel is not a society. It has no citizens, no homeland, no shared language or tradition. What it has is a corporate culture—and that culture is as distinctive and self-reinforcing as any national identity.
+The first thing to say about Cartel culture is that there is no such thing—not one culture, anyway, and the hunt for it has misled more than one analyst. An organisation of tens of billions of people, spread across thousands of companies and hundreds of worlds, does not share a culture any more than an ocean shares a temperature. What it shares is thinner, stranger, and held by far fewer people than outsiders assume.
 
-## The Need to Know
+## A thousand workplaces
 
-The Cartel's defining cultural principle. Information is compartmentalised at every level. Employees know what they need to do their jobs and nothing more. Curiosity about the broader organisation is not punished—it is *noticed*, which is worse.
+Start at the bottom, where almost everyone is.
 
-This produces a particular psychological environment. Cartel employees learn to work within defined boundaries, to avoid questions whose answers aren't offered, and to interpret silence as communication. The absence of information is itself information: if you haven't been told, you don't need to know, and the fact that you don't need to know tells you something about your position.
+A Verdant farmhand on a company world keeps the harvest calendar and the local shrine, marries within the valley, and would name his employer as Verdant Holdings if asked—which no one ever is. A Wayline long-haul crew runs on the dark humour and the small superstitions of people who spend their lives between stars; their culture is the ship's, and the next ship over keeps a different one. A Nexus office on Korsen's Anchorage keeps banker's hours and banker's manners. An Aegis section out of Veritas Station carries the swagger and the grievances of soldiers everywhere. These people have nothing in common but a remittance most of them never trace, and they would be surprised—in some cases insulted—to be told they share an identity.
 
-Senior employees—those who understand that they work for the Cartel and accept the implications—describe a culture of professional competence wrapped in institutional paranoia. You are valued for results. You are watched for deviation.
+This is the part the legend has backwards. There is no sinister monoculture of grey men. There are mining moons with their own festivals and dialects, agricultural worlds with three generations in the same company town, void-stations where the zero-g league final empties the corridors—ordinary places, run by ordinary companies, that happen to sit somewhere on an ownership chart no one in them has seen. The tens of billions are not a chorus. They are a population, with all the noise and variety that word implies.
 
-## Meritocracy
+## What is actually shared
 
-Within known Cartel subsidiaries, advancement is ruthlessly performance-based. The Cartel does not care about family connections, educational credentials, species, gender, or enhancement level. It cares about outcomes.
+Climb high enough, though, and something does cohere—not a culture so much as an etiquette, and it begins at the point where a person first realises there is something they are not to ask about.
 
-This attracts talent. People who feel constrained by the Mandate's hierarchy, the Vega houses' aristocratic preferences, or the Freeholds' chaos find the Cartel's clarity appealing. Do your job well; advance. Do it poorly; be replaced. The rules are simple, even if the game they're played in is not.
+For the billions at the base, "need to know" means nothing; they know what their work requires and never bump against a wall. It is the ones who climb—who start to notice the oddly routed payment, the instruction with no signature, the colleague who knows more than their post should allow—who learn the etiquette. Curiosity is not forbidden. It is *noticed*, which everyone quickly understands is worse. You learn to work inside the lines you are given, to treat silence as a form of speech, and to read your own standing in the shape of what you are and aren't told.
 
-### The Golden Handcuffs
+They do not, as a rule, say "the Cartel." Among people who know, it is "the firm"; the unseen hierarchy above is "upstairs"; the day the word first attached itself to you—almost always an ordinary day, a Tuesday with nothing in it—is the day you "read the watermark." The euphemisms are not security. They are how people live alongside a thing too large and too quiet to keep naming aloud.
 
-Cartel compensation is generous. Significantly above market rate at every level, with benefits packages that address material needs comprehensively. The generosity is strategic: well-compensated employees are less susceptible to external recruitment, bribery, or disgruntlement.
+## The meritocracy, and the people who believe in it
 
-Departure is technically permitted—Cartel subsidiaries are legitimate employers with standard contracts. But leaving means surrendering compensation, access, and the understanding that the Cartel prefers to retain institutional knowledge. Former employees find their subsequent career options subtly narrowed; references are accurate but carry implications. The message is clear without ever being explicit.
+Within the parts of the Cartel that know what they are, advancement is brutally indifferent to everything but results. Family, schooling, world of origin, enhancement, gender—none of it registers. This is not a slogan. At the levels where it operates it is largely true, and it is the single most seductive thing about the firm.
 
-## Loyalty
+Consider who that draws. An administrator passed over in the Mandate because her grandfather was the wrong sort of subject; a Vega commoner who will be a commoner all her life and her children's lives after; a Freeholder worn down by watching competence drown beneath everyone's sacred right to an opinion. The firm offers them a clean bargain in a galaxy that mostly withholds one: do the work, and rise. Some become true believers—and the Cartel's true believers are quieter and far harder to argue out of it than any flag-waver, because their faith rests not on a banner or a god but on a fairness they have personally tasted and found real. That the fairness stops precisely where the Veil begins; that "results" can mean results no one should be proud of; that the whole meritocracy sits inside an organisation answerable to no one—these are objections they have heard, and mostly digested. The firm kept its promise to them. Few things in their lives did.
 
-The Cartel does not demand ideological commitment. It demands reliability.
+In practice it is patchy, naturally. The same Veil that shields the meritocracy from favour also hides the local fief where a subsidiary director quietly advances his nephews, because no one upstairs can see in to stop him. The ideal is genuine and the exceptions are many, and the firm tolerates the gap because it is the ideal, not the exceptions, that does the recruiting.
 
-Employees are not expected to believe in the Cartel's mission (which is never articulated), approve of its methods (which are never fully disclosed), or feel emotional attachment to the organisation. They are expected to do their jobs, maintain operational security, and refrain from betraying the organisation's trust.
+## Staying, and leaving
 
-The distinction matters. The Cartel is staffed not by zealots but by professionals who have made a rational assessment: the Cartel pays well, operates effectively, and punishes betrayal severely. Rational self-interest, not loyalty, holds the organisation together. The Cartel's leadership appears to prefer this arrangement—rational actors are predictable.
+For the overwhelming majority, leaving is nothing at all. Cartel subsidiaries are ordinary employers; people quit them every day to take other jobs, to retire, to go home. The pay is good—above market, by design, because contented people are cheaper to keep than to replace and less interesting to a rival's recruiter—but no one is chained to a loading dock.
 
-## Internal Justice
+The handcuffs close only on those who climbed far enough to carry real knowledge out with them. For them, leaving is permitted and never quite clean. The salary stops; the access stops; references come back accurate in ways that somehow close doors; old colleagues grow difficult to reach. Nothing is threatened, because nothing has to be. The firm simply prefers that what its senior people know stays inside the building, and it has a hundred lawful, deniable ways of making the path of least resistance lead back to a desk. Most stay. The ones who have made their peace with it will tell you—not always convincingly—that it was a fair trade.
 
-Disputes between subsidiaries are resolved through anonymous arbitration panels—senior Cartel personnel who evaluate claims and impose binding resolutions. The process is efficient and broadly fair within its narrow scope. Subsidiary directors respect arbitration outcomes because the alternative—open conflict between Cartel assets—is worse for everyone.
+## Zealots, cynics, and the lifers
 
-Personal disputes among employees are handled by subsidiary management through conventional HR processes. The Cartel does not micromanage interpersonal conflicts at operational level.
+The Cartel is often said to run on cold professionalism rather than loyalty. That is half the truth. It runs on whatever holds a given person in place, and it is supremely indifferent to which: the believer who thinks it the only honest game in human space; the cynic who finds it simply pays better than principle does; the careerist too far in to begin again; the second-generation company-town kid for whom the firm is not an organisation but the weather. The Cartel needs none of them to agree, or to believe, or even to approve. It needs them to turn up and keep their counsel—and it has arranged the incentives so that turning up and keeping their counsel is, for each of them, the reasonable thing to do.
 
-Betrayal is a different category. The Cartel's response to information leaks, defection, or cooperation with external investigators is handled by elements of the Special Operations Division. The details are not known. The outcomes are: defectors are found, or they are not; and even those who are not found spend their remaining years looking over their shoulders.
+## How it looks from outside
 
-## Daily Life
-
-For the vast majority of Cartel employees, daily life is indistinguishable from working for any large interstellar corporation. They report to offices, operate shipping terminals, manage investment portfolios, staff security details, and process insurance claims. They socialise with colleagues, complain about management, and look forward to leave days.
-
-The difference is context. A Wayline Logistics dispatcher who routes cargo doesn't question why certain containers are flagged for priority handling. An Aegis Security contractor who guards a warehouse doesn't ask what's inside. A Nexus Financial Group analyst who processes transactions doesn't investigate why certain accounts are structured unusually.
-
-The Cartel functions because most of its people don't ask questions—not because they're forbidden to, but because not asking is comfortable, compensated, and clearly expected.
-
-## External Perception
-
-Other polities view the Cartel with a mixture of dependence and unease. Cartel subsidiaries provide services that the galactic economy needs: shipping, credit, insurance, security. The people who work for these subsidiaries are, individually, unremarkable professionals.
-
-The organisation behind them is something else. The Cartel's opacity, its reach, its apparent immunity to investigation—these generate anxiety proportional to the observer's understanding of what the Cartel might be. Those who deal with Cartel subsidiaries daily and don't think about the parent organisation are comfortable. Those who have glimpsed the larger structure are not.
+Outsiders, lacking the texture, supply their own. Where there are in fact a thousand unremarkable workplaces, the broadsheets and the bar-room experts see a single grey, all-knowing apparatus, every clerk and every dockhand a witting instrument of its will. The picture is wrong in nearly every particular, and the Cartel would not alter a word of it. A crowd of ordinary people who happen to share a paymaster is something any rival can imagine winning over or prising loose. A single faceless will, total and unsleeping, is not. The firm is content to be feared as the second when it is mostly, and at bottom, only the first.
 
 ---
 
@@ -2594,9 +2608,13 @@ The organisation behind them is something else. The Cartel's opacity, its reach,
 
 # The Sable Cartel: Known Subsidiaries
 
-The Cartel operates through subsidiaries that function as legitimate businesses. Some are Cartel creations; most were independent companies before acquisition. All serve the Cartel's strategic interests while maintaining plausible independence.
+Five companies appear on nearly every analyst's list of probable Cartel holdings. That they appear there at all is the first thing worth noticing.
 
-The following list represents entities that external analysts have identified as probable Cartel subsidiaries with moderate to high confidence. The actual number of Cartel-controlled entities is unknown and likely substantially larger.
+A "known" Cartel subsidiary is a peculiar object. It is a real company—it files real accounts, employs real people, and does real, mostly legitimate business—around which a suspicion has hardened into near-consensus without ever quite becoming proof. The companies themselves deny it, often sincerely at the levels anyone can ask. The denials change nothing, because the suspicion stopped depending on evidence long ago.
+
+The five below are the ones large and visible enough to attract that suspicion and survive it, which is exactly why they are poor proxies for the Cartel's true shape. The assets that matter most are the ones no list names—the small, dull holdings that move money and information without ever being interesting enough to investigate. The famous subsidiaries absorb the scrutiny. That is arguably their most valuable function, and the Cartel would build them for it alone if they did not already pay for themselves.
+
+A note on confidence: the attributions below run from near-certain (Wayline) to merely well-rumoured (Blackwell). At least one may not be Cartel at all. The Cartel does not mind being credited with companies it does not own; the more it is thought to control, the less it actually needs to.
 
 ---
 
@@ -2605,18 +2623,14 @@ The following list represents entities that external analysts have identified as
 | Attribute | Value |
 |-----------|-------|
 | Division | Capital |
-| Founded | 3341 C (acquired by Cartel ~3500 C, estimated) |
+| Founded | 3341 C (acquired by the Cartel ~3500 C, estimated) |
 | Headquarters | Korsen's Anchorage |
 | Employees | ~400 million |
 | Sector | Banking, lending, financial services |
 
-The Cartel's most visible financial arm. Nexus provides credit and lending services to minor polities, independent stations, and frontier operations. Its client base consists primarily of entities too small or too risky for Arrhenos banks—a market niche the Cartel dominates.
+The Cartel's respectable face, and on the frontier a genuinely beloved one. Nexus lends where no one else will—to stations and settlements and small polities Arrhenos would not return a call from—on fair terms, through patient officers who fly out to places the big banks have never seen. Ask a frontier harbourmaster about Nexus and you may get gratitude: Nexus was the one that said yes.
 
-Nexus maintains a reputation for fair dealing and flexible terms. Its representatives are professional, patient, and thorough. The downstream effects of Nexus lending relationships—gradual economic integration into Cartel networks—are the client's problem to notice.
-
-Arrhenos regulators monitor Nexus transactions closely. The monitoring has not revealed actionable evidence of Cartel control, which either means Nexus operates independently or means the Cartel's financial architecture is more sophisticated than Arrhenos expects.
-
----
+The gratitude is not misplaced, exactly. It is just incomplete. What Nexus begins, the rest of the Cartel's gravity finishes (see [Operations](operations.md)), and a station that banks with Nexus tends, over years, to find its whole economy quietly resettled onto Cartel rails. None of this is visible from a teller's window. The four hundred million people who work for Nexus process loans and mind branches and go home; the connection that makes Nexus a subsidiary rather than simply a bank lives far above them—and Arrhenos, which watches Nexus more closely than any institution it does not own, has never been able to prove it sits there at all.
 
 ## Wayline Logistics
 
@@ -2628,13 +2642,9 @@ Arrhenos regulators monitor Nexus transactions closely. The monitoring has not r
 | Employees | ~2 billion |
 | Sector | Interstellar shipping, warehousing, transit infrastructure |
 
-The largest shipping company in the Freeholds and a major carrier elsewhere. Wayline operates thousands of freighters, hundreds of transit stations, and warehousing facilities across human space. Its routes reach systems that no other carrier services reliably.
+The largest carrier in the Freeholds and a major one everywhere, and the surest attribution on this list. Two billion people draw a Wayline wage: dock crews and dispatchers and long-haul spacers with their own dialects, their own superstitions, their own grievances renewed each contract. On a hundred frontier worlds Wayline is simply how things arrive, and its schedules serve as local clocks.
 
-Wayline is the Cartel's backbone. Its logistics network carries legitimate cargo—the vast majority of volume—alongside undocumented shipments that exploit the sheer scale of operations to avoid detection. A single Wayline freighter might carry ten thousand containers; inspecting every one is impractical, and Wayline's scheduling and routing decisions ensure that containers of interest arrive when and where inspection is lightest.
-
-Wayline employees at the operational level are generally unaware of the smuggling dimension. Dispatchers, dock workers, and transit operators handle cargo as labelled. The facilitation occurs at management levels where routing decisions are made and manifests are approved.
-
----
+It is also the Cartel's circulatory system, and the smuggling that runs through it (see [Operations](operations.md)) is invisible to nearly everyone who works there, because it happens in the manifests, not on the docks. A Wayline captain hauls what the paperwork says, and is right to. The facilitation lives at the routing desks where a handful of managers decide which container is inspected lightly and which is not—and when one of those desks is exposed, the manager is cut loose and the two billion honest employees never learn there was anything to be cut loose from.
 
 ## Aegis Security Solutions
 
@@ -2646,13 +2656,9 @@ Wayline employees at the operational level are generally unaware of the smugglin
 | Employees | ~800 million |
 | Sector | Private military contracting, facility protection, executive security |
 
-A respected PMC operating across multiple polities. Aegis provides convoy escort, facility security, executive protection, and (controversially) combat support for clients including minor governments, corporations, and wealthy individuals.
+The respectable end of a disreputable trade. Aegis fields convoy escorts, facility guards, executive details and, where the optics allow, line combat, recruiting heavily from Mandate veterans and Freehold militia and holding them to standards its competitors don't. Clients rate it highly. Its contractors are, by and large, professionals who believe they work for a professional firm—which they do.
 
-Aegis recruits heavily from Mandate military veterans and Freehold militia members. Training standards are high; equipment is modern; professional conduct is enforced. Clients rate Aegis highly.
-
-Aegis is also an intelligence operation. Security contracts provide access to client facilities, personnel, and operational details. This information flows up the Cartel's hierarchy through channels that Aegis's rank-and-file contractors never see. A security team protecting a mining operation's perimeter is simultaneously assessing the operation's output, schedules, and vulnerabilities.
-
----
+What the fence-line guard does not see is that the contract is also a key: to the client's layout, schedules, shipments and weaknesses, copied upward through channels he will never glimpse. Nor does he see how fast Aegis will abandon him if the job turns into a scandal. Aegis's good name is a Cartel asset, and the firm has spent whole contracts—and the people staffing them—to keep it clean (see [Operations](operations.md)). The contractors learn this only if they are unlucky enough to be standing on the wrong job the day it happens.
 
 ## Verdant Holdings
 
@@ -2664,13 +2670,9 @@ Aegis is also an intelligence operation. Security contracts provide access to cl
 | Employees | ~1.5 billion |
 | Sector | Agriculture, commodity trading, resource extraction |
 
-A conglomerate of agricultural operations, commodity trading firms, and resource extraction companies. Verdant controls farmland on dozens of worlds, operates grain and livestock exchanges, and trades in raw materials from metals to biologicals.
+A patchwork of farms, exchanges and extraction firms stitched together across a century of acquisitions, and the least conspiratorial-feeling company on this list, because most of what it does is grow food. Verdant feeds billions. Its company worlds carry three generations in the same valley towns, keeping harvest calendars and local shrines, naming Verdant as their employer with no sense that the word reaches any further.
 
-Verdant's agricultural operations are genuinely productive—feeding billions across human space. Its commodity trading is aggressive but not unusually so by market standards. The strategic value is information: Verdant's operations generate data on food production, resource availability, and market conditions across hundreds of systems. This data feeds the Cartel's intelligence apparatus.
-
-Verdant's involvement in fez markets is indirect but significant. Verdant trades commodities *adjacent* to fez—the equipment, supplies, and provisions that fez harvesters need—positioning the Cartel to profit from fez booms without directly handling the regulated material.
-
----
+The strategic value is not the grain; it is the knowledge of the grain. Verdant's operations report, continuously, on what is grown and mined and shipped across hundreds of systems—a live map of supply that feeds the Intelligence Division and, not coincidentally, the fez desk's uncanny timing (see [Operations](operations.md)). Verdant rarely touches fez directly. It sells the harvesters their equipment and their provisions, and it watches, and it remembers.
 
 ## Blackwell Media
 
@@ -2682,24 +2684,19 @@ Verdant's involvement in fez markets is indirect but significant. Verdant trades
 | Employees | ~50 million |
 | Sector | News, analysis, documentary production |
 
-A minor media company by Vega standards—dwarfed by the houses' entertainment empires. Blackwell produces news coverage, investigative reporting, and documentary content focused on frontier affairs, economic analysis, and conflict coverage.
+The thinnest attribution here, and the one the Cartel is happiest to neither confirm nor deny. By Vega standards Blackwell is nothing—a minor outfit dwarfed by the great media concerns—but its correspondents go where the big ones won't, into frontier zones and conflict regions, and its coverage is genuinely good. That is the point and the cover at once.
 
-Blackwell's journalism is competent. Its correspondents are embedded across human space, particularly in frontier zones and conflict areas. Their reporting is valued for access to regions that mainstream Vega media covers poorly.
-
-The intelligence value is obvious. Blackwell reporters go where Cartel analysts want eyes. Their coverage generates information—sources, observations, relationships—that serves purposes beyond journalism. Whether individual Blackwell journalists understand this dual role varies; some are fully aware Cartel assets, some are unwitting, and some fall in between.
+A reporter embedded in a war is an intelligence asset whether or not she knows it, and Blackwell's people fall across the whole range from fully aware to entirely innocent. The footage that runs as a documentary on the Stellavista feeds runs, in another cut, as a briefing somewhere upstairs. Whether Blackwell is truly Cartel-owned or merely Cartel-friendly is a question even good analysts split on—which suits everyone involved, the journalists included, most of whom would rather not know the answer.
 
 ---
 
-## Identification Challenges
+## Burned and unlisted
 
-External analysts attempting to identify Cartel subsidiaries face structural obstacles:
+Two categories complete the picture, and neither can be tabulated.
 
-- **Acquisition obscurity**: The Cartel acquires companies through intermediary holding companies, making ownership chains untraceable
-- **Operational independence**: Subsidiaries operate with genuine autonomy in daily business, making their behaviour indistinguishable from independent companies
-- **Scale**: The galactic economy contains millions of corporations; the Cartel may control thousands; distinguishing Cartel-owned from Cartel-adjacent from genuinely independent is analytically intractable
-- **Counter-intelligence**: The Cartel actively obscures connections, plants false trails, and discredits investigators who get too close
+The first is the subsidiaries the Cartel has shed—companies exposed, disowned and cut loose, their connection severed at a mid-level desk and the rest left to fail alone. They do not appear on lists of Cartel holdings because, by the time anyone looks closely, they are no longer holdings. The Cartel treats them the way a lizard treats a tail.
 
-The five entities listed above are identified with moderate to high confidence based on financial analysis, defector testimony, and pattern recognition. The actual Cartel footprint is assumed to be substantially larger.
+The second, and far larger, is everything not named here: the holding companies, the small banks, the obscure exchanges and quiet logistics firms that do the real work precisely because no one finds them worth the trouble. The five famous names are the part of the iceberg that catches the light. Analysts agree the true footprint is larger by some unknown multiple, and agree on little else—an uncertainty the Cartel has every reason to cultivate, and does.
 
 ---
 
@@ -2708,71 +2705,61 @@ The five entities listed above are identified with moderate to high confidence b
 
 # The Sable Cartel: Operations
 
-The Cartel's genius—if that is the right word—is that most of its operations are perfectly legal. The legitimate business provides revenue, infrastructure, and cover. The illicit operations provide margins, leverage, and deniability. The line between them is deliberately impossible to draw.
+Most of what the Cartel does is legal, and most of what it does is dull. This is the first thing to get straight, because the legend insists on the opposite. The overwhelming bulk of Cartel activity is freight moved, loans serviced, policies underwritten, crops brought in and warehouses kept—the ordinary metabolism of an economy that happens to be enormous. The illicit business is real and lucrative, but it lives in the margins and the seams of the legitimate business, not beneath it. There is no respectable façade with a criminal engine behind it. There is a vast, genuine, working enterprise, through which a thinner thread of crime runs—and the thread is hard to follow precisely because it runs through the middle of everything, not because someone clever hid it there.
 
-## Legitimate Operations
+The line between legitimate and illicit is not drawn deliberately impossible to find. It is impossible to find because it is not a line. It is a judgement made ten thousand times a day, by ten thousand managers, about particular cargoes and particular clients—and many of them get it wrong, or look away, or never see the question at all.
 
-### Credit and Lending
+## The legitimate business
 
-The Capital Division operates through subsidiaries that provide financial services to minor polities, independent stations, and frontier settlements—entities too small or too risky for Arrhenos banks or Vega financial houses.
+### Lending
 
-Cartel lending terms are competitive. Interest rates are reasonable. Repayment schedules are flexible. The catch is not in the terms but in the relationship: a polity that borrows from a Cartel subsidiary finds that Cartel logistics subsidiaries offer the best shipping rates, Cartel insurance subsidiaries offer the best coverage, and Cartel security subsidiaries offer the best protection. Dependencies accumulate.
+The Capital Division, through Nexus Financial and its kind, lends where respectable finance won't go: to minor polities, independent stations, frontier ventures—borrowers too small or too risky for Arrhenos. The terms are fair, often generous. The catch is not in the terms but in the gravity that follows them: a polity that banks with Nexus finds that Cartel shippers quote the best rates, Cartel insurers the best cover, Cartel security the best protection, until one day its economy is a Cartel economy and no one can name the morning it changed.
 
-Default is managed carefully. The Cartel rarely forecloses aggressively—destroyed debtors generate no future revenue. Instead, defaulting entities are restructured, their economies gradually integrated into the Cartel's operational network. The process is so smooth that some polities don't recognise what has happened until their economy is functionally a Cartel subsidiary.
+That is the version that works, and it works often. It is not the only version. Some borrowers default and drift, as intended, into the network; others default and simply repudiate, banking on the plain truth that the Cartel has no fleet to send and no court to appeal to—only Nexus's patience and the long memory of the credit market. A frontier government that decides it would rather be poor and free than solvent and owned can, in fact, walk away, and a handful have. The Cartel writes off the loss with a discipline that surprises people who expect vengeance. Vengeance is expensive and advertises weakness; a quiet write-off and a note in a file keep the legend intact.
 
 ### Logistics
 
-The Transit Division controls a significant fraction of interstellar shipping infrastructure: cargo haulers, transit stations, fuel depots, maintenance facilities, and warehousing across hundreds of systems. Cartel logistics subsidiaries are known for reliability, competitive pricing, and an unusual willingness to operate in conflict zones and frontier regions where other carriers won't go.
+The Transit Division—Wayline Logistics above all—is the closest thing the Cartel has to a body. It moves a meaningful fraction of everything that moves: thousands of freighters, hundreds of transit stations, fuel depots and warehouses across more systems than any rival services. On the frontier, where other carriers won't go, Wayline is often the only carrier there is, and whole economies run on its schedules.
 
-The logistics network is also the Cartel's circulatory system. A shipping subsidiary that carries legal cargo from point A to point B might carry undocumented cargo from point B to point C. The same warehouse that stores agricultural commodities might temporarily house restricted materials. The infrastructure serves dual purposes, and the division between legitimate and illegitimate cargo is a matter of manifest accuracy rather than physical separation.
+This is genuine infrastructure, genuinely relied upon, and it is also the reason smuggling is easy (below). But the proportions matter. A Wayline hub clears millions of legitimate containers for every one that hides something; the dockers and dispatchers handle cargo as labelled because the cargo is, almost always, as labelled. The network is not a smuggling operation with a freight cover. It is a freight operation with a smuggling problem it has learned not to solve too thoroughly.
 
 ### Insurance
 
-The Assurance Division specialises in risk: conflict-zone asset insurance, political instability coverage, cargo loss protection. The Cartel insures assets that no legitimate insurer will touch—and occasionally insures both sides of a conflict.
+The Assurance Division writes the policies no one else will: conflict-zone assets, political-risk cover, cargo through contested space. It is profitable, skilled work, and it occasionally insures both sides of the same war—a fact endlessly cited as proof of some grand design.
 
-This creates perverse incentives that the Cartel manages carefully. An insurer with intelligence networks can predict which conflicts will escalate and price accordingly. An insurer that also operates security subsidiaries can influence whether insured assets are threatened. The potential for manipulation is enormous; the Cartel's restraint in exploiting it is a matter of strategic patience rather than ethics.
+The truth is less impressive and more revealing. Assurance insures both sides because Assurance sells to anyone with a premium, and because the desk that prices the war is not told what the Security Division might be doing to start it—the Veil sees to that. Far from orchestrating conflicts to collect on them, Assurance lives in dread of them: a war that escalates the wrong way is a column of claims. Its interests run directly against Security's, the two cannot coordinate even where coordination would pay, and the celebrated image of the Cartel playing both ends against the middle describes, most of the time, two of its own divisions working at cross purposes and calling the wreckage a strategy afterward. When Assurance is badly surprised—and the wars of the frontier surprise it more often than it admits—the losses are real, and the Directors hear about it.
 
-### Security Services
+### Security
 
-The Security Division provides private military contractors, facility protection, executive security, and convoy escort through several well-known subsidiaries. Cartel PMCs are professional, well-equipped, and effective. They are also an intelligence-gathering operation: security contracts provide access to facilities, personnel, and operational details that would otherwise be unavailable.
+The Security Division fields private military through Aegis and others: convoy escort, facility protection, executive details and, where the client pays and the optics allow, line combat. The work is professional and the contractors are good, recruited heavily from Mandate veterans and Freehold militia. It is also, structurally, an intelligence operation: a security contract is a key to a client's facilities, schedules and weaknesses, and that knowledge flows upward through channels the contractors on the fence line never see.
 
-## Illicit Operations
+It does not always go cleanly. A protection contract that turns into a massacre, a guard force that backs the losing side of a local war, a client who proves to be exactly the sort of person a respectable firm should have refused—these happen, and when they do the Cartel's instinct is not to defend the subsidiary but to disown it, fast and completely. A burned contract is a cost of doing business. A traced connection is a threat to everything. Aegis's good name is an asset the firm will spend a whole contract, and the people staffing it, to protect.
+
+## Where the lines blur
 
 ### Smuggling
 
-The Cartel's logistics infrastructure makes smuggling almost trivially easy. Routes are established; schedules are known; inspection patterns are mapped. Cartel smuggling operations handle restricted technology, controlled substances, embargoed goods, and occasionally people.
+The same network that makes Transit indispensable makes smuggling nearly free. Routes are mapped; schedules are known; inspection patterns are studied. Restricted technology, controlled substances, embargoed goods and, now and then, people move inside the vast legitimate flow, timed to arrive where and when inspection is lightest. A customs officer boarding a Wayline freighter is hunting one wrong container among ten thousand right ones, and the odds are not his.
 
-The volume of legitimate traffic through Cartel shipping networks makes interdiction nearly impossible. A Mandate customs inspector examining a Cartel freighter is looking for contraband in a vessel that may carry ten thousand containers of legal cargo. The odds are not in the inspector's favour.
+But they are not zero. Customs services do win—a manifest that won't reconcile, an informant, a run of bad luck—and the interesting part is what happens next. The exposed subsidiary is cut loose; the route goes cold; the loss is absorbed; and the connection upward dies at the desk of a mid-ranking manager who knew better than to keep notes. The Cartel does not smuggle as one decision. Particular subsidiaries smuggle, particular managers facilitate, and the organisation as a whole maintains a sincere and useful ignorance of the details.
 
-### Data Brokerage
+### Information
 
-The Intelligence Division's most lucrative product. The Cartel gathers information from every subsidiary, every security contract, every financial relationship, and every logistics operation. This information is analysed, packaged, and sold.
+The Intelligence Division's real product is knowledge—gathered from every loan file, every security contract, every shipping manifest and every harvest report, then analysed, packaged and sold. Buyers include governments, corporations, militaries and private parties, and the Cartel sells to all of them without preference: a Mandate officer and a Freehold commander may buy reports drawn from the same source, each cut to their own appetite. This is, in its legal forms, only the dark sibling of what Arrhenos does in the open—arbitrage on the slowness of news, the oldest reliable trade in human space.
 
-Buyers include:
+Two things keep it honest about its own limits. The product is imperfect: sell contradictory intelligence to opposed buyers often enough and some of it is, necessarily, wrong, and the Cartel's reputation for omniscience papers over a great deal of guesswork priced as certainty. And the buyers know what they are buying from, and discount accordingly. The legend inflates the value; it does not guarantee the goods.
 
-- Governments seeking intelligence on rivals
-- Corporations seeking competitive advantage
-- Individuals seeking personal information
-- Military planners seeking operational data
+### Markets
 
-The Cartel sells to all parties without discrimination. A Mandate intelligence officer and a Freehold militia commander might receive reports derived from the same source data, each filtered for their specific interests. The Cartel does not take sides; it takes fees.
+The Commodities Division trades across many sectors, but its signature is fez. Its futures desk is the most aggressive participant in the market, and its positions are uncannily well-timed: a harvest known to be failing before the market prices it, a route known to be closing before the premiums rise. Rivals are certain this is manipulation. Proving it would mean tracing advance knowledge through thousands of subsidiaries to a single trade, which is, by construction, almost impossible.
 
-### Market Manipulation
+It is worth saying plainly that much of it is not manipulation at all—it is luck, wearing the Cartel's reputation. A desk that places a thousand bets will have a prophetic-looking run, and the firm is delighted to be credited with foresight it did not have, because dread of a player who always knows is worth more than any single trade. The genuine article exists; the legend exists; and the gap between them is wide enough that the Cartel seldom needs to cheat to be feared as a cheat. (Seldom is not never. The fez desk has been wrong, expensively, more than once, and the years it lost money are not the years it talks about.)
 
-The Commodities Division's fez speculation operations are the most visible example, but the Cartel manipulates markets across multiple sectors. Information advantages—knowing a harvest will fail before the market does, knowing a conflict will escalate before it begins—enable trades that appear prescient.
+### Special Operations
 
-Proving manipulation requires demonstrating that the Cartel had advance knowledge and acted on it. Since the Cartel's information gathering is distributed across thousands of subsidiaries, establishing the chain of knowledge is functionally impossible.
+Beneath the smuggling and the brokerage sits the work the Cartel does not discuss, attributed to the Special Operations Division: assassination through deniable intermediaries, sabotage, political manipulation, the theft of guarded technology. The external evidence is thin, which the legend reads as proof of brilliance.
 
-### Other Operations
-
-The Special Operations Division handles activities the Cartel does not discuss. External analysis and defector testimony suggest capabilities including:
-
-- Targeted assassination (through layers of intermediaries and deniable assets)
-- Sabotage of competitor operations
-- Political manipulation (campaign funding, blackmail, information operations)
-- Technology theft
-
-Evidence is thin. The Cartel's operational security ensures that connections between these activities and the parent organisation remain speculative.
+Some of it is real. Much of what is laid at the Cartel's door is not—every unexplained death and convenient accident in human space acquires, sooner or later, a Cartel rumour, and the firm is in no hurry to deny work it never did. This is the purest case of the Cartel's central trick: a reputation for doing everything is cheaper than the capacity to do anything, and a great deal safer. Special Operations is most powerful in the cases where it never had to act at all—where the threat of it, freely supplied by other people's imaginations, did the work for nothing.
 
 ---
 
@@ -2781,101 +2768,69 @@ Evidence is thin. The Cartel's operational security ensures that connections bet
 
 # The Sable Cartel: Relations
 
-Every Great Power deals with the Cartel. None is comfortable about it.
+Every Great Power deals with the Cartel. What rewards attention is how differently each one does it—because the differences expose what the legend hides: that the Cartel's leverage is real but uneven, contingent on circumstances it does not always control, and weakest exactly where someone has bothered to test it.
 
-The Cartel's distributed nature means it cannot be excluded from any polity's economy without unacceptable cost. Cartel subsidiaries are too integrated, too useful, too *ordinary* in their daily operations to remove. This gives the Cartel a form of diplomatic immunity that no treaty provides: the immunity of indispensability.
+The old line is that the Cartel cannot be excluded, its services too woven-in to refuse. That is mostly true and not a law of nature. Arrhenos keeps it at a guarded distance and prospers; the Sefkir Reach threw it out and survived being poorer for it; and every power that deals with the Cartel has noticed, even as it goes on dealing. What follows is not a single dependency wearing many faces. These are genuinely different bargains, struck by parties with very different reserves of leverage and nerve.
 
 ---
 
 ## The Mandate
 
-**Relationship**: Necessary commercial engagement; mutual suspicion; active intelligence operations.
+The Cartel's largest market, and the source of its most determined enemy.
 
-The Mandate is the Cartel's largest market by volume. Mandate citizens and subjects use Cartel-affiliated shipping, financial services, and insurance daily. The economic relationship is extensive and deeply embedded.
+Mandate citizens and subjects use Cartel shipping, credit and insurance daily, and the Mandate's own government is among its better customers: Wayline carries military freight under contract, Nexus lends to frontier governors the central treasury would rather not be seen funding. The dependence runs both ways, and the Mandate knows it, which is why it tolerates a thing it does not trust.
 
-The Bureau of Internal Harmony treats the Cartel as a persistent security concern. Bureau analysts attempt to map Cartel operations within Mandate space; the Cartel's compartmentalised structure makes this an exercise in frustration. Bureau operations have identified individual Cartel subsidiaries but have never penetrated above the Subsidiary Director level.
+The Bureau of Internal Harmony does not tolerate it. For decades the Bureau has worked to map the Cartel inside Mandate space, and for decades it has run aground on the Veil—naming subsidiary after subsidiary, never climbing above them. There are Bureau analysts who have given whole careers to this and have, on the evidence, been chasing a coordination that isn't there: hunting the single hand behind a thousand local hands, reading every dead end as proof of the hand's brilliance rather than its absence. The hunt has produced real intelligence and no decapitation, because there is no head to take.
 
-The Mandate tolerates the Cartel because exclusion would be economically devastating—and because the Mandate's own bureaucracy uses Cartel services. Wayline Logistics ships Mandate military supplies under government contract. Nexus Financial provides credit to Mandate frontier governors. The dependencies are mutual, if asymmetric.
-
-**Flash point**: The Yansieve blockade. If Cartel subsidiaries are supplying rebel systems—and the Mandate suspects they are—the commercial relationship becomes a security problem.
-
----
+**Flash point:** Yansieve. If Cartel subsidiaries are running the Mandate's blockade of the rebel systems—and some surely are, whatever the Cartel says and whatever the Directors do or don't know of it—then a commercial nuisance becomes a wartime one, and the Bureau's patience for the whole arrangement thins accordingly.
 
 ## Union of Frontier Freeholds
 
-**Relationship**: Extensive subsidiary operations; mixed reception; economic entanglement.
+The Cartel's natural habitat, and its most revealing failure.
 
-The Freeholds are the Cartel's natural habitat. Minimal regulation, fragmented governance, and an ideology of non-interference create ideal operating conditions. Cartel subsidiaries operate openly in most Freehold systems; some Freeholds actively court Cartel investment.
+The Freeholds are built for it: minimal regulation, fragmented authority, an ideology that recoils from telling anyone what they may not do. Cartel subsidiaries operate in the open across most of Freehold space, and a good many Freeholds court them outright, because Cartel investment buys roads and ports and clinics no one else is offering.
 
-Others resist. Freeholds that have observed the pattern—Cartel lending leading to economic dependency leading to effective Cartel control—have taken measures to limit Cartel penetration. These measures have mixed success; the Cartel is patient and creative about finding alternative approaches.
+Others have watched the pattern run to its end—Nexus credit hardening into Cartel ownership—and pushed back, with the mixed success of people resisting something patient. The cautionary tale and the inspiring one are the same event: in 3829 C the Sefkir Reach expelled every Cartel subsidiary it could find, and did not collapse. It grew poorer, slower, more isolated, and entirely its own, and Freehold debating halls have not stopped arguing over whether that was a tragedy or a price worth paying. The irony escapes no one: a confederation founded on freedom from external masters is the place the Cartel owns most deeply.
 
-The irony is noted: a confederation founded on liberty from external control is partially controlled by an entity that respects no one's sovereignty. Freehold ideologues find this uncomfortable. Freehold pragmatists note that Cartel-invested Freeholds tend to have better infrastructure.
-
-**Flash point**: Korsen's Anchorage, where Nexus Financial Group is headquartered. The Anchorage's neutrality and importance as a trade hub make it the Cartel's most visible Freehold presence.
-
----
+**Flash point:** Korsen's Anchorage, where Nexus is headquartered and the Cartel's Freehold presence is least deniable.
 
 ## Vega Commercial Throne
 
-**Relationship**: Post-war lending; debt leverage; media distribution; cultural friction.
+A debtor that resents the loan and cannot clear it.
 
-The Andromedan Banking War (ended 3839 C) created opportunities the Cartel exploited efficiently. As Vega houses collapsed, Cartel-affiliated lenders stepped in with reconstruction capital—at reasonable rates, with reasonable terms, creating reasonable dependencies.
+When the Andromedan Banking War broke the Vega houses in 3839 C, Cartel-affiliated lenders arrived with reconstruction capital on terms that looked merciful and were, above all, patient. Twenty-three years on, several houses owe money to creditors they cannot prove are Cartel and cannot comfortably repay, and find that certain decisions come easier when they happen to suit a lender's preference. The Capital Division never presses; pressing would frighten the debtor into rash action, and patience is the entire instrument.
 
-Twenty-three years later, several Vega houses carry debt to entities that external analysts assess as Cartel-affiliated. The debt is manageable; the influence it provides is the point. Houses with Cartel creditors find that certain business decisions are shaped by lender preferences they cannot easily refuse.
-
-The Throne's aristocracy resents this dynamic but cannot escape it without repaying debts they cannot currently afford. The Cartel does not press; pressure would be counterproductive. The relationship continues in mutual discomfort.
-
-Blackwell Media operates from Stellavista, maintaining a minor but persistent presence in Vega's media ecosystem. The larger houses regard Blackwell as insignificant. Intelligence analysts regard it differently.
-
----
+Beneath the ledger runs a cultural dislike the debt only sharpens. The Vega aristocracy is bred to inherited rank; the Cartel is the galaxy's purest meritocracy, indifferent to blood and quietly amused by titles. Each finds the other a little disgusting. Blackwell Media keeps a small berth in the Vega feeds—beneath the great concerns' notice, which is precisely the altitude it wants.
 
 ## Neo-Solar Republic
 
-**Relationship**: Mutual hostility; technology acquisition attempts; security concerns.
+The one power the Cartel cannot read.
 
-The Cartel wants Republic technology—specifically, Lattice-compatible neural implants, advanced computational substrates, and experimental physics research. The Republic's technology export restrictions prevent legitimate acquisition; the Cartel has attempted other methods.
+The Republic has what the Cartel wants—Lattice neural technology, advanced computational substrates, physics it cannot buy legally—and guards it as a matter of survival. What makes the Republic a genuinely hard target is not its defences but its medium. Cartel tradecraft runs on opacity, on people who give away nothing they aren't paid to give away; inside the Lattice, deception is costly and exposure is quick. An operative who isn't integrated stands out like a stranger; one who is risks being read. The Cartel's whole method falters here.
 
-The Republic's Lattice-based security makes infiltration difficult. Cartel operatives without Lattice integration stand out in Republic space like unenhanced humans in a post-human society. Operatives *with* Lattice integration risk cognitive exposure—the Lattice makes deception harder.
-
-The Republic views the Cartel as the most likely source of espionage attempts against its research programmes. The Synthesis Defence Collective monitors Cartel-affiliated vessels in Sol system space. Diplomatic relations are minimal.
-
-The Cartel's response to Republic technology restrictions is strategic patience. If the Republic's gate efficiency research succeeds, the Cartel wants to be positioned to profit rather than be disrupted. If it fails, the status quo—in which the Cartel profits from fez markets—continues.
-
----
+So the Republic watches Cartel-flagged vessels in Sol space through the Synthesis Defence Collective and assumes, correctly, that the Cartel is the likeliest author of any attempt on its research. Relations are minimal and cold. This is the rare relationship in which the Cartel is the less comfortable party, and it has settled, for now, on waiting: if the Republic's gate research pays off, the Cartel means to be placed to profit; if it doesn't, the fez markets go on as they are.
 
 ## Elysian Collective
 
-**Relationship**: Occasional friction; logistics competition; contract disputes.
+Two neutralities, nodding across a contract.
 
-The Collective and the Cartel intersect primarily in terraforming logistics. Cartel subsidiaries bid on supply contracts for Collective terraforming projects; the Collective prefers suppliers it can trust with sensitive project details. This creates periodic contract disputes.
-
-The Collective's political neutrality mirrors the Cartel's economic amorality; both organisations will work with anyone. This similarity creates a wary mutual respect. Neither interferes with the other's core operations—the Cartel does not attempt to steal terraforming technology; the Collective does not investigate Cartel logistics.
-
-The relationship is transactional and stable. Neither party has reason to destabilise it.
-
----
+The Collective and the Cartel meet mainly in terraforming logistics, where Cartel subsidiaries bid to supply Collective projects and the Collective, jealous of its methods, awards warily. The disputes are real and small. What lies under them is a sort of recognition: the Collective will work for anyone and judges no one; the Cartel is the same proposition with the ethics removed. Neither tries to subvert the other—the Cartel does not chase terraforming secrets, the Collective does not pick at Cartel logistics—and the upshot is the calmest relationship the Cartel keeps with any power, precisely because neither expects loyalty of the other, only consistency.
 
 ## Drift Communities
 
-**Relationship**: Trade hub encounters; supply chain services; low-intensity intelligence gathering.
+A useful stranger met at the docks.
 
-Drift Communities interact with the Cartel at trade hubs and resupply points. Cartel logistics subsidiaries are among the few entities willing to service nomadic routes with unpredictable schedules. This makes Cartel shipping useful to Drift Communities despite general wariness.
+The Drift hold no fixed infrastructure and keep no fixed schedule, which makes them poor customers for most carriers and fair ones for Wayline, which will service routes others won't. So Cartel logistics and Drift convoys meet at the trade hubs—Korsen's Anchorage above all, where a Drift waystation and the Cartel's most visible bank share a concourse—and do business that suits them both and binds neither.
 
-The Cartel's interest in the Drift Communities is modest—nomadic populations represent limited markets and minimal strategic value. Intelligence gathering focuses on Drift trade routes (useful for logistics planning) and Drift Community movements (useful for avoiding interference with other operations).
-
-The relationship is low-stakes for both parties.
-
----
+The wariness is mutual and mild. The Drift, whose trust lives in memory and in reputation passed mouth to mouth, are constitutionally suspicious of an organisation that keeps everything in ledgers and shows no one its face. The Cartel, for its part, finds little here worth taking: nomadic populations are thin markets and poorer leverage. The two trade, and watch, and expect nothing of each other—which is its own kind of stable.
 
 ## Arrhenos
 
-**Relationship**: Heavily restricted financial services; mutual necessity; careful monitoring.
+The proof that it can be done.
 
-Arrhenos provides the Cartel's financial services with more restrictions than any other client relationship. Accounts are monitored; transactions are flagged for review; Arrhenos regulators maintain dedicated teams analysing Cartel-associated financial flows.
+Arrhenos extends the Cartel its financial services on tighter terms than the Cartel accepts anywhere else. Accounts are monitored; transactions are flagged; dedicated teams pick over Cartel-associated flows as a standing function of the state. The Cartel submits to all of it, because Arrhenos's neutral, quantum-secured banking is the one thing it can neither source elsewhere nor reproduce—and Arrhenos takes the business because excluding it would cost more than watching it does, and because watching it pays: the intelligence Arrhenos gleans from the Cartel's own transactions is a quiet export, sold on, selectively, to others.
 
-The Cartel accepts these restrictions because Arrhenos's financial infrastructure is essential—its quantum-encrypted transactions, neutral accounts, and institutional credibility are irreplaceable. Arrhenos accepts the Cartel's business because the Cartel's economic weight makes exclusion impractical and because monitoring the Cartel's finances generates intelligence that Arrhenos shares, selectively, with other clients.
-
-Neither party trusts the other. Both parties need the other. The arrangement persists.
+It is the cleanest refutation of everything the legend asserts. Here the Cartel is a client, not a gravity well—indispensable to Arrhenos and held at arm's length all the same, on Arrhenos's terms, paying in transparency for a service it cannot do without. The two are dark and light castings of one trade: Arrhenos arbitrages the slowness of information in the open and calls it banking; the Cartel does the same in the shadows and calls it nothing at all. They understand each other precisely, trust each other not at all, and keep an arrangement stable not because either is comfortable but because both can count.
 
 ---
 
@@ -2884,84 +2839,81 @@ Neither party trusts the other. Both parties need the other. The arrangement per
 
 # The Sable Cartel: Structure
 
-## The 13 Directors
+If you want to understand why the Cartel behaves as it does—why it is patient to the point of paralysis, why it plays every side of a conflict at once, why no one has ever brought a case that sticks—look at how it is built. The structure is not a chain of command. It is an architecture of mutual distrust, and almost everything outsiders mistake for cunning is the shape that distrust forces on it.
 
-The apex of the Cartel. Thirteen individuals (presumably) who control the organisation's strategic direction.
+## The Thirteen
 
-What is known:
+At the top sit the Directors, thirteen by convention. They are real: authority has to originate somewhere, and subsidiary directives carry more of it than any subsidiary could generate alone. Past that, the confident statements thin out fast.
 
-- They exist. Cartel communications reference Director authority; subsidiary directives trace upward to the Director level
-- They communicate through the **Veil Protocol**—an encrypted routing system that prevents identification of source or destination
-- They appear to operate by consensus; no single Director has been observed overriding the others
-- Their terms are indefinite; succession mechanisms are unknown
+Start with what the structure makes likely. The Directors communicate through the Veil Protocol, which conceals their identities and locations *from one another* as much as from the galaxy. A body whose members may never have met, cannot freely confer, and cannot verify whom they are speaking to does not move like a single mind. It moves like a standoff. The Cartel's celebrated long game—positions held for decades, opportunities left untaken—is at least as consistent with deadlock as with discipline. When no Director can be overruled and none can be certain of the others, the default outcome is that nothing happens; and "nothing happens" is easily mistaken, after the fact, for patience.
 
-What is not known:
+Analysts who have given up on naming individuals try instead to name *tendencies*. The Bureau's working model speaks of a lending tendency—conservative, protective of the Cartel's legitimate businesses and its standing with Arrhenos—pulling against an operational tendency that favours aggressive, high-margin plays and tolerates exposure. Most decisions, on this reading, are the residue of those two grinding against each other, with a large undecided middle settling wherever the last concession left it. Whether the tendencies are stable, whether they map to particular Directors, and whether all thirteen seats are even occupied, no one outside the Veil can say.
 
-- Their identities
-- Their locations
-- Whether they have ever met in person
-- Whether all 13 positions are currently occupied
-- Whether "13" is the actual number or a deliberate misdirection
+The most quoted line about them remains the Bureau's leaked 3854 C assessment: *"We cannot confirm that the Directors are human, alive, or singular entities."* Read as analysis it is an admission of failure; read as the Cartel intends it, it is a triumph. The likeliest truth is duller and more useful to know: the Directors are a small number of extraordinarily wealthy, extraordinarily careful people, divided among themselves, kept apart by their own security, and very content to be thought into something stranger.
 
-The Bureau of Internal Harmony has devoted significant resources to identifying even one Director. Their best assessment, last leaked in 3854 C: "We cannot confirm that the Directors are human, alive, or singular entities."
+## The Veil Protocol
 
-## Organisational Hierarchy
+The Veil Protocol is the Cartel's organising principle, usually described as a system of information security. It is more accurate to call it the institutional form of nobody trusting anybody.
 
-Below the Directors, the Cartel operates through descending layers of knowledge and authority:
+Each level of the organisation knows only its own operations, its immediate superior, and enough context to function. Lateral contact between equals is restricted. No one below the Directors can map more than a fragment—and, the part that matters, the design assumes that anyone at any level may be compromised, including the people who built it. The Veil does not wrap a secret core. It protects everyone from everyone.
 
-| Level | Role | Knowledge of Cartel |
-|-------|------|-------------------|
-| Directors | Strategic authority | Complete (presumably) |
-| Division Heads | Oversee major operational areas | Know their division and the Director level exists |
-| Regional Controllers | Coordinate operations across regions | Know their region and that Division Heads exist |
-| Subsidiary Directors | Run individual companies | May or may not know the parent organisation |
-| Operational Staff | Execute daily business | Most unaware they work for the Cartel |
+Two consequences follow that the Cartel would rather you not dwell on. The first is that the Veil makes the Cartel slow, and partly blind to itself: the information that would let it coordinate is the same information that would let an investigator unravel it, so it is throttled in both directions at once. The second is that subsidiaries enjoy genuine autonomy not as a gift but as a side effect—no one above them can micromanage what no one above them is permitted to see. A great deal of what the Cartel "decides" is simply thousands of local managers acting on local incentives, in a direction the structure nudges but does not steer.
 
-### The Veil Protocol
+## The hierarchy
 
-The organising principle of Cartel information security. Each level knows only what it must: its own operations, its immediate superior, and enough context to function effectively. Lateral communication between divisions at the same level is restricted. No single person below Director level can map the full organisation.
+Beneath the Directors, authority descends through layers defined less by rank than by how much each is allowed to know.
 
-The Veil Protocol extends to record-keeping. Subsidiaries maintain their own books, which are accurate for that subsidiary. The connections *between* subsidiaries are documented nowhere that investigators have found. How the Directors maintain strategic awareness across this fragmented structure is itself unknown—and the subject of considerable intelligence speculation.
+| Level | Role | What it can see |
+|-------|------|-----------------|
+| Directors | Strategic authority (such as it is) | Most—or so it is assumed |
+| Division Heads | Run a major line of business | Their division, and that the Director level exists |
+| Regional Controllers | Coordinate a division across a region | Their region, and that Division Heads exist |
+| Subsidiary Directors | Run an individual company | Their company; may not know the parent exists |
+| Operational staff | Do the actual work | Their job |
 
-## Division Structure
+The base of that pyramid is not a cadre. It is a population—tens of billions of people who load freight, underwrite policies, audit accounts, drive harvesters and answer service requests, the overwhelming majority of whom will live and die without the word "Cartel" ever applying, in their own minds, to themselves. They are dockers and actuaries and farm managers with mortgages, grievances and weekend lives. The uniform shadowy drone of the thrillers does not exist; there are only ordinary employees, most of whom would be astonished to learn whose books their wages ultimately rest in.
 
-The Cartel's operations are organised into Divisions, each headed by a Division Head. Known Divisions include:
+The cost of the design shows at the seams between the layers. A Regional Controller who cannot see across the Veil cannot easily tell an honest subsidiary from one quietly looting itself; a Division Head cannot be sure whether a rival division is competing with him by accident or by instruction. Local fiefdoms form. Drift accumulates. The Cartel spends a remarkable share of its energy simply managing itself.
 
-| Division | Portfolio |
-|----------|----------|
-| Capital | Banking, lending, financial services |
-| Transit | Shipping, logistics, infrastructure |
-| Assurance | Insurance, risk management |
-| Security | Private military contractors, protection services |
-| Commodities | Resource trading, agricultural holdings |
-| Intelligence | Information gathering, data brokerage |
-| Special Operations | Classified; presumably illicit activities |
+## The divisions
 
-Other Divisions may exist. The list above is reconstructed from subsidiary analysis and defector testimony; it is incomplete by design.
+The Cartel is organised into Divisions, each a line of business with its own Division Head, its own subsidiaries and—crucially—its own interests, which do not align. Outsiders picture the Divisions as fingers of one hand. They behave more like rival franchises of a single, disputed brand.
+
+| Division | Business | What it wants |
+|----------|----------|---------------|
+| Capital | Banking, lending, finance | Stability, repayment, and access to Arrhenos |
+| Transit | Shipping, logistics, infrastructure | Volume, open routes, and to stay indispensable to the rest |
+| Assurance | Insurance, risk | Predictable risk and quiet conflicts |
+| Security | Private military, protection | Demand for protection—which means conflict |
+| Commodities | Resources, agriculture, fez-adjacent trade | Scarcity in what it holds, glut in what it buys |
+| Intelligence | Information gathering and brokerage | To know first, and to sell to all comers |
+| Special Operations | The deniable work | Latitude, and to be feared more than used |
+
+Read down the last column and the Cartel's internal life writes itself. Assurance prices a war on the assumption that it stays contained; Security profits if it spreads; both answer, eventually, to the same Directors, and neither can simply order the other to stand down. Capital needs the Cartel to look respectable enough that Arrhenos keeps its accounts open; Special Operations needs it feared enough that no one tests it; and every season some incident forces a reckoning between the two. Intelligence sells to everyone—including, through enough intermediaries, one division's secrets to another, a practice that is technically arbitrage and functionally treason and has never quite been stamped out.
+
+These frictions are not a dysfunction the Cartel is failing to fix. They are the Cartel. Each division checks the others' ambitions; the arbitration system (below) keeps the checking from tipping into open war; and the net result—no faction able to dominate, none willing to leave—is an ugly equilibrium that has outlasted everyone who built it. The visible subsidiaries map onto this landscape: Nexus Financial is Capital's public face, Wayline Logistics is Transit's circulatory system, Aegis Security is the respectable end of Security, and so on (see [Known Subsidiaries](fronts.md)). The count of Divisions is not fixed either. Special Operations may be one division or a polite name for several, and at least one more is assumed to exist for the plain reason that some Cartel behaviour fits none of the seven.
 
 ## Origins
 
-Corporate archaeology—the attempt to trace the Cartel's history—has produced contradictory results.
+The Cartel's own account of itself is clean and almost certainly false. In the version its senior people half-believe, a circle of financiers and shippers scattered and ruined by the Cascade recognised that no single polity could be trusted with their survival, and built an institution that belonged to none of them—deliberately centreless, so that no government could seize its heart, because it had none. It is a flattering story, and it has the shape of propaganda: purposeful, principled, and conveniently impossible to check.
 
-Some analysts date the Cartel to the pre-Cascade era, arguing it emerged from the merger of several interstellar corporations during the upheavals of the mid-2700s. Evidence: certain Cartel subsidiaries can trace their corporate registrations back centuries; legal structures suggest institutional memory predating the Cascade.
+The corporate archaeology is messier and more persuasive. The Cartel's oldest subsidiaries carry registrations that predate the Cascade, a few traceable on paper to pre-collapse concerns like the Trans-Orion Mercantile, dead now a thousand years and more; others were plainly assembled later, in the disorder of the late 2800s, when orphaned companies could be had for nothing and folded into holding structures whose paperwork has long since rotted past reading. The likeliest history is not a founding at all but an accretion—a league of trading and banking firms that discovered, gradually, that acting as one when it suited them and disclaiming one another when it didn't was worth more than any of them was worth alone. There may never have been a moment when the Cartel began, only a moment when outsiders first needed a name for it.
 
-Others argue the Cartel was designed from scratch as a distributed entity sometime in the 2800s or 2900s, deliberately adopting the shell companies of defunct corporations as camouflage. Evidence: the Cartel's structure is too coherent, too deliberately obscured, to be the product of organic corporate evolution.
-
-A third school holds that the question is unanswerable by design. The Cartel's founders—whoever they were—ensured that its origins would be untraceable. The ambiguity is itself a security measure.
+The ambiguity is not, as the legend insists, a security measure installed with great foresight at the creation. It is mostly age, opportunism and bad records—conditions the Cartel later learned to value and protect, but did not invent. That it cannot prove its own origin is, by now, one more thing it would rather you found ominous than dull.
 
 ## Recruitment
 
-The Cartel does not recruit in any conventional sense. It *acquires*. Companies are purchased; their employees continue working, often unaware of the change in ultimate ownership. Talented individuals within subsidiaries are identified and promoted into roles requiring greater knowledge of the parent organisation. The transition is gradual: increased access, increased compensation, increased understanding—and increased difficulty in leaving.
+The Cartel does not recruit so much as acquire. It buys companies; their people keep working, frequently never told the ownership has changed. For the tens of billions at the base, that is the whole of it—a steady employer, decent pay, a name over the door that is not the Cartel's.
 
-Senior recruitment—for positions requiring full Cartel awareness—reportedly involves extensive vetting, psychological assessment, and a commitment understood to be permanent. Specific methods are unknown; the people who know don't discuss it.
+Movement up the Veil is a rarer thing. Individuals who show talent and discretion are offered a little more: access, money, responsibility, and with each step a clearer view of how far the structure runs. Most stop somewhere on that ladder, at the rung where the compensation still outweighs the unease. There is usually a moment—an oddly specific instruction, a payment routed through a company that has no business being involved, a colleague who knows something they shouldn't—when an employee grasps what they have been working for. The Cartel pays close attention to how people take that moment. Curiosity is not punished; it is *noted*. Equanimity is promoted.
 
-## Internal Justice
+Senior recruitment—roles requiring full awareness—reportedly involves long vetting, psychological assessment, and a commitment understood to run one way only. The specifics are not known, for the circular reason that the people who could describe them are exactly the people the process selects for silence.
 
-The Cartel maintains its own dispute resolution system. Conflicts between subsidiaries—territorial disputes, resource allocation disagreements, personnel poaching—are arbitrated by anonymous panels operating under Cartel authority.
+## Arbitration and betrayal
 
-Penalties range from financial adjustment to operational restructuring to, in extreme cases, dissolution of the offending subsidiary. The Cartel does not tolerate internal conflict that threatens operational security or strategic objectives.
+A confederation of feuding divisions and semi-autonomous subsidiaries needs some way to settle disputes without burning down the infrastructure they all share, and it has one. Conflicts—over territory, licences, poached staff, a contract two subsidiaries each thought was theirs—go to anonymous panels of senior personnel who hear the claims and impose binding outcomes. Penalties run from financial adjustment to forced restructuring to, at the far end, the quiet dissolution of an offending subsidiary. Subsidiary directors comply because the system is broadly fair within its narrow remit, and because the alternative—open conflict between Cartel assets, conducted in public—is worse for every faction at once. It is closer to medieval merchant law, or the standing arbitration of an old trading league, than to anything in a corporate handbook.
 
-Betrayal—defined as providing information about Cartel structure or operations to external parties—is treated differently. The Cartel's response to betrayal is not arbitration. Defectors are rare; those who have surfaced in other polities' protective custody tend to be anxious people with short life expectancies.
+Betrayal is the one matter arbitration does not touch. Passing information about the Cartel's structure to outsiders is handled, when it is handled at all, by elements of Special Operations—and the truth about that is mundane in a way the Cartel works hard to obscure. Most leaks are managed with lawyers, money and quietly ruined careers, because that is cheaper and surer than anything dramatic. The dramatic cases exist—defectors who surfaced in another polity's protective custody and did not last, accidents a shade too convenient—but they are rare, and their rarity is the point. The legend of what happens to traitors does far more work than Special Operations ever has to.
 
 ---
 
