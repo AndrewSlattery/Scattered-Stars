@@ -42,7 +42,7 @@ Studios compete for talent, audiences, and distribution. The competition is genu
 
 Vega content reaches audiences through:
 
-- **Direct broadcast** (quantum-linked relays to major population centres)
+- **Syndicated feeds** (priority couriers carry master feeds to hubs in major systems for local rebroadcast)
 - **Licensed distribution** (local partners in other polities)
 - **Physical media** (for regions with limited connectivity)
 - **Touring productions** (live performances, especially in premium markets)
