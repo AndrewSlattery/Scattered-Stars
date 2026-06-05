@@ -268,7 +268,7 @@ Content reaches audiences through:
 
 |Channel|Character|
 |---|---|
-|Quantum-linked broadcast|Real-time transmission to major systems|
+|Syndicated feeds|Master feeds carried by priority courier to partner hubs in major systems; rebroadcast locally on arrival, days fresh from Vega|
 |Licensed relay|Local partners retransmit to regional audiences|
 |Physical distribution|Media packages for connectivity-limited regions|
 |Touring|Live performances in external markets|

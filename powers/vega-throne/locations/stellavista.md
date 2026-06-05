@@ -57,7 +57,7 @@ Most content passes through these centres. A production shot elsewhere still req
 
 Where content leaves for audiences:
 
-- Broadcast facilities (quantum-linked transmission)
+- Broadcast and feed-syndication facilities (system transmission; master-feed uplink to courier relays)
 - Media preparation (formatting for various markets)
 - Archival (master copies preserved)
 - Rights management (tracking licences and usage)
