@@ -1,156 +1,41 @@
 # Union of Frontier Freeholds: Culture
 
-Frontier culture is what happens when people who reject authority must live together anyway.
+Frontier culture is what happens when people who reject authority have to live together anyway. It is genuinely admirable—self-reliant, plain-spoken, quick to respect competence and slow to bend a knee—and it is also, in ways it does not examine, the exact set of habits that lets the frontier be bought out from under itself one quiet deal at a time. The same creed that makes a Freeholder impossible to push around makes him constitutionally uninterested in the company town two systems over, which is not his business, and would not dream of asking who really holds the note on his neighbour's dock.
 
-## Core Values
+## The four virtues
 
-### Self-Reliance
+**Self-reliance** is the cardinal one: maintain your own gear, solve your own problems, defend your own, expect no rescue. It is real, and it is not absolute—self-reliant people still form crews and mutual-aid arrangements; the point is that you *can* stand alone, not that you must.
 
-The cardinal virtue. A person who cannot take care of themselves is a burden; one who will not is contemptible. Self-reliance means maintaining your own equipment, solving your own problems, defending yourself and yours, not expecting rescue. The value is genuine but not absolute—self-reliant people still form crews, communities, and mutual aid arrangements. The point is that you _can_ function alone, not that you must.
+**Earned respect** follows from it: standing comes from demonstrated competence, not credentials or birth. A veteran prospector's read on a claim outweighs a newcomer's degree; reputation is the currency, built by action and spent by failure. It makes an informal meritocracy with no testing apparatus—and, like every meritocracy, it quietly flatters the lucky into believing they were only skilful.
 
-### Earned Respect
+**Mind your own business** is self-reliance turned outward: if others can handle their affairs, let them. It is decency and it is a blind spot. The limit is supposed to be *when their affairs start affecting you*—but the company store, the debt peonage, the slow Cartel purchase of the commons all affect everyone eventually and no one immediately, and a culture trained to look away until a thing is its business looks away until it is too late.
 
-Respect comes from demonstrated competence, not credentials, lineage, or authority. A veteran prospector's opinion on claims matters more than a newcomer's degree. A captain who has survived the Shoals commands more respect than one who has read about them. This creates an informal meritocracy without testing apparatus or status hierarchies—reputation is the currency, built through action, eroded through failure.
+**Keep your word** is the only thing that enforces a contract where no court will. Break one and your reputation breaks with it: the prospector who cheats a partner finds no future partners, the crew that abandons a contract finds no future contracts. Social enforcement, and it works—on peers, who need each other again tomorrow. It works far less well on a creditor who needs you only once, or a corporation large enough that your opinion of it costs it nothing.
 
-### Mind Your Own Business
+## The shape of frontier life
 
-The negative formulation of self-reliance: if others can handle their affairs, let them. This applies to personal choices, business practices, governance, and morality. The limit is when others' affairs begin affecting you—then intervention becomes justified, not on principle but on interest.
+The basic unit of the mobile frontier is the **crew**—five to fifty people working, travelling, and often living together, bound by obligations (share risk and reward, back each other, leave cleanly) whose betrayal draws near-universal contempt. Around the crews sit **claim partnerships** (and their bitter, common disputes), permanent **settlement communities** that grow their own neighbourhood associations and guilds from scratch, and the great **itinerant population**—the prospectors, boom-followers, and crews-between-contracts who have no fixed home and "belong to the Freeholds collectively," which is a warm way of saying they belong to no one and no place is obliged to keep them. Settlers think the itinerants have given up; itinerants think the settlers have; both are right, and both need the other.
 
-### Keep Your Word
+Gender carries no uniform norm—different Freeholds, crews, and trades settle it differently, with the one constant that demonstrated competence outweighs it. Families adapt to mobility and risk: nuclear in settled places, extended kin-networks spread along trade routes, crew-families spanning generations, communal and compound arrangements where they suit. Children grow up early, schooled variably, assuming they will one day leave or deliberately stay.
 
-Contracts matter because nothing else enforces them. In the Mandate, broken contracts trigger legal consequences; in the Freeholds, they trigger reputation damage—and reputation is everything. A prospector who cheats a partner finds no future partners; a crew that abandons a contract finds no future contracts; a Freehold that reneges finds others unwilling to deal. The enforcement is social rather than legal, but it functions. Most of the time.
+## Belief, luck, and language
 
-## Social Structures
+The frontier is secular like most of human space, distinguished mainly by its variety—refugees from persecution, experimental communes, idiosyncratic personal practice. Its one near-universal faith is **luck**, spoken of as if it were a real and capricious thing: *luck favours the prepared; don't push your luck; his luck ran out.* It is the theology of a people whose lives genuinely turn on the roll of a survey scan. **Trade Tongue** dominates, because no Freehold is large enough to impose its own language and everyone has to deal with everyone; heritage tongues persist and fade. The slang is its own dialect of the work—a *strike* and a *bust*, to *wash* out after failure, *dust* for worthless, to *float* without destination and *settle* to stop, to *crew up* and to *claim-jump*. Frontier speech is direct to the point of bluntness: little small talk, information delivered clean, verbal agreements taken seriously, ambiguity treated as a hazard.
 
-### Crews
+## The prospector myth, and who it is for
 
-The basic social unit of mobile frontier life. A crew is 5–50 people working, travelling, and often living together. Crews may be work crews (formed for specific jobs, dissolved after), permanent crews (long-term, often ship-based), or family crews (kin groups operating as economic units).
+The core frontier story is that anyone can strike it rich: ship, gear, grit, and the lottery of discovery that ignores where you came from. The myth is not quite false—prospectors do strike it rich—and it is not remotely true on average, because most find nothing, most booms bust, and the romantic image hides the part that matters: most real discovery is corporate, not individual; equipment and survival take capital; information and timing beat luck; and the people who win usually started with advantages the story omits. **Three Falls** is the myth at full volume right now, and already turning—the individual prospectors increasingly find nothing while the corporate operations increasingly take everything. See [Three Falls](locations/three-falls.md).
 
-Crew membership creates obligations: share risk and reward, support each other in conflict, maintain each other's reputations, leave cleanly if departing. Betraying a crew is one of the few actions generating near-universal condemnation.
+The myth persists because it is useful, and it is worth being clear-eyed about whom it is useful *to*. It draws the labour the frontier runs on; it makes the failures feel deserved and the fortunes feel earned; and it supplies, free of charge, the one thing the capture needs most—a steady stream of hopeful, indebted, mobile people who believe their hardship is a wager they chose rather than a position someone else is quietly foreclosing. There is a real difference between choosing your freedom and being sold it, and the prospector myth is very good at blurring the line.
 
-### Claim Partnerships
+## Pastimes
 
-Mining and salvage often involve partnerships sharing a claim. Arrangements vary: equal shares regardless of contribution; investment shares proportional to capital; work shares proportional to labour; or hybrids. Partnership disputes are common and bitter; clear written agreements help.
+The frontier works hard in dangerous places and plays accordingly, without much condemnation: drinking (the bar is the social centre), gambling (from card games to outright claim speculation), sex work (present everywhere, legal status varying, practical acceptance near-total), combat sports (sometimes lethal). Vega serials and music are devoured despite arriving years late, and the frontier finds its own portrayal in them by turns amusing and offensive. Local culture is participatory—work songs and drinking songs and ballads of strikes and disasters, the storytelling tradition of the "long lie" (competitive exaggeration), games with house rules. And one pastime is also infrastructure: **news and gossip**, the trade in who struck what and which claim is producing and what the Mandate is doing at the border, which is why hubs like Korsen's Anchorage and Veritas Station are information exchanges before they are anything else. See [Korsen's Anchorage](locations/korsen's-anchorage.md).
 
-### Settlement Communities
+## How the frontier sees its neighbours
 
-Permanent settlements develop different structures: neighbourhood associations, trade guilds, religious congregations, cultural organisations, political factions. These resemble structures elsewhere but are generated from scratch without external framework.
-
-### The Itinerant Culture
-
-Permanent residents and itinerant workers exist in the same spaces but different social worlds. Itinerants form temporary connections, have reputations that travel with them, and may view settlers as having "given up." Settlers build permanent relationships, have reputations rooted in place, and may view itinerants as unstable. The tension is mild but present; both populations need each other without fully respecting the other's choices.
-
-## Gender and Family
-
-### Gender Norms
-
-The frontier has no uniform gender norms. Different Freeholds, crews, and industries develop different expectations—some traditionally gendered, others not, many simply pragmatic. The consistent pattern: demonstrated competence matters more than gender.
-
-### Family Structures
-
-Frontier families adapt: nuclear families (common in settled Freeholds), extended networks (kin spread across locations, connected by trade), crew-families (multiple generations), compound arrangements (polyamorous or communal). Children grow up with earlier exposure to adult responsibilities, variable education, high mobility, and the assumption they will eventually leave or stay deliberately.
-
-### Reproductive Practices
-
-No standard exists. Some Freeholds use artificial gestation; some maintain traditional childbirth; some encourage population growth, others limit it. Immigration often matters more than birth rates.
-
-## Religion and Philosophy
-
-Like most of human space, the frontier is predominantly secular with religious observance a minority interest. What distinguishes the frontier is variety: refugees from religious persecution, experimental spiritual communities, syncretic traditions, idiosyncratic personal practices.
-
-### The "Luck" Complex
-
-The closest thing to universal frontier spirituality is belief in luck. Prospectors speak of luck as if it were real: "Luck favours the prepared"; "Don't push your luck"; "His luck ran out." Whether genuine belief or metaphor varies by speaker; the vocabulary is consistent.
-
-### Settlement Traditions
-
-Long-established settlements develop local traditions: founding commemorations, harvest/production celebrations, coming-of-age rituals, death observances. These have no Union-wide status.
-
-## Language
-
-### Trade Tongue Dominance
-
-Trade Tongue is the universal medium: populations mix constantly, no Freehold is large enough to impose its language, external trade requires a common medium, immigration brings dozens of languages. Most frontier children grow up speaking Trade Tongue as primary; heritage languages persist but fade.
-
-### Frontier Slang
-
-|Term|Meaning|
-|---|---|
-|Strike|A significant resource discovery|
-|Bust|A failed claim or venture|
-|Wash|To leave the frontier after failure|
-|Dust|Worthless (a claim with dust is worthless)|
-|Float|To travel without fixed destination|
-|Settle|To establish permanent residence|
-|Crew up|To join a working group|
-|Claim jump|To take someone's claim by force or fraud|
-
-### Communication Patterns
-
-Frontier communication is direct: little small talk, relevant information delivered efficiently, questions are direct, verbal agreements are taken seriously. Time is valuable, trust is earned, ambiguity creates problems.
-
-## Entertainment and Leisure
-
-### Traditional Vices
-
-**Drinking**: Bars are social centres. Locally produced spirits, imports, questionable concoctions.
-
-**Gambling**: From card games to claim speculation; stakes from trivial to life-altering.
-
-**Sex work**: Present in every significant settlement; legal status varies, practical acceptance is near-universal.
-
-**Combat sports**: Fighting for entertainment, sometimes lethal.
-
-These are not condemned—considered reasonable leisure for people who work hard in dangerous conditions.
-
-### Vega Entertainment
-
-Vega serials and music are popular despite sporadic access. A years-behind broadcast of a popular serial still draws audiences. The frontier appears in Vega entertainment as exotic backdrop; actual residents find the portrayals amusing, offensive, or both.
-
-### Local Productions
-
-Some settlements develop local entertainment: music (work songs, drinking songs, ballads of strikes and disasters), storytelling (the tradition of the "long lie"—competitive exaggeration), athletic competitions, games with local rules. Local entertainment is participatory; everyone might join in.
-
-### The Information Economy
-
-One entertainment deserves special mention: news and gossip. Information is valuable—where are new strikes? which claims are producing? who made fortune, who lost everything? Trade hubs like Korsen's Anchorage and Veritas Station function partly as information exchanges.
-
-## The Prospector Mythos
-
-### The Dream
-
-The core frontier myth: anyone can strike it rich. A prospector with ship, equipment, and determination can find fortune. The lottery of discovery ignores credentials, origins, connections. Out there, somewhere, is the claim that changes everything.
-
-The myth is not entirely false—prospectors do strike it rich. The myth is not entirely true—most find nothing. The odds are terrible.
-
-### The Type
-
-The frontier attracts certain personalities: risk-tolerant, independent, optimistic, mobile, practical. Not everyone fits; but the culture valorises this type, and those who don't fit often leave.
-
-### The Reality
-
-The romantic image obscures practical realities: most discovery is corporate, not individual; equipment and supplies require capital; information and timing matter more than luck; the successful often had advantages the mythology ignores. The mythos persists because it serves functions: attracting labour, justifying inequality, making hardship meaningful.
-
-## Attitudes Toward Other Polities
-
-### The Mandate
-
-Viewed with contempt (represents everything the frontier rejects—centralised authority, rigid hierarchy, subjects without freedom) and wariness (powerful, borders creep, fleeing subjects sometimes bring trouble). Mandate citizens encounter skepticism; authority claims are dismissed. But Mandate goods and technology are purchased readily.
-
-### Arrhenos
-
-Viewed with pragmatic respect. Arrhenos provides needed services—banking, insurance, arbitration—without political conditions. The all-male society is considered odd but not troubling. Arrhene investors are treated as business partners: neither trusted nor distrusted beyond what the deal warrants.
-
-### Vega
-
-Viewed with mild derision (soft, performative, obsessed with appearance over substance) and considerable consumption. The contradiction is noted but not resolved.
-
-### The Drift Communities
-
-Viewed with affinity. Drift people and frontier people understand each other: both live outside territorial order, both value independence. Trade and cultural exchange at shared hubs is generally positive. Some frontier people join the Drift; some Drift people settle in Freeholds.
+It holds the **Mandate** in contempt (everything the frontier rejects—central authority, rigid hierarchy, subjects without freedom) and wariness (powerful, border always creeping, fleeing subjects sometimes bringing trouble), and buys Mandate goods anyway. It regards **Arrhenos** with pragmatic respect—needed services, no political strings, the all-male society thought odd but not troubling—and has not quite noticed how much of the frontier now runs on Arrhene credit. It finds **Vega** soft and performative and consumes it enthusiastically. And it feels a real kinship with the **Drift Communities**: both live outside territorial order, both prize independence, and they trade and mingle at shared hubs with an ease the frontier extends to almost no one else—the difference being, as a Drift captain put it, that the Drift is still looking for a fixed place and the frontier has stopped wanting one.
 
 ## Notes
 
-Frontier culture is not a single thing but a family of related patterns: self-reliance, earned respect, live-and-let-live attitudes, crew loyalties, pragmatic morality. These patterns emerge from the environment—when there's no authority to appeal to, you solve your own problems; when populations are mobile, reputation matters more than credentials; when the future is uncertain, flexibility beats rigidity.
-
-Whether the culture will persist as conditions change is uncertain. But for now, it serves those who choose it. Those who cannot adapt have other options. The frontier makes no promises.
+Frontier culture is not one thing but a family of habits—self-reliance, earned respect, live-and-let-live, crew loyalty, pragmatic morality—grown from the environment that made them: no authority to appeal to, so you solve your own problems; mobile populations, so reputation beats credentials; an uncertain future, so flexibility beats rigidity. These habits are the frontier's strength and have kept it free of tyrants for eleven centuries. They are also, precisely, the habits of a people who will not combine, will not pry, and will not act until a slow disaster is already personal—which is the one kind of people a patient buyer could ask for. The culture that cannot be ruled may yet turn out to be the culture that cannot be saved, and for the same reasons it is proud of.

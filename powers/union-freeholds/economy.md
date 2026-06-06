@@ -1,159 +1,54 @@
 # Union of Frontier Freeholds: Economy
 
-The Freehold economy is volatile by design. Boom and bust, fortune and ruin, opportunity and disaster—this is not dysfunction but character.
+The Freehold economy is volatile by design—boom and bust, fortune and ruin—and the frontier wears that volatility as a badge: this is not dysfunction, it is freedom, opportunity without security, and those who can't stand it can leave. All true. It is also the perfect soil for capture, because a people perpetually mid-gamble are a people perpetually in debt, and debt is the one chain on the frontier that needs no soldier to hold it. The Freeholds cannot be conquered. They can be financed.
 
-## Currency
+## Currency, and the company store
 
-Freeholds use the standard **quid (ϟ)** for external trade. Internal transactions vary wildly: some Freeholds issue local scrip; barter is common in smaller settlements; company towns often pay in credits redeemable only at company stores; salvage crews may operate on share systems with no currency. The quid dominates because it's trusted—an Arrhenos-verified account holds value regardless of which Freehold collapses tomorrow.
+External trade runs on the standard **quid (ϟ)**, trusted because an Arrhenos-verified account holds value no matter which Freehold collapses tomorrow. Internally, anything goes: local scrip, barter in the small settlements, share systems among salvage crews, and—on the company towns—**credits redeemable only at the company store.** That last is worth pausing on, because it is the frontier's freedom turned exactly inside out: a wage you can spend in only one place, paid by the same party that owns the housing and the dock, is a wage that does not let you leave. The Charter says a Freehold may not hold an unwilling population. The company store is how you hold one without admitting it. See [Governance](governance.md).
 
-## The Boom-Bust Cycle
+## The boom-bust cycle
 
-### How Booms Happen
+The engine of frontier wealth and frontier debt both. Someone finds something—ore, exotic biologicals, a pre-Cascade wreck, habitable space—word spreads, population surges tenfold or hundredfold in months, extraction peaks briefly, the easy pickings exhaust, the crowd flows elsewhere, and the settlement either finds a sustainable base or becomes a ghost. Most become ghosts.
 
-**Discovery**: Someone finds something valuable—mineral deposits (rare earths, heavy metals, exotic ores), biological resources (pharmaceutical or industrial applications), salvage (pre-Cascade installations, failed colonies, generation ship remnants), or habitable space.
+| Resource | Location | Status |
+|----------|----------|--------|
+| Aurite | Three Falls | Peak; population surging |
+| Salvage (generation ship) | Cassini Shoals | Rush; competitive claims |
+| Terraforming biologicals | New Providence | Decline; primary deposits exhausted |
+| Exotic organics | Mirren's Deep | Early; discovery phase |
 
-**Rush**: Word spreads; prospectors, speculators, and opportunists converge. Population surges tenfold or hundredfold within months.
+The people who reliably profit are not the prospectors but those who sell to them—merchants, equipment suppliers, lenders. *Sell shovels in a gold rush* is the frontier's oldest wisdom, and the deepest shovel-sellers of all are the ones who sell the credit. See [Three Falls](locations/three-falls.md).
 
-**Peak**: Maximum extraction rate. Prices may drop as supply increases; alternatively, the resource proves less abundant than hoped. Either way, the peak is brief.
+## The industries
 
-**Decline**: Easy pickings exhausted; extraction becomes more difficult, expensive, less profitable. Population flows elsewhere.
+**Mining and extraction** is the largest sector and the most boom-sensitive—a new strike elsewhere can empty an operation overnight; tool suppliers hold quiet leverage; claim disputes are the frontier's commonest source of violence. **Salvage** picks the bones of the Cascade and the failed colonies, coordinated loosely by the Salvage Guild Association and constantly in conflict over who owns a derelict. **Mercenary services** are a major export in their own right (see [Mercenary Companies](mercenary-companies.md)). **Manufacturing** is deliberately modest—mining gear, weapons, small ships, habitat systems, made for self-sufficiency rather than export. And the **service economy**—bars, medicine (trauma surgery is lucrative where the work maims), law, finance, information—is what separates a boom *town* from a mere work camp.
 
-**Bust or Stabilisation**: The settlement collapses entirely, or finds a sustainable economic base.
+## Trade and the deficit
 
-### Current Booms
+The Freeholds export raw and refined resources, salvage, and mercenary work, and import the high technology, luxury goods, financial services, and specialised equipment they don't make—running, structurally, a **trade deficit in everything that matters**, financed by selling what comes out of the ground and what the companies do for hire. The hubs that move it all—Korsen's Anchorage, Veritas Station, Carina Gate, the Roughneck orbital—are also, not coincidentally, where outside money and outside leverage enter the frontier most easily. See [Korsen's Anchorage](locations/korsen's-anchorage.md).
 
-|Resource|Location|Status|
-|---|---|---|
-|Aurite|Three Falls|Peak; population surging|
-|Salvage (generation ship)|Cassini Shoals|Rush; competitive claims|
-|Terraforming biologicals|New Providence|Decline; primary deposits exhausted|
-|Exotic organics|Mirren's Deep|Early; discovery phase|
+## Finance: the leash
 
-### Economics of Rush
+Here is where the frontier is actually held.
 
-Boom town economies are distorted: labour commands premium prices; services cost multiples of normal; credit is easy (lenders assume everyone strikes it rich); speculation dominates (claims trade on hope, not proven value). Those who profit most are often not prospectors but those who serve them—merchants, equipment suppliers, entertainment providers, lenders. "Sell shovels during a gold rush" is well-understood.
+**Arrhenos** provides what the Freeholds cannot generate themselves—venture capital for operations and settlements, banking, insurance, and arbitration with outcomes other Freeholds honour to protect their own access to credit. The relationship is commercial, not political: Arrhenos invests where returns justify risk and imposes no flag. But the **debt** it leaves behind is a government by other means. Arrhenos cannot repossess a Freehold—no mechanism exists—but it can refuse further credit, seize assets in Arrhenos accounts, downgrade creditworthiness, and pursue claims through an arbitration the rest of the frontier enforces socially. The result, in the Consortium's own untroubled phrase, is *discipline without coercion*: a defaulting Freehold simply finds every door narrowing until the only ones left open lead where its creditors want it to go.
 
-### Ghost Towns
+And increasingly the creditor is not Arrhenos. The **Sable Cartel** has moved into the seams—subsidiary operations underpricing local businesses, financial services competing with Arrhenos, reconstruction-style credit on reasonable terms that mature into leverage, and debts that a Freehold cannot prove are Cartel-held and cannot comfortably retire. This is the capture, and it does not look like an invasion. It looks like a good rate. See the [Sable Cartel](../sable-cartel/index.md).
 
-For every boom town that stabilises, several collapse. A ghost settlement might contain: abandoned habitats (some functional, others decomposing), stranded residents, salvage opportunities, and squatters. Some see second lives when new discoveries occur nearby; most decay.
+### The Reach that paid
 
-## Major Industries
+That the leash can be cut, one Freehold proved. In 3829 C the **Sefkir Reach** expelled every identifiable Cartel subsidiary from its systems and refused to take the credit back. The predicted ruin never came; the Reach simply grew poorer, slower, harder, and entirely its own—a standing demonstration that a Freehold can be genuinely free of the Cartel if it is willing to pay in prosperity, and a quiet study for the handful of its neighbours who have started to wonder what they are paying instead. The lesson the Reach teaches is not that freedom is impossible. It is that freedom has a price, that the price is high, and that under the Charter each Freehold faces it alone.
 
-### Mining and Extraction
+## Labour and the unfree
 
-The largest sector. Subsectors include asteroid mining (volatile, high profit potential), planetary extraction (more stable), gas harvesting from giants (capital-intensive), and ice mining from outer system bodies.
+The frontier labour market is mobile, competitive, and brutal at the bottom—wages swing tenfold within a single system, skilled hands command fortunes in a boom and starvation when the labour catches up, and unskilled labour is abundant and disposable. Conditions run from the structured (corporate mining: adequate safety, little voice) through the harsh (independent operations on share systems) to the genuinely dangerous (boom towns, where high wages are eaten by higher costs). There are no Union-wide labour standards, because there is no Union to set them. Workers organise where they have leverage—through crews, skill guilds, and salvage cooperatives—and rarely through formal unions, because there is no government to petition and no authority to make a settlement stick.
 
-Operations range from single-ship prospectors to major corporate concerns. The industry is characterised by: claim disputes (the primary inter-Freehold conflict source), labour volatility, equipment dependency (tool suppliers have leverage), and boom sensitivity (a new strike elsewhere can depopulate an operation overnight).
+And then there are the people the frontier's accounting never quite reaches: the **itinerants** who "belong to the Freeholds collectively," which is to say to no one and to no place obliged to keep them; the company-town workers in scrip; the prospectors who washed out and took a loan to try once more and now mine to service it. In the land where no one can own you, a surprising number of people have discovered they can be owned by an arrangement—and the frontier's deepest cultural reflex, *that's their business, not mine,* ensures no one is counting them.
 
-### Salvage
+## Economic culture
 
-The frontier is littered with failures: pre-Cascade installations, failed colonies, generation ships that never completed journeys or arrived at unsuitable destinations, abandoned infrastructure.
+The frontier accepts extreme inequality as natural and even just: those who strike it rich took the risk and deserve it; those who fail should have been smarter, luckier, or elsewhere; you owe obligation only to those you choose, and charity is personal, never institutional. This produces, at once, fierce mutual aid *within* the crew and flat indifference to the stranger—rugged generosity and ruthless abandonment from the same root. The economy rewards the gambler, recruits those with nothing to lose, and depends on a constant influx of hopefuls whose many failures subsidise the few wins. It is, by any external measure, neither stable nor fair nor efficient. It is free, and most who stay have made that trade with open eyes.
 
-The salvage economy involves: claim registration (some Freeholds maintain registries; many don't), competitive salvage (overlapping claims produce conflict), processing (raw salvage must be sorted, refurbished, or scrapped), and legal ambiguity (who owns a derelict?). The **Salvage Guild Association** provides informal coordination—shared claim database, dispute resolution, standard practices—but no enforcement power.
+## The challenges, named and unaddressed
 
-### Mercenary Services
-
-A major export. Revenue flows back through company headquarters and training facilities, equipment procurement, veteran retirement settlements, and associated services (medical, legal, financial).
-
-### Manufacturing
-
-Limited but present. The Freeholds produce: mining equipment, weapons and military hardware, ships (particularly small vessels), and survival/habitat systems. Manufacturing serves local needs rather than export; basic self-sufficiency is valued.
-
-### Services
-
-Boom towns and trade hubs generate service economies: entertainment (bars, gambling, sex work), equipment (sales, rental, repair), medical (trauma surgery is profitable), legal (claims registration, contracts, disputes), financial (lending, currency exchange, accounts), and information (news, rumours, market intelligence). The service economy distinguishes a boom town from a mere work camp.
-
-## Trade
-
-### Internal Trade
-
-Freeholds trade constantly: resources flow from extraction sites to processing centres; manufactured goods flow to extraction sites; services flow from established settlements to boom towns; information flows through trade hub networks. No central coordination—routes emerge organically from comparative advantage and relationships.
-
-### External Trade
-
-|Direction|Goods|
-|---|---|
-|Export|Raw materials, refined resources, mercenary services, salvage|
-|Import|High technology, luxury goods, financial services, specialised equipment|
-
-The Freeholds run a net **trade deficit** in manufactured goods and technology, financed by resource exports and mercenary contracts.
-
-**Partners**: Arrhenos (financial services, equipment financing, some technology); The Mandate (consumer goods, industrial equipment, complex technology); Vega (luxury goods, entertainment, fashion); Drift Communities (trade at shared hubs, cultural exchange).
-
-### Trade Hubs
-
-|Hub|Character|
-|---|---|
-|Korsen's Anchorage|Largest hub; neutral ground; Drift access|
-|Veritas Station|Information exchange; mercenary contracts|
-|Carina Gate|Entry point from Mandate space|
-|Roughneck orbital|Industrial processing; equipment supply|
-
-## Finance
-
-### Arrhenos Relationship
-
-Arrhenos provides financial services the Freeholds cannot generate internally: venture capital for extraction operations and settlements; banking services; insurance for ships, cargoes, operations; and arbitration with enforceable outcomes. The relationship is commercial, not political—Arrhenos invests where returns justify risk without imposing political conditions.
-
-### The Debt Question
-
-Many Freeholds and residents carry Arrhenos debt: operations financed on credit, equipment purchased on instalments, settlements built with borrowed capital. When operations succeed, debt is manageable; when they fail, consequences follow.
-
-Arrhenos cannot repossess a Freehold—no enforcement mechanism exists—but it can refuse further credit, seize assets in Arrhenos accounts, downgrade creditworthiness, and pursue claims through arbitration (which other Freeholds often honour to maintain their own credit access). The result is discipline without coercion; defaulting Freeholds find options narrowing.
-
-### Local Finance
-
-Beyond Arrhenos: local lenders (higher rates, fewer questions, sometimes predatory), equipment financing, cooperative arrangements (share systems, mutual aid, barter networks), and company credit to workers (often problematic).
-
-## Labour
-
-### The Frontier Labour Market
-
-Labour is mobile, competitive, and volatile. Workers follow opportunity; skills command premium prices in boom conditions; unskilled labour is abundant but unreliable; retention is a constant problem. Wages range from subsistence (glutted markets, company towns) to extraordinary (boom conditions, scarce skills)—the range within a single system can vary tenfold.
-
-### Conditions
-
-|Employer Type|Typical Conditions|
-|---|---|
-|Corporate mining|Structured; adequate safety; limited worker voice|
-|Independent operations|Variable; often harsh; share-based compensation|
-|Boom towns|Chaotic; high wages offset by high costs; dangerous|
-|Established Freeholds|More stable; depends on local governance|
-
-No Union-wide labour standards exist.
-
-### Labour Organisation
-
-Workers organise informally through crews (teams moving together, sharing risk and reward), guilds (skill-based associations maintaining standards), and cooperatives (worker-owned operations, particularly in salvage). Formal unions are rare—no government to petition—but collective action occurs when workers have leverage.
-
-### The Itinerant Population
-
-A significant portion is permanently mobile: prospectors chasing strikes, workers following booms, crews between contracts, refugees from failed settlements. These itinerants have no fixed home; they belong to the Freeholds collectively.
-
-## Economic Culture
-
-### Attitudes Toward Wealth
-
-Frontier culture accepts extreme inequality as natural: those who strike it rich deserve their fortune (they took the risk); those who fail deserve their fate (they should have been smarter, luckier, or elsewhere); wealth creates obligation only to those you choose to help; charity is personal, not institutional. This produces both rugged mutual aid (crews sharing everything within their group) and ruthless indifference (no one owes strangers anything).
-
-### Risk and Reward
-
-The frontier economy rewards risk-taking: conservative investments yield modest returns; speculation yields fortune or ruin; the biggest winners bet correctly on booms. This shapes who comes: those willing to gamble, those with nothing to lose, those who believe they're smarter than the odds.
-
-### The Failure Rate
-
-Most ventures fail. Most prospectors find nothing. Most boom towns bust. The economy depends on constant influx of hopefuls willing to take long odds; their failures subsidise the rare successes.
-
-## Current Challenges
-
-**Resource Depletion**: The frontier is finite. Easy discoveries have been made; remaining resources are harder to extract, less valuable, or further from infrastructure. Some argue the boom economy is approaching exhaustion; others argue new discoveries will emerge.
-
-**Mandate Pressure**: The Mandate's territorial claims expand incrementally. Border systems that were Freehold become contested; contested systems become Mandate. Economic implications—loss of resources, markets, operating space—are significant.
-
-**Cartel Penetration**: The Sable Cartel has increased presence: subsidiary operations competing with local businesses, financial services competing with Arrhenos, rumoured political influence in some Freeholds.
-
-**Infrastructure Decay**: Shared infrastructure—trade stations, navigation beacons, communication relays—requires maintenance. No central authority funds it; individual Freeholds contribute voluntarily. Voluntary contributions are declining; critical infrastructure is degrading. The coordination problem has no obvious solution.
-
-## Notes
-
-The Freehold economy is not stable, fair, or efficient by most measures. It is free. Those who cannot tolerate the volatility can leave—for the Mandate's ordered hierarchy, Arrhenos's meritocratic stability, Vega's gilded spectacle. Those who stay accept the bargain: opportunity without security, freedom without guarantee.
+The frontier knows what is happening to it; it is simply built so that knowing changes nothing. **Resource depletion**: the easy strikes are made, and what remains is deeper, poorer, and further out. **Mandate pressure**: the border creeps, and contested systems become Imperial ones. **Cartel penetration**: subsidiaries, financial services, and rumoured political influence, advancing year on year. **Infrastructure decay**: the shared beacons, relays, and trade stations that the whole frontier depends on are funded by voluntary contribution, the contributions are falling, and a commons no one is obliged to maintain is a commons being quietly abandoned. Every one of these has been raised at the Assembly. Not one has an answer, because every answer would require the one thing the Freeholds abolished on purpose: someone empowered to act for all of them at once.

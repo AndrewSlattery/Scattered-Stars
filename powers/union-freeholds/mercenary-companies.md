@@ -1,186 +1,45 @@
 # Mercenary Companies of the Frontier
 
-The Freeholds export violence. It's one of their most reliable industries.
+The Freeholds export violence; it is one of their most reliable industries. And violence for hire is, by definition, violence for sale to the highest bidder—which is the frontier's pride when the bidder is a Freehold defending its homes, and the frontier's quiet undoing when the bidder is the power patiently buying the frontier itself.
 
-## Overview
+| Metric | Value |
+|--------|-------|
+| Major companies | ~50 |
+| Minor companies | ~500 |
+| Independent operators | Thousands |
+| Combined personnel | ~8 million active |
+| Annual revenue | ~200 billion quid |
 
-|Metric|Value|
-|---|---|
-|Major companies|~50|
-|Minor companies|~500|
-|Independent operators|Thousands|
-|Combined personnel|~8 million active|
-|Annual revenue|~200 billion quid|
+Mercenary work is legal throughout the Freeholds and regulated, if at all, only by individual Freehold law.
 
-Mercenary services are legal throughout the Freeholds, regulated (if at all) only by individual Freehold law.
+## The industry
 
-## The Industry
+The frontier breeds mercenaries the way it breeds prospectors—the same risk tolerance, the same practical competence, the same absence of any authority to forbid it—and the work pays well, so it flourishes. The buyers are Freeholds (defence, anti-piracy, crisis response), corporations (asset protection, facility security, strike-breaking), other polities (deniable operations), and private individuals (security, debt collection, revenge). The richest contracts come from outside—the Mandate, Vega houses, and above all the Cartel—seeking capabilities they cannot or will not build in-house, and willing to pay for distance from what they buy.
 
-### Why Mercenaries?
+The companies sort, roughly, by how much their reputation is worth to them: **elite** firms, professional and selective and reputationally careful; **standard** contractors, competent and profit-driven and ethically variable; **low-end** operators of marginal quality; and outright **criminal fronts**, piracy and extortion wearing a mercenary label. The line between the top of that spectrum and the bottom is exactly the line along which capture happens—because a company that will do anything for the right price is a company the right buyer already owns.
 
-**Economic**: Mercenary work pays well, offers adventure, and requires skills the frontier develops naturally.
+## The major companies
 
-**Political**: No central authority prohibits it. What's illegal in the Mandate or frowned upon in Arrhenos is simply business here.
+**Iron Vanguard** is the largest and most prestigious—founded 3412 C, some 180,000 active, headquartered at Veritas Station, built on combined-arms professionalism and the selling point of refusing certain work (no operations against civilians, no clients who fail due diligence, nothing that stains the brand). Its director, **Kaela Vance**, sets the industry's tone. Its current contracts include a significant Yansieve presence—on which side, it does not say.
 
-**Cultural**: Frontier values—self-reliance, risk tolerance, practical competence—translate well to military contracting.
+**Void Reapers** (founded 3567 C, ~95,000, headquartered at the Roughneck orbital) are the aggressive end of respectable—ship seizure, boarding, hostile recovery, "aggressive negotiations"—effective, ruthless, trailing wrongful-death settlements and an Arrhenos contract ban, and **rumoured Cartel connections** that they neither confirm nor trouble to deny.
 
-**Structural**: Decentralised defence creates demand for coordination and professionalism that militias alone cannot provide.
+**Stalwart Shield** (founded 3689 C, ~60,000, headquartered at Korsen's Anchorage) are the defensive specialists—facility security, route protection, evacuation—reliable, conservative, and proud to be boring; insurers require their contracts and banks accept their protection as collateral.
 
-### The Market
+**Crimson Lance** (founded 3501 C, ~25,000, headquarters classified) does the work clients prefer not to discuss—reconnaissance, sabotage, targeted elimination, "sensitive acquisitions." No one outside the company knows where it is based; recruitment is by invitation; contracts come through intermediaries; and the rumours of Mandate intelligence ties, Cartel operations, and political assassination are met with the silence that is the firm's entire brand.
 
-Mercenary services are purchased by: Freeholds (defence supplementation, anti-piracy, crisis response), corporations (asset protection, facility security, strike-breaking), other polities (deniable operations), and individuals (personal security, debt collection, revenge).
+**Freeborn Brigade** (founded 3623 C, ~40,000, headquartered at Redoubt) is the one that won't be bought—it refuses the Mandate and anyone aligned with it, trains resistance movements, defends populations under Imperial threat, and is rumoured to work at reduced rates or for nothing where the cause is righteous enough. Its heavy involvement in supporting the Yansieve Rebellion is among the worst-kept secrets on the frontier. The Brigade is to the mercenary trade what the Sefkir Reach is to the frontier economy: proof that you can refuse the buyer, at the cost of the contracts refusing him closes off.
 
-The most lucrative contracts come from external clients—the Mandate, Vega houses, the Cartel—seeking capabilities they can't or won't develop internally.
+## The hub, and the asset among them
 
-### The Legitimacy Spectrum
+The industry's centre is **Veritas Station**, where the major companies keep permanent quarters, contracts are negotiated face to face, and the **Veritas Compact** sets the informal rules—neutrality between signatories, contract registration and arbitration, shared intelligence on non-payers, and a ban on poaching active personnel. The Compact's arbitration works because everyone benefits from its working: a company that defies a ruling finds future business hard to come by.
 
-|Category|Character|
-|---|---|
-|Elite companies|Professional, selective, reputationally conscious|
-|Standard contractors|Competent, profit-driven, variable ethics|
-|Low-end operators|Marginal quality, questionable practices|
-|Criminal fronts|Mercenary labels masking piracy, extortion, or worse|
+What the Compact does not advertise is that one of the powers permanently present at Veritas is not a frontier company at all. The Cartel's security subsidiary, **Aegis**, is headquartered there, among the independents, indistinguishable at a glance from any other firm renting quarters and registering contracts—and the standing question of which "independent" companies are quietly running Cartel work (the Void Reapers' open secret; the Crimson Lance's studied silence) is the question of how much of the frontier's own muscle the buyer has already retained. The frontier sells violence to whoever pays. It has not entirely noticed how much of it is now on a single retainer. See [Veritas Station](locations/veritas-station.md) and the [Sable Cartel](../sable-cartel/index.md).
 
-The elite companies invest heavily in distinguishing themselves from lower tiers. Reputation is their primary asset.
+## Infrastructure
 
-## Major Companies
-
-### Iron Vanguard
-
-The largest and most prestigious company.
-
-|Attribute|Value|
-|---|---|
-|Founded|3412 C|
-|Personnel|~180,000 active|
-|Headquarters|Veritas Station|
-|Specialisation|Combined arms operations|
-|Reputation|Elite; expensive; selective about contracts|
-
-Iron Vanguard sets the industry standard. Their contracts specify acceptable operations; refusal to take certain work is itself a selling point.
-
-**What they do**: Large-scale military operations, training and advisory services, crisis response, anti-piracy campaigns.
-
-**What they won't do**: Operations against civilian populations, work for clients failing due diligence, contracts damaging their reputation.
-
-**Current operations**: Several active contracts across human space (details classified); significant Yansieve presence—which side is unclear.
-
-### Void Reapers
-
-Aggressive marketing, aggressive tactics.
-
-|Attribute|Value|
-|---|---|
-|Founded|3567 C|
-|Personnel|~95,000 active|
-|Headquarters|Roughneck orbital|
-|Specialisation|Boarding operations, hostile takeovers|
-|Reputation|Effective; ruthless; expensive legal fees|
-
-Emerged from anti-piracy operations and maintain that edge. Methods are effective but generate complaints.
-
-**What they do**: Ship seizure and boarding, hostile asset recovery, strike-breaking, "aggressive negotiations."
-
-**Controversies**: Multiple wrongful death claims (settled out of court), accusations of excessive force, banned from Arrhenos contracts, rumoured Cartel connections.
-
-**Current operations**: Active in the Carina Reach and trailing border regions.
-
-### Stalwart Shield
-
-The defensive specialists.
-
-|Attribute|Value|
-|---|---|
-|Founded|3689 C|
-|Personnel|~60,000 active|
-|Headquarters|Korsen's Anchorage|
-|Specialisation|Defensive operations, facility security|
-|Reputation|Reliable; conservative; boring|
-
-Stalwart Shield doesn't make headlines. They protect things, and those things remain intact.
-
-**What they do**: Long-term facility security, trade route protection, defensive consulting, evacuation and extraction.
-
-**Their appeal**: Reliability over flash. Insurance companies often require Stalwart contracts; banks accept their protection as collateral security.
-
-**Current operations**: Numerous protection contracts; defensive consulting for several Freeholds along the Mandate border.
-
-### Crimson Lance
-
-The special operations specialists.
-
-|Attribute|Value|
-|---|---|
-|Founded|3501 C|
-|Personnel|~25,000 active|
-|Headquarters|Classified|
-|Specialisation|Special operations, intelligence|
-|Reputation|Effective; discreet; questions not answered|
-
-The Lance conducts operations their clients prefer not to discuss.
-
-**What they do**: Reconnaissance and intelligence, sabotage, targeted elimination, "sensitive acquisitions."
-
-**The mystery**: No one outside the company knows their headquarters location. Recruitment is by invitation only; contracts negotiated through intermediaries.
-
-**Rumours**: Mandate intelligence connections; Cartel operations; political assassinations. The Lance neither confirms nor denies.
-
-### Freeborn Brigade
-
-The ideological outfit.
-
-|Attribute|Value|
-|---|---|
-|Founded|3623 C|
-|Personnel|~40,000 active|
-|Headquarters|Redoubt|
-|Specialisation|Anti-Mandate operations|
-|Reputation|Committed; effective; politically complicated|
-
-The Brigade won't work for the Mandate or anyone aligned with it. Their operations frequently support populations resisting Mandate expansion.
-
-**What they do**: Training resistance movements, defensive operations against Mandate forces, evacuation of populations under Mandate threat.
-
-**Their ideology**: The frontier must remain free. The Mandate represents existential threat to that freedom. They fight it, directly or indirectly.
-
-**Complications**: The Brigade's selectivity limits their market but earns loyalty from clients who share their values. They're rumoured to operate at reduced rates or pro bono for sufficiently righteous causes.
-
-**Current operations**: Heavily involved in Yansieve Rebellion support—one of the worst-kept secrets in the frontier.
-
-## Industry Infrastructure
-
-### Veritas Station
-
-The industry's hub. Major companies maintain permanent presence; contract negotiations occur here; industry standards are informally set. The **Veritas Compact** establishes neutrality between signatory companies, contract registration and arbitration services, shared intelligence on non-payment, and prohibition on recruiting from competitors' active personnel.
-
-### Training and Recruitment
-
-Companies maintain training facilities throughout Freehold space. Recruitment draws from: former militia members, Mandate military deserters, Freehold natives seeking opportunity, mercenary families (the trade often runs in families). Quality companies have rigorous selection; lower-tier operations take anyone.
-
-### Equipment
-
-Companies procure from: Freehold manufacturers (weapons, light equipment), external suppliers (advanced technology, heavy equipment), captured stocks (opportunistically), and grey markets (when necessary). Elite companies maintain standardised equipment; lower-tier operations use whatever's available.
-
-### Legal Framework
-
-No Union-wide regulation exists. Individual Freeholds may impose requirements; most don't. The industry self-regulates through reputation: companies that violate norms find themselves excluded from desirable contracts.
-
-**The Contract Registry** at Veritas Station records agreements (voluntarily, but common practice), enabling dispute resolution and reputation tracking.
-
-## Industry Challenges
-
-**Reputation Management**: The line between legitimate mercenary work and criminality is blurry. Elite companies invest heavily in distinguishing themselves; industry-wide reputation suffers from low-tier operators.
-
-**External Pressure**: The Mandate objects to mercenary operations against its interests. External powers occasionally pressure Freeholds to restrict the industry. Such pressure has achieved little.
-
-**Internal Competition**: Companies compete for contracts, personnel, and reputation. Competition occasionally turns hostile—poaching personnel, sabotaging competitors, information warfare.
-
-**Ethical Boundaries**: What operations are acceptable? Companies draw lines differently. Elite companies refuse certain work; others will do anything for the right price. The industry debates where standards should be without reaching consensus.
+Companies recruit from former militia, Mandate deserters, frontier natives chasing opportunity, and the mercenary families in which the trade runs; the elite firms select rigorously and the low-end take anyone. They equip from Freehold manufacturers, external suppliers, captured stock, and grey markets, the best maintaining standardised kit and the rest using whatever comes to hand. There is no Union-wide regulation—individual Freeholds may impose terms and mostly don't—so the industry self-polices through reputation and the **Contract Registry** at Veritas, which records agreements voluntarily and makes a firm's history its collateral.
 
 ## Notes
 
-The mercenary industry exists because there's demand for organised violence outside state control.
-
-The Freeholds provide the legal environment—violence for hire is permitted. The frontier provides the personnel—people comfortable with risk, skilled in combat, willing to sell those skills. External powers provide the market—operations their own forces can't or won't conduct.
-
-Whether this arrangement is healthy is debated. The industry provides employment and exports; it also produces violence-for-hire that operates beyond accountability. The Union takes no position. Individual Freeholds may regulate or not. The market continues.
+The mercenary industry exists because there is demand for organised violence outside any state's control: the Freeholds supply the legal environment, the frontier supplies the people, and the outside powers supply the market. Whether that is healthy is debated where anyone debates such things; the Union takes no position, individual Freeholds regulate or don't, and the market continues. But the finale of the argument is simple and not yet widely faced. A frontier whose defence is privatised has made its defence purchasable, and the patient money that is buying the commons and the credit can buy the guns the same way—one company, one contract, one open secret at a time. The thing that makes the Freeholds impossible to conquer is for sale.

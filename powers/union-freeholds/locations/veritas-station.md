@@ -1,152 +1,41 @@
 # Veritas Station
 
-Where secrets are traded and mercenaries are hired.
+Where secrets are traded and mercenaries are hired—and where the Cartel's own soldiers rent quarters among the independents, indistinguishable at a glance. Veritas Station is the frontier doing the business it would rather not discuss: intelligence, mercenary recruitment, and the transactions that need a room no one is watching. It is neutral, famously—but where Korsen's Anchorage is neutral about *disputes*, Veritas is neutral about *ethics*, and that difference is exactly the gap a patient buyer walks through.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Type | Station |
+| Location | Veritas system, asteroid belt |
+| Population | ~3 million permanent; ~1 million transient |
+| Gravity | 0.6 G (standard throughout) |
+| Character | Information exchange; mercenary contracts; discreet services |
 
-|Attribute|Value|
-|---|---|
-|Type|Station|
-|Location|Veritas system, asteroid belt|
-|Population|~3 million permanent; ~1 million transient|
-|Gravity|0.6 G (standard throughout)|
-|Character|Information exchange; mercenary contracts; discreet services|
+## Origins and shape
 
-Veritas Station is where the frontier does business it doesn't want to discuss. Intelligence operations, mercenary recruitment, and transactions requiring discretion all pass through here.
+Founded in 3401 C by a consortium of mercenary companies wanting neutral ground for contract negotiation—competing firms share an interest in a place to negotiate, arbitrate, and set standards without bloodshed—Veritas grew quickly past its origins as intelligence services, information brokers, and the legal-financial-technical trades followed the traffic, until by 3600 C it was the frontier's intelligence hub as much as its mercenary marketplace. Unlike the Anchorage's accreted chaos, Veritas is purpose-built and legible: the public **Forum** with its contract boards, the private **Negotiation Decks**, the **Archive** of verified intelligence, the **Company Quarters** where the major firms keep permanent presence, **Intelligence Row**, and the **Discretion Levels** for business that must not be seen. The security is exceptional and pointed: everything public is recorded, everything private is protected—surveillance and counter-surveillance in the same hull.
 
-## History
+## The trades
 
-### Origins
+**Mercenary contracts** are the original business and still central: negotiation in the Decks, registration with the station, arbitration when deals sour, and the informal industry standards that the major companies set here. **Information** is the other half—raw intelligence, processed analysis, verification services, and access to the four-century **Archive**—bought by corporations, governments (deniably), companies, and the wealthy, sold by operatives, analysts, and informants. And the **Discretion Levels** sell the thing the other two need: privacy, no questions, no record, no concern for what is decided there so long as it does not threaten the station itself. Veritas does not ask what its services are for. Veritas facilitates. See [Mercenary Companies](../mercenary-companies.md).
 
-Founded in 3401 C by a consortium of mercenary companies seeking neutral ground for contract negotiation. Their reasoning: competing companies share common interests. A neutral space for negotiating contracts, arbitrating disputes, and maintaining standards would benefit everyone.
+## The asset among the independents
 
-The original **Veritas Compact** established: neutrality between signatory companies, contract registration and arbitration services, shared intelligence on non-payment and contract violations, and prohibition on recruiting from competitors' active personnel.
+The **Veritas Compact** binds the signatory companies into a workable order—neutrality among themselves, contract registration and arbitration, shared intelligence on non-payers, no poaching of active personnel—and it works because everyone benefits from its working; defy a Veritas ruling and future business dries up. Iron Vanguard's permanent presence sets the tone, and its director, **Kaela Vance**, is the most powerful individual routinely on the station; when she speaks on standards, the industry listens.
 
-### Expansion
-
-The station grew beyond mercenary origins: intelligence services established presence, information brokers followed information, clients seeking mercenary services found it convenient, related services (legal, financial, technical) followed demand. By 3600 C, Veritas had become the frontier's intelligence hub and mercenary marketplace.
-
-### The Information Economy
-
-Information proved more valuable than initially expected. The station developed: formal information exchanges, broker networks connecting buyers and sellers, verification services assessing quality, and archives preserving historical intelligence. The mercenary function remains, but information is now equally important.
-
-## Structure
-
-### The Station
-
-Purpose-built, more coherent than the Anchorage's accretion:
-
-|Section|Character|
-|---|---|
-|The Forum|Public spaces; contract boards; general commerce|
-|Negotiation Decks|Private meeting spaces; contract finalisation|
-|The Archive|Information storage and access; verification services|
-|Company Quarters|Major mercenary companies' permanent presence|
-|Intelligence Row|Where information services cluster|
-|The Discretion Levels|Private facilities for sensitive business|
-
-The layout is deliberate: public business in visible spaces; private business in secured sections.
-
-### Security
-
-Exceptional: surveillance throughout public areas, counter-surveillance in private areas, physical security preventing violence, information security preventing unauthorised access. The combination is unusual—everything public is recorded; everything private is protected.
-
-## Economy
-
-### Mercenary Contracts
-
-The station's original purpose remains central: contract negotiation (formal spaces for buyer-seller meetings), registration (recorded agreements enabling dispute resolution), arbitration (when contracts are disputed), standards (informal industry norms established here).
-
-Major companies maintain permanent quarters. Contract negotiations for significant operations occur face-to-face at Veritas.
-
-### Information Trade
-
-The other major industry: raw intelligence (observations, data, rumours), processed analysis (expert interpretation), verification services (assessing information quality), and archival access (historical records for context).
-
-Buyers: corporations, governments (deniably), mercenary companies, wealthy individuals. Sellers: intelligence operatives, analysts, informants, anyone with valuable information.
-
-### Discretion Services
-
-Some business requires more privacy than public spaces provide. The **Discretion Levels** offer: secure meeting facilities, privacy from surveillance, no questions asked. What happens there isn't the station's concern—as long as it doesn't threaten the station itself.
-
-## The Contract System
-
-### How It Works
-
-A mercenary contract at Veritas typically proceeds: initial contact (parties find each other through brokers or contract boards), negotiation (meetings in Negotiation Decks), registration (contract recorded with the station), execution (parties fulfil obligations), and resolution (successful completion or arbitration).
-
-### Contract Boards
-
-Physical and virtual listings for: available contracts (clients seeking mercenaries), available companies (mercenaries seeking work), personnel recruitment, and equipment.
-
-The boards are tiered: public boards (general information, lower-value contracts), subscription boards (detailed listings, verified parties), and private networks (high-value, sensitive work).
-
-### Arbitration
-
-When contracts are disputed: parties present cases to station arbitrators, arbitrators issue binding decisions, refusal to comply results in blacklisting. The system works because everyone benefits from having it work—parties who violate arbitration decisions find future business difficult.
-
-## The Information Exchange
-
-### How It Works
-
-Information trades like any commodity: sellers offer what they have, buyers seek what they need, brokers connect them. Prices depend on exclusivity (is this available elsewhere?), verifiability (can it be confirmed?), and utility (how valuable is it?).
-
-### Verification
-
-The station provides verification services—independent assessment of information quality. Verified information commands premium prices; unverified information is discounted. Verification isn't perfect (sophisticated disinformation sometimes passes), but it's better than nothing.
-
-### The Archive
-
-The Archive—the station's repository of verified historical intelligence—has accumulated for over four centuries, containing information that would be valuable, embarrassing, or dangerous in various hands. Access is controlled; some materials are restricted; Archive integrity is maintained fiercely.
+What the Compact does not list among its members is the one that matters most for the frontier's future. The Cartel's security subsidiary, **Aegis**, is headquartered at Veritas—among the independent companies, renting quarters, registering contracts, looking exactly like one more firm—and from that seat the line between an "independent" frontier company and a Cartel instrument becomes precisely as blurry as the Cartel wants it. The Void Reapers' rumoured Cartel connections, the Crimson Lance's studied silence, the contracts that route through intermediaries to ends no one quite traces: this is the texture of a mercenary economy with the buyer's own arm sitting at the centre of it, quietly able to hire, out-bid, or simply absorb. Veritas sells violence and discretion to whoever pays, and is too professional to notice aloud how much of both is now answering, one retainer at a time, to a single house. See the [Sable Cartel](../../sable-cartel/index.md).
 
 ## Culture
 
-### The Professional Ethos
+The station's ethos is studiously professional: business is business, personal matters stay personal, enemies elsewhere trade civilly here, and reputation rests on reliability—agreements kept, discretion maintained, deliveries made. It balances contradictory virtues by design: openness in the contract markets, where transparency makes for efficient matching, and secrecy in the Discretion Levels, where opacity is the product. And it maintains, explicitly, a neutrality about ethics—what is traded here, information and violence and silence, runs the full range from the legitimate to the monstrous, and Veritas treats them all alike. That refusal to judge is the station's selling point and, increasingly, the frontier's vulnerability: a place that will facilitate anything for anyone is a place the most patient anyone in human space has made its home.
 
-Veritas culture is professional: business is business; personal matters stay personal. Parties who are enemies elsewhere conduct transactions here civilly. Reputation depends on reliability—keeping agreements, maintaining discretion, delivering what's promised.
+## Figures
 
-### Secrecy and Openness
+**Director Kaela Vance** commands Iron Vanguard and, by presence and reputation, the station's professional tone.
 
-The station balances contradictory values: openness in contract markets (transparency enables efficient matching), secrecy in sensitive operations (discretion is the product). Most residents navigate both worlds—public faces in the Forum, private business in the Discretion Levels.
+**Broker Thresh**—no full name, identity protected, appearing in person rarely and through intermediaries usually—is among the most successful information brokers on the station: *"I sell truth. Sometimes the truth is uncomfortable. That's not my problem—that's the product."*
 
-### Moral Ambiguity
-
-The station explicitly maintains neutrality about ethics. What's traded—information, violence, discretion—has applications ranging from legitimate to criminal. Veritas doesn't ask; Veritas facilitates.
-
-## Current Issues
-
-### Cartel Influence
-
-The Sable Cartel has increased presence: information operations, mercenary contracting, possibly influence over station governance. Some view this as normal business development; others see concerning power concentration.
-
-### Quality Erosion
-
-Information quality may be declining: more disinformation circulating, verification struggling to keep up, trust in the exchange eroding. If the information economy loses credibility, the station loses a major function.
-
-### External Pressure
-
-External powers—the Mandate, Arrhenos—have expressed concern about Veritas operations. Pressure to regulate, restrict, or shut down certain activities has increased. So far, the station has resisted; the pressure continues.
-
-## Characters
-
-### Director Kaela Vance
-
-Commander of Iron Vanguard and the most powerful individual routinely present. Her company's presence sets the tone; when she speaks about industry standards, others listen.
-
-### Broker Thresh
-
-No full name used professionally. One of the station's most successful information brokers—connecting sellers with buyers across every intelligence category. Identity carefully protected; operates through intermediaries; appears in person rarely. "I sell truth. Sometimes the truth is uncomfortable. That's not my problem—that's the product."
-
-### Archive Director Cassia Morn
-
-**Age**: 71
-
-Manages the Archive. "Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision." Maintains Archive integrity fiercely; attempts to tamper have been met with permanent exclusion.
+**Archive Director Cassia Morn** (71) keeps the Archive and its integrity with a ferocity that has met every attempt at tampering with permanent exclusion: *"Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision."*
 
 ## Notes
 
-Veritas Station exists because certain functions require infrastructure: mercenary contracts need neutral negotiation space, information exchange needs verification and broker services, discretion requires physical facilities.
-
-The station provides this while maintaining studied neutrality about how it's used. The neutrality is different from Korsen's Anchorage—the Anchorage is neutral about disputes; Veritas is neutral about ethics. What happens in the Discretion Levels isn't the station's concern.
-
-This arrangement serves the industry. Whether it serves broader interests is a question Veritas doesn't ask.
+Veritas Station exists because certain functions need infrastructure—neutral space for contracts, verification for intelligence, facilities for discretion—and it provides them while keeping a studied silence about how they are used. Its neutrality is different in kind from the Anchorage's: the Anchorage refuses to take sides in a fight, while Veritas refuses to ask what the fight is *for*. That is a finer and more dangerous distinction than it sounds, because a hub that will not ask is a hub that cannot notice when its own neutrality has been bought—and the buyer, who needs exactly such a place and exactly such a silence, is already inside, paying rent, keeping the rules, and waiting.

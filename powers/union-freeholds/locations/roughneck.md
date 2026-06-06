@@ -1,161 +1,53 @@
 # Roughneck
 
-The industrial heart of the frontier.
+The industrial heart of the frontier, and the frontier's hardest lesson about itself: that freedom, left running long enough, congeals into ownership. Roughneck is what a boom looks like when it grows up—a functioning industrial economy three centuries past the rush, complete with an owning class, a working class, and a settled inequality that the freest society in human space has no mechanism, and no real wish, to disturb.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| System | Hephaestus |
+| Star | Hephaestus Prime (G8V yellow dwarf) |
+| Population | ~890 million planetary; ~150 million orbital |
+| Gravity | 1.12 standard |
+| Character | Mining, refining, manufacturing; the archetypal extraction economy |
 
-|Attribute|Value|
-|---|---|
-|System|Hephaestus|
-|Star|Hephaestus Prime (G8V yellow dwarf)|
-|Population|~890 million (planetary); ~150 million (orbital)|
-|Gravity|1.12 standard|
-|Character|Mining, refining, manufacturing; archetypal extraction economy|
+## From strike to settlement
 
-Roughneck is what the frontier looks like when it stabilises. The boom happened three centuries ago; what remains is a functioning industrial economy, complete with class tensions, labour disputes, and the perpetual smell of processing plants.
+Hephaestus was surveyed in 3456 C and dismissed as uninteresting until the prospector **Callum Vance** found, in 3512 C, that its crust held vast deposits of rare earths, heavy metals, and industrial ore—hard to reach, but enormous. The rush was textbook: explosion of population, improvised camps, claim disputes, fortunes made and lost. What made Roughneck rare is that its boom never busted: the deposits were deep enough to sustain centuries of extraction, the infrastructure for deep mining created permanent work, and processing, then manufacturing, then services followed, until by 3600 C Roughneck had become that unusual thing, a diversified industrial economy on the frontier.
 
-## History
+And with stability came the thing the frontier myth never advertises. Mining wealth concentrated—among claim-holders, facility owners, investors—while the workers watched their boom wages erode as the labour supply caught up. The **Labour Wars (3672–3689 C)** were the result: strikes, lockouts, and intermittent violence between workers and owners, ended not by victory but by compromise—worker representation in the major facilities, minimum safety standards, some profit-sharing, and no change at all to who owned what. The compromise held. Roughneck's labour relations have been tense and functional ever since, which is to say the inequality was made survivable rather than undone, because on the frontier there is no authority that could undo it and no one with the power who wished to.
 
-### The Strike
+## A class society
 
-The Hephaestus system was surveyed in 3456 C and found uninteresting—no easily accessible resources, no obvious strategic value.
+Roughneck wears the structure the rest of the frontier pretends it doesn't have:
 
-In 3512 C, prospector Callum Vance found otherwise. The planetary crust contained massive deposits of rare earths, heavy metals, and industrial ores—not easy to reach (requiring significant investment), but vast.
+| Class | Character |
+|-------|-----------|
+| Owners | Claim-holders, major shareholders, facility proprietors |
+| Management | Administrators, engineers, specialists |
+| Skilled workers | Miners, machinists, technicians |
+| Unskilled workers | General labour, service positions |
 
-The rush that followed was textbook: population explosion, improvised settlements, claim disputes, fortunes made and lost.
+Mobility exists and is limited: a skilled worker may reach management; management rarely reaches ownership; the mining fortunes have compounded down the generations into something very like an aristocracy that the frontier would be embarrassed to call one. Workers organise—skill guilds, general unions, the company councils the Labour Wars won them—and negotiate and occasionally strike, within the limits those old settlements set. The governance is a frank hybrid: an elected council for civil matters, an **industrial board** of the major facilities for economic policy, and joint committees for the overlap—a system that hands the owners disproportionate weight on the board and has resisted every worker attempt to change it. It is not tyranny. It is just power, privately held, with no state to check it and no exit for those born under it that "you can always leave" can honestly describe.
 
-### The Stabilisation
+## Geography and cities
 
-Unlike most booms, Roughneck's didn't bust. The deposits were large enough to sustain extraction for centuries. Industrial infrastructure required for deep mining created permanent employment. Processing facilities, then manufacturing, then services followed.
+A heavy, rugged world—thick air, hard terrain, survivable without suits in most places, pleasant in none. The **Scar** is the primary extraction zone, the **Covenant Basin** feeds the planet, the **Reaches** are new development, the **Wastes** are the depleted ground abandoned operations leave behind. Above, the **Roughneck orbital** (~150 million) handles processing, shipyards, and trade—and runs much of its bulk transit through Cartel **Wayline** logistics, the frontier's reflexive dependence reproduced in orbit.
 
-By 3600 C, Roughneck had become something rare: a diversified industrial economy.
+| City | Population | Character |
+|------|------------|-----------|
+| Vance | ~180 million | Planetary capital; government, services, old money |
+| Deepwell | ~120 million | Mining centre; worker culture |
+| Portside | ~95 million | Trade and transport |
+| Orbital Prime | ~45 million | Station administration, commerce |
 
-### The Labour Wars
+## Figures
 
-Stabilisation brought new problems. Mining and manufacturing generated wealth that concentrated among claim-holders, facility owners, and investors. Workers saw their boom-town wages decline as labour supply caught up with demand.
+**Governor Mira Thane** (58), elected head of the planetary council, is the career moderate both sides distrust—which she takes as proof she is doing it right: *"This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything."*
 
-The **Labour Wars** (3672–3689 C) were strikes, lockouts, and occasional violence between workers and owners. The conflicts ended in compromises: worker representation in major facilities, minimum safety standards, some profit-sharing, but no fundamental ownership change. The compromises held; Roughneck's labour relations remain tense but functional.
+**Jace Holloway Sr.** (64) has organised Roughneck's workers for forty years and thinks the old settlements have rotted: *"The owners need us more than we need them. They've forgotten that. Time to remind them."* He is planning something larger—coordination across facilities, perhaps a general strike—pending negotiations now underway.
 
-## Economy
-
-### Mining
-
-Still the foundation, though declining from peak.
-
-|Resource|Status|
-|---|---|
-|Rare earths|Declining from peak but still substantial|
-|Heavy metals|Robust production|
-|Industrial ores|Primary output|
-|Exotic materials|Minor but valuable|
-
-Employs ~15% of workforce directly, supports much of the rest.
-
-### Manufacturing
-
-Roughneck produces: mining equipment (the frontier's primary supplier), ship components, industrial machinery, consumer durables. Manufacturing has grown as extraction declined—now rivals mining in economic importance.
-
-### Services
-
-Full service economy: financial services (local banks, Arrhenos branches), healthcare (mining is dangerous; trauma surgery is excellent), education (technical training, a small university), entertainment (bars, gambling, usual frontier vices).
-
-### Trade Position
-
-Net exporter: raw materials to processing centres throughout human space, manufactured goods to other Freeholds and beyond, equipment and expertise to mining operations everywhere. Imports mainly high technology, luxury goods, and food supplements.
-
-## Society
-
-### Class Structure
-
-Visible class divisions:
-
-|Class|Character|
-|---|---|
-|Owners|Claim-holders, major shareholders, facility proprietors|
-|Management|Professional administrators, engineers, specialists|
-|Skilled workers|Miners, machinists, technicians with training|
-|Unskilled workers|General labour, service positions|
-
-Mobility exists but is limited. Skilled workers may rise to management; management rarely becomes ownership. Mining wealth has concentrated over generations.
-
-### Labour Organisation
-
-Workers organise through: guild associations (skill-based, for technical workers), general unions (broad-based, for less skilled workers), and company councils (mandated worker representation in major facilities). These negotiate with owners, advocate for workers, and occasionally strike. Labour War settlements constrain their power but didn't eliminate it.
-
-### Culture
-
-Roughneck culture reflects industrial life: work ethic (productivity is respected; idleness is not), practical skills (what you can do matters more than credentials), solidarity (workers stick together, up to a point), acceptance (this is life; complaints won't change it). Entertainment runs toward the visceral—drinking, gambling, combat sports. Vega serials are popular but viewed with awareness they're fiction.
-
-### Governance
-
-Hybrid government: elected council (proportional representation; civil matters), industrial board (major facility representatives; economic policy), and joint committees (overlapping issues). The system gives owners disproportionate industrial board influence. Workers have tried to change this; they haven't succeeded.
-
-## Geography
-
-### The Planet
-
-Heavy-gravity terrestrial world: thick atmosphere, rugged terrain, limited habitable zones. Not pleasant but not hostile—survivable without environmental suits in most areas.
-
-|Region|Character|
-|---|---|
-|The Scar|Primary extraction zone; heavily industrialised|
-|Covenant Basin|Agricultural region; feeds the population|
-|The Reaches|Frontier areas; new development|
-|The Wastes|Depleted zones; abandoned operations|
-
-### The Orbital Complex
-
-The Roughneck orbital hosts: processing facilities (raw materials processed in orbit), shipyards (construction and repair), trade platforms (external commerce), and population (~150 million permanent).
-
-The complex grew organically—a collection of stations and platforms rather than unified design. Navigation is confusing; locals know their way, visitors don't.
-
-### Major Cities
-
-|City|Population|Character|
-|---|---|---|
-|Vance (planetary capital)|~180 million|Government, services, old money|
-|Deepwell|~120 million|Mining centre; worker culture|
-|Portside|~95 million|Trade and transport hub|
-|Orbital Prime (orbital)|~45 million|Station administration, commerce|
-
-## Current Issues
-
-### Declining Extraction
-
-The easy ore is gone. Remaining deposits require deeper mining, more complex processing, higher costs. Roughneck must decide: invest heavily in continued extraction, or accelerate economic diversification. The industrial board favours extraction; diversification advocates are gaining.
-
-### Labour Tension
-
-The Labour War settlements are generations old. Workers argue conditions have eroded; owners argue profitability requires flexibility. Strike threats are increasingly serious. Whether negotiations or confrontation follows is uncertain.
-
-### Mandate Interest
-
-The Mandate has expressed interest in Roughneck's resources. Official inquiries about "trade agreements" are understood as probes for something more. Roughneck maintains studied distance; the Mandate's border is uncomfortably close.
-
-## Characters
-
-### Governor Mira Thane
-
-**Role**: Elected head of planetary council | **Age**: 58
-
-Thane has spent her career in Roughneck politics—council member, industrial board liaison, now Governor. Her philosophy: "This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything." She's considered a moderate; both sides distrust her, which she views as evidence of success.
-
-### Jace Holloway Sr.
-
-**Role**: Union organiser | **Age**: 64
-
-Holloway has organised workers for forty years. His philosophy: "The owners need us more than we need them. They've forgotten that. Time to remind them." He's planning something—larger coordination, perhaps a general strike. Whether it will happen depends on negotiations currently underway.
-
-### Director Cassian Vance
-
-**Role**: Head of Vance Industries (largest mining conglomerate) | **Age**: 71
-
-Descendant of the original prospector, Cassian controls more of Roughneck's extraction industry than anyone else. His philosophy: "My family built this world. We've earned what we have. The workers earn what they're paid, nothing more." He's old, increasingly rigid, and facing challenges from both workers and younger owners who think his approach is outdated.
+**Director Cassian Vance** (71), descendant of the original prospector, controls more of Roughneck's extraction than anyone, and controls it rigidly: *"My family built this world. We've earned what we have. The workers earn what they're paid, nothing more."* He is old, hardening, and pressed now from two sides—by the workers below and by younger owners who think his refusal to bend is what will finally break the peace.
 
 ## Notes
 
-Roughneck is the frontier grown up—and grown complicated. The boom created wealth; stabilisation distributed it unequally; the resulting tensions have never been resolved.
-
-Other Freeholds look at Roughneck as either example or warning. Example: a frontier settlement can become a functioning industrial economy. Warning: that economy will have class conflict, labour disputes, and political dysfunction.
-
-Roughneck accepts both interpretations. It's not utopia. It's not dystopia. It's a place where people work, live, and argue about who deserves what—which is, perhaps, the best the frontier can offer.
+Roughneck is the frontier grown up and grown complicated: the boom made the wealth, stabilisation distributed it unfairly, and the resulting tensions have never been resolved because there is nothing on the frontier with the standing to resolve them. Other Freeholds read it as example or as warning—a settlement *can* become a real economy; that economy *will* breed class conflict and political deadlock—and Roughneck accepts both readings. It is not a utopia and not a dystopia. It is a place where people work and live and argue about who deserves what, and where the answer is decided, as everywhere on the frontier, by who already holds it—the Mandate's settled injustice reproduced in miniature, privately, with the serial numbers of liberty still attached.

@@ -2749,70 +2749,71 @@ Betrayal is the one matter arbitration does not touch. Passing information about
 
 # Union of Frontier Freeholds
 
-A decentralised confederation where liberty is the only law that binds, and even that sits loosely.
+The Union of Frontier Freeholds was built on a single conviction: that no one should be able to make you do anything. Eleven centuries on, it is discovering the catch—that a people with no one to command them also have no one to defend them, and that the powers which need no government of their own have learned to buy a confederation that forbade itself one.
 
-|Attribute|Value|
-|---|---|
-|Population|~1.7 trillion|
-|Centre|None (rotating Chairship)|
-|Government|Minimal confederation; Freehold sovereignty|
-|Military|Decentralised militias; mercenary companies|
-|Economy|Volatile; extraction, salvage, mercenary services|
-|Character|Frontier libertarianism, self-reliance, opportunism|
+The freedom is real. This must be said plainly, because the rest of this entry complicates it. For a great many of the Union's 1.7 trillion, the Freeholds are the only place in human space they could be who they are—the prospector who answers to no one, the refugee the Mandate would have registered and the Mandate cannot reach here, the commune or corporation or one-ship family free to govern itself by whatever rule it can agree on. No emperor, no court, no Bureau, no caste. That liberty is genuine, and most who live by it chose it with their eyes open. But freedom in the Freeholds is privately owned, like everything else, and held as unevenly as the wealth and the guns. The worker paid in company scrip he can spend only at the company store is free to leave, in the sense that no law stops him and no ship will carry him. And with no authority above the single Freehold, there is no one—none—to appeal to when the master is your employer, your creditor, or the corporation that now holds your station's only dock. The Freeholds did not abolish coercion. They privatised it.
 
-The Union is not a state. It is an agreement—sometimes honoured, sometimes ignored—among thousands of independent settlements to coordinate when necessary and otherwise leave each other alone.
+| Attribute | Value |
+|-----------|-------|
+| Population | ~1.7 trillion across ~4,000 recognised Freeholds—no two alike, one vote each regardless of size, the freedom distributed as unevenly as everything else |
+| Centre | None, by deepest principle: no capital, no standing authority, only a Chair that rotates yearly by lottery and is designed to be powerless |
+| Government | A confederation that is barely one—the Charter forbids any body to tax, conscript, regulate, or command a Freehold against its will |
+| Economy | Volatile by design: extraction, salvage, mercenary services—and a deep dependence on Arrhenos banking and Cartel logistics that disciplines without a single soldier |
+| Military | No standing forces; militias and mercenary companies that make conquest pointless—and capture, by purchase, very easy |
+| Character | Frontier liberty, real and privately owned; impossible to conquer, and for exactly that reason impossible to save |
 
-## Founding & Charter
+## The Charter, and the thing it could not do
 
-The Freeholds emerged from the Cascade of 2756 C, when 847 worlds declared independence. While many sought new centralised states, the Freeholds' founders drew a different lesson: concentrated power was the problem, not the solution.
+The Freeholds emerged from the **Cascade** of 2756 C, when 847 worlds tore loose from the dying order. Where most of the survivors built new states, the Freeholds' founders drew the opposite lesson—that concentrated power was the disease, not the cure—and at the **Korsen Conference** (2761 C) they rejected fourteen proposed constitutions before adopting the **Charter of Freeholds**, a document remarkable chiefly for what it refuses to contain. No central government. No binding authority. No power to tax, conscript, or regulate. A single substantive rule—*no Freehold may claim sovereignty over an unwilling population*—and a Chair whose powers have been cut twice in eleven centuries and were never large.
 
-The **Charter of Freeholds** (2761 C) established minimal principles: no Freehold may be compelled to join or remain; no central authority may tax, conscript, or regulate internal affairs; coordination occurs only by consent; the Chairship exists to facilitate, not govern. Amended twice in eleven centuries—both reducing the Chair's powers.
+It is a magnificent refusal, and it works, after a fashion, for the purpose it was built for: nothing here can become a tyranny over the whole. What its authors did not reckon with is that the one rule they wrote is the one rule no one is empowered to enforce, and that a confederation which can give no order can also mount no defence. See [Governance](governance.md).
 
-## What Is a Freehold?
+## What a Freehold is
 
-Any settlement that: declares itself a Freehold; is recognised by at least three existing Freeholds; maintains independent governance; does not claim sovereignty over unwilling populations.
+Any settlement that declares itself one, is recognised by three others, governs itself, and claims no unwilling subjects. They range from a single mining station to a system of billions, and govern themselves by every means humans have devised—direct democracy, corporate board, commune, proprietorship, a captain's word. The Union recognises about four thousand at any time; the number shifts constantly as settlements rise, merge, splinter, and bust. The diversity is the truth the "frontier individualist" cliché hides: a Dustmote, whose people genetically *cannot leave*, and a Three Falls, where a hundred thousand strangers chase the same strike, are both Freeholds in good standing, and have almost nothing else in common. See [Locations](locations/index.md).
 
-Size varies enormously—from single mining stations to planetary or system-scale settlements. The Union contains approximately 4,000 recognised Freeholds; the number shifts constantly as settlements rise, fall, merge, or splinter.
+## The capture
 
-## Character
+The Freeholds cannot be conquered—the Mandate proved that in the Grey Incursion of 3567 C, occupying three systems and discovering there was no one to make the rest surrender. But what cannot be conquered can be *bought*, and the buyer needs no border.
 
-The Freeholds attract those who value independence over security: prospectors chasing resource strikes, ideological refugees, entrepreneurs seeking unregulated markets, criminals avoiding other jurisdictions, and families who have lived on the frontier for generations. The result is a culture celebrating self-reliance, tolerating eccentricity, and viewing external authority with deep suspicion.
+The frontier's two great neutral institutions are already the Sable Cartel's, hiding in plain sight as the helpful local fixtures everyone relies on: the indispensable bank at **Korsen's Anchorage** is the Cartel subsidiary **Nexus**, and the mercenary clearing-house at **Veritas Station** houses the Cartel's security arm, **Aegis**. The debt that funds every boom is Arrhenos's and, increasingly and unprovably, the Cartel's, and a defaulting Freehold finds its options narrowing without anyone raising a hand. The Mandate's border creeps system by system; the shared beacons and relays decay because a commons no one is obliged to fund is a commons slowly abandoned. None of this is conquest. All of it is capture, and the very statelessness that makes the Freeholds impervious to armies leaves them with no one empowered to say *no* on behalf of all.
 
-This does not mean lawlessness. Each Freehold maintains whatever governance its population accepts—some effectively anarchic, others with sophisticated legal systems. What they share is the principle that no external power may impose rules upon them.
+That it can be resisted, the **Sefkir Reach** proved: in 3829 C it expelled every identifiable Cartel subsidiary and survived, poorer and slower and entirely its own. It also proved the price, and that a Freehold pays it alone—because there is no Union to pay it for them. See [Economy](economy.md).
 
-## Economy
+## Notable worlds
 
-The Freehold economy runs on extraction: mineral wealth, exotic biologicals, salvage from failed colonies and pre-Cascade installations, and mercenary services. Resources are discovered, exploited, and exhausted; populations surge and collapse; fortunes made and lost within years. The volatility is a feature. Those who cannot tolerate uncertainty go elsewhere.
+| World | Character |
+|-------|-----------|
+| [Korsen's Anchorage](locations/korsen's-anchorage.md) | The frontier's marketplace and neutral ground—and, unexamined, the Cartel's Nexus seat |
+| [Veritas Station](locations/veritas-station.md) | The mercenary and intelligence hub; home of the Veritas Compact and, quietly, of Aegis |
+| [Dustmote](locations/dustmote.md) | The Freehold whose people remade themselves unable to leave—roots bought with freedom |
+| [Roughneck](locations/roughneck.md) | The boom that grew up: a working industrial world, complete with an owning class |
+| [Three Falls](locations/three-falls.md) | The frontier at peak rush—an aurite strike, and corporations closing on the prospectors |
 
-## Military
-
-The Union has no standing military. Freehold militias range from armed civilians to professional defenders; mercenary companies operate throughout human space; mutual defence agreements activate by invasion. This arrangement appears chaotic but has proven effective at deterring conquest—no centralised target exists, and occupation would require suppressing thousands of settlements simultaneously.
-
-## The Rotating Chairship
-
-The Chair is the Union's only central institution, rotating annually by lottery. Powers are limited to: convening the Assembly (which any Freehold may also do); mediating disputes (when both parties consent); coordinating responses to external threats (with Freehold consent); representing the Union externally (without binding authority). Most Chairs accomplish little. This is considered appropriate.
-
-## Notable Worlds
-
-|World|Character|
-|---|---|
-|Dustmote|Population genetically dependent on their star's light spectrum|
-|Roughneck|Industrial and mining hub; archetypal extraction economy|
-|Korsen's Anchorage|Major trade hub; neutral ground|
-|Veritas Station|Information exchange; mercenary contracts|
-|Three Falls|Current boom town; aurite rush|
+The Sefkir Reach—the Freehold that bought its way out of the Cartel's reach—is documented with the [Sable Cartel](../sable-cartel/index.md), where its expulsion was first felt.
 
 ## Relations
 
-| Power                  | Relationship                                                                |
-| ---------------------- | --------------------------------------------------------------------------- |
-| The Mandate            | Territorial friction; ideological opposition; refuge for fleeing subjects   |
-| Arrhenos               | Venture capital relationships; financial services without political strings |
-| Vega Commercial Throne | Consumer market; some houses maintain frontier operations                   |
-| Sable Cartel           | Complex; Cartel subsidiaries operate in Freehold space                      |
-| Neo-Solar Republic     | Limited contact; occasional technology trade                                |
-| Drift Communities      | Natural affinity; trade at shared hubs                                      |
-| Elysian Collective     | Occasional terraforming contracts                                           |
+| Power | Relationship |
+|-------|-------------|
+| The Sable Cartel | The conqueror that needs no army: it owns the commons (Nexus at Korsen's, Aegis at Veritas) and disciplines by debt what no fleet could hold. The Sefkir Reach is the one that threw it out, and paid |
+| The Mandate | Ideological enemy and creeping neighbour; the border eats Freehold systems by inches, the Grey Incursion proved occupation futile, and fleeing subjects find a door here that the Bureau cannot close. Yansieve sympathy is widespread; Freehold guns quietly run the blockade |
+| Arrhenos | The indispensable banker—venture capital, insurance, enforceable arbitration, no political strings; trusted exactly as far as a bank is trusted, and depended on rather further |
+| Vega Commercial Throne | A consumer market and a punchline; Vega serials arrive years late and are watched anyway, and a few houses run frontier operations the frontier tolerates |
+| Drift Communities | Natural kin—both stateless, both free, both meeting at Korsen's; the difference, a Drift captain once said, is that the Drift is still looking for a fixed place and the frontier has given up wanting one |
+| Neo-Solar Republic | Distant; occasional technology trade across a wide gulf of temperament |
+| Elysian Collective | Occasional terraforming contracts on worlds worth reclaiming |
+
+## Topics
+
+| Topic | Focus |
+|-------|-------|
+| [Governance](governance.md) | The Charter, the powerless Chair, and why a confederation with no one to command has no one to defend |
+| [Economy](economy.md) | Boom and bust, the quid and the company store, and the debt that disciplines what no army could |
+| [Culture](culture.md) | Self-reliance, the prospector myth, and the difference between choosing freedom and being sold it |
+| [Military](military.md) | The decentralised defence that makes conquest pointless—and capture, by purchase, easy |
+| [Mercenary Companies](mercenary-companies.md) | The frontier's exported violence, and the companies that are Cartel assets in all but name |
+| [Locations](locations/index.md) | The captured commons, the diverse worlds, and the Reach that bought its freedom back |
 
 ---
 
@@ -2821,160 +2822,45 @@ The Chair is the Union's only central institution, rotating annually by lottery.
 
 # Union of Frontier Freeholds: Culture
 
-Frontier culture is what happens when people who reject authority must live together anyway.
+Frontier culture is what happens when people who reject authority have to live together anyway. It is genuinely admirable—self-reliant, plain-spoken, quick to respect competence and slow to bend a knee—and it is also, in ways it does not examine, the exact set of habits that lets the frontier be bought out from under itself one quiet deal at a time. The same creed that makes a Freeholder impossible to push around makes him constitutionally uninterested in the company town two systems over, which is not his business, and would not dream of asking who really holds the note on his neighbour's dock.
 
-## Core Values
+## The four virtues
 
-### Self-Reliance
+**Self-reliance** is the cardinal one: maintain your own gear, solve your own problems, defend your own, expect no rescue. It is real, and it is not absolute—self-reliant people still form crews and mutual-aid arrangements; the point is that you *can* stand alone, not that you must.
 
-The cardinal virtue. A person who cannot take care of themselves is a burden; one who will not is contemptible. Self-reliance means maintaining your own equipment, solving your own problems, defending yourself and yours, not expecting rescue. The value is genuine but not absolute—self-reliant people still form crews, communities, and mutual aid arrangements. The point is that you _can_ function alone, not that you must.
+**Earned respect** follows from it: standing comes from demonstrated competence, not credentials or birth. A veteran prospector's read on a claim outweighs a newcomer's degree; reputation is the currency, built by action and spent by failure. It makes an informal meritocracy with no testing apparatus—and, like every meritocracy, it quietly flatters the lucky into believing they were only skilful.
 
-### Earned Respect
+**Mind your own business** is self-reliance turned outward: if others can handle their affairs, let them. It is decency and it is a blind spot. The limit is supposed to be *when their affairs start affecting you*—but the company store, the debt peonage, the slow Cartel purchase of the commons all affect everyone eventually and no one immediately, and a culture trained to look away until a thing is its business looks away until it is too late.
 
-Respect comes from demonstrated competence, not credentials, lineage, or authority. A veteran prospector's opinion on claims matters more than a newcomer's degree. A captain who has survived the Shoals commands more respect than one who has read about them. This creates an informal meritocracy without testing apparatus or status hierarchies—reputation is the currency, built through action, eroded through failure.
+**Keep your word** is the only thing that enforces a contract where no court will. Break one and your reputation breaks with it: the prospector who cheats a partner finds no future partners, the crew that abandons a contract finds no future contracts. Social enforcement, and it works—on peers, who need each other again tomorrow. It works far less well on a creditor who needs you only once, or a corporation large enough that your opinion of it costs it nothing.
 
-### Mind Your Own Business
+## The shape of frontier life
 
-The negative formulation of self-reliance: if others can handle their affairs, let them. This applies to personal choices, business practices, governance, and morality. The limit is when others' affairs begin affecting you—then intervention becomes justified, not on principle but on interest.
+The basic unit of the mobile frontier is the **crew**—five to fifty people working, travelling, and often living together, bound by obligations (share risk and reward, back each other, leave cleanly) whose betrayal draws near-universal contempt. Around the crews sit **claim partnerships** (and their bitter, common disputes), permanent **settlement communities** that grow their own neighbourhood associations and guilds from scratch, and the great **itinerant population**—the prospectors, boom-followers, and crews-between-contracts who have no fixed home and "belong to the Freeholds collectively," which is a warm way of saying they belong to no one and no place is obliged to keep them. Settlers think the itinerants have given up; itinerants think the settlers have; both are right, and both need the other.
 
-### Keep Your Word
+Gender carries no uniform norm—different Freeholds, crews, and trades settle it differently, with the one constant that demonstrated competence outweighs it. Families adapt to mobility and risk: nuclear in settled places, extended kin-networks spread along trade routes, crew-families spanning generations, communal and compound arrangements where they suit. Children grow up early, schooled variably, assuming they will one day leave or deliberately stay.
 
-Contracts matter because nothing else enforces them. In the Mandate, broken contracts trigger legal consequences; in the Freeholds, they trigger reputation damage—and reputation is everything. A prospector who cheats a partner finds no future partners; a crew that abandons a contract finds no future contracts; a Freehold that reneges finds others unwilling to deal. The enforcement is social rather than legal, but it functions. Most of the time.
+## Belief, luck, and language
 
-## Social Structures
+The frontier is secular like most of human space, distinguished mainly by its variety—refugees from persecution, experimental communes, idiosyncratic personal practice. Its one near-universal faith is **luck**, spoken of as if it were a real and capricious thing: *luck favours the prepared; don't push your luck; his luck ran out.* It is the theology of a people whose lives genuinely turn on the roll of a survey scan. **Trade Tongue** dominates, because no Freehold is large enough to impose its own language and everyone has to deal with everyone; heritage tongues persist and fade. The slang is its own dialect of the work—a *strike* and a *bust*, to *wash* out after failure, *dust* for worthless, to *float* without destination and *settle* to stop, to *crew up* and to *claim-jump*. Frontier speech is direct to the point of bluntness: little small talk, information delivered clean, verbal agreements taken seriously, ambiguity treated as a hazard.
 
-### Crews
+## The prospector myth, and who it is for
 
-The basic social unit of mobile frontier life. A crew is 5–50 people working, travelling, and often living together. Crews may be work crews (formed for specific jobs, dissolved after), permanent crews (long-term, often ship-based), or family crews (kin groups operating as economic units).
+The core frontier story is that anyone can strike it rich: ship, gear, grit, and the lottery of discovery that ignores where you came from. The myth is not quite false—prospectors do strike it rich—and it is not remotely true on average, because most find nothing, most booms bust, and the romantic image hides the part that matters: most real discovery is corporate, not individual; equipment and survival take capital; information and timing beat luck; and the people who win usually started with advantages the story omits. **Three Falls** is the myth at full volume right now, and already turning—the individual prospectors increasingly find nothing while the corporate operations increasingly take everything. See [Three Falls](locations/three-falls.md).
 
-Crew membership creates obligations: share risk and reward, support each other in conflict, maintain each other's reputations, leave cleanly if departing. Betraying a crew is one of the few actions generating near-universal condemnation.
+The myth persists because it is useful, and it is worth being clear-eyed about whom it is useful *to*. It draws the labour the frontier runs on; it makes the failures feel deserved and the fortunes feel earned; and it supplies, free of charge, the one thing the capture needs most—a steady stream of hopeful, indebted, mobile people who believe their hardship is a wager they chose rather than a position someone else is quietly foreclosing. There is a real difference between choosing your freedom and being sold it, and the prospector myth is very good at blurring the line.
 
-### Claim Partnerships
+## Pastimes
 
-Mining and salvage often involve partnerships sharing a claim. Arrangements vary: equal shares regardless of contribution; investment shares proportional to capital; work shares proportional to labour; or hybrids. Partnership disputes are common and bitter; clear written agreements help.
+The frontier works hard in dangerous places and plays accordingly, without much condemnation: drinking (the bar is the social centre), gambling (from card games to outright claim speculation), sex work (present everywhere, legal status varying, practical acceptance near-total), combat sports (sometimes lethal). Vega serials and music are devoured despite arriving years late, and the frontier finds its own portrayal in them by turns amusing and offensive. Local culture is participatory—work songs and drinking songs and ballads of strikes and disasters, the storytelling tradition of the "long lie" (competitive exaggeration), games with house rules. And one pastime is also infrastructure: **news and gossip**, the trade in who struck what and which claim is producing and what the Mandate is doing at the border, which is why hubs like Korsen's Anchorage and Veritas Station are information exchanges before they are anything else. See [Korsen's Anchorage](locations/korsen's-anchorage.md).
 
-### Settlement Communities
+## How the frontier sees its neighbours
 
-Permanent settlements develop different structures: neighbourhood associations, trade guilds, religious congregations, cultural organisations, political factions. These resemble structures elsewhere but are generated from scratch without external framework.
-
-### The Itinerant Culture
-
-Permanent residents and itinerant workers exist in the same spaces but different social worlds. Itinerants form temporary connections, have reputations that travel with them, and may view settlers as having "given up." Settlers build permanent relationships, have reputations rooted in place, and may view itinerants as unstable. The tension is mild but present; both populations need each other without fully respecting the other's choices.
-
-## Gender and Family
-
-### Gender Norms
-
-The frontier has no uniform gender norms. Different Freeholds, crews, and industries develop different expectations—some traditionally gendered, others not, many simply pragmatic. The consistent pattern: demonstrated competence matters more than gender.
-
-### Family Structures
-
-Frontier families adapt: nuclear families (common in settled Freeholds), extended networks (kin spread across locations, connected by trade), crew-families (multiple generations), compound arrangements (polyamorous or communal). Children grow up with earlier exposure to adult responsibilities, variable education, high mobility, and the assumption they will eventually leave or stay deliberately.
-
-### Reproductive Practices
-
-No standard exists. Some Freeholds use artificial gestation; some maintain traditional childbirth; some encourage population growth, others limit it. Immigration often matters more than birth rates.
-
-## Religion and Philosophy
-
-Like most of human space, the frontier is predominantly secular with religious observance a minority interest. What distinguishes the frontier is variety: refugees from religious persecution, experimental spiritual communities, syncretic traditions, idiosyncratic personal practices.
-
-### The "Luck" Complex
-
-The closest thing to universal frontier spirituality is belief in luck. Prospectors speak of luck as if it were real: "Luck favours the prepared"; "Don't push your luck"; "His luck ran out." Whether genuine belief or metaphor varies by speaker; the vocabulary is consistent.
-
-### Settlement Traditions
-
-Long-established settlements develop local traditions: founding commemorations, harvest/production celebrations, coming-of-age rituals, death observances. These have no Union-wide status.
-
-## Language
-
-### Trade Tongue Dominance
-
-Trade Tongue is the universal medium: populations mix constantly, no Freehold is large enough to impose its language, external trade requires a common medium, immigration brings dozens of languages. Most frontier children grow up speaking Trade Tongue as primary; heritage languages persist but fade.
-
-### Frontier Slang
-
-|Term|Meaning|
-|---|---|
-|Strike|A significant resource discovery|
-|Bust|A failed claim or venture|
-|Wash|To leave the frontier after failure|
-|Dust|Worthless (a claim with dust is worthless)|
-|Float|To travel without fixed destination|
-|Settle|To establish permanent residence|
-|Crew up|To join a working group|
-|Claim jump|To take someone's claim by force or fraud|
-
-### Communication Patterns
-
-Frontier communication is direct: little small talk, relevant information delivered efficiently, questions are direct, verbal agreements are taken seriously. Time is valuable, trust is earned, ambiguity creates problems.
-
-## Entertainment and Leisure
-
-### Traditional Vices
-
-**Drinking**: Bars are social centres. Locally produced spirits, imports, questionable concoctions.
-
-**Gambling**: From card games to claim speculation; stakes from trivial to life-altering.
-
-**Sex work**: Present in every significant settlement; legal status varies, practical acceptance is near-universal.
-
-**Combat sports**: Fighting for entertainment, sometimes lethal.
-
-These are not condemned—considered reasonable leisure for people who work hard in dangerous conditions.
-
-### Vega Entertainment
-
-Vega serials and music are popular despite sporadic access. A years-behind broadcast of a popular serial still draws audiences. The frontier appears in Vega entertainment as exotic backdrop; actual residents find the portrayals amusing, offensive, or both.
-
-### Local Productions
-
-Some settlements develop local entertainment: music (work songs, drinking songs, ballads of strikes and disasters), storytelling (the tradition of the "long lie"—competitive exaggeration), athletic competitions, games with local rules. Local entertainment is participatory; everyone might join in.
-
-### The Information Economy
-
-One entertainment deserves special mention: news and gossip. Information is valuable—where are new strikes? which claims are producing? who made fortune, who lost everything? Trade hubs like Korsen's Anchorage and Veritas Station function partly as information exchanges.
-
-## The Prospector Mythos
-
-### The Dream
-
-The core frontier myth: anyone can strike it rich. A prospector with ship, equipment, and determination can find fortune. The lottery of discovery ignores credentials, origins, connections. Out there, somewhere, is the claim that changes everything.
-
-The myth is not entirely false—prospectors do strike it rich. The myth is not entirely true—most find nothing. The odds are terrible.
-
-### The Type
-
-The frontier attracts certain personalities: risk-tolerant, independent, optimistic, mobile, practical. Not everyone fits; but the culture valorises this type, and those who don't fit often leave.
-
-### The Reality
-
-The romantic image obscures practical realities: most discovery is corporate, not individual; equipment and supplies require capital; information and timing matter more than luck; the successful often had advantages the mythology ignores. The mythos persists because it serves functions: attracting labour, justifying inequality, making hardship meaningful.
-
-## Attitudes Toward Other Polities
-
-### The Mandate
-
-Viewed with contempt (represents everything the frontier rejects—centralised authority, rigid hierarchy, subjects without freedom) and wariness (powerful, borders creep, fleeing subjects sometimes bring trouble). Mandate citizens encounter skepticism; authority claims are dismissed. But Mandate goods and technology are purchased readily.
-
-### Arrhenos
-
-Viewed with pragmatic respect. Arrhenos provides needed services—banking, insurance, arbitration—without political conditions. The all-male society is considered odd but not troubling. Arrhene investors are treated as business partners: neither trusted nor distrusted beyond what the deal warrants.
-
-### Vega
-
-Viewed with mild derision (soft, performative, obsessed with appearance over substance) and considerable consumption. The contradiction is noted but not resolved.
-
-### The Drift Communities
-
-Viewed with affinity. Drift people and frontier people understand each other: both live outside territorial order, both value independence. Trade and cultural exchange at shared hubs is generally positive. Some frontier people join the Drift; some Drift people settle in Freeholds.
+It holds the **Mandate** in contempt (everything the frontier rejects—central authority, rigid hierarchy, subjects without freedom) and wariness (powerful, border always creeping, fleeing subjects sometimes bringing trouble), and buys Mandate goods anyway. It regards **Arrhenos** with pragmatic respect—needed services, no political strings, the all-male society thought odd but not troubling—and has not quite noticed how much of the frontier now runs on Arrhene credit. It finds **Vega** soft and performative and consumes it enthusiastically. And it feels a real kinship with the **Drift Communities**: both live outside territorial order, both prize independence, and they trade and mingle at shared hubs with an ease the frontier extends to almost no one else—the difference being, as a Drift captain put it, that the Drift is still looking for a fixed place and the frontier has stopped wanting one.
 
 ## Notes
 
-Frontier culture is not a single thing but a family of related patterns: self-reliance, earned respect, live-and-let-live attitudes, crew loyalties, pragmatic morality. These patterns emerge from the environment—when there's no authority to appeal to, you solve your own problems; when populations are mobile, reputation matters more than credentials; when the future is uncertain, flexibility beats rigidity.
-
-Whether the culture will persist as conditions change is uncertain. But for now, it serves those who choose it. Those who cannot adapt have other options. The frontier makes no promises.
+Frontier culture is not one thing but a family of habits—self-reliance, earned respect, live-and-let-live, crew loyalty, pragmatic morality—grown from the environment that made them: no authority to appeal to, so you solve your own problems; mobile populations, so reputation beats credentials; an uncertain future, so flexibility beats rigidity. These habits are the frontier's strength and have kept it free of tyrants for eleven centuries. They are also, precisely, the habits of a people who will not combine, will not pry, and will not act until a slow disaster is already personal—which is the one kind of people a patient buyer could ask for. The culture that cannot be ruled may yet turn out to be the culture that cannot be saved, and for the same reasons it is proud of.
 
 ---
 
@@ -2983,163 +2869,58 @@ Whether the culture will persist as conditions change is uncertain. But for now,
 
 # Union of Frontier Freeholds: Economy
 
-The Freehold economy is volatile by design. Boom and bust, fortune and ruin, opportunity and disaster—this is not dysfunction but character.
+The Freehold economy is volatile by design—boom and bust, fortune and ruin—and the frontier wears that volatility as a badge: this is not dysfunction, it is freedom, opportunity without security, and those who can't stand it can leave. All true. It is also the perfect soil for capture, because a people perpetually mid-gamble are a people perpetually in debt, and debt is the one chain on the frontier that needs no soldier to hold it. The Freeholds cannot be conquered. They can be financed.
 
-## Currency
+## Currency, and the company store
 
-Freeholds use the standard **quid (ϟ)** for external trade. Internal transactions vary wildly: some Freeholds issue local scrip; barter is common in smaller settlements; company towns often pay in credits redeemable only at company stores; salvage crews may operate on share systems with no currency. The quid dominates because it's trusted—an Arrhenos-verified account holds value regardless of which Freehold collapses tomorrow.
+External trade runs on the standard **quid (ϟ)**, trusted because an Arrhenos-verified account holds value no matter which Freehold collapses tomorrow. Internally, anything goes: local scrip, barter in the small settlements, share systems among salvage crews, and—on the company towns—**credits redeemable only at the company store.** That last is worth pausing on, because it is the frontier's freedom turned exactly inside out: a wage you can spend in only one place, paid by the same party that owns the housing and the dock, is a wage that does not let you leave. The Charter says a Freehold may not hold an unwilling population. The company store is how you hold one without admitting it. See [Governance](governance.md).
 
-## The Boom-Bust Cycle
+## The boom-bust cycle
 
-### How Booms Happen
+The engine of frontier wealth and frontier debt both. Someone finds something—ore, exotic biologicals, a pre-Cascade wreck, habitable space—word spreads, population surges tenfold or hundredfold in months, extraction peaks briefly, the easy pickings exhaust, the crowd flows elsewhere, and the settlement either finds a sustainable base or becomes a ghost. Most become ghosts.
 
-**Discovery**: Someone finds something valuable—mineral deposits (rare earths, heavy metals, exotic ores), biological resources (pharmaceutical or industrial applications), salvage (pre-Cascade installations, failed colonies, generation ship remnants), or habitable space.
+| Resource | Location | Status |
+|----------|----------|--------|
+| Aurite | Three Falls | Peak; population surging |
+| Salvage (generation ship) | Cassini Shoals | Rush; competitive claims |
+| Terraforming biologicals | New Providence | Decline; primary deposits exhausted |
+| Exotic organics | Mirren's Deep | Early; discovery phase |
 
-**Rush**: Word spreads; prospectors, speculators, and opportunists converge. Population surges tenfold or hundredfold within months.
+The people who reliably profit are not the prospectors but those who sell to them—merchants, equipment suppliers, lenders. *Sell shovels in a gold rush* is the frontier's oldest wisdom, and the deepest shovel-sellers of all are the ones who sell the credit. See [Three Falls](locations/three-falls.md).
 
-**Peak**: Maximum extraction rate. Prices may drop as supply increases; alternatively, the resource proves less abundant than hoped. Either way, the peak is brief.
+## The industries
 
-**Decline**: Easy pickings exhausted; extraction becomes more difficult, expensive, less profitable. Population flows elsewhere.
+**Mining and extraction** is the largest sector and the most boom-sensitive—a new strike elsewhere can empty an operation overnight; tool suppliers hold quiet leverage; claim disputes are the frontier's commonest source of violence. **Salvage** picks the bones of the Cascade and the failed colonies, coordinated loosely by the Salvage Guild Association and constantly in conflict over who owns a derelict. **Mercenary services** are a major export in their own right (see [Mercenary Companies](mercenary-companies.md)). **Manufacturing** is deliberately modest—mining gear, weapons, small ships, habitat systems, made for self-sufficiency rather than export. And the **service economy**—bars, medicine (trauma surgery is lucrative where the work maims), law, finance, information—is what separates a boom *town* from a mere work camp.
 
-**Bust or Stabilisation**: The settlement collapses entirely, or finds a sustainable economic base.
+## Trade and the deficit
 
-### Current Booms
+The Freeholds export raw and refined resources, salvage, and mercenary work, and import the high technology, luxury goods, financial services, and specialised equipment they don't make—running, structurally, a **trade deficit in everything that matters**, financed by selling what comes out of the ground and what the companies do for hire. The hubs that move it all—Korsen's Anchorage, Veritas Station, Carina Gate, the Roughneck orbital—are also, not coincidentally, where outside money and outside leverage enter the frontier most easily. See [Korsen's Anchorage](locations/korsen's-anchorage.md).
 
-|Resource|Location|Status|
-|---|---|---|
-|Aurite|Three Falls|Peak; population surging|
-|Salvage (generation ship)|Cassini Shoals|Rush; competitive claims|
-|Terraforming biologicals|New Providence|Decline; primary deposits exhausted|
-|Exotic organics|Mirren's Deep|Early; discovery phase|
+## Finance: the leash
 
-### Economics of Rush
+Here is where the frontier is actually held.
 
-Boom town economies are distorted: labour commands premium prices; services cost multiples of normal; credit is easy (lenders assume everyone strikes it rich); speculation dominates (claims trade on hope, not proven value). Those who profit most are often not prospectors but those who serve them—merchants, equipment suppliers, entertainment providers, lenders. "Sell shovels during a gold rush" is well-understood.
+**Arrhenos** provides what the Freeholds cannot generate themselves—venture capital for operations and settlements, banking, insurance, and arbitration with outcomes other Freeholds honour to protect their own access to credit. The relationship is commercial, not political: Arrhenos invests where returns justify risk and imposes no flag. But the **debt** it leaves behind is a government by other means. Arrhenos cannot repossess a Freehold—no mechanism exists—but it can refuse further credit, seize assets in Arrhenos accounts, downgrade creditworthiness, and pursue claims through an arbitration the rest of the frontier enforces socially. The result, in the Consortium's own untroubled phrase, is *discipline without coercion*: a defaulting Freehold simply finds every door narrowing until the only ones left open lead where its creditors want it to go.
 
-### Ghost Towns
+And increasingly the creditor is not Arrhenos. The **Sable Cartel** has moved into the seams—subsidiary operations underpricing local businesses, financial services competing with Arrhenos, reconstruction-style credit on reasonable terms that mature into leverage, and debts that a Freehold cannot prove are Cartel-held and cannot comfortably retire. This is the capture, and it does not look like an invasion. It looks like a good rate. See the [Sable Cartel](../sable-cartel/index.md).
 
-For every boom town that stabilises, several collapse. A ghost settlement might contain: abandoned habitats (some functional, others decomposing), stranded residents, salvage opportunities, and squatters. Some see second lives when new discoveries occur nearby; most decay.
+### The Reach that paid
 
-## Major Industries
+That the leash can be cut, one Freehold proved. In 3829 C the **Sefkir Reach** expelled every identifiable Cartel subsidiary from its systems and refused to take the credit back. The predicted ruin never came; the Reach simply grew poorer, slower, harder, and entirely its own—a standing demonstration that a Freehold can be genuinely free of the Cartel if it is willing to pay in prosperity, and a quiet study for the handful of its neighbours who have started to wonder what they are paying instead. The lesson the Reach teaches is not that freedom is impossible. It is that freedom has a price, that the price is high, and that under the Charter each Freehold faces it alone.
 
-### Mining and Extraction
+## Labour and the unfree
 
-The largest sector. Subsectors include asteroid mining (volatile, high profit potential), planetary extraction (more stable), gas harvesting from giants (capital-intensive), and ice mining from outer system bodies.
+The frontier labour market is mobile, competitive, and brutal at the bottom—wages swing tenfold within a single system, skilled hands command fortunes in a boom and starvation when the labour catches up, and unskilled labour is abundant and disposable. Conditions run from the structured (corporate mining: adequate safety, little voice) through the harsh (independent operations on share systems) to the genuinely dangerous (boom towns, where high wages are eaten by higher costs). There are no Union-wide labour standards, because there is no Union to set them. Workers organise where they have leverage—through crews, skill guilds, and salvage cooperatives—and rarely through formal unions, because there is no government to petition and no authority to make a settlement stick.
 
-Operations range from single-ship prospectors to major corporate concerns. The industry is characterised by: claim disputes (the primary inter-Freehold conflict source), labour volatility, equipment dependency (tool suppliers have leverage), and boom sensitivity (a new strike elsewhere can depopulate an operation overnight).
+And then there are the people the frontier's accounting never quite reaches: the **itinerants** who "belong to the Freeholds collectively," which is to say to no one and to no place obliged to keep them; the company-town workers in scrip; the prospectors who washed out and took a loan to try once more and now mine to service it. In the land where no one can own you, a surprising number of people have discovered they can be owned by an arrangement—and the frontier's deepest cultural reflex, *that's their business, not mine,* ensures no one is counting them.
 
-### Salvage
+## Economic culture
 
-The frontier is littered with failures: pre-Cascade installations, failed colonies, generation ships that never completed journeys or arrived at unsuitable destinations, abandoned infrastructure.
+The frontier accepts extreme inequality as natural and even just: those who strike it rich took the risk and deserve it; those who fail should have been smarter, luckier, or elsewhere; you owe obligation only to those you choose, and charity is personal, never institutional. This produces, at once, fierce mutual aid *within* the crew and flat indifference to the stranger—rugged generosity and ruthless abandonment from the same root. The economy rewards the gambler, recruits those with nothing to lose, and depends on a constant influx of hopefuls whose many failures subsidise the few wins. It is, by any external measure, neither stable nor fair nor efficient. It is free, and most who stay have made that trade with open eyes.
 
-The salvage economy involves: claim registration (some Freeholds maintain registries; many don't), competitive salvage (overlapping claims produce conflict), processing (raw salvage must be sorted, refurbished, or scrapped), and legal ambiguity (who owns a derelict?). The **Salvage Guild Association** provides informal coordination—shared claim database, dispute resolution, standard practices—but no enforcement power.
+## The challenges, named and unaddressed
 
-### Mercenary Services
-
-A major export. Revenue flows back through company headquarters and training facilities, equipment procurement, veteran retirement settlements, and associated services (medical, legal, financial).
-
-### Manufacturing
-
-Limited but present. The Freeholds produce: mining equipment, weapons and military hardware, ships (particularly small vessels), and survival/habitat systems. Manufacturing serves local needs rather than export; basic self-sufficiency is valued.
-
-### Services
-
-Boom towns and trade hubs generate service economies: entertainment (bars, gambling, sex work), equipment (sales, rental, repair), medical (trauma surgery is profitable), legal (claims registration, contracts, disputes), financial (lending, currency exchange, accounts), and information (news, rumours, market intelligence). The service economy distinguishes a boom town from a mere work camp.
-
-## Trade
-
-### Internal Trade
-
-Freeholds trade constantly: resources flow from extraction sites to processing centres; manufactured goods flow to extraction sites; services flow from established settlements to boom towns; information flows through trade hub networks. No central coordination—routes emerge organically from comparative advantage and relationships.
-
-### External Trade
-
-|Direction|Goods|
-|---|---|
-|Export|Raw materials, refined resources, mercenary services, salvage|
-|Import|High technology, luxury goods, financial services, specialised equipment|
-
-The Freeholds run a net **trade deficit** in manufactured goods and technology, financed by resource exports and mercenary contracts.
-
-**Partners**: Arrhenos (financial services, equipment financing, some technology); The Mandate (consumer goods, industrial equipment, complex technology); Vega (luxury goods, entertainment, fashion); Drift Communities (trade at shared hubs, cultural exchange).
-
-### Trade Hubs
-
-|Hub|Character|
-|---|---|
-|Korsen's Anchorage|Largest hub; neutral ground; Drift access|
-|Veritas Station|Information exchange; mercenary contracts|
-|Carina Gate|Entry point from Mandate space|
-|Roughneck orbital|Industrial processing; equipment supply|
-
-## Finance
-
-### Arrhenos Relationship
-
-Arrhenos provides financial services the Freeholds cannot generate internally: venture capital for extraction operations and settlements; banking services; insurance for ships, cargoes, operations; and arbitration with enforceable outcomes. The relationship is commercial, not political—Arrhenos invests where returns justify risk without imposing political conditions.
-
-### The Debt Question
-
-Many Freeholds and residents carry Arrhenos debt: operations financed on credit, equipment purchased on instalments, settlements built with borrowed capital. When operations succeed, debt is manageable; when they fail, consequences follow.
-
-Arrhenos cannot repossess a Freehold—no enforcement mechanism exists—but it can refuse further credit, seize assets in Arrhenos accounts, downgrade creditworthiness, and pursue claims through arbitration (which other Freeholds often honour to maintain their own credit access). The result is discipline without coercion; defaulting Freeholds find options narrowing.
-
-### Local Finance
-
-Beyond Arrhenos: local lenders (higher rates, fewer questions, sometimes predatory), equipment financing, cooperative arrangements (share systems, mutual aid, barter networks), and company credit to workers (often problematic).
-
-## Labour
-
-### The Frontier Labour Market
-
-Labour is mobile, competitive, and volatile. Workers follow opportunity; skills command premium prices in boom conditions; unskilled labour is abundant but unreliable; retention is a constant problem. Wages range from subsistence (glutted markets, company towns) to extraordinary (boom conditions, scarce skills)—the range within a single system can vary tenfold.
-
-### Conditions
-
-|Employer Type|Typical Conditions|
-|---|---|
-|Corporate mining|Structured; adequate safety; limited worker voice|
-|Independent operations|Variable; often harsh; share-based compensation|
-|Boom towns|Chaotic; high wages offset by high costs; dangerous|
-|Established Freeholds|More stable; depends on local governance|
-
-No Union-wide labour standards exist.
-
-### Labour Organisation
-
-Workers organise informally through crews (teams moving together, sharing risk and reward), guilds (skill-based associations maintaining standards), and cooperatives (worker-owned operations, particularly in salvage). Formal unions are rare—no government to petition—but collective action occurs when workers have leverage.
-
-### The Itinerant Population
-
-A significant portion is permanently mobile: prospectors chasing strikes, workers following booms, crews between contracts, refugees from failed settlements. These itinerants have no fixed home; they belong to the Freeholds collectively.
-
-## Economic Culture
-
-### Attitudes Toward Wealth
-
-Frontier culture accepts extreme inequality as natural: those who strike it rich deserve their fortune (they took the risk); those who fail deserve their fate (they should have been smarter, luckier, or elsewhere); wealth creates obligation only to those you choose to help; charity is personal, not institutional. This produces both rugged mutual aid (crews sharing everything within their group) and ruthless indifference (no one owes strangers anything).
-
-### Risk and Reward
-
-The frontier economy rewards risk-taking: conservative investments yield modest returns; speculation yields fortune or ruin; the biggest winners bet correctly on booms. This shapes who comes: those willing to gamble, those with nothing to lose, those who believe they're smarter than the odds.
-
-### The Failure Rate
-
-Most ventures fail. Most prospectors find nothing. Most boom towns bust. The economy depends on constant influx of hopefuls willing to take long odds; their failures subsidise the rare successes.
-
-## Current Challenges
-
-**Resource Depletion**: The frontier is finite. Easy discoveries have been made; remaining resources are harder to extract, less valuable, or further from infrastructure. Some argue the boom economy is approaching exhaustion; others argue new discoveries will emerge.
-
-**Mandate Pressure**: The Mandate's territorial claims expand incrementally. Border systems that were Freehold become contested; contested systems become Mandate. Economic implications—loss of resources, markets, operating space—are significant.
-
-**Cartel Penetration**: The Sable Cartel has increased presence: subsidiary operations competing with local businesses, financial services competing with Arrhenos, rumoured political influence in some Freeholds.
-
-**Infrastructure Decay**: Shared infrastructure—trade stations, navigation beacons, communication relays—requires maintenance. No central authority funds it; individual Freeholds contribute voluntarily. Voluntary contributions are declining; critical infrastructure is degrading. The coordination problem has no obvious solution.
-
-## Notes
-
-The Freehold economy is not stable, fair, or efficient by most measures. It is free. Those who cannot tolerate the volatility can leave—for the Mandate's ordered hierarchy, Arrhenos's meritocratic stability, Vega's gilded spectacle. Those who stay accept the bargain: opportunity without security, freedom without guarantee.
+The frontier knows what is happening to it; it is simply built so that knowing changes nothing. **Resource depletion**: the easy strikes are made, and what remains is deeper, poorer, and further out. **Mandate pressure**: the border creeps, and contested systems become Imperial ones. **Cartel penetration**: subsidiaries, financial services, and rumoured political influence, advancing year on year. **Infrastructure decay**: the shared beacons, relays, and trade stations that the whole frontier depends on are funded by voluntary contribution, the contributions are falling, and a commons no one is obliged to maintain is a commons being quietly abandoned. Every one of these has been raised at the Assembly. Not one has an answer, because every answer would require the one thing the Freeholds abolished on purpose: someone empowered to act for all of them at once.
 
 ---
 
@@ -3148,126 +2929,64 @@ The Freehold economy is not stable, fair, or efficient by most measures. It is f
 
 # Union of Frontier Freeholds: Governance
 
-The Freeholds are governed by a principle rather than an institution: no external authority may compel a Freehold to do anything.
+The Freeholds are governed by a principle rather than an institution: *no external authority may compel a Freehold to do anything.* It is a magnificent refusal, and it has held for eleven centuries against the only threat its authors feared—a power rising from within to rule the whole. It has no answer at all to the threat that actually arrived, which does not need to rule the Freeholds, only to buy them, one at a time, while the Charter guarantees that no one may organise the defence.
 
 ## The Charter of Freeholds
 
-### Origins
+### The great refusal
 
-The Charter emerged from necessity. After the Cascade (2756 C), newly independent frontier settlements needed to coordinate against external threats, resolve disputes, and maintain trade—without central authority.
+After the Cascade (2756 C), the newly independent frontier needed to coordinate against threats, settle disputes, and keep trade moving—without recreating the centralised power it had just escaped. The **Korsen Conference** (2761 C) gathered 340 settlement representatives for seven months; they rejected fourteen proposed constitutions before adopting a document defined by what it leaves out. The Charter establishes no government and creates no binding authority. It defines what a Freehold is, and fences what the Chair may do, and stops.
 
-The **Korsen Conference** (2761 C) brought 340 settlement representatives together for seven months; they rejected fourteen proposed constitutions before adopting a document remarkable for what it did not contain. The Charter establishes no government, creates no binding authority—simply defines what the Union is and what the Chair may do.
+### Core provisions
 
-### Core Provisions
+- **Article I (Definition).** A Freehold is any settlement that declares itself one, is recognised by three existing Freeholds, governs itself, and *does not claim sovereignty over an unwilling population.* That last clause is the Charter's only substantive moral commitment—and, as it turns out, the only rule no one is empowered to enforce.
+- **Article II (Sovereignty).** Each Freehold governs itself by its own laws; no Freehold, bloc, or Union institution may impose laws, levy taxes, conscript, or regulate another's internal affairs. A Freehold may be a democracy, a dictatorship, a commune, or a corporation. The Union takes no position.
+- **Article III (The Chair).** The Chair may convene the Assembly, mediate when all parties consent, coordinate against external threats when Freeholds consent, and represent the Union abroad without binding anyone. It may not command, speak for Union policy, raise revenue, or hold a soldier.
+- **Article IV (Amendment).** Two-thirds of recognised Freeholds, one vote each regardless of population.
 
-**Article I (Definition)**: A Freehold is any settlement that declares itself one, is recognised by three existing Freeholds, maintains independent governance, and does not claim sovereignty over unwilling populations. The fourth clause is the only substantive requirement—a settlement holding slaves or subjecting unwilling populations to its rule is not a Freehold and may not claim the Union's protection.
+### The amendments
 
-**Article II (Sovereignty)**: Each Freehold governs itself according to its own laws. No Freehold, combination of Freeholds, or Union institution may impose laws, levy taxes, conscript residents, or regulate internal affairs of another. A Freehold may be democracy, dictatorship, commune, or corporation—the Union takes no position.
+Both amendments in eleven centuries *reduced* the Chair. The **First** (2894 C) barred it from negotiating any treaty binding on Freeholds without each affected Freehold's prior consent. The **Second** (3156 C) stripped its power to declare emergency coordination and require force contributions, after two uses in a century were judged too easily abused. Every proposal to *expand* the Chair has failed. The frontier has spent eleven hundred years making sure no one can lead it, and is about to learn the cost of having succeeded.
 
-**Article III (The Chair)**: The Chair may convene the Assembly, mediate disputes when all parties consent, coordinate responses to external threats when Freeholds consent, and represent the Union externally without binding authority. The Chair may not bind any Freehold, speak for the Union on policy, command military forces, or collect revenue.
+## The dead letter
 
-**Article IV (Amendment)**: Requires two-thirds approval of recognised Freeholds, one vote each regardless of population.
+Article I forbids sovereignty over the unwilling—the nearest thing the Freeholds have to a conscience. In practice it is unenforceable, because enforcement is exactly what the Charter abolished. A company town that pays in scrip its workers can spend only at the company store, a creditor that owns a station's only dock, a Dustmote whose founders bound their descendants by their genes—each is, by any honest reading, a sovereignty over people who cannot meaningfully leave. The Charter says they are not Freeholds. No one is empowered to act on the saying. When the question is forced—oppressive governance, residents who cannot get out, a conflict that spills over—the Union does what it always does: recognises whoever holds effective control, and calls it pragmatism. The one rule is a sentence everyone agrees with and no one will lift a hand to keep.
 
-### Amendments
+## The rotating Chairship
 
-**First Amendment (2894 C)**: Chair may not negotiate treaties binding upon Freeholds without explicit prior consent from each affected Freehold.
+The Chair rotates annually, by lottery, among Freeholds that have not held it in forty years—equal odds regardless of size, a deliberate bar against the large dominating the small. Selected Freeholds may decline; most accept. The chairing Freehold supplies a Speaker, a Mediator-General, a Coordinator, and a small staff, and works from whatever rooms it has; there is no capital, and never has been.
 
-**Second Amendment (3156 C)**: Removed the Chair's power to "declare emergency coordination" and require Freehold force contributions—deemed too easily abused after two uses in the preceding century.
+### What the Chair has been, and what it cannot be now
 
-Both amendments reduced the Chair's authority. Proposals to expand it have failed consistently.
+The history of the office is a history of doing very little, mostly on purpose.
 
-## The Rotating Chairship
+- **Mira Vance** of Korsen's Anchorage (3341 C) ended the cascading disputes of the Resolution of Seventeen by shuttle diplomacy, and is remembered for it.
+- **Caden Rourke** of Veritas Station (3567 C) answered the Mandate's Grey Incursion by assembling a volunteer fleet of four hundred ships from eighty Freeholds and making the occupation uneconomical—the proof that decentralised defence can work at scale.
+- **Thessaly Morn** of Dustmote (3789 C) did almost nothing, and is cited ever since as the ideal: proof the Union runs without a hand on the tiller.
 
-The Chair rotates annually by lottery among Freeholds that haven't held it in forty years. Equal probability regardless of population—deliberate prevention of larger Freehold dominance. Selected Freeholds may decline; most do not.
-
-### Functions
-
-**Convening the Assembly**: Any Freehold may call one, but the Chair's convocations carry greater legitimacy. Most years see one or two on matters of Union-wide concern.
-
-**Mediation**: Disputes may be brought to the Chair; mediation works only when both parties prefer negotiated settlement to continued conflict.
-
-**External Representation**: Other powers contact the Chair; the Chair listens, conveys messages, and makes clear any commitments require individual Freehold consent.
-
-**Coordination**: In emergencies, the Chair identifies willing Freeholds, matches resources to needs, prevents duplication—purely facilitative.
-
-### The Chair's Household
-
-The chairing Freehold provides: a Speaker (external communications), a Mediator-General (dispute resolution), a Coordinator (logistics), and 20–50 administrative support. The household operates from whatever facilities the chairing Freehold provides; there is no permanent capital.
-
-### Famous Chairs
-
-**Mira Vance, Korsen's Anchorage (3341 C)**: Mediated the Resolution of Seventeen through shuttle diplomacy, ending cascading disputes threatening Union fragmentation.
-
-**Caden Rourke, Veritas Station (3567 C)**: Coordinated the response to the Mandate's Grey Incursion, assembling a volunteer fleet that made occupation uneconomical. Demonstrated decentralised defence could work at scale.
-
-**Thessaly Morn, Dustmote (3789 C)**: Did almost nothing. Later cited as the ideal Chair—proof the Union functions without active leadership.
-
-### Current Chair
-
-**Kestrel Brandt** represents **Harrow Station**, a mid-sized Carina Reach mining and salvage operation. Aged 67, former salvage captain, she has spent most of the year managing minor disputes and conveying diplomatic messages. Her view: "The best Chair is one nobody remembers. I'd like to be forgettable."
+The trouble is that Rourke's miracle worked against an *army*. You can rally eighty Freeholds to harry a fleet, because a fleet is visible and shoots at people. There is no fleet to harry when the threat is a bank that already holds the debt and a subsidiary that already runs the dock, and no Rourke can be elected to refuse, on behalf of all, a bargain each Freehold is signing alone. The current Chair, **Kestrel Brandt** of Harrow Station (67, a former salvage captain), has spent her year on minor disputes and diplomatic messages, and says, with the frontier's whole creed behind her, "The best Chair is one nobody remembers. I'd like to be forgettable." She will probably get her wish. Whether the Union can afford another forgettable decade is the question no Assembly will quite put on its agenda.
 
 ## The Assembly
 
-The Assembly is the Union's deliberative body with no legislative power—the Charter prohibits laws binding upon Freeholds—but serves as forum for coordination, negotiation, and rare matters requiring collective action.
+The Union's deliberative body, with no power to make law—the Charter forbids it—and so a forum for coordination, negotiation, and the rare matter requiring collective action. Any Freehold may convene one; the Chair's convocations carry more weight. They meet on neutral ground, usually Korsen's Anchorage or Veritas Station; each Freehold sends what delegates it likes; voting is one Freehold, one vote, and the votes bind no one. Proceedings are informal to the point of shapelessness—no fixed agenda, debate until exhaustion, resolutions that express sentiment rather than law.
 
-Any Freehold may convene an Assembly; the Chair's convocations carry greater weight. Assemblies occur at neutral locations—typically Korsen's Anchorage or Veritas Station. Each Freehold may send delegates (no required number); voting is one Freehold one vote.
+Recent sessions show the shape of the worry: in 3860 C (convened by Roughneck) the Assembly addressed Mandate pressure on the trailing border and produced informal intelligence-sharing and not one binding commitment; in 3861 C, a routine gathering noted the Yansieve Rebellion's implications and resolved nothing; the 3862 C session is expected to take up "increasing Sable Cartel activity," and is expected, by everyone, to resolve nothing about it either. The Assembly is very good at naming the capture. It is constitutionally incapable of doing anything about it.
 
-Proceedings are informal: no set agenda (though the convening party proposes topics), no formal procedures (debate continues until exhausted), no binding votes (resolutions are expressions of sentiment, not law).
+## How Freeholds govern themselves
 
-### Recent Assemblies
+Within their own walls, Freeholds use every form humans have tried—direct democracy in small settlements and stations, representative councils in mid-sized ones, corporate governance in mining operations, proprietorship in boom towns, traditional authority in old settlements, anarchic consensus among communes and salvage crews. Boom towns tend to begin as one proprietor's holding and grow toward councils; mining operations stay corporate; the patterns emerge from circumstance rather than design. The Charter protects all of them equally from outside interference, which means a resident's only recourse against a bad government is to reform it, endure it, or leave—and "leave" is the word that does the heavy lifting, and the word that, for the company-town worker and the Dustmote native and the indebted, quietly means nothing.
 
-**3860 C** (Convened by Roughneck): Addressed Mandate pressure along the trailing border; resulted in informal intelligence-sharing and militia coordination. No binding commitments; significant voluntary cooperation.
+## Coordination, and its limits
 
-**3861 C** (Convened by Chair): Routine annual gathering discussing trade disputes, piracy trends, and the Yansieve Rebellion's implications. No significant resolutions.
+Most cooperation runs through bilateral deals—trade pacts, mutual-defence agreements, extradition, resource-sharing—each binding only its parties, so that a Freehold may hold dozens of relationships on dozens of terms. A few multilateral arrangements reach further: the **Carina Compact** (seventeen Freeholds, mutual defence and free trade, the most integrated bloc in the Union—and, to the founders' heirs, a faintly alarming concentration), the **Salvage Guild Association** (claim coordination among 200+ operations), the **Merchant League** (trade and shared infrastructure). Disputes are settled by negotiation, Chair mediation, arbitration (often through Arrhenos, whose judgements other Freeholds honour to protect their own credit), or—when nothing else serves—conflict, which the Charter provides no mechanism to stop, so that some quarrels simply burn for generations.
 
-**3862 C** (Scheduled): Expected to address increasing Sable Cartel activity.
+## External relations
 
-## Freehold Governance
-
-Individual Freeholds govern themselves by whatever means their populations accept:
-
-|Type|Examples|
-|---|---|
-|Direct democracy|Small settlements, some stations|
-|Representative council|Many mid-sized Freeholds|
-|Corporate governance|Mining operations, some stations|
-|Proprietorship|Smaller operations, some boom towns|
-|Traditional authority|Long-established settlements|
-|Anarchic consensus|Some communes, salvage crews|
-
-**Common patterns**: Boom towns often begin with proprietorship and evolve toward councils. Mining operations frequently use corporate models. Established settlements tend toward representative councils. Salvage crews often function on anarchic consensus.
-
-**Internal disputes**: The Charter prohibits external interference. Residents may rebel, reform, or leave, but other Freeholds won't intervene. When tested (oppressive governance, residents unable to leave, internal conflict spilling over), the Union typically recognises whichever faction establishes effective control—pragmatic rather than principled.
-
-## Inter-Freehold Relations
-
-### Bilateral Agreements
-
-Most coordination occurs through bilateral agreements: trade agreements, mutual defence pacts, extradition arrangements, resource-sharing protocols. These bind only the parties; a Freehold may have dozens of relationships, each with different terms.
-
-### Multilateral Arrangements
-
-**The Carina Compact** (17 Freeholds): Mutual defence and free trade within the Carina Reach—the most integrated regional grouping.
-
-**The Salvage Guild Association** (200+ operations): Coordinates salvage claims and dispute resolution. Not political but practically influential.
-
-**The Merchant League** (variable membership): Trade coordination; maintains shared infrastructure at several stations.
-
-### Disputes
-
-When Freeholds disagree—over territory, resources, debts, grievances—options include: direct negotiation (most settle this way); Chair mediation; arbitration (often through Arrhenos); or conflict. The Charter provides no mechanism to compel resolution, so some disputes fester for generations.
-
-## External Relations
-
-External powers communicate with "the Union" through the Chair, who receives communications, conveys them to relevant Freeholds, coordinates responses when Freeholds agree, and represents Union positions while carefully noting inability to bind anyone.
-
-**Treaties**: The Union has no treaties in the conventional sense—only framework agreements (general principles individual Freeholds may adopt), model treaties (templates for bilateral arrangements), and coordination protocols. The Arrhenos-Freeholds framework (3423 C) exemplifies this: terms under which Arrhenos provides financial services to Freeholds that agree. Individual Freeholds sign on or don't.
-
-**Mandate Relations**: The Mandate views the Freeholds with hostility tempered by practicality—ideologically, they represent rejection of proper order; practically, conquest would be prohibitively expensive; strategically, they buffer Mandate space. Territorial friction includes disputed border systems, fleeing Mandate subjects, Freehold ships in Mandate territory, and occasional military incidents. The Yansieve Rebellion has complicated matters; the Freeholds officially take no position, but sympathy for rebels is widespread, and Freehold smugglers have been caught running supplies.
+Other powers deal with "the Union" through the Chair, who listens, relays, and carefully explains that he can bind no one. There are no treaties in the ordinary sense, only framework agreements that individual Freeholds adopt or ignore—the **Arrhenos–Freeholds framework** (3423 C), under which Arrhenos offers financial services to Freeholds that sign, is the model. It is also, in hindsight, the template for the capture: a standing offer, taken up one Freehold at a time, that binds the whole more tightly with each signature, and that no Chair was ever empowered to decline on the Union's behalf. The Cartel has simply learned to make the same kind of offer, with a longer reach and a heavier thumb. See [Economy](economy.md).
 
 ## Notes
 
-The Freeholds' governance works—barely, inconsistently—because of specific conditions: low population density, shared frontier culture, external threats encouraging cooperation, and economic volatility preventing power concentration. Whether these conditions will persist is uncertain. Some argue consolidation is inevitable; others predict complete fragmentation. The Charter's authors expected neither—they built a system designed to adapt, or at least to fail gracefully.
+The Charter's authors built a system designed to adapt, or at least to fail gracefully, and for eleven centuries it has done the first. Whether it can keep doing so depends on conditions its authors took for granted—low density, a shared frontier temperament, external threats that came as armies rather than as creditors. The threat now comes as a creditor. The Freeholds built the one government in human space that cannot be captured by a tyrant, and in doing so built the one that cannot resist a buyer. The genius and the flaw are the same clause.
 
 ---
 
@@ -3276,190 +2995,49 @@ The Freeholds' governance works—barely, inconsistently—because of specific c
 
 # Mercenary Companies of the Frontier
 
-The Freeholds export violence. It's one of their most reliable industries.
+The Freeholds export violence; it is one of their most reliable industries. And violence for hire is, by definition, violence for sale to the highest bidder—which is the frontier's pride when the bidder is a Freehold defending its homes, and the frontier's quiet undoing when the bidder is the power patiently buying the frontier itself.
 
-## Overview
+| Metric | Value |
+|--------|-------|
+| Major companies | ~50 |
+| Minor companies | ~500 |
+| Independent operators | Thousands |
+| Combined personnel | ~8 million active |
+| Annual revenue | ~200 billion quid |
 
-|Metric|Value|
-|---|---|
-|Major companies|~50|
-|Minor companies|~500|
-|Independent operators|Thousands|
-|Combined personnel|~8 million active|
-|Annual revenue|~200 billion quid|
+Mercenary work is legal throughout the Freeholds and regulated, if at all, only by individual Freehold law.
 
-Mercenary services are legal throughout the Freeholds, regulated (if at all) only by individual Freehold law.
+## The industry
 
-## The Industry
+The frontier breeds mercenaries the way it breeds prospectors—the same risk tolerance, the same practical competence, the same absence of any authority to forbid it—and the work pays well, so it flourishes. The buyers are Freeholds (defence, anti-piracy, crisis response), corporations (asset protection, facility security, strike-breaking), other polities (deniable operations), and private individuals (security, debt collection, revenge). The richest contracts come from outside—the Mandate, Vega houses, and above all the Cartel—seeking capabilities they cannot or will not build in-house, and willing to pay for distance from what they buy.
 
-### Why Mercenaries?
+The companies sort, roughly, by how much their reputation is worth to them: **elite** firms, professional and selective and reputationally careful; **standard** contractors, competent and profit-driven and ethically variable; **low-end** operators of marginal quality; and outright **criminal fronts**, piracy and extortion wearing a mercenary label. The line between the top of that spectrum and the bottom is exactly the line along which capture happens—because a company that will do anything for the right price is a company the right buyer already owns.
 
-**Economic**: Mercenary work pays well, offers adventure, and requires skills the frontier develops naturally.
+## The major companies
 
-**Political**: No central authority prohibits it. What's illegal in the Mandate or frowned upon in Arrhenos is simply business here.
+**Iron Vanguard** is the largest and most prestigious—founded 3412 C, some 180,000 active, headquartered at Veritas Station, built on combined-arms professionalism and the selling point of refusing certain work (no operations against civilians, no clients who fail due diligence, nothing that stains the brand). Its director, **Kaela Vance**, sets the industry's tone. Its current contracts include a significant Yansieve presence—on which side, it does not say.
 
-**Cultural**: Frontier values—self-reliance, risk tolerance, practical competence—translate well to military contracting.
+**Void Reapers** (founded 3567 C, ~95,000, headquartered at the Roughneck orbital) are the aggressive end of respectable—ship seizure, boarding, hostile recovery, "aggressive negotiations"—effective, ruthless, trailing wrongful-death settlements and an Arrhenos contract ban, and **rumoured Cartel connections** that they neither confirm nor trouble to deny.
 
-**Structural**: Decentralised defence creates demand for coordination and professionalism that militias alone cannot provide.
+**Stalwart Shield** (founded 3689 C, ~60,000, headquartered at Korsen's Anchorage) are the defensive specialists—facility security, route protection, evacuation—reliable, conservative, and proud to be boring; insurers require their contracts and banks accept their protection as collateral.
 
-### The Market
+**Crimson Lance** (founded 3501 C, ~25,000, headquarters classified) does the work clients prefer not to discuss—reconnaissance, sabotage, targeted elimination, "sensitive acquisitions." No one outside the company knows where it is based; recruitment is by invitation; contracts come through intermediaries; and the rumours of Mandate intelligence ties, Cartel operations, and political assassination are met with the silence that is the firm's entire brand.
 
-Mercenary services are purchased by: Freeholds (defence supplementation, anti-piracy, crisis response), corporations (asset protection, facility security, strike-breaking), other polities (deniable operations), and individuals (personal security, debt collection, revenge).
+**Freeborn Brigade** (founded 3623 C, ~40,000, headquartered at Redoubt) is the one that won't be bought—it refuses the Mandate and anyone aligned with it, trains resistance movements, defends populations under Imperial threat, and is rumoured to work at reduced rates or for nothing where the cause is righteous enough. Its heavy involvement in supporting the Yansieve Rebellion is among the worst-kept secrets on the frontier. The Brigade is to the mercenary trade what the Sefkir Reach is to the frontier economy: proof that you can refuse the buyer, at the cost of the contracts refusing him closes off.
 
-The most lucrative contracts come from external clients—the Mandate, Vega houses, the Cartel—seeking capabilities they can't or won't develop internally.
+## The hub, and the asset among them
 
-### The Legitimacy Spectrum
+The industry's centre is **Veritas Station**, where the major companies keep permanent quarters, contracts are negotiated face to face, and the **Veritas Compact** sets the informal rules—neutrality between signatories, contract registration and arbitration, shared intelligence on non-payers, and a ban on poaching active personnel. The Compact's arbitration works because everyone benefits from its working: a company that defies a ruling finds future business hard to come by.
 
-|Category|Character|
-|---|---|
-|Elite companies|Professional, selective, reputationally conscious|
-|Standard contractors|Competent, profit-driven, variable ethics|
-|Low-end operators|Marginal quality, questionable practices|
-|Criminal fronts|Mercenary labels masking piracy, extortion, or worse|
+What the Compact does not advertise is that one of the powers permanently present at Veritas is not a frontier company at all. The Cartel's security subsidiary, **Aegis**, is headquartered there, among the independents, indistinguishable at a glance from any other firm renting quarters and registering contracts—and the standing question of which "independent" companies are quietly running Cartel work (the Void Reapers' open secret; the Crimson Lance's studied silence) is the question of how much of the frontier's own muscle the buyer has already retained. The frontier sells violence to whoever pays. It has not entirely noticed how much of it is now on a single retainer. See [Veritas Station](locations/veritas-station.md) and the [Sable Cartel](../sable-cartel/index.md).
 
-The elite companies invest heavily in distinguishing themselves from lower tiers. Reputation is their primary asset.
+## Infrastructure
 
-## Major Companies
-
-### Iron Vanguard
-
-The largest and most prestigious company.
-
-|Attribute|Value|
-|---|---|
-|Founded|3412 C|
-|Personnel|~180,000 active|
-|Headquarters|Veritas Station|
-|Specialisation|Combined arms operations|
-|Reputation|Elite; expensive; selective about contracts|
-
-Iron Vanguard sets the industry standard. Their contracts specify acceptable operations; refusal to take certain work is itself a selling point.
-
-**What they do**: Large-scale military operations, training and advisory services, crisis response, anti-piracy campaigns.
-
-**What they won't do**: Operations against civilian populations, work for clients failing due diligence, contracts damaging their reputation.
-
-**Current operations**: Several active contracts across human space (details classified); significant Yansieve presence—which side is unclear.
-
-### Void Reapers
-
-Aggressive marketing, aggressive tactics.
-
-|Attribute|Value|
-|---|---|
-|Founded|3567 C|
-|Personnel|~95,000 active|
-|Headquarters|Roughneck orbital|
-|Specialisation|Boarding operations, hostile takeovers|
-|Reputation|Effective; ruthless; expensive legal fees|
-
-Emerged from anti-piracy operations and maintain that edge. Methods are effective but generate complaints.
-
-**What they do**: Ship seizure and boarding, hostile asset recovery, strike-breaking, "aggressive negotiations."
-
-**Controversies**: Multiple wrongful death claims (settled out of court), accusations of excessive force, banned from Arrhenos contracts, rumoured Cartel connections.
-
-**Current operations**: Active in the Carina Reach and trailing border regions.
-
-### Stalwart Shield
-
-The defensive specialists.
-
-|Attribute|Value|
-|---|---|
-|Founded|3689 C|
-|Personnel|~60,000 active|
-|Headquarters|Korsen's Anchorage|
-|Specialisation|Defensive operations, facility security|
-|Reputation|Reliable; conservative; boring|
-
-Stalwart Shield doesn't make headlines. They protect things, and those things remain intact.
-
-**What they do**: Long-term facility security, trade route protection, defensive consulting, evacuation and extraction.
-
-**Their appeal**: Reliability over flash. Insurance companies often require Stalwart contracts; banks accept their protection as collateral security.
-
-**Current operations**: Numerous protection contracts; defensive consulting for several Freeholds along the Mandate border.
-
-### Crimson Lance
-
-The special operations specialists.
-
-|Attribute|Value|
-|---|---|
-|Founded|3501 C|
-|Personnel|~25,000 active|
-|Headquarters|Classified|
-|Specialisation|Special operations, intelligence|
-|Reputation|Effective; discreet; questions not answered|
-
-The Lance conducts operations their clients prefer not to discuss.
-
-**What they do**: Reconnaissance and intelligence, sabotage, targeted elimination, "sensitive acquisitions."
-
-**The mystery**: No one outside the company knows their headquarters location. Recruitment is by invitation only; contracts negotiated through intermediaries.
-
-**Rumours**: Mandate intelligence connections; Cartel operations; political assassinations. The Lance neither confirms nor denies.
-
-### Freeborn Brigade
-
-The ideological outfit.
-
-|Attribute|Value|
-|---|---|
-|Founded|3623 C|
-|Personnel|~40,000 active|
-|Headquarters|Redoubt|
-|Specialisation|Anti-Mandate operations|
-|Reputation|Committed; effective; politically complicated|
-
-The Brigade won't work for the Mandate or anyone aligned with it. Their operations frequently support populations resisting Mandate expansion.
-
-**What they do**: Training resistance movements, defensive operations against Mandate forces, evacuation of populations under Mandate threat.
-
-**Their ideology**: The frontier must remain free. The Mandate represents existential threat to that freedom. They fight it, directly or indirectly.
-
-**Complications**: The Brigade's selectivity limits their market but earns loyalty from clients who share their values. They're rumoured to operate at reduced rates or pro bono for sufficiently righteous causes.
-
-**Current operations**: Heavily involved in Yansieve Rebellion support—one of the worst-kept secrets in the frontier.
-
-## Industry Infrastructure
-
-### Veritas Station
-
-The industry's hub. Major companies maintain permanent presence; contract negotiations occur here; industry standards are informally set. The **Veritas Compact** establishes neutrality between signatory companies, contract registration and arbitration services, shared intelligence on non-payment, and prohibition on recruiting from competitors' active personnel.
-
-### Training and Recruitment
-
-Companies maintain training facilities throughout Freehold space. Recruitment draws from: former militia members, Mandate military deserters, Freehold natives seeking opportunity, mercenary families (the trade often runs in families). Quality companies have rigorous selection; lower-tier operations take anyone.
-
-### Equipment
-
-Companies procure from: Freehold manufacturers (weapons, light equipment), external suppliers (advanced technology, heavy equipment), captured stocks (opportunistically), and grey markets (when necessary). Elite companies maintain standardised equipment; lower-tier operations use whatever's available.
-
-### Legal Framework
-
-No Union-wide regulation exists. Individual Freeholds may impose requirements; most don't. The industry self-regulates through reputation: companies that violate norms find themselves excluded from desirable contracts.
-
-**The Contract Registry** at Veritas Station records agreements (voluntarily, but common practice), enabling dispute resolution and reputation tracking.
-
-## Industry Challenges
-
-**Reputation Management**: The line between legitimate mercenary work and criminality is blurry. Elite companies invest heavily in distinguishing themselves; industry-wide reputation suffers from low-tier operators.
-
-**External Pressure**: The Mandate objects to mercenary operations against its interests. External powers occasionally pressure Freeholds to restrict the industry. Such pressure has achieved little.
-
-**Internal Competition**: Companies compete for contracts, personnel, and reputation. Competition occasionally turns hostile—poaching personnel, sabotaging competitors, information warfare.
-
-**Ethical Boundaries**: What operations are acceptable? Companies draw lines differently. Elite companies refuse certain work; others will do anything for the right price. The industry debates where standards should be without reaching consensus.
+Companies recruit from former militia, Mandate deserters, frontier natives chasing opportunity, and the mercenary families in which the trade runs; the elite firms select rigorously and the low-end take anyone. They equip from Freehold manufacturers, external suppliers, captured stock, and grey markets, the best maintaining standardised kit and the rest using whatever comes to hand. There is no Union-wide regulation—individual Freeholds may impose terms and mostly don't—so the industry self-polices through reputation and the **Contract Registry** at Veritas, which records agreements voluntarily and makes a firm's history its collateral.
 
 ## Notes
 
-The mercenary industry exists because there's demand for organised violence outside state control.
-
-The Freeholds provide the legal environment—violence for hire is permitted. The frontier provides the personnel—people comfortable with risk, skilled in combat, willing to sell those skills. External powers provide the market—operations their own forces can't or won't conduct.
-
-Whether this arrangement is healthy is debated. The industry provides employment and exports; it also produces violence-for-hire that operates beyond accountability. The Union takes no position. Individual Freeholds may regulate or not. The market continues.
+The mercenary industry exists because there is demand for organised violence outside any state's control: the Freeholds supply the legal environment, the frontier supplies the people, and the outside powers supply the market. Whether that is healthy is debated where anyone debates such things; the Union takes no position, individual Freeholds regulate or don't, and the market continues. But the finale of the argument is simple and not yet widely faced. A frontier whose defence is privatised has made its defence purchasable, and the patient money that is buying the commons and the credit can buy the guns the same way—one company, one contract, one open secret at a time. The thing that makes the Freeholds impossible to conquer is for sale.
 
 ---
 
@@ -3468,119 +3046,43 @@ Whether this arrangement is healthy is debated. The industry provides employment
 
 # Union of Frontier Freeholds: Military
 
-The Freeholds have no military. They have something that, in aggregate, functions like one.
+The Freeholds have no military. They have something that, in aggregate, functions like one—and it is superbly designed to defeat the threat the frontier feared a thousand years ago, and useless against the one that is actually arriving. It can stop an army. It cannot stop a buyer.
 
-## The Decentralised Defence
+## The decentralised defence
 
-The Union maintains no standing forces, unified command, or central military budget. What it has: Freehold militias (local forces), mercenary companies (operating commercially), mutual defence agreements (bilateral pacts activated by specific conditions), and ad hoc coordination (temporary coalitions responding to threats).
+The Union maintains no standing forces, no unified command, no central budget. What it has is Freehold militias, commercial mercenary companies, bilateral mutual-defence pacts, and the ad hoc coalitions that form when a threat concentrates minds. The arrangement is not built to project power; it is built to make conquest unaffordable.
 
-This arrangement is not designed to project power—it is designed to make conquest prohibitively expensive.
+### The logic, and its blind spot
 
-### The Logic
+An invader faces an impossible problem: no single target to defeat, no government to compel surrender, no treaty binding all Freeholds, just thousands of settlements each requiring separate suppression—and a conquered population with no mechanism to surrender on anyone's behalf but its own. The **Grey Incursion (3567 C)** taught the Mandate exactly this: Imperial forces occupied three Freehold systems, declared victory, and discovered that no one else cared or stopped. After four years, occupation proved unsustainable, and the Mandate withdrew.
 
-An invader confronts a coordination problem: no single target to defeat, no government to compel surrender, no treaty binding all Freeholds, thousands of independent settlements each requiring separate suppression. Even if an invader defeats every militia in a system, the conquered population has no mechanism to surrender on behalf of others. The war continues elsewhere.
+The logic is sound and the blind spot is total. It defends against *taking*. It has nothing to say about *buying*. The same absence of a centre that gives an invader nothing to capture gives a creditor nothing to stop him: there is no government to refuse the Cartel's terms, no command to bar Aegis from Veritas, no authority to keep Nexus from becoming the only bank at Korsen's. A defence that works by having no head to cut off also has no hand to raise. See [Governance](governance.md).
 
-The Mandate learned this during the **Grey Incursion (3567 C)**. Imperial forces occupied several Freehold systems, declared victory, and discovered no one else cared. Other Freeholds continued operating normally; occupation proved unsustainable.
+## Freehold militias
 
-## Freehold Militias
+Each Freehold keeps whatever force it likes, from a professional standing militia through part-time citizen reserves to a simply armed population, private security contractors, or a corporation's company troops. Most sit in the middle—a small professional core, a larger part-time reserve, a generally armed populace. Quality ranges enormously: the militias of **Roughneck** and **Korsen's Anchorage** are professional, drilled, and interoperable; those of smaller and poorer Freeholds may be untrained, mixed in equipment, and useful only for local security. Equipment runs from universal small arms up through heavy weapons and, for the wealthier, ships—mostly Freehold-made, supplemented by imports, with Mandate military surplus turning up regularly despite the export controls that nominally forbid it. There are no Union-wide training standards, and the gap shows the moment a crisis demands coordination.
 
-### Organisation
+## Mutual defence
 
-Each Freehold maintains whatever forces it chooses:
+Most coordination runs through **bilateral pacts** specifying what triggers mutual aid, what each party contributes, who commands, and how costs are shared—a web of overlapping obligation in which an attack on one Freehold may pull in several allies, each answering a different agreement. The deepest of these is the **Carina Compact**: seventeen Freeholds with standardised equipment and training, joint exercises, a shared emergency command, and pooled intelligence—cited by some as the model for broader cooperation and by others, with the founders' instincts, as exactly the concentration the Charter exists to prevent. The pacts share the frontier's characteristic limits: no guarantee anyone honours them, no unified command when several allies respond at once, free-riding by those who shelter behind strong neighbours, and the risk of entanglement in quarrels not one's own. These are accepted as the price of having no central command—a price the frontier has always thought worth paying.
 
-|Type|Character|
-|---|---|
-|Professional militia|Full-time soldiers, trained and equipped|
-|Part-time militia|Citizens with military duties, regular training|
-|Armed population|No formal organisation; residents own weapons|
-|Contracted security|Private companies providing defence|
-|Corporate security|Company forces protecting corporate Freeholds|
+## Coordination in crisis
 
-Most Freeholds fall in the middle—a small professional core with larger part-time reserves, plus a generally armed population.
+When a threat concentrates, the Chair facilitates: naming the threatened, relaying requests, matching forces to needs, heading off duplication and friendly fire. The Chair cannot *compel*—only ask, arrange, and hope the Freeholds see aligned interest. The record is mixed and instructive.
 
-### Quality
+- **The Grey Incursion (3567 C).** Chair Caden Rourke assembled four hundred ships from eighty Freeholds, harried the Mandate's supply lines, and made the occupation uneconomical. The frontier's proudest hour, and proof the decentralised defence can work at scale—against an army.
+- **The Pirate Fleets (3712 C).** Coordinated raiders across Freehold space; the Chair organised militia responses and hired mercenary companies for the offensive work. Years of effort, incomplete, but the largest groups were broken.
+- **The Cassini Incident (3845 C).** Disputed salvage claims escalated to open fighting between Freehold factions; the Chair's mediation failed, the militias fought to no conclusion, and only exhaustion produced a settlement. The reminder that decentralised defence also means decentralised *conflict*—and that there is no one to stop a war between Freeholds any more than there is to stop one being bought.
 
-Quality varies enormously. **High-quality militias** (Roughneck, Korsen's Anchorage): professional officers, regular training, standardised equipment, interoperability. **Low-quality militias** (common in smaller/poorer Freeholds): minimal training, mixed equipment, no coordination capability, effective only for local security. In crises, high-quality militias carry disproportionate weight; low-quality forces may create liabilities.
+## Assessment
 
-### Equipment
+The decentralised defence is **resilient** (no single point of failure; the Union cannot be decapitated), **deterrent** (no prize is worth suppressing thousands of settlements), **flexible** (forces assembled and dissolved as needed), and good for **morale** (people defending homes, not an abstraction). Its weaknesses are the mirror image: no **power projection**, slow and partial **coordination**, wild **quality variance**, and chronic **free-riding**. Against a determined conqueror willing to spend without limit, the frontier could in theory be taken; the Mandate could do it if it committed everything forever. It won't, because the cost exceeds the prize.
 
-From small arms (universal; most frontier adults are armed), to heavy weapons (common in larger militias), vehicles and armour (less common; expensive), to ships (rare; maintained by wealthier Freeholds). Equipment is largely Freehold-manufactured, supplemented by imports. Mandate military surplus appears regularly despite nominal export controls.
-
-### Training
-
-No Union-wide standards exist. Some Freeholds invest heavily: live-fire exercises, coordination drills with neighbours, officer exchanges, contracted instruction from mercenary companies. Others do minimal training. The gap shows in emergencies.
-
-## Mutual Defence Agreements
-
-### Bilateral Pacts
-
-Most defence coordination occurs through bilateral agreements specifying: conditions triggering mutual defence (usually invasion or piracy), forces each party contributes, command arrangements, cost-sharing, and duration/renewal terms.
-
-These pacts create networks of obligation. An attack on one Freehold may trigger responses from several allies, each responding to separate agreements.
-
-### The Carina Compact
-
-The most integrated regional defence arrangement. Seventeen Freeholds in the Carina Reach maintain: standardised equipment and training, regular joint exercises, shared command structure for emergencies, and pooled intelligence. Sometimes cited as a model for broader coordination; others view it as concerning centralisation.
-
-### Limitations
-
-Mutual defence agreements have limitations: no guarantee of compliance (a Freehold may choose not to honour its agreement), coordination problems (multiple allies may respond without unified command), free riding (Freeholds near strong allies may underinvest), and entanglement (agreements may draw Freeholds into avoidable conflicts). These are accepted as the cost of avoiding centralised command.
-
-## Coordination in Crisis
-
-### The Chair's Role
-
-During emergencies, the Chair facilitates coordination: identifying threatened Freeholds, communicating assistance requests, matching forces to needs, preventing duplication and friendly fire. The Chair cannot compel response—only ask, facilitate, and hope Freeholds see aligned interests.
-
-### Historical Examples
-
-**The Grey Incursion (3567 C)**: Mandate forces occupied three Freehold systems during frontier tension. Chair Caden Rourke assembled a volunteer fleet of 400+ ships from 80 Freeholds that harassed supply lines, interdicted reinforcements, and made occupation uneconomical. After four years, the Mandate withdrew. Key lessons: decentralised response works; no surrender mechanism exists; occupation is prohibitively expensive.
-
-**The Pirate Fleets (3712 C)**: Multiple pirate groups coordinated attacks across Freehold space. The Chair coordinated militia responses and hired mercenary companies for offensive operations. The campaign took years and was incomplete, but the largest pirate groups were broken.
-
-**The Cassini Incident (3845 C)**: Disputed salvage claims escalated to armed conflict between Freehold factions. The Chair's mediation failed; militia forces fought inconclusively. Eventually, exhaustion produced settlement. A reminder that decentralised defence also means decentralised conflict.
-
-## Strategic Assessment
-
-### Strengths
-
-**Resilience**: No single point of failure; the Union cannot be decapitated.
-
-**Deterrence**: Conquest is uneconomical; no target is valuable enough to justify suppressing thousands of settlements.
-
-**Flexibility**: Forces can be assembled and disbanded as needed.
-
-**Morale**: Fighters defend their homes, not abstract state interests.
-
-### Weaknesses
-
-**Power Projection**: The Union cannot conduct sustained offensive operations.
-
-**Coordination**: Unified response to threats is slow and incomplete.
-
-**Quality Variance**: Some Freeholds are military liabilities.
-
-**Freeloading**: Some Freeholds underinvest, relying on others.
-
-### Current Threats
-
-**Mandate Expansion**: The border creeps; contested systems eventually become Mandate.
-
-**Cartel Activity**: The Sable Cartel may be cultivating influence for future leverage.
-
-**Piracy**: A constant problem that coordination only partially addresses.
-
-**Internal Conflict**: Disputes between Freeholds occasionally turn violent.
+But the assessment that has kept the frontier safe for eleven centuries quietly assumes the threat is a conqueror. The current threats are not. **Mandate expansion** advances by border-creep, not invasion, taking contested systems one at a time below the threshold that would summon a Rourke. **Cartel activity** advances by purchase and debt, owning the commons and the credit without firing a shot. **Piracy** persists, and **internal conflict** between Freeholds turns violent often enough to keep the militias honest. Three of the four are problems no fleet can solve, because they are not attacks. They are acquisitions, and the frontier built the one defence in human space that has no answer to being acquired.
 
 ## Notes
 
-The Freehold military is not a military. It is a collection of forces that can coordinate—imperfectly, voluntarily—when circumstances demand.
-
-This arrangement would be inadequate against a determined conqueror willing to accept any cost. The Mandate could, theoretically, conquer the Freeholds if it committed sufficient resources indefinitely.
-
-It won't. The cost exceeds any benefit. The Freeholds' defence succeeds by making victory more expensive than the prize.
-
-Whether that calculation will hold as circumstances change—as resources deplete, as external pressures mount, as the Mandate's patience wears—remains to be seen.
+The Freehold military is not a military. It is a collection of forces that can coordinate—imperfectly, voluntarily—when circumstances demand, and it succeeds by making victory more expensive than the prize. That calculation has held against every army that tested it. Whether it holds as the threat changes shape—as resources deplete, as the border creeps, as the Cartel's patient money does the work armies could not—is the question the frontier is constitutionally unable to ask itself, because the answer would require a commander, and a commander is the one thing the Freeholds will not have. See [Mercenary Companies](mercenary-companies.md).
 
 ---
 
@@ -3589,75 +3091,43 @@ Whether that calculation will hold as circumstances change—as resources deplet
 
 # Union of Frontier Freeholds: Locations
 
-The Freeholds span hundreds of systems across the frontier. This index covers documented locations; it cannot be exhaustive given how quickly frontier geography changes.
+The Freeholds span hundreds of systems, and the map is never finished—settlements rise, bust, merge, and splinter faster than anyone charts them. What the geography records, more than anything, is how unevenly the frontier's one promised good is distributed: where you are in the Freeholds tells you, fairly precisely, which freedom you actually have.
 
-## Major Worlds
+## The documented places
 
-|World|System|Character|
-|---|---|---|
-|Dustmote|Karenna|Population dependent on stellar light; permanent residents|
-|Roughneck|Hephaestus|Industrial and mining hub; archetypal extraction economy|
+| Location | Character |
+|----------|-----------|
+| [Korsen's Anchorage](korsen's-anchorage.md) | The frontier's marketplace and neutral ground—and, unexamined, the seat of the Cartel's Nexus |
+| [Veritas Station](veritas-station.md) | The mercenary and intelligence hub; the Veritas Compact, and the Cartel's Aegis among the independents |
+| [Dustmote](dustmote.md) | The Freehold whose people remade themselves unable to leave |
+| [Roughneck](roughneck.md) | The boom grown into a working industrial world, owning class and all |
+| [Three Falls](three-falls.md) | The frontier at peak rush—an aurite strike, corporations closing in |
 
-## Major Stations and Hubs
+## Regional groupings
 
-|Location|Character|
-|---|---|
-|Korsen's Anchorage|Largest trade hub; neutral ground; Drift access|
-|Veritas Station|Information exchange; mercenary contracts|
+**The Carina Reach.** Seventeen Freeholds bound by the Carina Compact into the Union's most integrated bloc—mutual defence, standardised trade, joint exercises. The frontier's nearest approach to a real polity, admired as a model and distrusted, by the Charter's heirs, as exactly the centralisation the founders fled. Major settlements: Carina Prime, Harrow Station (the current Chair's home), the Foundry orbital.
 
-## Current Interest
+**The Trailing Border.** The systems pressed against Mandate space: contested claims, military tension, heavy militia investment, and the slow creep of the border that turns a Freehold system into an Imperial one a few years at a time. Major settlements: Redoubt (home of the anti-Mandate Freeborn Brigade), Farsight Station, the Marchward settlements.
 
-|Location|Character|
-|---|---|
-|Three Falls|Current boom town; aurite rush|
+**The Salvage Reaches.** Systems thick with pre-Cascade debris and dead colonies: active, competitive, occasionally violent salvage, minimal permanent population. Major operations: the Cassini Shoals, Wreckfall, the Dormant Fleet coordinates.
 
-## Regional Groupings
+**The Deep Frontier.** The furthest settlements—minimal infrastructure, high risk and reward, effectively ungoverned even by Freehold standards. Notable: New Providence (a failed terraforming reclamation), Ultima Station (the furthest permanent human settlement in this direction).
 
-### The Carina Reach
+**The Sefkir Reach.** A cluster of Freeholds with a singular distinction: in 3829 C it expelled every identifiable Sable Cartel subsidiary from its systems and never let them back. It is poorer than it would otherwise be, slower, harder to live in—and the one part of the frontier that is demonstrably, deliberately *not* for sale. Its neighbours study it with a discomfort that has lately turned thoughtful. See [Economy](../economy.md).
 
-Seventeen Freeholds bound by the Carina Compact: mutual defence agreement, standardised trade practices, the most integrated Union region. Major settlements: Carina Prime, Harrow Station, the Foundry orbital complex.
+## Settlement types
 
-### The Trailing Border
+The frontier's communities sort less by geography than by where they are in the cycle of boom and decay:
 
-Systems adjacent to Mandate space: contested claims, military tension, significant militia investment. Major settlements: Redoubt, Farsight Station, the Marchward settlements.
+- **Boom towns**—temporary concentrations around a strike, improvised and volatile and short-lived (Three Falls for aurite, Mirren's Deep for organics, the Shoals camps for salvage).
+- **Bust towns**—what remains when a boom ends, declining or abandoned, sometimes salvaged for their own infrastructure, occasionally reborn near a new find (Golconda, Esperance, the Shimmer settlements).
+- **Stable Freeholds**—the rare ones that found a durable base, with diversified economies, established governance, and multi-generational populations (Roughneck, Dustmote, the Carina settlements).
+- **Corporate towns**—settlements owned and run by corporations, with company governance, extraction economics, and worker populations who have, in the frontier's careful phrasing, "limited political voice." There are many; most are unnamed; they are where the word *freehold* and the word *free* quietly come apart.
+- **Stations and orbitals**—constructed habitats: trade hubs, processing complexes, military posts, and refuges for those who prefer a built world to a born one (Korsen's Anchorage, Veritas Station, the Roughneck orbital).
 
-### The Salvage Reaches
+## Navigation and claims
 
-Systems rich in pre-Cascade debris and failed colony remnants: active salvage operations, competitive and occasionally violent claim disputes, minimal permanent population. Major operations: The Cassini Shoals, Wreckfall, the Dormant Fleet coordinates.
-
-### The Deep Frontier
-
-The furthest settlements: minimal infrastructure, high risk and high potential reward, effectively ungoverned. Notable: New Providence (failed terraforming reclamation), Ultima Station (furthest permanent human settlement in this direction).
-
-## Settlement Types
-
-### Boom Towns
-
-Temporary concentrations around resource discoveries: rapid population growth, improvised infrastructure, volatile social conditions, short expected lifespan. Current examples: Three Falls (aurite), Mirren's Deep (exotic organics), the Shoals camps (salvage).
-
-### Bust Towns
-
-What remains when booms end: declining or minimal population, decaying infrastructure, salvage operations on the town itself, sometimes a second life when new discoveries occur nearby. Examples: Golconda (former platinum rush), Esperance (former agricultural colony), the Shimmer settlements (former fez speculation).
-
-### Stable Freeholds
-
-Settlements that found sustainable economies: diversified economic base, established governance, permanent infrastructure, multi-generational populations. Examples: Roughneck, Dustmote, the Carina Reach settlements.
-
-### Corporate Towns
-
-Settlements owned and operated by corporations: company governance, worker populations with limited political voice, extraction-focused economics, variable conditions. Examples: Numerous unnamed mining operations throughout frontier space.
-
-### Stations and Orbitals
-
-Constructed habitats rather than planetary settlements: trade hubs, processing facilities, military installations, refuge for those preferring constructed environments. Examples: Korsen's Anchorage, Veritas Station, the Roughneck orbital complex.
-
-## Navigation Notes
-
-Frontier geography is poorly mapped: jump shell infrastructure is sparse, navigation beacons unreliable, some systems deliberately uncharted, and route information is valuable and traded. Pilots operating in Freehold space develop local knowledge outsiders lack—a professional asset.
-
-## Territorial Claims
-
-Freehold territorial claims overlap, conflict, and shift: no central registry exists, claims are asserted by those who can defend them, disputed territories may be claimed by multiple parties or no one. The Mandate's border claims add external complexity—systems the Mandate considers Imperial territory may contain Freehold settlements that disagree.
+Frontier space is poorly mapped on purpose and by neglect both: sparse jump-shell infrastructure, unreliable beacons, deliberately uncharted systems, and route knowledge so valuable it is itself traded. Pilots who work Freehold space develop local lore outsiders lack, and guard it as the professional asset it is. Territorial claims overlap, conflict, and shift; there is no central registry; a claim is held by whoever can defend it, and disputed ground may be claimed by many parties or none. Onto all of this the Mandate lays its own border claims, so that a system the Empire calls Imperial may contain Freeholders who emphatically disagree—and increasingly find the disagreement settled, slowly, in the Empire's favour.
 
 ---
 
@@ -3666,140 +3136,52 @@ Freehold territorial claims overlap, conflict, and shift: no central registry ex
 
 # Dustmote
 
-The world that chose to stay forever.
+The world that chose to stay forever—and chose it for everyone who came after. Dustmote is the frontier's freedom turned exactly inside out: a Freehold in good standing whose people are the least free in human space, bound to a single world not by law or poverty but by their own bodies, on a decision their ancestors made and they never got to.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| System | Karenna |
+| Star | Karenna (F5V white star) |
+| Population | ~340 million |
+| Gravity | 0.94 standard |
+| Character | Agricultural; permanent population; light-dependent genetics |
 
-|Attribute|Value|
-|---|---|
-|System|Karenna|
-|Star|Karenna (F5V white star)|
-|Population|~340 million|
-|Gravity|0.94 standard|
-|Character|Agricultural; permanent population; light-dependent genetics|
+Dustmote natives cannot leave. Not *won't*—*cannot*. Three centuries ago their founders rewrote their own genetics to require Karenna's specific light, and the change breeds true.
 
-Dustmote is unique among Freeholds: its population cannot leave. Not won't—_cannot_. Three centuries ago, colonists modified themselves to require Karenna's specific light spectrum, binding their descendants to this world forever.
+## The Rootbound Covenant
 
-## History
+Karenna was surveyed in 3156 C and found gentle—mild climate, stable star, fertile soil—and the consortium that won the colony, the **Rootbound Covenant**, held a peculiar conviction: that humanity's sickness was rootlessness, the endless transience of people drifting without commitment, and that the cure was to make leaving impossible. Before landfall they modified themselves—skin chemistry tuned to Karenna's spectrum, a dependency on trace compounds produced only under that light, developmental patterns requiring exposure in childhood—and they made the changes heritable. Their children would be Karenna's children. Forever.
 
-### The Founding
+It was entirely legal; the Freeholds impose no limit on self-modification. It was also widely condemned, then and since, as binding the unconsenting—the founders chose, and everyone born after merely inherits the choice. The Covenant's answer was that all children everywhere are bound by their parents' choices, and at least these would have roots. The debate has not closed in three hundred years, and the natives hold every position in it: some defend the founding as necessary, some resent it, most simply live inside it. It is the frontier's cherished freedom posed as a question no one else has to answer so starkly: *whose liberty was it to spend?*
 
-Karenna was surveyed in 3156 C and found hospitable—mild climate, stable star, fertile soil. Several groups proposed colonisation; funding was competitive.
+## The dependency
 
-The winning consortium, the **Rootbound Covenant**, held an unusual philosophy. They believed humanity's problem was rootlessness—transience, impermanence, populations drifting without commitment. Their solution: make leaving impossible.
+A Dustmote native deprived of Karenna's light declines within days, sickens within weeks, dies within months. The spectrum cannot be perfectly reproduced; equipment approximates it well enough for short trips and worse the longer one is away, so that off-world life is possible, difficult, and a slow medical emergency. The modifications show—skin faintly orange, eyes golden in certain light, a sensitivity to anything outside the optimal range—so that off-world a Dustmoter is recognisable, and meets the usual human menu of curiosity, prejudice, and fetish.
 
-### The Modification
+## A society built for forever
 
-Before landfall, the Covenant modified their genetics. The changes: optimised photosynthesis-like processes in skin cells for Karenna's specific spectrum; dependency on trace compounds produced only under Karenna light; developmental patterns requiring spectrum exposure during childhood.
+Dustmote is at once the most rooted and most isolated of Freeholds. **Rooted**, because the population has nowhere else to be, and so has built for permanence—durable infrastructure, multi-generational institutions, and one of the more sophisticated governments on the frontier (an elected assembly by proportional representation, an executive council, an independent judiciary, real constitutional protections). When you cannot leave, you invest in making home work; Dustmote's stability is the dividend of its captivity. **Isolated**, because most natives never travel, and the wider frontier stays abstract; the few who range widely become a small worldly class, translators between Dustmote and everywhere else.
 
-The modifications were inheritable. Children of Dustmote natives are Dustmote natives. Forever.
+Its values follow from its condition: **commitment** (the cardinal virtue—Dustmote people stay, framed as choice even when it isn't), **stewardship** (every generation owes the next an enduring colony), **self-sufficiency** (to depend on imports is to depend on people who can leave), and **community** (individual success is nothing if the colony fails). It feeds itself and more—Karenna's light and soil make it a serious agricultural exporter—imports most complex technology while exporting a small sophisticated line of light-spectrum and life-support equipment, and consumes external media avidly, participating in the frontier mostly at a distance. At Roothold's centre stands the **Shrine of First Light**: a preserved habitat module from the colony ship, the founders' recorded explanation of their choice, and the genetic record of the modification—neither celebrated nor condemned, simply kept, the way you keep the document that decided everything.
 
-### The Controversy
+| City | Population | Character |
+|------|------------|-----------|
+| Roothold | ~50 million | Capital; original settlement; government |
+| Covenant | ~35 million | Agricultural processing |
+| Sunrise | ~25 million | Coastal; fishing and aquaculture |
+| Farlight | ~15 million | Research and education |
 
-The Covenant's choice was legal—the Freeholds impose no restrictions on self-modification. It was also widely condemned: criticised as imposing a binding choice on those who couldn't consent, with founders' children having no say in their permanent binding.
+## Figures
 
-The Covenant's response: all children everywhere are bound by their parents' choices. At least these children would have roots.
+**Councillor Tashen Mor** (61), Dustmote's representative to the Union, is one of the few who travels widely, living by constant medical management of her dependency: *"I've seen the frontier—the transience, the rootlessness. My ancestors wanted something different. They achieved it. Whether the cost was justified... ask me again on my deathbed."*
 
-The debate continues. Dustmote natives have varying views—some accept the founding decision as necessary, others resent it, most simply live with it.
+**Dr. Yeren Cole** (45), a geneticist at Farlight, researches the reversal of light-dependency—work some hail as liberation and others damn as betrayal of the founders' vision. Her own framing is the whole planet's argument in a sentence: *"Staying should be a choice, not a sentence."* The work is decades from application, if it is possible at all.
 
-## The Light Dependency
-
-### Mechanism
-
-Dustmote natives require regular exposure to Karenna's light spectrum. Without it: energy decline within days, health deterioration within weeks, death within months.
-
-The spectrum cannot be perfectly replicated artificially. Equipment exists that approximates it, allowing short-term off-world travel, but extended absence requires constant medical management with declining effectiveness over time. Long-term off-world survival is possible but difficult.
-
-### Visibility
-
-The modifications are visible: slightly orange-tinted skin, eyes adapted to Karenna's spectrum (appearing golden in certain lights), increased sensitivity to light outside optimal range. Off-world, a Dustmote native is recognisable—creating social dynamics of curiosity, prejudice, and occasional fetishisation.
-
-## Society
-
-### The Paradox
-
-Dustmote is both the most rooted and most isolating Freehold.
-
-**Rooted**: The population has nowhere else to go. They have built for permanence—durable infrastructure, multi-generational institutions, culture oriented toward the very long term.
-
-**Isolated**: Most natives rarely leave. Off-world travel requires preparation, equipment, and tolerance for discomfort. The wider frontier remains abstract.
-
-### Cultural Values
-
-**Commitment**: The ultimate virtue. Dustmote people stay. This is presented as choice even when it isn't.
-
-**Stewardship**: The colony must endure indefinitely. Every generation inherits responsibility for those that follow.
-
-**Self-sufficiency**: Depending on imports means depending on people who can leave. Dustmote strives to produce what it needs.
-
-**Community**: Individual success means nothing if the community fails. Cooperation is not optional.
-
-### Governance
-
-Dustmote has one of the more sophisticated Freehold governments: elected assembly with proportional representation, executive council selected by the assembly, independent judiciary, constitutional protections. The stability reflects the population's permanent commitment—when you cannot leave, you invest in making your home functional.
-
-### The Outside World
-
-Dustmote participates through trade (exports agricultural, imports technology), the Assembly (sends delegates), and information exchange (consumes external media avidly). But participation is asymmetric—most natives interact with the wider frontier only virtually. The few who travel extensively become a distinct class: worldly, slightly apart, translators between Dustmote and everywhere else.
-
-## Economy
-
-### Agriculture
-
-Dustmote's primary activity. Karenna's light combined with mild climate and fertile soil produces excellent growing conditions. Exports: grains and staples, specialty crops bred for Karenna conditions, processed foods, agricultural technology. Employs ~30% of population directly; supports much of the rest.
-
-### Technology
-
-Imports most complex technology; exports specialised products: light-spectrum equipment (obviously their field), agricultural biotech, long-duration life support systems. The sector is small but sophisticated.
-
-### Services
-
-Local economy serving the population: professional services, entertainment (notable local music tradition), education (several respected institutions). Little service export—outsiders rarely come.
-
-## Geography
-
-A mid-sized terrestrial world: three continents, temperate to subtropical inhabited regions, abundant water, Karenna-optimised biosphere (Earth-descended, heavily modified). The planet would be attractive by any standard; its light-dependent population makes colonisation by others impractical.
-
-### Settlements
-
-|City|Population|Character|
-|---|---|---|
-|Roothold|~50 million|Capital; original settlement; government centre|
-|Covenant|~35 million|Agricultural processing hub|
-|Sunrise|~25 million|Coastal; fishing and aquaculture|
-|Farlight|~15 million|Research and education centre|
-
-### The Shrine of First Light
-
-At Roothold's centre: a preserved habitat module from the colony ship, holographic records of founders explaining their choice, the genetic records of the original modification. Neither celebrated nor condemned—simply the record of a decision that shaped everything after.
-
-## Characters
-
-### Councillor Tashen Mor
-
-**Role**: Dustmote Assembly representative to the Union | **Age**: 61
-
-One of the few natives who travels extensively, maintaining light-dependency through constant medical management. Her perspective: "I've seen the frontier—the transience, the rootlessness. My ancestors wanted something different. They achieved it. Whether the cost was justified... ask me again on my deathbed." Carries portable light equipment everywhere; schedules life around treatment sessions.
-
-### Dr. Yeren Cole
-
-**Role**: Geneticist, Farlight Research Centre | **Age**: 45
-
-Researches the possibility of reversing light dependency—making natives able to live anywhere. The research is controversial: some see it as liberation (offering choices parents lacked); others see it as betrayal (abandoning the founders' vision). Cole sees it as providing options: "Staying should be a choice, not a sentence." Her work is decades from practical application, if possible at all.
-
-### Kenna Bright
-
-**Role**: Trader, starship captain | **Age**: 38
-
-Operates a small trading vessel, spending months away from Dustmote light and paying the price in constant medical management. Why? "Someone has to connect us to out there. The isolation would kill us slower than leaving kills me." Her ship, _Lasting Light_, carries Karenna-spectrum equipment turning her quarters into a fragment of home.
+**Kenna Bright** (38) captains the small trader _Lasting Light_, whose quarters are rigged with Karenna-spectrum equipment so she can spend months away and pay only in slow medical cost. Why pay it? *"Someone has to connect us to out there. The isolation would kill us slower than leaving kills me."*
 
 ## Notes
 
-Dustmote's situation has no parallel. Other settlements rise and fall; Dustmote endures. Other populations chase opportunities; Dustmote's people stay. Other Freeholds define themselves by what they do; Dustmote is defined by what its people are.
-
-Whether the Rootbound Covenant's experiment succeeded depends on definitions. They created permanence—but permanence purchased with freedom. They ended transience—by making leaving impossible.
-
-The frontier values freedom. Dustmote values roots. The tension is irresolvable, and both values have costs.
+Dustmote has no parallel. Other settlements rise and fall; Dustmote endures. Other Freeholds define themselves by what they do; Dustmote is defined by what its people *are*, and cannot stop being. Whether the Rootbound Covenant succeeded depends entirely on what you think freedom is for: they ended transience by making leaving impossible, and bought permanence with liberty, and handed the bill to people who never agreed to it. The frontier worships freedom; Dustmote worshipped roots; and Dustmote is the proof, sitting quietly in the middle of the freest place in human space, that you can give your freedom away for something you love—and give away other people's too, and call it a gift.
 
 ---
 
@@ -3808,152 +3190,49 @@ The frontier values freedom. Dustmote values roots. The tension is irresolvable,
 
 # Korsen's Anchorage
 
-Where everyone meets and no one is home.
+Where everyone meets and no one is home—and the landlord, it turns out, is the Cartel. Korsen's Anchorage is the frontier's marketplace, the one place Freeholders, Drift communities, external traders, and people who would be enemies anywhere else come to exchange goods, services, and information without fighting. It is also the seat of the Cartel subsidiary that quietly runs its money, which makes the frontier's great neutral commons the most thoroughly captured ground on the frontier, and almost no one says so out loud.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Type | Station complex |
+| Location | Korsen system, jump-shell proximity |
+| Population | ~12 million permanent; ~5 million transient |
+| Gravity | 0.4–1.0 G (varies by section) |
+| Character | Trade hub; neutral ground; information exchange |
 
-|Attribute|Value|
-|---|---|
-|Type|Station complex|
-|Location|Korsen system, jump shell proximity|
-|Population|~12 million permanent; ~5 million transient|
-|Gravity|0.4–1.0 G (varies by section)|
-|Character|Trade hub; neutral ground; information exchange|
+## The neutral ground
 
-Korsen's Anchorage is the frontier's marketplace. Freeholders, Drift communities, external traders, and parties who would be enemies elsewhere meet here to exchange goods, services, and information.
+The Anchorage began in 2934 C as a single station built by **Mira Korsen**, a trader who grasped the value of neutral ground—a place to deal without territorial disputes, to trade with competitors without fighting, to move information without interference. She set it at a junction of common routes near the jump shell and declared it open to all, and it grew by accretion ever since: traders adding facilities, Drift communities establishing connection points, services chasing the traffic, until by 3400 C it was the largest station complex in Freehold space.
 
-## History
+Its whole value is its neutrality, and the neutrality is real and fiercely kept: early attempts to settle disputes by violence were crushed, and the rule hardened into custom—*whatever your quarrel, you don't pursue it here*—enforced by permanent exclusion, which on the frontier's most important hub is a sentence few will risk. The complex itself is a labyrinth of centuries of unplanned construction: the cramped **Old Anchor**, the perpetually crowded **Trade Core**, the **Docks**, the **Drift Quarter** where Haven Ascendant and the smaller havens connect, the **Residentials**, and the unplanned **Warrens**—corridors that dead-end, levels that don't align, navigation that shifts as new sections reroute the traffic. Knowing the Anchorage is a skill; not knowing it is a disadvantage, deliberately so. See [Drift Communities](../../drift-communities/overview.md).
 
-### The Founding
+## The economy, and who underwrites it
 
-The Anchorage began as a single station built in 2934 C by Mira Korsen, a trader who recognised the value of neutral ground: a place where deals could happen without territorial disputes, competitors could trade without fighting, information could flow without interference.
+The Anchorage exists for trade—commodities, equipment, ships of every provenance, services, and above all **information**, its unique product, sold off physical and virtual **Boards** that run from public market prices through subscription analysis to private high-value intelligence and frank rumour markets. Where are the strikes, which claims produce, what is the Mandate doing at the border, who is hiring guns—the answers have value, sometimes enormous, and the Anchorage is where they clear.
 
-She built the first station at a junction of common trade routes, near the jump shell for easy access, and declared it open to all.
-
-### Growth
-
-The Anchorage grew through accretion: traders built additional facilities, Drift communities established connection points, service providers followed traffic, each addition increasing presence value. By 3100 C, it had become essential infrastructure; by 3400 C, the largest single station complex in Freehold space.
-
-### Neutrality
-
-The Anchorage's value depends on neutrality. Early tests—parties attempting to settle disputes through violence—were met with decisive response. The rule became customary: whatever your disputes, you don't pursue them here. Violations result in permanent exclusion.
-
-## Structure
-
-### The Station Complex
-
-Not one station but dozens of interconnected facilities:
-
-|Section|Character|
-|---|---|
-|Old Anchor|Original Korsen station; historical, cramped|
-|Trade Core|Primary commercial exchange; always crowded|
-|The Docks|Cargo handling; ship services|
-|Drift Quarter|Permanent Drift community connection points|
-|Residentials|Housing for permanent population|
-|The Warrens|Unofficial sections; grew without planning|
-
-The complex sprawls across several cubic kilometres. Navigation requires local knowledge; newcomers get lost.
-
-### Gravity Zones
-
-Trade Core: 0.8 G (compromise for diverse populations); Docks: variable (matching ship requirements); Drift Quarter: 0.4 G (Drift standard); Residentials: 0.9 G (comfortable for long-term). Transitions can be disorienting—locals develop instinctive awareness; visitors stumble.
-
-### The Impossible Architecture
-
-Centuries of uncoordinated construction: corridors that dead-end, levels that don't align, sections accessible only through others, navigation changing when new additions alter traffic flow. The complexity is both frustration and feature—those who know the Anchorage move efficiently; those who don't are disadvantaged.
-
-## Economy
-
-### Trade
-
-The Anchorage exists for trade: commodity exchange (raw materials, refined goods, futures), equipment (mining, salvage, survival gear), ships (new, used, questionable provenance), services (brokerage, legal, financial, technical), and information (market intelligence, navigation data, rumours). The Trade Core handles formal transactions; much more happens informally throughout.
-
-### Trade in Information
-
-Information is the Anchorage's unique product. Where are new strikes? Which claims are producing? What's the Mandate doing at the border? Who's hiring mercenaries? The answers have value—sometimes enormous.
-
-**The Boards** (physical and virtual): public boards (general news, market prices), subscription services (detailed analysis), private exchanges (high-value intelligence), rumour markets (unverified but possibly important). The information ecosystem is unmatched elsewhere.
-
-### Services
-
-Full support economy: brokers (connecting buyers and sellers), factors (handling transactions for absent parties), legal services (contracts, disputes), financial services (banking, insurance, currency exchange), technical services (ship repair, equipment maintenance), and hospitality (food, lodging, entertainment).
-
-### The Drift Connection
-
-Permanent connection points for Drift communities: Haven Ascendant docks regularly, smaller havens maintain scheduled connections, Drift traders operate year-round. The Drift Quarter is where frontier and Drift cultures mix—and where goods available nowhere else can be obtained.
+All of which runs on money, and the money runs through **Nexus**. Nexus is the bank at Korsen's Anchorage—the accounts, the currency exchange, the credit, the financial plumbing of the entire hub—and Nexus is the Sable Cartel, has been for as long as most of the traffic can remember, hiding in plain sight as the reliable local institution that simply happens to be everywhere useful. The frontier's culture of *mind your own business* let the fact sit unexamined for decades: a good bank, fair rates, no questions, why look closer? People are looking closer now, because the Cartel's broader push has made the connection impossible to keep ignoring—and what they find, when they look, is that the commons everyone trusts to be neutral has run its lifeblood through the Cartel all along. Neutral about *disputes*, Korsen's Anchorage has never once been neutral about *whose ledger it keeps.* See the [Sable Cartel](../../sable-cartel/index.md).
 
 ## Governance
 
-### The Harbourmaster
+The Anchorage is run by an elected **Harbourmaster**, ten-year terms, permanent residents voting. The current holder, **Cassius Dray** (78, since 3851 C), keeps the essential functions—dock allocation, security, station-level dispute resolution, infrastructure, and the enforcement of neutrality—and leaves commerce to the parties to it. Order is kept by the **Anchor Guard**, some fifteen thousand strong, well-equipped and formidable enough that violence on station is rare; everyone knows the price.
 
-The Anchorage is governed by a **Harbourmaster**, elected for ten-year terms by permanent residents. Current Harbourmaster **Cassius Dray** (since 3851 C) maintains essential functions: dock allocation, security coordination, dispute resolution (station matters only), infrastructure maintenance, neutrality enforcement. Power is limited to station operations; commercial matters are left to parties involved.
-
-### Security
-
-The **Anchor Guard** maintains order: ~15,000 personnel, well-equipped and trained, focused on station security. The Guard's formidable reputation means violence on station is rare—everyone knows the consequences.
-
-### The Neutrality Rule
-
-Foundational principle: no pursuit of external disputes on station, no weapons discharge except immediate self-defence, no seizure of persons or property for external claims. Violations result in permanent exclusion—losing access to the frontier's most important commercial hub.
+Dray has declined bribes from every major power and holds the neutrality like a man holding a line, and his philosophy is genuine: *"Everyone hates someone. My job is making sure they hate each other somewhere else. Here, we trade."* What keeps him up—and he does not pretend otherwise—is the part of the neutrality he cannot enforce. He can bar a weapon and exclude a killer. He cannot un-bank the Anchorage, cannot make Nexus not be the Cartel, cannot keep the hub running without the financial backbone that is, when you trace it, owned by one of the parties he is sworn to treat like any other. The Anchorage is more valuable neutral than controlled, and so its neutrality holds—as long as the Cartel finds it more valuable to own quietly than to seize. That calculation, not the Anchor Guard, is what actually governs Korsen's Anchorage, and it is not Dray's to make.
 
 ## Culture
 
-### Temporary Permanence
+Most of the Anchorage is passing through—traders between contracts, crews between jobs, prospectors between strikes, Drift people during a haven's connection—and the transience sets the tone: relationships form fast and dissolve faster, nobody asks about your past, nobody expects you to stay. The twelve million **permanents** who made it home—service providers, multi-generational families, people who simply stopped moving—occupy the same corridors and a different world. Everything is available: bars from the refined to the disreputable, gambling, sex work at every price, combat sports, Vega serials. The **Long Descent**, a bar old enough to appear in route documentation as a navigation landmark ("three days past the Long Descent connection"), is an institution for no better reason than that it has simply always been there.
 
-Most residents are passing through: traders between contracts, crews between jobs, prospectors between strikes, Drift people during haven connections. This transience shapes culture—relationships form quickly and dissolve easily. Nobody asks about your past; nobody expects you to stay.
+## Figures
 
-### The Permanent Population
+**Harbourmaster Cassius Dray** (78) has held the line for eleven years through worsening weather, declining every bribe, keeping the neutrality that can be kept and losing sleep over the part that can't.
 
-The 12 million permanents made the Anchorage home: service providers who built businesses, multi-generational families, people who stopped moving, those who find transience comfortable. Permanents and transients occupy the same spaces but different social worlds.
+**Broker Yara Senn** (45) is among the Anchorage's most successful brokers, her speciality the transactions that can't be discussed openly: *"I don't ask what it's for. I connect people who want to buy with people who want to sell. What they do after is their business."* Her information network is formidable, and where it touches Nexus she does not say.
 
-### Entertainment
-
-Everything is available: bars (refined to disreputable), gambling (cards to complex prediction markets), sex work (every price point), combat sports, Vega entertainment. What you can't find here probably isn't available anywhere on the frontier.
-
-### The Long Descent
-
-A bar operating since the station's early days, appearing in trade route documentation as a navigation landmark ("three days past the Long Descent connection"). Unremarkable—drinks, conversation, occasionally useful information—but its longevity makes it an institution.
-
-## Current Issues
-
-### Cartel Presence
-
-The Sable Cartel has increased Anchorage presence: subsidiary offices, financial services competing with established providers, rumoured intelligence operations. The Harbourmaster maintains neutrality—Cartel operations treated like anyone else's—but the presence concerns those seeing Cartel expansion as threatening.
-
-### Infrastructure Strain
-
-Centuries of unplanned growth have created problems: aging sections requiring expensive maintenance, power distribution reaching capacity, life support overloaded in some areas, navigation chaos worsening with new additions. The Harbourmaster has proposed comprehensive infrastructure investment; funding remains contentious.
-
-### The Mandate Question
-
-Mandate ships dock routinely—merchants, diplomats, occasionally military "courtesy calls." Some Freeholders resent this; neutrality means treating Mandate visitors like anyone else. The Harbourmaster's position: neutrality means neutrality. Those wanting a Mandate-free hub can build one elsewhere.
-
-## Characters
-
-### Harbourmaster Cassius Dray
-
-**Age**: 78
-
-Has managed the Anchorage for eleven years through increasingly complicated political situations. His philosophy: "Everyone hates someone. My job is making sure they hate each other somewhere else. Here, we trade." He's declined bribes from every major power. Whether this reflects principle or calculation is unclear—but neutrality holds.
-
-### Broker Yara Senn
-
-**Age**: 45
-
-One of the Anchorage's most successful brokers, connecting parties who would never find each other otherwise. Her specialty: transactions that can't be discussed openly. "I don't ask what it's for. I connect people who want to buy with people who want to sell. What they do after is their business." Her information network is formidable.
-
-### Captain Vex Orien
-
-**Age**: 52
-
-Captains a Drift trading vessel, _Fortunate Wanderer_, connecting the Anchorage to Drift communities for twenty-five years. She moves between worlds—Drift culture and frontier culture—translating each to the other. "The Drift and the frontier understand each other. We both know what it means to have no fixed place. The difference is they're looking for one."
+**Captain Vex Orien** (52) has run the Drift trader _Fortunate Wanderer_ between the Anchorage and the havens for twenty-five years, translating frontier and Drift to each other: *"The Drift and the frontier understand each other. We both know what it means to have no fixed place. The difference is they're looking for one."*
 
 ## Notes
 
-Korsen's Anchorage succeeds because it provides something everyone needs: a place to trade without fighting. The neutrality is fragile—it depends on everyone's calculation that access is worth more than whatever they might gain through violence. If that calculation changes, the system fails.
-
-So far, the calculation holds. The Anchorage is more valuable neutral than controlled. Mira Korsen's insight, nine centuries ago, remains valid. Whether it will remain valid as external pressures mount, as Cartel influence grows, as the Mandate pushes borders—that's the question that occupies Harbourmaster Dray's sleepless nights.
+Korsen's Anchorage works because it gives everyone something they need: a place to trade without fighting. The neutrality is fragile—it rests on everyone's calculation that access is worth more than whatever violence might win—and so far the calculation holds. But Mira Korsen's nine-century-old insight has acquired a sequel she did not intend: a commons valuable enough that no one will fight over it is a commons valuable enough that someone will quietly *buy* it, and the someone has. The Anchorage is the frontier's proof that you can build neutral ground without a state. It is also the frontier's proof of what happens to neutral ground that no state defends.
 
 ---
 
@@ -3962,165 +3241,57 @@ So far, the calculation holds. The Anchorage is more valuable neutral than contr
 
 # Roughneck
 
-The industrial heart of the frontier.
+The industrial heart of the frontier, and the frontier's hardest lesson about itself: that freedom, left running long enough, congeals into ownership. Roughneck is what a boom looks like when it grows up—a functioning industrial economy three centuries past the rush, complete with an owning class, a working class, and a settled inequality that the freest society in human space has no mechanism, and no real wish, to disturb.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| System | Hephaestus |
+| Star | Hephaestus Prime (G8V yellow dwarf) |
+| Population | ~890 million planetary; ~150 million orbital |
+| Gravity | 1.12 standard |
+| Character | Mining, refining, manufacturing; the archetypal extraction economy |
 
-|Attribute|Value|
-|---|---|
-|System|Hephaestus|
-|Star|Hephaestus Prime (G8V yellow dwarf)|
-|Population|~890 million (planetary); ~150 million (orbital)|
-|Gravity|1.12 standard|
-|Character|Mining, refining, manufacturing; archetypal extraction economy|
+## From strike to settlement
 
-Roughneck is what the frontier looks like when it stabilises. The boom happened three centuries ago; what remains is a functioning industrial economy, complete with class tensions, labour disputes, and the perpetual smell of processing plants.
+Hephaestus was surveyed in 3456 C and dismissed as uninteresting until the prospector **Callum Vance** found, in 3512 C, that its crust held vast deposits of rare earths, heavy metals, and industrial ore—hard to reach, but enormous. The rush was textbook: explosion of population, improvised camps, claim disputes, fortunes made and lost. What made Roughneck rare is that its boom never busted: the deposits were deep enough to sustain centuries of extraction, the infrastructure for deep mining created permanent work, and processing, then manufacturing, then services followed, until by 3600 C Roughneck had become that unusual thing, a diversified industrial economy on the frontier.
 
-## History
+And with stability came the thing the frontier myth never advertises. Mining wealth concentrated—among claim-holders, facility owners, investors—while the workers watched their boom wages erode as the labour supply caught up. The **Labour Wars (3672–3689 C)** were the result: strikes, lockouts, and intermittent violence between workers and owners, ended not by victory but by compromise—worker representation in the major facilities, minimum safety standards, some profit-sharing, and no change at all to who owned what. The compromise held. Roughneck's labour relations have been tense and functional ever since, which is to say the inequality was made survivable rather than undone, because on the frontier there is no authority that could undo it and no one with the power who wished to.
 
-### The Strike
+## A class society
 
-The Hephaestus system was surveyed in 3456 C and found uninteresting—no easily accessible resources, no obvious strategic value.
+Roughneck wears the structure the rest of the frontier pretends it doesn't have:
 
-In 3512 C, prospector Callum Vance found otherwise. The planetary crust contained massive deposits of rare earths, heavy metals, and industrial ores—not easy to reach (requiring significant investment), but vast.
+| Class | Character |
+|-------|-----------|
+| Owners | Claim-holders, major shareholders, facility proprietors |
+| Management | Administrators, engineers, specialists |
+| Skilled workers | Miners, machinists, technicians |
+| Unskilled workers | General labour, service positions |
 
-The rush that followed was textbook: population explosion, improvised settlements, claim disputes, fortunes made and lost.
+Mobility exists and is limited: a skilled worker may reach management; management rarely reaches ownership; the mining fortunes have compounded down the generations into something very like an aristocracy that the frontier would be embarrassed to call one. Workers organise—skill guilds, general unions, the company councils the Labour Wars won them—and negotiate and occasionally strike, within the limits those old settlements set. The governance is a frank hybrid: an elected council for civil matters, an **industrial board** of the major facilities for economic policy, and joint committees for the overlap—a system that hands the owners disproportionate weight on the board and has resisted every worker attempt to change it. It is not tyranny. It is just power, privately held, with no state to check it and no exit for those born under it that "you can always leave" can honestly describe.
 
-### The Stabilisation
+## Geography and cities
 
-Unlike most booms, Roughneck's didn't bust. The deposits were large enough to sustain extraction for centuries. Industrial infrastructure required for deep mining created permanent employment. Processing facilities, then manufacturing, then services followed.
+A heavy, rugged world—thick air, hard terrain, survivable without suits in most places, pleasant in none. The **Scar** is the primary extraction zone, the **Covenant Basin** feeds the planet, the **Reaches** are new development, the **Wastes** are the depleted ground abandoned operations leave behind. Above, the **Roughneck orbital** (~150 million) handles processing, shipyards, and trade—and runs much of its bulk transit through Cartel **Wayline** logistics, the frontier's reflexive dependence reproduced in orbit.
 
-By 3600 C, Roughneck had become something rare: a diversified industrial economy.
+| City | Population | Character |
+|------|------------|-----------|
+| Vance | ~180 million | Planetary capital; government, services, old money |
+| Deepwell | ~120 million | Mining centre; worker culture |
+| Portside | ~95 million | Trade and transport |
+| Orbital Prime | ~45 million | Station administration, commerce |
 
-### The Labour Wars
+## Figures
 
-Stabilisation brought new problems. Mining and manufacturing generated wealth that concentrated among claim-holders, facility owners, and investors. Workers saw their boom-town wages decline as labour supply caught up with demand.
+**Governor Mira Thane** (58), elected head of the planetary council, is the career moderate both sides distrust—which she takes as proof she is doing it right: *"This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything."*
 
-The **Labour Wars** (3672–3689 C) were strikes, lockouts, and occasional violence between workers and owners. The conflicts ended in compromises: worker representation in major facilities, minimum safety standards, some profit-sharing, but no fundamental ownership change. The compromises held; Roughneck's labour relations remain tense but functional.
+**Jace Holloway Sr.** (64) has organised Roughneck's workers for forty years and thinks the old settlements have rotted: *"The owners need us more than we need them. They've forgotten that. Time to remind them."* He is planning something larger—coordination across facilities, perhaps a general strike—pending negotiations now underway.
 
-## Economy
-
-### Mining
-
-Still the foundation, though declining from peak.
-
-|Resource|Status|
-|---|---|
-|Rare earths|Declining from peak but still substantial|
-|Heavy metals|Robust production|
-|Industrial ores|Primary output|
-|Exotic materials|Minor but valuable|
-
-Employs ~15% of workforce directly, supports much of the rest.
-
-### Manufacturing
-
-Roughneck produces: mining equipment (the frontier's primary supplier), ship components, industrial machinery, consumer durables. Manufacturing has grown as extraction declined—now rivals mining in economic importance.
-
-### Services
-
-Full service economy: financial services (local banks, Arrhenos branches), healthcare (mining is dangerous; trauma surgery is excellent), education (technical training, a small university), entertainment (bars, gambling, usual frontier vices).
-
-### Trade Position
-
-Net exporter: raw materials to processing centres throughout human space, manufactured goods to other Freeholds and beyond, equipment and expertise to mining operations everywhere. Imports mainly high technology, luxury goods, and food supplements.
-
-## Society
-
-### Class Structure
-
-Visible class divisions:
-
-|Class|Character|
-|---|---|
-|Owners|Claim-holders, major shareholders, facility proprietors|
-|Management|Professional administrators, engineers, specialists|
-|Skilled workers|Miners, machinists, technicians with training|
-|Unskilled workers|General labour, service positions|
-
-Mobility exists but is limited. Skilled workers may rise to management; management rarely becomes ownership. Mining wealth has concentrated over generations.
-
-### Labour Organisation
-
-Workers organise through: guild associations (skill-based, for technical workers), general unions (broad-based, for less skilled workers), and company councils (mandated worker representation in major facilities). These negotiate with owners, advocate for workers, and occasionally strike. Labour War settlements constrain their power but didn't eliminate it.
-
-### Culture
-
-Roughneck culture reflects industrial life: work ethic (productivity is respected; idleness is not), practical skills (what you can do matters more than credentials), solidarity (workers stick together, up to a point), acceptance (this is life; complaints won't change it). Entertainment runs toward the visceral—drinking, gambling, combat sports. Vega serials are popular but viewed with awareness they're fiction.
-
-### Governance
-
-Hybrid government: elected council (proportional representation; civil matters), industrial board (major facility representatives; economic policy), and joint committees (overlapping issues). The system gives owners disproportionate industrial board influence. Workers have tried to change this; they haven't succeeded.
-
-## Geography
-
-### The Planet
-
-Heavy-gravity terrestrial world: thick atmosphere, rugged terrain, limited habitable zones. Not pleasant but not hostile—survivable without environmental suits in most areas.
-
-|Region|Character|
-|---|---|
-|The Scar|Primary extraction zone; heavily industrialised|
-|Covenant Basin|Agricultural region; feeds the population|
-|The Reaches|Frontier areas; new development|
-|The Wastes|Depleted zones; abandoned operations|
-
-### The Orbital Complex
-
-The Roughneck orbital hosts: processing facilities (raw materials processed in orbit), shipyards (construction and repair), trade platforms (external commerce), and population (~150 million permanent).
-
-The complex grew organically—a collection of stations and platforms rather than unified design. Navigation is confusing; locals know their way, visitors don't.
-
-### Major Cities
-
-|City|Population|Character|
-|---|---|---|
-|Vance (planetary capital)|~180 million|Government, services, old money|
-|Deepwell|~120 million|Mining centre; worker culture|
-|Portside|~95 million|Trade and transport hub|
-|Orbital Prime (orbital)|~45 million|Station administration, commerce|
-
-## Current Issues
-
-### Declining Extraction
-
-The easy ore is gone. Remaining deposits require deeper mining, more complex processing, higher costs. Roughneck must decide: invest heavily in continued extraction, or accelerate economic diversification. The industrial board favours extraction; diversification advocates are gaining.
-
-### Labour Tension
-
-The Labour War settlements are generations old. Workers argue conditions have eroded; owners argue profitability requires flexibility. Strike threats are increasingly serious. Whether negotiations or confrontation follows is uncertain.
-
-### Mandate Interest
-
-The Mandate has expressed interest in Roughneck's resources. Official inquiries about "trade agreements" are understood as probes for something more. Roughneck maintains studied distance; the Mandate's border is uncomfortably close.
-
-## Characters
-
-### Governor Mira Thane
-
-**Role**: Elected head of planetary council | **Age**: 58
-
-Thane has spent her career in Roughneck politics—council member, industrial board liaison, now Governor. Her philosophy: "This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything." She's considered a moderate; both sides distrust her, which she views as evidence of success.
-
-### Jace Holloway Sr.
-
-**Role**: Union organiser | **Age**: 64
-
-Holloway has organised workers for forty years. His philosophy: "The owners need us more than we need them. They've forgotten that. Time to remind them." He's planning something—larger coordination, perhaps a general strike. Whether it will happen depends on negotiations currently underway.
-
-### Director Cassian Vance
-
-**Role**: Head of Vance Industries (largest mining conglomerate) | **Age**: 71
-
-Descendant of the original prospector, Cassian controls more of Roughneck's extraction industry than anyone else. His philosophy: "My family built this world. We've earned what we have. The workers earn what they're paid, nothing more." He's old, increasingly rigid, and facing challenges from both workers and younger owners who think his approach is outdated.
+**Director Cassian Vance** (71), descendant of the original prospector, controls more of Roughneck's extraction than anyone, and controls it rigidly: *"My family built this world. We've earned what we have. The workers earn what they're paid, nothing more."* He is old, hardening, and pressed now from two sides—by the workers below and by younger owners who think his refusal to bend is what will finally break the peace.
 
 ## Notes
 
-Roughneck is the frontier grown up—and grown complicated. The boom created wealth; stabilisation distributed it unequally; the resulting tensions have never been resolved.
-
-Other Freeholds look at Roughneck as either example or warning. Example: a frontier settlement can become a functioning industrial economy. Warning: that economy will have class conflict, labour disputes, and political dysfunction.
-
-Roughneck accepts both interpretations. It's not utopia. It's not dystopia. It's a place where people work, live, and argue about who deserves what—which is, perhaps, the best the frontier can offer.
+Roughneck is the frontier grown up and grown complicated: the boom made the wealth, stabilisation distributed it unfairly, and the resulting tensions have never been resolved because there is nothing on the frontier with the standing to resolve them. Other Freeholds read it as example or as warning—a settlement *can* become a real economy; that economy *will* breed class conflict and political deadlock—and Roughneck accepts both readings. It is not a utopia and not a dystopia. It is a place where people work and live and argue about who deserves what, and where the answer is decided, as everywhere on the frontier, by who already holds it—the Mandate's settled injustice reproduced in miniature, privately, with the serial numbers of liberty still attached.
 
 ---
 
@@ -4129,141 +3300,43 @@ Roughneck accepts both interpretations. It's not utopia. It's not dystopia. It's
 
 # Three Falls
 
-The frontier at peak rush.
+The frontier at peak rush, and the prospector myth at full volume—already, two years in, turning into the thing the myth never mentions: the moment the corporations and the credit close in, and the hopefuls the dream recruited discover that the strike was the easy part and the leaving is the trap.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| System | Three Falls |
+| Star | Three Falls Primary (K2V orange dwarf) |
+| Population | ~2.3 million (up from ~40,000 two years ago) |
+| Gravity | 0.91 standard |
+| Character | Current boom town; aurite rush; chaos |
 
-|Attribute|Value|
-|---|---|
-|System|Three Falls|
-|Star|Three Falls Primary (K2V orange dwarf)|
-|Population|~2.3 million (up from ~40,000 two years ago)|
-|Gravity|0.91 standard|
-|Character|Current boom town; aurite rush; chaos|
+## The aurite rush
 
-Two years ago, Three Falls was an unremarkable settlement—a few thousand people scratching out existence on a marginal world. Then Kellen Marsh found aurite. Now it's the frontier's hottest destination: fortunes being made, more being lost, and everyone hoping they'll be among the lucky.
+**Aurite** is a rare crystalline compound prized for quantum-computing substrates, high-efficiency energy storage, cellular-regeneration medicine, and—because the crystals are genuinely beautiful—luxury goods. Deposits are scarce, and Three Falls may hold the largest known concentration. In 3858 C the struggling prospector **Kellen Marsh**, who had worked the system for years and found nothing, caught anomalous deep-scan readings, filed her claim, pulled the first samples, and lit the fuse. The population has grown fifty-fold since; extraction runs flat out; claims are filed, traded, disputed, and fought over.
 
-## The Aurite Rush
+And the rush is already changing character, exactly as it always does. The easy surface deposits are nearly gone; what remains needs deep mining, heavy equipment, and capital—so the individual prospectors increasingly find nothing while corporate operations increasingly take everything, and the transition from a frontier of free finders to a company town with extra steps is happening in real time, visible to anyone in the Sprawl who cares to look up from the next claim. See [Economy](../economy.md).
 
-### What Is Aurite?
+## The Sprawl, and who fills it
 
-A rare crystalline compound with properties making it valuable for: quantum computing substrates, high-efficiency energy storage, medical applications (cellular regeneration), and luxury goods (the crystals are beautiful).
+A marginal world—thin breathable air, little water, temperature extremes—with infrastructure built for forty thousand and overwhelmed by millions: docks past capacity, improvised landing fields, inadequate roads, strained water, unreliable power, and nowhere near enough housing, medicine, or sanitation. Outside the original settlement the **Sprawl** has grown organically—prefabs, tents, converted cargo containers—and houses most of the boom population in conditions from uncomfortable to lethal. The mix is volatile: overwhelmed original settlers, experienced prospectors, hopefuls with dreams and thin resources, service providers chasing the money, opportunists legal and otherwise, and the corporate representatives quietly buying up claims. They tolerate the squalor because they believe it is temporary—strike it rich and leave, or wash out and leave. The second is far commoner than the first, and "leave" is doing the same quiet, load-bearing lie it does everywhere on the frontier.
 
-Aurite deposits are rare. Three Falls has what may be the largest known concentration—how much remains unclear, but early extraction has been extraordinarily productive.
+Governance is minimal—Three Falls declared itself a Freehold in 3860 C on the bare minimum three recognitions—and amounts to a claim registry, a small overwhelmed security force, and a port authority; everything else happens privately or not at all, including the armed enforcement that increasingly settles the claim disputes the registry cannot keep up with. The **Marsh Foundation**, funded by the newly-wealthy Kellen Marsh, runs the only adequately-resourced medical operation, a small school, and what passes for infrastructure—not from pure altruism (Marsh needs the boom to continue) but to genuine benefit.
 
-### The Discovery
+## Figures
 
-Kellen Marsh was a struggling prospector who had worked Three Falls for years, finding little. In 3858 C, her deep-scan equipment detected anomalous readings. Investigation revealed a massive aurite deposit.
+**Kellen Marsh** (47), the original prospector, is now one of the wealthiest people on the frontier and visibly uneasy about it: *"I got lucky. I'd rather be lucky than smart, but luck doesn't last. Ask me again in ten years whether this was worth it."* She runs the Foundation and tries to stay the person she was before the strike.
 
-She filed her claim, extracted initial samples, and the rush began.
+**Mayor Tessaly Vane** (52) ran a trading post until the boom made her responsible for 2.3 million people: *"I didn't sign up for this. Nobody signed up for this. We're all improvising."* Overwhelmed, under-resourced, doing what little the office can.
 
-### Current Status
+**Jace Holloway Jr.** (28) came from Roughneck—his father organises miners there—to organise the processing workers: *"My father taught me that workers have power when they act together. These workers haven't learned that yet. They will."* Management calls him a troublemaker; the workers are still deciding.
 
-Three Falls is at peak boom: population has grown fifty-fold in two years; extraction is proceeding at maximum rate; claims are being filed, traded, disputed, and occasionally fought over. The easy surface deposits are mostly exhausted; remaining aurite requires deeper mining, more equipment, more capital.
+**"The Assessor"** (real name unknown) values claims from a converted cargo container in the Sprawl—geology, production records, legal status—and is trusted more than most because he is careful to be neutral: *"I tell you what I think a claim is worth. What you do with that is your problem."*
 
-The transition from individual prospecting to corporate extraction is underway. Individual prospectors increasingly find nothing while corporate operations increasingly dominate.
-
-## Geography
-
-### The Planet
-
-A marginal world: thin but breathable atmosphere, limited water, temperature extremes, scrubby vegetation in temperate zones. Habitable, but barely.
-
-|Region|Character|
-|---|---|
-|The Basin|Original settlement; aurite deposits|
-|The Falls|Three spectacular waterfalls; tourist attraction before the rush|
-|The Barrens|Desert regions; minimal habitation|
-|The Camps|Sprawling prospector encampments|
-
-### Infrastructure
-
-What exists: the original settlement's docks (overwhelmed), improvised landing areas (dangerous), roads (inadequate), water systems (strained), power (unreliable). What doesn't exist: sufficient housing, adequate medical facilities, proper sanitation, reliable communications. Everything is improvised, temporary, struggling to keep up.
-
-### The Sprawl
-
-Outside the original settlement, camps have grown organically: clusters of prefab habitats, tents, converted cargo containers. The Sprawl houses most of the boom population in conditions ranging from uncomfortable to dangerous.
-
-## Society
-
-### Who's Here
-
-|Type|Character|
-|---|---|
-|Original settlers|Overwhelmed, resentful, sometimes profiting|
-|Serious prospectors|Experienced, equipped, realistic|
-|Hopefuls|New arrivals with dreams and limited resources|
-|Service providers|Following the money|
-|Opportunists|Various legal and illegal ventures|
-|Corporate representatives|Acquiring claims, establishing operations|
-
-The mix is volatile. People who would never meet elsewhere are thrown together by shared pursuit of aurite.
-
-### Social Conditions
-
-Classic boom town dynamics: crowding (housing scarce; people packed together or in temporary camps), crime (limited security; theft and violence common), health (medical services overwhelmed; sanitation inadequate), labour shortage (everyone wants to prospect; service work pays poorly by comparison), and tension (competition for resources, claims, and space produces conflict).
-
-Conditions are tolerable because people believe they're temporary—either they'll strike it rich and leave, or wash out and leave. Few plan to stay.
-
-### Governance
-
-Three Falls declared itself a Freehold in 3860 C (three recognitions; the minimum). Government is minimal: claim registry (recording and adjudicating claims), basic security (small force supplemented by private operations), port authority (managing the docks)—not much else. Administration is overwhelmed; functions that should be governmental happen privately or not at all.
-
-### The Marsh Foundation
-
-Kellen Marsh, now one of the wealthiest people in the Freeholds, runs a Foundation funding: medical services (the only adequately resourced medical operation), education (small school for workers' children), and infrastructure (roads, water, sanitation). Not altruism—Marsh needs the boom to continue for her remaining claims—but effects are beneficial.
-
-## Current Issues
-
-### Deposit Exhaustion
-
-Easy aurite is gone. Remaining deposits require: deep mining operations, significant capital investment, technical expertise, time. Individual prospectors increasingly find nothing while corporate operations increasingly dominate. The boom's character is changing.
-
-### Labour Unrest
-
-Workers in processing facilities and corporate mines are organising: wages haven't kept pace with prices, working conditions are dangerous, management is resistant, strike threats are increasing. Corporate operations need workers; workers need income; negotiation is tense.
-
-### Claim Disputes
-
-Conflicting claims generate constant conflict: boundaries unclear, registration records incomplete or contradictory, some claims obtained through fraud, violence over disputes increasingly common. The registry can't keep up; private resolution—including armed enforcement—fills the gap.
-
-### The Bust Question
-
-Everyone knows booms end. The questions: How much aurite remains? How long until extraction becomes uneconomical? What happens to the population when the rush ends? Who will be left holding worthless claims?
-
-Estimates vary. Optimists say decades; pessimists say the peak is now. Nobody knows for certain. That uncertainty is part of what makes it a boom.
-
-## Characters
-
-### Kellen Marsh
-
-**Age**: 47
-
-The original prospector. Now one of the wealthiest people in the Freeholds. Her wealth is awkward—she was a struggling prospector; now she's a magnate. She didn't seek the transformation and handles it uncertainly. "I got lucky. I'd rather be lucky than smart, but luck doesn't last. Ask me again in ten years whether this was worth it." She runs the Foundation, maintains operations on her claims, and tries to remain the person she was before.
-
-### Mayor Tessaly Vane
-
-**Age**: 52
-
-Elected head of Three Falls' minimal government. Was running a trading post before the boom; now responsible for 2.3 million people. "I didn't sign up for this. Nobody signed up for this. We're all improvising." Overwhelmed, under-resourced, exhausted. She does what she can—claim registry, basic services, crisis management—knowing it's not enough.
-
-### Jace Holloway Jr.
-
-**Age**: 28
-
-Son of the Roughneck union organiser, come to Three Falls to organise processing workers. "My father taught me that workers have power when they act together. These workers haven't learned that yet. They will." Building organisation among processing facility employees, pushing for wage increases and safety improvements. Corporate management considers him a troublemaker; workers are still deciding.
-
-### "The Assessor"
-
-Real name unknown. Operates from a converted cargo container in the Sprawl. Evaluates claims—examining geological data, production records, legal status—and offers opinions on values. Opinions aren't always right, but trusted more than most. "I tell you what I think a claim is worth. What you do with that is your problem." Has made and destroyed fortunes; neutrality is maintained carefully.
+**Wren Aldis** (33) is the boom's arithmetic with a face. She came on the second wave with savings and a deep-scan rig bought on credit, found nothing worth filing, took a short-term contract with a corporate operation to keep eating, and took a second loan against the first when the rig needed repair. Two years on she works a processing line in the Sprawl, owes more than the rig was ever worth to a lender she has never met, and is paid partly in scrip good only at the operation's own commissary. She is free to leave Three Falls. She cannot afford the passage, cannot clear the debt without the wage, and cannot earn the wage anywhere but here. *"Everybody told me it was the land where nobody owns you,"* she says, without much heat. *"Nobody does. I just can't go."* She is not a slave; the Charter is satisfied; and she is exactly as stuck as one, in the freest place there is.
 
 ## Notes
 
-Three Falls is a frontier archetype: the boom town at peak. The energy is infectious—people who arrive feel it, the sense of possibility, the conviction that fortune is close. The energy obscures the reality that most will find nothing, that the bust is coming, that suffering is already significant.
-
-In two years, Three Falls will be different. Maybe still booming; maybe declining; maybe busted entirely. The frontier doesn't provide guarantees.
-
-What Three Falls provides now is the experience of the rush—the hope and chaos and desperation that define frontier opportunity. Whether that's valuable depends on what you want. Some people need to try, even knowing the odds. Three Falls is where they try.
+Three Falls is a frontier archetype caught at its peak: the energy is real and infectious, the sense that fortune is one scan away, and it obscures the reality that most will find nothing, that the bust is coming, that the suffering is already large and the corporations are already winning. In two years it will be booming still, or declining, or a ghost—the frontier makes no promises. What it offers *now* is the pure experience of the rush, which some people need to have even knowing the odds, and which is also, looked at squarely, the engine of the whole arrangement: a machine for converting hope and debt into other people's aurite, running on a steady feed of the willing. The frontier did not lie to Wren Aldis. It simply told her the part that was true and let the myth supply the rest.
 
 ---
 
@@ -4272,156 +3345,45 @@ What Three Falls provides now is the experience of the rush—the hope and chaos
 
 # Veritas Station
 
-Where secrets are traded and mercenaries are hired.
+Where secrets are traded and mercenaries are hired—and where the Cartel's own soldiers rent quarters among the independents, indistinguishable at a glance. Veritas Station is the frontier doing the business it would rather not discuss: intelligence, mercenary recruitment, and the transactions that need a room no one is watching. It is neutral, famously—but where Korsen's Anchorage is neutral about *disputes*, Veritas is neutral about *ethics*, and that difference is exactly the gap a patient buyer walks through.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Type | Station |
+| Location | Veritas system, asteroid belt |
+| Population | ~3 million permanent; ~1 million transient |
+| Gravity | 0.6 G (standard throughout) |
+| Character | Information exchange; mercenary contracts; discreet services |
 
-|Attribute|Value|
-|---|---|
-|Type|Station|
-|Location|Veritas system, asteroid belt|
-|Population|~3 million permanent; ~1 million transient|
-|Gravity|0.6 G (standard throughout)|
-|Character|Information exchange; mercenary contracts; discreet services|
+## Origins and shape
 
-Veritas Station is where the frontier does business it doesn't want to discuss. Intelligence operations, mercenary recruitment, and transactions requiring discretion all pass through here.
+Founded in 3401 C by a consortium of mercenary companies wanting neutral ground for contract negotiation—competing firms share an interest in a place to negotiate, arbitrate, and set standards without bloodshed—Veritas grew quickly past its origins as intelligence services, information brokers, and the legal-financial-technical trades followed the traffic, until by 3600 C it was the frontier's intelligence hub as much as its mercenary marketplace. Unlike the Anchorage's accreted chaos, Veritas is purpose-built and legible: the public **Forum** with its contract boards, the private **Negotiation Decks**, the **Archive** of verified intelligence, the **Company Quarters** where the major firms keep permanent presence, **Intelligence Row**, and the **Discretion Levels** for business that must not be seen. The security is exceptional and pointed: everything public is recorded, everything private is protected—surveillance and counter-surveillance in the same hull.
 
-## History
+## The trades
 
-### Origins
+**Mercenary contracts** are the original business and still central: negotiation in the Decks, registration with the station, arbitration when deals sour, and the informal industry standards that the major companies set here. **Information** is the other half—raw intelligence, processed analysis, verification services, and access to the four-century **Archive**—bought by corporations, governments (deniably), companies, and the wealthy, sold by operatives, analysts, and informants. And the **Discretion Levels** sell the thing the other two need: privacy, no questions, no record, no concern for what is decided there so long as it does not threaten the station itself. Veritas does not ask what its services are for. Veritas facilitates. See [Mercenary Companies](../mercenary-companies.md).
 
-Founded in 3401 C by a consortium of mercenary companies seeking neutral ground for contract negotiation. Their reasoning: competing companies share common interests. A neutral space for negotiating contracts, arbitrating disputes, and maintaining standards would benefit everyone.
+## The asset among the independents
 
-The original **Veritas Compact** established: neutrality between signatory companies, contract registration and arbitration services, shared intelligence on non-payment and contract violations, and prohibition on recruiting from competitors' active personnel.
+The **Veritas Compact** binds the signatory companies into a workable order—neutrality among themselves, contract registration and arbitration, shared intelligence on non-payers, no poaching of active personnel—and it works because everyone benefits from its working; defy a Veritas ruling and future business dries up. Iron Vanguard's permanent presence sets the tone, and its director, **Kaela Vance**, is the most powerful individual routinely on the station; when she speaks on standards, the industry listens.
 
-### Expansion
-
-The station grew beyond mercenary origins: intelligence services established presence, information brokers followed information, clients seeking mercenary services found it convenient, related services (legal, financial, technical) followed demand. By 3600 C, Veritas had become the frontier's intelligence hub and mercenary marketplace.
-
-### The Information Economy
-
-Information proved more valuable than initially expected. The station developed: formal information exchanges, broker networks connecting buyers and sellers, verification services assessing quality, and archives preserving historical intelligence. The mercenary function remains, but information is now equally important.
-
-## Structure
-
-### The Station
-
-Purpose-built, more coherent than the Anchorage's accretion:
-
-|Section|Character|
-|---|---|
-|The Forum|Public spaces; contract boards; general commerce|
-|Negotiation Decks|Private meeting spaces; contract finalisation|
-|The Archive|Information storage and access; verification services|
-|Company Quarters|Major mercenary companies' permanent presence|
-|Intelligence Row|Where information services cluster|
-|The Discretion Levels|Private facilities for sensitive business|
-
-The layout is deliberate: public business in visible spaces; private business in secured sections.
-
-### Security
-
-Exceptional: surveillance throughout public areas, counter-surveillance in private areas, physical security preventing violence, information security preventing unauthorised access. The combination is unusual—everything public is recorded; everything private is protected.
-
-## Economy
-
-### Mercenary Contracts
-
-The station's original purpose remains central: contract negotiation (formal spaces for buyer-seller meetings), registration (recorded agreements enabling dispute resolution), arbitration (when contracts are disputed), standards (informal industry norms established here).
-
-Major companies maintain permanent quarters. Contract negotiations for significant operations occur face-to-face at Veritas.
-
-### Information Trade
-
-The other major industry: raw intelligence (observations, data, rumours), processed analysis (expert interpretation), verification services (assessing information quality), and archival access (historical records for context).
-
-Buyers: corporations, governments (deniably), mercenary companies, wealthy individuals. Sellers: intelligence operatives, analysts, informants, anyone with valuable information.
-
-### Discretion Services
-
-Some business requires more privacy than public spaces provide. The **Discretion Levels** offer: secure meeting facilities, privacy from surveillance, no questions asked. What happens there isn't the station's concern—as long as it doesn't threaten the station itself.
-
-## The Contract System
-
-### How It Works
-
-A mercenary contract at Veritas typically proceeds: initial contact (parties find each other through brokers or contract boards), negotiation (meetings in Negotiation Decks), registration (contract recorded with the station), execution (parties fulfil obligations), and resolution (successful completion or arbitration).
-
-### Contract Boards
-
-Physical and virtual listings for: available contracts (clients seeking mercenaries), available companies (mercenaries seeking work), personnel recruitment, and equipment.
-
-The boards are tiered: public boards (general information, lower-value contracts), subscription boards (detailed listings, verified parties), and private networks (high-value, sensitive work).
-
-### Arbitration
-
-When contracts are disputed: parties present cases to station arbitrators, arbitrators issue binding decisions, refusal to comply results in blacklisting. The system works because everyone benefits from having it work—parties who violate arbitration decisions find future business difficult.
-
-## The Information Exchange
-
-### How It Works
-
-Information trades like any commodity: sellers offer what they have, buyers seek what they need, brokers connect them. Prices depend on exclusivity (is this available elsewhere?), verifiability (can it be confirmed?), and utility (how valuable is it?).
-
-### Verification
-
-The station provides verification services—independent assessment of information quality. Verified information commands premium prices; unverified information is discounted. Verification isn't perfect (sophisticated disinformation sometimes passes), but it's better than nothing.
-
-### The Archive
-
-The Archive—the station's repository of verified historical intelligence—has accumulated for over four centuries, containing information that would be valuable, embarrassing, or dangerous in various hands. Access is controlled; some materials are restricted; Archive integrity is maintained fiercely.
+What the Compact does not list among its members is the one that matters most for the frontier's future. The Cartel's security subsidiary, **Aegis**, is headquartered at Veritas—among the independent companies, renting quarters, registering contracts, looking exactly like one more firm—and from that seat the line between an "independent" frontier company and a Cartel instrument becomes precisely as blurry as the Cartel wants it. The Void Reapers' rumoured Cartel connections, the Crimson Lance's studied silence, the contracts that route through intermediaries to ends no one quite traces: this is the texture of a mercenary economy with the buyer's own arm sitting at the centre of it, quietly able to hire, out-bid, or simply absorb. Veritas sells violence and discretion to whoever pays, and is too professional to notice aloud how much of both is now answering, one retainer at a time, to a single house. See the [Sable Cartel](../../sable-cartel/index.md).
 
 ## Culture
 
-### The Professional Ethos
+The station's ethos is studiously professional: business is business, personal matters stay personal, enemies elsewhere trade civilly here, and reputation rests on reliability—agreements kept, discretion maintained, deliveries made. It balances contradictory virtues by design: openness in the contract markets, where transparency makes for efficient matching, and secrecy in the Discretion Levels, where opacity is the product. And it maintains, explicitly, a neutrality about ethics—what is traded here, information and violence and silence, runs the full range from the legitimate to the monstrous, and Veritas treats them all alike. That refusal to judge is the station's selling point and, increasingly, the frontier's vulnerability: a place that will facilitate anything for anyone is a place the most patient anyone in human space has made its home.
 
-Veritas culture is professional: business is business; personal matters stay personal. Parties who are enemies elsewhere conduct transactions here civilly. Reputation depends on reliability—keeping agreements, maintaining discretion, delivering what's promised.
+## Figures
 
-### Secrecy and Openness
+**Director Kaela Vance** commands Iron Vanguard and, by presence and reputation, the station's professional tone.
 
-The station balances contradictory values: openness in contract markets (transparency enables efficient matching), secrecy in sensitive operations (discretion is the product). Most residents navigate both worlds—public faces in the Forum, private business in the Discretion Levels.
+**Broker Thresh**—no full name, identity protected, appearing in person rarely and through intermediaries usually—is among the most successful information brokers on the station: *"I sell truth. Sometimes the truth is uncomfortable. That's not my problem—that's the product."*
 
-### Moral Ambiguity
-
-The station explicitly maintains neutrality about ethics. What's traded—information, violence, discretion—has applications ranging from legitimate to criminal. Veritas doesn't ask; Veritas facilitates.
-
-## Current Issues
-
-### Cartel Influence
-
-The Sable Cartel has increased presence: information operations, mercenary contracting, possibly influence over station governance. Some view this as normal business development; others see concerning power concentration.
-
-### Quality Erosion
-
-Information quality may be declining: more disinformation circulating, verification struggling to keep up, trust in the exchange eroding. If the information economy loses credibility, the station loses a major function.
-
-### External Pressure
-
-External powers—the Mandate, Arrhenos—have expressed concern about Veritas operations. Pressure to regulate, restrict, or shut down certain activities has increased. So far, the station has resisted; the pressure continues.
-
-## Characters
-
-### Director Kaela Vance
-
-Commander of Iron Vanguard and the most powerful individual routinely present. Her company's presence sets the tone; when she speaks about industry standards, others listen.
-
-### Broker Thresh
-
-No full name used professionally. One of the station's most successful information brokers—connecting sellers with buyers across every intelligence category. Identity carefully protected; operates through intermediaries; appears in person rarely. "I sell truth. Sometimes the truth is uncomfortable. That's not my problem—that's the product."
-
-### Archive Director Cassia Morn
-
-**Age**: 71
-
-Manages the Archive. "Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision." Maintains Archive integrity fiercely; attempts to tamper have been met with permanent exclusion.
+**Archive Director Cassia Morn** (71) keeps the Archive and its integrity with a ferocity that has met every attempt at tampering with permanent exclusion: *"Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision."*
 
 ## Notes
 
-Veritas Station exists because certain functions require infrastructure: mercenary contracts need neutral negotiation space, information exchange needs verification and broker services, discretion requires physical facilities.
-
-The station provides this while maintaining studied neutrality about how it's used. The neutrality is different from Korsen's Anchorage—the Anchorage is neutral about disputes; Veritas is neutral about ethics. What happens in the Discretion Levels isn't the station's concern.
-
-This arrangement serves the industry. Whether it serves broader interests is a question Veritas doesn't ask.
+Veritas Station exists because certain functions need infrastructure—neutral space for contracts, verification for intelligence, facilities for discretion—and it provides them while keeping a studied silence about how they are used. Its neutrality is different in kind from the Anchorage's: the Anchorage refuses to take sides in a fight, while Veritas refuses to ask what the fight is *for*. That is a finer and more dangerous distinction than it sounds, because a hub that will not ask is a hub that cannot notice when its own neutrality has been bought—and the buyer, who needs exactly such a place and exactly such a silence, is already inside, paying rent, keeping the rules, and waiting.
 
 ---
 

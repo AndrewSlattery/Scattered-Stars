@@ -1,136 +1,48 @@
 # Dustmote
 
-The world that chose to stay forever.
+The world that chose to stay forever—and chose it for everyone who came after. Dustmote is the frontier's freedom turned exactly inside out: a Freehold in good standing whose people are the least free in human space, bound to a single world not by law or poverty but by their own bodies, on a decision their ancestors made and they never got to.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| System | Karenna |
+| Star | Karenna (F5V white star) |
+| Population | ~340 million |
+| Gravity | 0.94 standard |
+| Character | Agricultural; permanent population; light-dependent genetics |
 
-|Attribute|Value|
-|---|---|
-|System|Karenna|
-|Star|Karenna (F5V white star)|
-|Population|~340 million|
-|Gravity|0.94 standard|
-|Character|Agricultural; permanent population; light-dependent genetics|
+Dustmote natives cannot leave. Not *won't*—*cannot*. Three centuries ago their founders rewrote their own genetics to require Karenna's specific light, and the change breeds true.
 
-Dustmote is unique among Freeholds: its population cannot leave. Not won't—_cannot_. Three centuries ago, colonists modified themselves to require Karenna's specific light spectrum, binding their descendants to this world forever.
+## The Rootbound Covenant
 
-## History
+Karenna was surveyed in 3156 C and found gentle—mild climate, stable star, fertile soil—and the consortium that won the colony, the **Rootbound Covenant**, held a peculiar conviction: that humanity's sickness was rootlessness, the endless transience of people drifting without commitment, and that the cure was to make leaving impossible. Before landfall they modified themselves—skin chemistry tuned to Karenna's spectrum, a dependency on trace compounds produced only under that light, developmental patterns requiring exposure in childhood—and they made the changes heritable. Their children would be Karenna's children. Forever.
 
-### The Founding
+It was entirely legal; the Freeholds impose no limit on self-modification. It was also widely condemned, then and since, as binding the unconsenting—the founders chose, and everyone born after merely inherits the choice. The Covenant's answer was that all children everywhere are bound by their parents' choices, and at least these would have roots. The debate has not closed in three hundred years, and the natives hold every position in it: some defend the founding as necessary, some resent it, most simply live inside it. It is the frontier's cherished freedom posed as a question no one else has to answer so starkly: *whose liberty was it to spend?*
 
-Karenna was surveyed in 3156 C and found hospitable—mild climate, stable star, fertile soil. Several groups proposed colonisation; funding was competitive.
+## The dependency
 
-The winning consortium, the **Rootbound Covenant**, held an unusual philosophy. They believed humanity's problem was rootlessness—transience, impermanence, populations drifting without commitment. Their solution: make leaving impossible.
+A Dustmote native deprived of Karenna's light declines within days, sickens within weeks, dies within months. The spectrum cannot be perfectly reproduced; equipment approximates it well enough for short trips and worse the longer one is away, so that off-world life is possible, difficult, and a slow medical emergency. The modifications show—skin faintly orange, eyes golden in certain light, a sensitivity to anything outside the optimal range—so that off-world a Dustmoter is recognisable, and meets the usual human menu of curiosity, prejudice, and fetish.
 
-### The Modification
+## A society built for forever
 
-Before landfall, the Covenant modified their genetics. The changes: optimised photosynthesis-like processes in skin cells for Karenna's specific spectrum; dependency on trace compounds produced only under Karenna light; developmental patterns requiring spectrum exposure during childhood.
+Dustmote is at once the most rooted and most isolated of Freeholds. **Rooted**, because the population has nowhere else to be, and so has built for permanence—durable infrastructure, multi-generational institutions, and one of the more sophisticated governments on the frontier (an elected assembly by proportional representation, an executive council, an independent judiciary, real constitutional protections). When you cannot leave, you invest in making home work; Dustmote's stability is the dividend of its captivity. **Isolated**, because most natives never travel, and the wider frontier stays abstract; the few who range widely become a small worldly class, translators between Dustmote and everywhere else.
 
-The modifications were inheritable. Children of Dustmote natives are Dustmote natives. Forever.
+Its values follow from its condition: **commitment** (the cardinal virtue—Dustmote people stay, framed as choice even when it isn't), **stewardship** (every generation owes the next an enduring colony), **self-sufficiency** (to depend on imports is to depend on people who can leave), and **community** (individual success is nothing if the colony fails). It feeds itself and more—Karenna's light and soil make it a serious agricultural exporter—imports most complex technology while exporting a small sophisticated line of light-spectrum and life-support equipment, and consumes external media avidly, participating in the frontier mostly at a distance. At Roothold's centre stands the **Shrine of First Light**: a preserved habitat module from the colony ship, the founders' recorded explanation of their choice, and the genetic record of the modification—neither celebrated nor condemned, simply kept, the way you keep the document that decided everything.
 
-### The Controversy
+| City | Population | Character |
+|------|------------|-----------|
+| Roothold | ~50 million | Capital; original settlement; government |
+| Covenant | ~35 million | Agricultural processing |
+| Sunrise | ~25 million | Coastal; fishing and aquaculture |
+| Farlight | ~15 million | Research and education |
 
-The Covenant's choice was legal—the Freeholds impose no restrictions on self-modification. It was also widely condemned: criticised as imposing a binding choice on those who couldn't consent, with founders' children having no say in their permanent binding.
+## Figures
 
-The Covenant's response: all children everywhere are bound by their parents' choices. At least these children would have roots.
+**Councillor Tashen Mor** (61), Dustmote's representative to the Union, is one of the few who travels widely, living by constant medical management of her dependency: *"I've seen the frontier—the transience, the rootlessness. My ancestors wanted something different. They achieved it. Whether the cost was justified... ask me again on my deathbed."*
 
-The debate continues. Dustmote natives have varying views—some accept the founding decision as necessary, others resent it, most simply live with it.
+**Dr. Yeren Cole** (45), a geneticist at Farlight, researches the reversal of light-dependency—work some hail as liberation and others damn as betrayal of the founders' vision. Her own framing is the whole planet's argument in a sentence: *"Staying should be a choice, not a sentence."* The work is decades from application, if it is possible at all.
 
-## The Light Dependency
-
-### Mechanism
-
-Dustmote natives require regular exposure to Karenna's light spectrum. Without it: energy decline within days, health deterioration within weeks, death within months.
-
-The spectrum cannot be perfectly replicated artificially. Equipment exists that approximates it, allowing short-term off-world travel, but extended absence requires constant medical management with declining effectiveness over time. Long-term off-world survival is possible but difficult.
-
-### Visibility
-
-The modifications are visible: slightly orange-tinted skin, eyes adapted to Karenna's spectrum (appearing golden in certain lights), increased sensitivity to light outside optimal range. Off-world, a Dustmote native is recognisable—creating social dynamics of curiosity, prejudice, and occasional fetishisation.
-
-## Society
-
-### The Paradox
-
-Dustmote is both the most rooted and most isolating Freehold.
-
-**Rooted**: The population has nowhere else to go. They have built for permanence—durable infrastructure, multi-generational institutions, culture oriented toward the very long term.
-
-**Isolated**: Most natives rarely leave. Off-world travel requires preparation, equipment, and tolerance for discomfort. The wider frontier remains abstract.
-
-### Cultural Values
-
-**Commitment**: The ultimate virtue. Dustmote people stay. This is presented as choice even when it isn't.
-
-**Stewardship**: The colony must endure indefinitely. Every generation inherits responsibility for those that follow.
-
-**Self-sufficiency**: Depending on imports means depending on people who can leave. Dustmote strives to produce what it needs.
-
-**Community**: Individual success means nothing if the community fails. Cooperation is not optional.
-
-### Governance
-
-Dustmote has one of the more sophisticated Freehold governments: elected assembly with proportional representation, executive council selected by the assembly, independent judiciary, constitutional protections. The stability reflects the population's permanent commitment—when you cannot leave, you invest in making your home functional.
-
-### The Outside World
-
-Dustmote participates through trade (exports agricultural, imports technology), the Assembly (sends delegates), and information exchange (consumes external media avidly). But participation is asymmetric—most natives interact with the wider frontier only virtually. The few who travel extensively become a distinct class: worldly, slightly apart, translators between Dustmote and everywhere else.
-
-## Economy
-
-### Agriculture
-
-Dustmote's primary activity. Karenna's light combined with mild climate and fertile soil produces excellent growing conditions. Exports: grains and staples, specialty crops bred for Karenna conditions, processed foods, agricultural technology. Employs ~30% of population directly; supports much of the rest.
-
-### Technology
-
-Imports most complex technology; exports specialised products: light-spectrum equipment (obviously their field), agricultural biotech, long-duration life support systems. The sector is small but sophisticated.
-
-### Services
-
-Local economy serving the population: professional services, entertainment (notable local music tradition), education (several respected institutions). Little service export—outsiders rarely come.
-
-## Geography
-
-A mid-sized terrestrial world: three continents, temperate to subtropical inhabited regions, abundant water, Karenna-optimised biosphere (Earth-descended, heavily modified). The planet would be attractive by any standard; its light-dependent population makes colonisation by others impractical.
-
-### Settlements
-
-|City|Population|Character|
-|---|---|---|
-|Roothold|~50 million|Capital; original settlement; government centre|
-|Covenant|~35 million|Agricultural processing hub|
-|Sunrise|~25 million|Coastal; fishing and aquaculture|
-|Farlight|~15 million|Research and education centre|
-
-### The Shrine of First Light
-
-At Roothold's centre: a preserved habitat module from the colony ship, holographic records of founders explaining their choice, the genetic records of the original modification. Neither celebrated nor condemned—simply the record of a decision that shaped everything after.
-
-## Characters
-
-### Councillor Tashen Mor
-
-**Role**: Dustmote Assembly representative to the Union | **Age**: 61
-
-One of the few natives who travels extensively, maintaining light-dependency through constant medical management. Her perspective: "I've seen the frontier—the transience, the rootlessness. My ancestors wanted something different. They achieved it. Whether the cost was justified... ask me again on my deathbed." Carries portable light equipment everywhere; schedules life around treatment sessions.
-
-### Dr. Yeren Cole
-
-**Role**: Geneticist, Farlight Research Centre | **Age**: 45
-
-Researches the possibility of reversing light dependency—making natives able to live anywhere. The research is controversial: some see it as liberation (offering choices parents lacked); others see it as betrayal (abandoning the founders' vision). Cole sees it as providing options: "Staying should be a choice, not a sentence." Her work is decades from practical application, if possible at all.
-
-### Kenna Bright
-
-**Role**: Trader, starship captain | **Age**: 38
-
-Operates a small trading vessel, spending months away from Dustmote light and paying the price in constant medical management. Why? "Someone has to connect us to out there. The isolation would kill us slower than leaving kills me." Her ship, _Lasting Light_, carries Karenna-spectrum equipment turning her quarters into a fragment of home.
+**Kenna Bright** (38) captains the small trader _Lasting Light_, whose quarters are rigged with Karenna-spectrum equipment so she can spend months away and pay only in slow medical cost. Why pay it? *"Someone has to connect us to out there. The isolation would kill us slower than leaving kills me."*
 
 ## Notes
 
-Dustmote's situation has no parallel. Other settlements rise and fall; Dustmote endures. Other populations chase opportunities; Dustmote's people stay. Other Freeholds define themselves by what they do; Dustmote is defined by what its people are.
-
-Whether the Rootbound Covenant's experiment succeeded depends on definitions. They created permanence—but permanence purchased with freedom. They ended transience—by making leaving impossible.
-
-The frontier values freedom. Dustmote values roots. The tension is irresolvable, and both values have costs.
+Dustmote has no parallel. Other settlements rise and fall; Dustmote endures. Other Freeholds define themselves by what they do; Dustmote is defined by what its people *are*, and cannot stop being. Whether the Rootbound Covenant succeeded depends entirely on what you think freedom is for: they ended transience by making leaving impossible, and bought permanence with liberty, and handed the bill to people who never agreed to it. The frontier worships freedom; Dustmote worshipped roots; and Dustmote is the proof, sitting quietly in the middle of the freest place in human space, that you can give your freedom away for something you love—and give away other people's too, and call it a gift.
