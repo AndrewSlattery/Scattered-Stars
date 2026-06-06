@@ -40,27 +40,66 @@ Many maintain complex relationships with one or more great powers while preservi
 
 # The Drift Communities
 
-Nomadic societies (~900 billion population) living aboard thousands of mobile space stations ("havens") scattered across human space. Decentralised, stateless, and fiercely independent.
+Picture the Drift and you picture something like Haven Ascendant: a great warm wandering city, free of any flag, keeping humanity's memory and throwing a feast at the end of the week. It is a real place, and it is one haven of thousands, holding about four million of the Drift's roughly nine hundred billion people—a rounding error, and the luckiest deck in the fleet. The postcard is real. It is also one part in two hundred thousand of the thing it claims to show.
 
-## Haven Types
+The Drift is not a nation and not a culture. It is nine hundred billion stateless people aboard thousands of mobile stations—"havens"—that share an origin, a predicament, and a stance, and almost nothing else. The origin is the **Cascade** of 2756 C, the collapse that shattered the old order and set ships and station-crews adrift between dead authorities; many havens trace their independence to a vessel that simply never came home. The predicament is that you cannot, aboard a moving station, make all your own fuel and parts and medicine, which means the "free" nomads live by a dependence they would rather not discuss. And the stance—the only thing that genuinely runs from the richest Grand Haven to the grimmest salvage hauler—is a defiant, practised joy: the conviction, hard-won against real hardship, that a life this fragile and this contingent is exactly the kind worth celebrating. The romance outsiders see is not a lie. It is a survival technology, and it is not evenly distributed.
 
-**Grand Havens** are jump-capable stations, self-sufficient for decades, capable of crossing between systems—the largest and most independent Drift habitats.
+| Attribute | Value |
+|-----------|-------|
+| Population | ~900 billion, across thousands of havens—no two quite alike, and the gulf between the richest and the poorest as wide as any in human space |
+| Centre | None; the Drift is mobile and stateless by definition. Its nearest thing to a capital is **Korsen's Anchorage**—which belongs to someone else |
+| Government | None above the single haven; each governs itself, by everything from elected convocations to a captain's word |
+| Economy | Services, salvage, trade, entertainment, information—and a deep, unromantic dependence on Cartel logistics and Arrhenos banking |
+| Character | Not one people; free the way a tenant is free; joyful the way the precarious learn to be—on purpose, and against the odds |
 
-**Trade Havens** are nomadic stations providing services (medical, technical, entertainment, information brokerage) to far-flung polities on a travelling basis.
+## Not one people
 
-**Refugee Havens** are sanctuaries for the lost and the intentionally disappeared, offering anonymity and protection for those fleeing persecution, debt, or past lives.
+The havens divide, roughly, into three kinds, and the distance between them is the first thing the romance hides.
 
-## Specialisations
+- **Grand Havens** are the postcard: jump-capable, self-sufficient for decades, centuries old, large and rich enough to choose their own course. They are rare. Haven Ascendant is one. Most Drift will never live aboard one, and will visit only as paying guests.
+- **Trade Havens** are the working majority—nomadic stations selling services (medical, technical, entertainment, information-brokerage, neutral ground) to far-flung worlds on a travelling circuit, often on margins thin enough that a bad season means a hard one. This is what most Drift life actually looks like.
+- **Refugee Havens** are the floor: sanctuaries for the lost, the disappeared, the debt-fleeing, offering anonymity and protection to people who did not choose the romance of the stars so much as run clean out of any other door.
 
-Individual havens may focus on entertainment (performance, gambling, sex work), medical tourism, information brokerage, neutral diplomatic ground, salvage processing, or cultural preservation of Earth traditions.
+Beneath that, havens specialise—in salvage processing, in vice (gambling, intoxicants, sex work), in medicine, in information, in diplomatic neutrality, in the cultural preservation Ascendant is famous for. A Drifter born in a salvage hauler's recycling deck and a Drifter born in Ascendant's Core share a legal status (none) and a way of speaking about freedom, and almost no material reality at all. The gulf even runs *inside* the great havens: Ascendant's own transient Outring holds more people than its archives, its halls, and its promenade combined, and they are not the ones in the brochures. See [Haven Ascendant](haven-ascendant/index.md).
 
-## Culture
+## Freedom is not free
 
-Haven Ascendant observes Gap 2 with assessment of ship supplies and resources, followed by a great feast—reflecting the practical concerns of life in space.
+Statelessness sounds like the absence of a master. In practice it is the absence of a *home market*, and the difference is a bill that comes due every cycle. A haven cannot mine its own metals at scale, refine its own fuel indefinitely, or manufacture every part it will break; it must resupply, and the routes that reach the wandering Drift are not routes most carriers will fly.
 
-## External Relations
+The carrier that will is the **Sable Cartel**, whose logistics arm services Drift routes few others touch, and whose **Korsen's Anchorage**—a Freehold station that doubles as the Cartel's Nexus headquarters—is the nearest thing the Drift has to a central hub. The banker that will is **Arrhenos**, which extends the stateless a genuinely valuable courtesy: neutral accounts whose assets are protected regardless of where, or whether, the holder has a country. Both relationships are fair, useful, and quietly defining. A rich haven like Ascendant, sitting on centuries of reserves spread across many Arrhenos institutions, holds a long leash and barely feels it. A Trade Haven living job to job feels every inch of its short one. Wealth, in the Drift, mostly buys distance from the people you depend on.
 
-Arrhenos provides specially designed neutral financial services for the stateless Drift Communities, whose assets receive protected status regardless of physical location.
+## The hard-won joy
+
+What looks from outside like carefree wandering is, from inside, something tougher and more deliberate. The Drift lives where everything is fleeting—worlds die, stations fail, records crumble, the dark is patient—and its answer is not despair but a kind of disciplined celebration: *if everything ends, then everything matters; if nothing lasts, this moment is irreplaceable.* The feast, the memory-keeping, the near-sacred duty of welcome are not naivety. They are what people build, on purpose, to stay human in a fragile place, and they have teeth—a haven that will refuse entry to no one for who they are will spend real blood defending the principle. Haven Ascendant has merely written the creed down most beautifully. The instinct is the whole Drift's, found on every deck, practised according to every deck's means.
+
+## What the Drift is becoming
+
+The one argument running fleet-wide is about the future of the body itself. **Neo-Solar Republic** enhancement—the Lattice, the morphologies, the long networked post-human life—has begun spreading into the Drift, the Republic's most successful unintended export, and the havens are split down the middle by it. To some it is simply the next tool of survival, embraced without fuss. To others, and most sharply to the memory-keeping havens, it is identity erosion: a people whose whole purpose is preserving what humans *were* cannot easily watch its children decide to stop being that. No authority exists to settle the question, because no authority exists at all. It will be settled haven by haven, the way everything in the Drift is.
+
+## Relations
+
+| Power | Relationship |
+|-------|-------------|
+| The Sable Cartel | The indispensable carrier and the quiet landlord—Cartel logistics fly Drift routes no one else will, and Korsen's Anchorage is the hub the whole fleet leans on; low-stakes, high-dependence |
+| Arrhenos | The stateless person's bank—neutral, protected accounts regardless of flag; trusted as far as anyone trusts a bank, and further than most |
+| Neo-Solar Republic | Growing cultural exchange and the source of the enhancement schism now dividing the havens; the Republic's ideas reach where its fleets never will |
+| The Mandate | Tolerance of passage and no formal relations; the Drift docks its shuttles in Imperial markets, and havens like Ascendant keep Mandate history the Empire would rather lose |
+| Vega Commercial Throne | Touring performers and media distribution—a niche, loyal market that carries Vega's songs to where its fleets never reach |
+| Union of Frontier Freeholds | Overlapping frontier; shared docks and shared distrust of central authority; Korsen's Anchorage sits in Freehold space |
+| Elysian Collective | Occasional, transactional—salvage and supply around the edges of the Collective's terraforming work |
+
+## In depth: Haven Ascendant
+
+One haven, documented closely—the famous, fortunate, archive-keeping Grand Haven—offered here as a detailed example and emphatically *not* as the template for nine hundred billion people.
+
+| Topic | Focus |
+|-------|-------|
+| [Haven Ascendant](haven-ascendant/index.md) | The Mnemosynë's eleven centuries, the five zones, and the Outring that holds most of its people |
+| [Society](haven-ascendant/society.md) | Governance, the Core Codes, the hard-won-joy creed, and Gap 2 |
+| [Preservation](haven-ascendant/preservation.md) | The Archives and the Reconstruction Halls—walking through the past, and keeping proof of the stateless |
+| [The Promenade](haven-ascendant/promenade.md) | Eight kilometres of celebration, and the people who work it |
+| [Characters](haven-ascendant/characters.md) | The Captain-Archivist, the Reconstructor, the confessor, and others |
+| [Visiting](haven-ascendant/visiting.md) | Finding a moving city; what it depends on; who is allowed to stay |
 
 ---
 
@@ -69,52 +108,44 @@ Arrhenos provides specially designed neutral financial services for the stateles
 
 # Haven Ascendant
 
-A Grand Haven renowned for archival preservation and vibrant entertainment—humanity's most comprehensive living archive and a destination for sophisticated celebration.
+Haven Ascendant is what survival looks like when it gets lucky. It began as somebody else's filing cabinet—a corporate archival vessel—was orphaned by the collapse of human civilisation, and turned, over eleven centuries, into the richest living archive humanity possesses and the most celebrated party in the Drift. It is the haven outsiders mean when they say "the Drift," and it is worth remembering, walking its lovely decks, that most of its own population lives in the part the tours skip.
 
-|Attribute|Value|
-|---|---|
-|Type|Grand Haven (jump-capable)|
-|Population|~4.2 million permanent|
-|Founded|2691 C (pre-Cascade)|
-|Captain-Archivist|Teshen Briar (since 3847 C)|
-|Specialisations|Archives, environmental reconstruction, entertainment|
-|Language|Trade Tongue (primary), Ascendant Drift (local)|
-|Mass|~890 million tonnes|
-|Length|23 km primary axis|
+| Attribute | Value |
+|-----------|-------|
+| Type | Grand Haven (jump-capable) |
+| Population | ~4.2 million permanent |
+| Founded | 2691 C (pre-Cascade) |
+| Captain-Archivist | Teshen Briar (since 3847 C) |
+| Specialisations | Archives, environmental reconstruction, entertainment |
+| Language | Trade Tongue (primary), Ascendant Drift (local) |
+| Mass | ~890 million tonnes |
+| Length | 23 km primary axis |
 
-## History
+## How a filing cabinet survived the apocalypse
 
-The station began as the _Mnemosynë_, a corporate archival vessel commissioned by the Terran Heritage Foundation in 2691 C to preserve Earth cultures as humanity scattered across the stars.
+The station began as the _Mnemosynë_, commissioned in 2691 C by the Terran Heritage Foundation to preserve Earth's cultures as humanity scattered. The **Cascade** of 2756 C then destroyed the Foundation and the entire political order that funded it, and left the _Mnemosynë_ in transit between systems with no owner, no mission, and no obvious reason to exist. The crew voted on whether to seek absorption into some planetary polity or carry on alone. They chose alone, 342 to 7—a decision that should have killed them, because an archive has no trade goods, no weapons, and nothing anyone urgently needs.
 
-The Cascade of 2756 C destroyed the Foundation along with the political order sustaining it. The _Mnemosynë_, in transit between systems when its parent organisation ceased to exist, faced a choice: seek absorption into a planetary polity or continue independently. They chose independence, 342 to 7.
+What saved them was the cargo. The archives held centuries of Earth performance—music, theatre, dance, games, food—and the crew began selling "heritage experiences" to passing traders: a reconstructed meal, a recovered game, a play no one had staged in a hundred years. The novelty drew visitors; the quality brought them back; and by 2800 C the renamed Haven Ascendant had locked its two halves into a single engine—entertainment revenue funding preservation, preserved material generating new entertainment. The first environmental reconstruction, the Meridian District, opened in 2934 C after eleven years and very nearly bankrupted the Haven a second time. It also defined it. Others preserved records; others sold a good night out; no one else let you *walk through the past*. See [Preservation](preservation.md).
 
-The early decades were desperate—an archival vessel has no trade goods, no military capacity, no obvious value. What saved them was entertainment. The archives contained centuries of Earth performance traditions: music, theatre, dance, games, cuisines. The crew began offering "heritage experiences" to passing traders—reconstructed meals, theatrical productions, recovered gambling games. The novelty attracted visitors; the quality brought them back.
+## The five zones, and the one that holds the most people
 
-By 2800 C, the renamed Haven Ascendant had established itself as both archive and attraction, the two functions reinforcing each other: entertainment revenue funded preservation; preserved materials generated new entertainment. The station grew through salvage, trade, and careful investment.
+The Haven is not a designed thing but an accretion—the original _Mnemosynë_, salvaged hulls, and purpose-built modules grafted on across eleven hundred years, settled now into five zones.
 
-The first environmental reconstruction—the Meridian District, recreating a pre-Scattering São Paulo neighbourhood—was completed in 2934 C after eleven years and nearly bankrupted the Haven. It also established Ascendant's unique position: other havens offered entertainment, other archives preserved records, but no one else offered the experience of _walking through the past_.
+| Zone | Character | Population |
+|------|-----------|-----------|
+| The Core | Original _Mnemosynë_; administration, residence | ~400k |
+| The Stacks | Archive storage, research, data processing | ~200k |
+| The Reconstruction Halls | Environmental recreations, immersive experience | ~150k |
+| The Promenade | Entertainment, hospitality, commerce | ~800k |
+| The Outring | Docks, industry, transient housing | ~2.6m |
 
-## Physical Structure
+Read that table from the bottom. The Outring—docks, recycling, fabrication, and the churning transient housing of dockworkers, contract crews, and the just-arrived—holds nearly two in three of everyone aboard, and almost none of the fame. The archive that preserves the dignity of forgotten neighbourhoods runs on the labour of a neighbourhood its own brochures forget. This is not hypocrisy; it is simply the gulf between decks, reproduced inside a single haven, on the haven that does it most gently. See [Society](society.md).
 
-The Haven is not a single unified structure but an accretion of modules, salvaged vessels, and purpose-built additions accumulated over eleven centuries, organised into five major zones:
-
-|Zone|Character|Pop.|
-|---|---|---|
-|The Core|Original _Mnemosynë_; administrative, residential|~400k|
-|The Stacks|Archive storage, research, data processing|~200k|
-|The Reconstruction Halls|Environmental recreations, immersive experiences|~150k|
-|The Promenade|Entertainment, hospitality, commerce|~800k|
-|The Outring|Docks, industrial, transient housing|~2.6m|
-
-During major festivals, the Promenade alone may host an additional million visitors.
-
-**Gravity**: 0.85 G in residential and entertainment sections (slightly lighter than most planetary surfaces, heavy enough to feel grounded); 0.4 G in the Stacks (reducing wear on physical archives). Some Reconstruction Halls adjust gravity to match source environments.
-
-**The Axis**: A zero-gravity transit corridor running the station's full length, with capsules moving passengers and cargo between zones in minutes. Public infrastructure, free to use, perpetually crowded.
+**Movement and weight.** Gravity sits at 0.85 G through the residential and entertainment sections—light enough to feel buoyant, heavy enough to feel grounded—and drops to 0.4 G in the Stacks to spare the physical archives; some Reconstruction Halls retune it to match whatever they are recreating. Threading the whole 23-kilometre length is **the Axis**, a zero-gravity transit corridor whose capsules cross between zones in minutes: public, free, and perpetually crammed, the one place every deck of the Haven physically meets.
 
 ---
 
-_The Haven endures. The Haven remembers. The Haven celebrates. For eleven centuries and counting._
+_The Haven endures. The Haven remembers. The Haven celebrates. For eleven centuries and counting—and it is the lucky one._
 
 ---
 
@@ -123,43 +154,43 @@ _The Haven endures. The Haven remembers. The Haven celebrates. For eleven centur
 
 # Notable Characters
 
+Six lives aboard the Haven—five from the decks the brochures show, and one from the deck that holds the most people.
+
 ## Teshen Briar
 
-**Role**: Captain-Archivist (since 3847 C) **Age**: 94 (appears ~50)
+**Role:** Captain-Archivist (since 3847 C) · **Age:** 94 (appears ~50)
 
-Mild demeanour concealing sophisticated political acuity. Previously managed the Cascade Collection for three decades, requiring constant negotiation with planetary governments, academics, and descendants of Declaration signatories. Lives simply—modest Core quarters, few indulgences, early hours. His entertainment is deliberative politics itself. Married forty years to Maren Osse (Heritage Row restaurateur); no children ("the Haven is enough legacy").
+A mild manner over a sophisticated political instinct. Briar spent three decades running the Cascade Collection—work that meant ceaseless negotiation with planetary governments, academics, and the touchy descendants of Declaration signatories—before the Convocation elected him to the chair. He lives plainly: modest Core quarters, early hours, few indulgences, his real recreation the deliberative politics most people find a chore. Married forty years to Maren Osse, a Heritage Row restaurateur; no children, by choice ("the Haven is enough legacy"). His central problem is the one no Captain-Archivist before him has had to face squarely—what the Haven owes the future when the future may not want to stay human. See [Preservation](preservation.md).
 
 ## Vell Kiruna
 
-**Role**: Chief Reconstructor **Age**: 67
+**Role:** Chief Reconstructor · **Age:** 67
 
-Overseen every major reconstruction completed in the last four decades. Trained as atmospheric engineer, shifted to environmental design, found her calling in integrating technical and cultural elements. Known for borderline-obsessive perfectionism, a temper when standards slip, genuine warmth toward source communities, absolute refusal to compromise on confidence ratings.
-
-Current project: the Abrantine Terraces (controversial Mandate pleasure complex destroyed during the Yansieve Rebellion—some argue the Haven shouldn't preserve Mandate imperial culture while the rebellion continues, but Kiruna's position is simple: the Haven preserves).
+She has overseen every major reconstruction of the past four decades. Trained as an atmospheric engineer, she drifted into environmental design and found her vocation in the seam where the technical meets the cultural—getting the air, the light, and the grief of a place all correct at once. Borderline-obsessive, quick-tempered when standards slip, genuinely warm toward the source communities she works with, and immovable on one point: she will not inflate a confidence rating to please a patron. Her current project, the Abrantine Terraces—a Mandate pleasure complex destroyed during the Yansieve Rebellion—has drawn objections that the Haven should not be preserving Mandate imperial culture while the rebellion still burns. Her answer is the whole institution's, reduced to three words: *the Haven preserves.*
 
 ## Dace Velorum
 
-**Role**: Performer, the Hanging Market **Age**: 34
+**Role:** Performer, the Hanging Market · **Age:** 34
 
-Grandmother survived Covenant Station's destruction; mother was born on Haven Ascendant and raised him in the survivor community's traditions. Worked the Market since adolescence—runner, vendor, now senior performer. His specialty is a textile vendor documented in survivor testimony, performed with unsettling precision.
-
-Outside the Market: quiet, awkward, more comfortable with reconstruction personas than his own. Lives in the survivor community's residential cluster; has shown no interest in leaving.
+His grandmother survived the destruction of Covenant Station; his mother was born on Ascendant and raised him inside the survivor community's traditions. He has worked the Hanging Market memorial since adolescence—runner, then vendor, now senior performer—and his speciality is a single textile seller, documented in survivor testimony, whom he inhabits with a precision visitors find difficult to sit with. Off the Market he is quiet to the point of awkwardness, more at ease in a reconstructed dead man's life than his own, and has shown no flicker of interest in leaving the survivor cluster he was raised in. He is what it looks like when the duty to remember is not a job but an inheritance.
 
 ## Osanne Drey
 
-**Role**: Proprietor, the Spiral **Age**: 112
+**Role:** Proprietor, the Spiral · **Age:** 112
 
-Run Fortune's Reach's most famous venue for sixty years. Previously a professional gambler who won the Spiral three times (a record) and bought out the previous owner. No longer plays professionally ("the house always wins, and I am the house") but watches every game with reassuring or unnerving intensity. Claims to remember every significant hand she's witnessed; probably true.
-
-Rules: fair games, prompt payment, no violence. Cheaters are banned and recorded in an archive accessible to gambling venues across human space. Lifetime exclusion from the Spiral is, for serious players, worse than any fine.
+Sixty years running Fortune's Reach's most famous venue, after a career as a professional gambler in which she won the Spiral three times—a record—and used the winnings to buy out the previous owner. She no longer plays for money ("the house always wins, and I am the house") but watches every game with an attention players find either reassuring or unbearable, and claims to remember every significant hand she has ever seen, which is probably true. Her rules are three: fair games, prompt payment, no violence. Cheats are banned and entered in a registry shared among gambling houses across human space; for a serious player, lifetime exclusion from the Spiral bites worse than any fine.
 
 ## Menor Tal
 
-**Role**: Confession archivist **Age**: 41
+**Role:** Confession archivist · **Age:** 41
 
-Operates a Promenade confession booth. Has heard approximately forty thousand confessions over eighteen years; has never disclosed one. The role requires specific temperament: hearing anything—crimes, cruelties, secrets that would destroy lives—and responding with nothing but professional courtesy.
+Eighteen years in a Promenade confession booth; roughly forty thousand confessions heard; not one ever disclosed. The work demands a specific temperament—to receive anything, crimes and cruelties and secrets that could level lives, and answer with nothing but professional courtesy and the terms of the seal. Off duty he is, surprisingly, the most gregarious man on his deck: a Tournament Ground regular, an enthusiastic amateur cook, a wide circle of friends. He does not discuss the work. His friends have learned not to ask. He is the Haven's promise of safekeeping made flesh: the place where what cannot be told is, nonetheless, kept.
 
-Off-duty, surprisingly gregarious: regular at Tournament Ground, amateur cook, many friends. He does not discuss his work. His friends do not ask.
+## Tamsin Ord
+
+**Role:** Outring dock-gang chief · **Age:** 58
+
+She has been aboard for thirty-one years and is still, on the paperwork, a transient—one of the Outring's vast population of the long-term temporary, who keep the Haven fuelled, loaded, patched, and breathing, and hold no Convocation seat for the doing of it. Ord runs a docking gang of two hundred with the same competence Briar runs the Haven, and with rather less margin for error; a botched seal in the Outring kills people the brochures never name. She has applied for residency twice and let it lapse both times, less from bitterness than from a clear-eyed sense that the waiting list is built for people with steadier berths than hers. What she does instead is throw the best Feast on the dock decks—a sprawling, defiant, all-comers spread that the Core's elegant gatherings cannot touch for sheer joy. Ask her whether she resents the gulf and she shrugs: *"The Haven welcomes everyone. It just remembers some of us last. I can live with being remembered last. I'd rather that than not be aboard."* She is the Haven's largest population, given a face the documentation usually forgets to draw.
 
 ---
 
@@ -168,64 +199,60 @@ Off-duty, surprisingly gregarious: regular at Tournament Ground, amateur cook, m
 
 # Preservation
 
-The twin pillars of Haven Ascendant's mission: the Archives and the Reconstruction Halls.
+The Haven's twin pillars: the Archives, which hold the record, and the Reconstruction Halls, which let you walk into it. Together they are the most ambitious argument in human space against the proposition that loss is final.
 
 ## The Archives
 
-Holdings span human history: pre-Scattering materials (physical artefacts, digital records, genetic samples, sensory recordings from the original _Mnemosynë_ collection); Cascade documentation from the 847 worlds that declared independence in 2756 C, many preserved nowhere else; lost world archives from colonies that subsequently failed, were destroyed, or became inaccessible; Drift chronicles (oral histories, logs, cultural records); and deposited materials entrusted by individuals, families, corporations, and governments.
+The holdings span the whole human story: pre-Scattering material from the original _Mnemosynë_ collection (physical artefacts, digital records, genetic samples, sensory recordings); **Cascade documentation** from the 847 worlds that declared independence in 2756 C, much of it preserved nowhere else; the archives of lost worlds—colonies since failed, destroyed, or gone dark; Drift chronicles, oral histories, and logs; and the deposits entrusted by individuals, families, corporations, and governments who wanted something kept.
 
-**Complete holdings**: 2.4 exabytes digital, 40 million physical artefacts, 847 environmental reconstructions.
+**Complete holdings:** 2.4 exabytes digital, 40 million physical artefacts, 847 environmental reconstructions on file.
 
-### Access Tiers
+### Access tiers
 
-|Tier|Access|Cost|
-|---|---|---|
-|Public|General historical records, entertainment archives|Free|
-|Registered|Academic materials, detailed cultural records|Nominal fee|
-|Restricted|Sensitive deposits, legal records, identity archives|Negotiated|
-|Sealed|Materials held in trust under specific conditions|By terms of deposit|
+| Tier | Access | Cost |
+|------|--------|------|
+| Public | General history, entertainment archives | Free |
+| Registered | Academic materials, detailed cultural records | Nominal fee |
+| Restricted | Sensitive deposits, legal records, identity archives | Negotiated |
+| Sealed | Materials held in trust under specific conditions | By terms of deposit |
 
-The Haven's reputation depends on absolute reliability; sealed materials have been held for centuries awaiting trigger conditions, none prematurely accessed.
+The Haven's entire value rests on one boast it has never broken: sealed material stays sealed. Deposits have waited centuries for their trigger conditions and none has been opened early, because the day the Haven is known to have peeked is the day no one trusts it with anything again. Reliability is not a virtue here; it is the product.
 
 ### The Chronicle Service
 
-For a fee, the Haven documents anything—birth, death, business agreement, confession, secret—with whatever access restrictions the depositor specifies. Particularly valued by those without stable planetary citizenship: a Drift-born child documented by the Haven has proof of existence no political upheaval can erase; a refugee can deposit testimony that might someday matter. This is paid work, but the archivists take it seriously.
+For a fee, the Haven will document anything—a birth, a death, an agreement, a confession, a secret—under whatever access restrictions the depositor names. It sounds like a clerical sideline. For the stateless it is closer to a lifeline. A Drift-born child entered in the Haven's record has proof of existence that no coup, no border closure, no failed colony can erase; a refugee can lodge testimony that may matter long after the people who would suppress it are gone. In a galaxy where most people's standing depends on a planet that can disown them, the Haven sells the one thing statelessness cannot otherwise buy: a fixed point that says *you were here, and this was true.* The archivists charge for it, and take it utterly seriously.
 
 ## The Reconstruction Halls
 
-A reconstruction is not a museum exhibit but an environment: a volume of space replicating, as precisely as available records permit, a place that existed elsewhere or elsewhen. Visitors enter, breathe air scented as the original was scented, walk on surfaces textured as the original was textured, encounter performers trained to inhabit the environment as its original inhabitants did. The goal is _experience_—visceral understanding that words and images cannot convey.
+A reconstruction is not an exhibit but an *environment*: a volume of the station rebuilt, as exactly as the records allow, into a place that existed elsewhere or elsewhen. You enter it, breathe air scented as the original was scented, walk surfaces textured as the original was textured, and meet performers trained to inhabit it as its first people did. The aim is the thing no document delivers—the visceral, bodily understanding of having *been* somewhere.
 
-### Major Reconstructions
+### Major reconstructions
 
-|Name|Source|Era|Scale|
-|---|---|---|---|
-|Meridian District|São Paulo, Earth|22nd century|0.8 km² urban streetscape|
-|The Hanging Market|Covenant Station (destroyed 2891 C)|Pre-destruction|0.3 km² market complex|
-|Firstfall|Original Cascade declaration site|2756 C|Single plaza, single moment|
-|The Yennara Coast|Yennara (failed colony)|2845–2847 C|1.2 km coastline, seasonal cycles|
-|The Jade Emperor's Court|Reconstruction of reconstruction|Tang Dynasty aesthetic|0.4 km² palace complex|
-|Memorial Corridor|Composite|Various|Processional sequence of destroyed places|
+| Name | Source | Era | Scale |
+|------|--------|-----|-------|
+| Meridian District | São Paulo, Earth | 22nd century | 0.8 km² urban streetscape |
+| The Hanging Market | Covenant Station (destroyed 2891 C) | Pre-destruction | 0.3 km² market complex |
+| Firstfall | The Cascade declaration site | 2756 C | A single plaza, a single moment |
+| The Yennara Coast | Yennara (failed colony) | 2845–2847 C | 1.2 km coastline, seasonal cycles |
+| The Jade Emperor's Court | A reconstruction of a reconstruction | Tang Dynasty aesthetic | 0.4 km² palace complex |
+| Memorial Corridor | Composite | Various | A processional of destroyed places |
 
-**Firstfall** captures the morning of 3.2/1, 2756 C—the moment when the Vandemeyer Declaration was read in Covenant Station's main plaza, triggering the Cascade. Visitors experience eighteen minutes: the crowd gathering, rising tension, the reading, the first cheers. Then the loop resets.
+**Firstfall** holds eighteen minutes of the morning of 3.2/1, 2756 C: the crowd gathering in Covenant Station's plaza, the rising tension, the reading of the Vandemeyer Declaration that triggered the Cascade, the first cheers—and then the loop resets, the dead about to become history once more. **The Meridian District**, the oldest, recreates an ordinary São Paulo neighbourhood no one important ever came from—documented only because one Foundation researcher grew up there and recorded every detail before he left—and unlike Firstfall it *lives*: weather, day and night, seasons, performers who age in their roles and are replaced and age again. **The Hanging Market** is a memorial rather than an entertainment, rebuilding a Trade Haven destroyed in 2891 C in a piracy incident that ran past anyone's intent; its performers are descendants of the survivors, its admission free, and a visit there is understood not as a diversion but as an act of witness. See [Characters](characters.md) for Dace Velorum, who works it.
 
-**The Meridian District**: The oldest reconstruction. The neighbourhood documented was not famous—a Foundation researcher happened to grow up there and spent years recording every detail before emigrating. Visitors walk streets that have not existed for eleven hundred years, buy coffee from performers researching decades of social documentation. Unlike Firstfall, it has weather cycles, day and night, seasonal shifts. The performers age in their roles, are replaced, age again. The neighbourhood _lives_.
+### Confidence ratings, and the discipline behind them
 
-**The Hanging Market**: Covenant Station was a Trade Haven destroyed in 2891 C during a piracy incident that escalated beyond anyone's intentions. This reconstruction (opened 2967 C) is a memorial; the performers are descendants of survivors or members of the survivor community. Visiting is not entertainment in the usual sense but an act of witness, offered without entry fee.
+| Rating | Meaning |
+|--------|---------|
+| Verified | Extensive primary sources; high fidelity; citable in scholarship |
+| Interpolated | Solid framework, reasoned extrapolation |
+| Evocative | Limited sources; captures the spirit, not the detail |
+| Speculative | Minimal documentation; labelled plainly as interpretation |
 
-### Confidence Ratings
+A reconstruction runs source research → environmental design → fabrication → sensory calibration → cultural preparation → external academic verification, takes five to fifteen years and hundreds of millions of quid, and is funded by diaspora communities, academic institutions, wealthy patrons, reinvested entertainment revenue, and the occasional planetary government. The confidence rating is the Haven's conscience made visible: it would rather mark a hall *Speculative* and disappoint a paying patron than let a guess pass as a memory. To preserve is also to refuse to lie about what has been lost.
 
-|Rating|Meaning|
-|---|---|
-|Verified|Extensive primary sources, high fidelity—citable in academic work|
-|Interpolated|Solid framework with reasoned extrapolation|
-|Evocative|Limited sources, captures spirit rather than detail|
-|Speculative|Minimal documentation, clearly labelled as interpretation|
+## The pillar and the schism
 
-### Reconstruction Process
-
-Source research → environmental design → fabrication → sensory calibration (atmosphere, sound, light, temperature, scent) → cultural preparation (training performers, establishing social protocols) → external academic verification.
-
-A major reconstruction takes 5–15 years and costs hundreds of millions of quid, funded by diaspora communities, academic institutions, wealthy individuals, entertainment revenue reinvestment, or occasionally planetary governments.
+A haven built to preserve what humanity *was* sits uneasily with a Drift increasingly tempted to become something else. The spread of Neo-Solar enhancement—networked, post-biological, long—lands hardest here of anywhere in the fleet, because Ascendant's entire identity is the keeping of the human record, and you cannot easily archive a way of being while your own children vote to leave it behind. The Haven has taken no official position, which is itself a position; the argument runs through the Stacks and the Convocation in lowered voices. The institution that exists to insist nothing need be wholly lost is being asked whether *it* is one of the things that will be.
 
 ---
 
@@ -234,44 +261,40 @@ A major reconstruction takes 5–15 years and costs hundreds of millions of quid
 
 # The Promenade
 
-Eight kilometres of entertainment districts wrapped around the station's midsection, never closing. The unifying principle is quality: the Haven's reputation attracts visitors who expect excellence.
+Eight kilometres of entertainment wrapped around the station's midsection, and it never closes. The Promenade is what most visitors come for and what most of them mistake for the whole Haven; its governing principle is quality, because Ascendant's reputation draws people who expect it, and its hidden principle is labour, because a celebration that never stops is a workplace that never stops. The joy here is real. It is also someone's shift.
 
 ## Districts
 
-|District|Character|
-|---|---|
-|The Memory Theatre|Drama, music, dance, immersive narrative|
-|Fortune's Reach|Gambling—cards, dice, prediction markets, stranger games|
-|The Scarlet Axis|Sex work, companionship, intimate performance|
-|Heritage Row|Cuisine from preserved traditions, historical dining|
-|The Vapour Quarter|Intoxicants, consciousness alteration|
-|The Night Market|Commerce, from art to contraband|
-|Tournament Ground|Competitive gaming, physical and mental|
-|The Spoken Word|Storytelling, confession booths, rumour exchanges|
+| District | Character |
+|----------|-----------|
+| The Memory Theatre | Drama, music, dance, immersive narrative |
+| Fortune's Reach | Gambling—cards, dice, prediction markets, stranger games |
+| The Scarlet Axis | Sex work, companionship, intimate performance |
+| Heritage Row | Cuisine from preserved traditions; historical dining |
+| The Vapour Quarter | Intoxicants, consciousness alteration |
+| The Night Market | Commerce, from art to contraband |
+| Tournament Ground | Competitive gaming, physical and mental |
+| The Spoken Word | Storytelling, confession, rumour |
 
-The Haven exists outside planetary jurisdiction. The only prohibitions (the Core Codes) are: harm to the unwilling, slavery or debt bondage, sexual contact with minors, weapons capable of threatening the station, and fraud.
+The Haven sits outside every planetary jurisdiction, so the only prohibitions are the Core Codes': no harm to the unwilling, no slavery or debt bondage, no sexual contact with minors, no weapons that could threaten the station, no fraud. Within that frame, the Promenade permits what other societies spend fortunes policing—and the frame matters more than it looks. *No slavery or debt bondage* is the line that separates the Scarlet Axis from the trade it resembles elsewhere: its workers are workers, not property and not collateral, and the distinction is enforced because Code 1 and Code 4 are not decorative. It is not a utopia of labour. It is a place where the labour has rights the same labour lacks on most worlds, and where the people performing the good night out are understood to be people.
 
-## Notable Venues
+## Who keeps it open
+
+The Promenade's roughly 800,000 residents are the visible workforce—performers, dealers, cooks, companions, storytellers—and behind them stand the Outring crews who supply, clean, repair, and restock a district that runs twenty hours a day forever. Between the headline star at the Memory Theatre and the transient who hauls its set lies the same gulf that runs the length of the Haven. But the hard-won joy is not the property of the top deck. The Outring throws its own Feasts, the dealers and cooks have their own after-shift rituals, and the conviction that a fragile life is worth celebrating is, if anything, held hardest by the people with the least margin. The Promenade sells joy to visitors; it also, quietly, practises it among the staff.
+
+## Notable venues
 
 ### Fortune's Reach
 
-A 400-metre diameter cylindrical module rotating to provide gradient gravity from near-standard at the outer walls to zero-G at the centre. Games cluster by gravity preference.
-
-**The Spiral** is its most famous venue: a helix winding from outer ring to core, each level lighter, each offering different games. Completing it profitably is rare; completing it with significant winnings is legendary.
+A 400-metre cylindrical module spun for gradient gravity—near-standard at the outer wall, zero-G at the centre—with games clustered by the weight their players prefer. Its legend is **the Spiral**, a helix winding from the outer ring to the core, each level lighter and stranger than the last. Completing it at a profit is rare; completing it having won anything significant is the kind of story people tell for years. See [Osanne Drey](characters.md).
 
 ### The Spoken Word
 
-**The Chronicle Halls** record oral histories for the archives.
-
-**The Telling Houses** are performance venues for storytellers (historical accounts, fiction, or blended), ranging from intimate rooms seating twenty to amphitheatres holding thousands.
-
-**The Rumour Exchange** is a bourse for unverified information, priced by collective assessment. The Haven officially disclaims responsibility for accuracy. The Exchange officially doesn't care.
+The district where the Haven's archive and its nightlife fuse. The **Chronicle Halls** record oral histories straight into the archives; the **Telling Houses** stage storytellers—history, fiction, or the blend the Drift loves best—in rooms from twenty seats to thousands; and the **Rumour Exchange** is a working bourse for unverified information, priced by collective guess, on which the Haven officially disclaims all responsibility and the Exchange officially does not care.
 
 ### The Confession Booths
 
-Small private chambers scattered throughout the Promenade, marked by simple white doors. For a fee, one confesses anything to an archivist; the confession is recorded, sealed, and preserved—never accessed, never judged, never used. Some confessors specify unsealing after death; most choose permanent sealing.
-
-Inside: a chair, a recorder, an archivist who listens without expression and speaks only to confirm the sealing terms.
+Scattered through the Promenade behind plain white doors: small chambers where, for a fee, a person confesses anything to an archivist who records it, seals it, and preserves it—never accessed, never judged, never used. Some specify unsealing after death; most choose permanent silence. Inside is a chair, a recorder, and an archivist who listens without expression and speaks only to confirm the terms. It is the Promenade's strangest product and its most Ascendant one: even here, amid the gambling and the intoxicants, the Haven's instinct is to *keep* what would otherwise be lost—including the things a person can tell no one else. See [Menor Tal](characters.md).
 
 ---
 
@@ -280,51 +303,49 @@ Inside: a chair, a recorder, an archivist who listens without expression and spe
 
 # Society
 
-Governance, culture, and daily life aboard Haven Ascendant.
+Governance, culture, and daily life aboard Haven Ascendant—one haven's answer to questions every haven answers differently.
 
 ## Governance
 
-**The Captain-Archivist** combines executive authority and scholarly leadership, elected for life by the Convocation but removable by supermajority vote. Controls the Haven's course, represents it externally, adjudicates disputes—but cannot unilaterally alter the Core Codes or access sealed archives.
+The **Captain-Archivist** holds executive authority and scholarly leadership at once: elected for life by the Convocation, removable by supermajority, in command of the Haven's course and its external face and the arbiter of its disputes—but barred from unilaterally altering the Core Codes or opening sealed archives. It is a great deal of power, fenced precisely where the Haven's deepest principles begin.
 
-**The Convocation** (~1,200 members): Guild delegates (60%), residential delegates (30%), elder seats by seniority (10%). Debates policy, approves major expenditures, elects/removes the Captain-Archivist. Sessions are public and often packed.
+The **Convocation** (~1,200 members) is the deliberative body: guild delegates (60%), residential delegates (30%), and elder seats by seniority (10%). It debates policy, approves major spending, and elects or removes the Captain-Archivist; its sessions are public and frequently packed. It is also where the Haven's own gulf shows in its constitution: the seats are apportioned to guilds and *residents*, and the Outring's vast transient population—dockworkers on short contracts, crews between berths, the newly arrived—are mostly neither, and so are mostly unheard. The most welcoming haven in the Drift counts its majority last. No one designed this; it is what happens when a democracy of the settled sits atop a population of the passing.
 
 ### The Core Codes
 
-Foundational principles requiring supermajority amendment:
+The foundational principles, amendable only by supermajority:
 
 1. The Haven shall preserve.
 2. The Haven shall remember (no deliberate forgetting).
 3. The Haven shall move (remain jump-capable and independent).
-4. The Haven shall welcome (entry refused only for threat, not identity).
-5. The Haven shall celebrate (joy is not frivolity but purpose—added 2934 C over scholarly objections).
+4. The Haven shall welcome (entry refused only for threat, never for identity).
+5. The Haven shall celebrate (joy is not frivolity but purpose—added 2934 C, over scholarly objection).
 
-## Culture
+These are not pieties. Each has a price the Haven has chosen to pay: independence (Code 3) means the constant cost of staying mobile and resupplied; welcome (Code 4) has been defended, on hard occasions, with blood, because a sanctuary that turns no one away for who they are will sometimes have to fight the people who came hunting them. The creed has teeth, or it is not a creed.
 
-The Haven exists because things are lost. Worlds die. Cultures vanish. Records crumble. Preservation holds back entropy, knowing entropy ultimately wins. This could produce despair; instead, it produces intensity. If everything ends, then everything matters. If nothing lasts, then this moment is irreplaceable. Celebration is the point. Preservation is not about hoarding the past but _honouring_ it, and honour demands joy.
+## Culture: the hard-won joy
 
-### Daily Rhythm
+The Haven exists because things are lost. Worlds die, cultures vanish, records crumble; preservation only ever slows an entropy that wins in the end. That knowledge could curdle into despair. Instead the Haven has made it into a discipline of joy: *if everything ends, then everything matters; if nothing lasts, then this moment is irreplaceable.* Celebration here is not the opposite of the archive's solemn work—it is its conclusion. To honour what is lost, you must love what remains, loudly, while it is here. This is the most articulate version of an instinct the whole Drift shares, written down by the haven with the leisure to write; a Trade Haven crew toasting a survived season is saying the same thing in fewer words.
 
-A 20-hour cycle synchronised to the C calendar, loosely enforced. The festival calendar structures time instead—major celebrations every few weeks, minor ones constant. A typical day might include breakfast in a Heritage Row establishment serving reconstructed 23rd-century Lunar cuisine, a shift cataloguing materials in the Stacks, a Memory Theatre performance, dinner and drinks with friends, and a Tournament Ground competition.
+### Daily rhythm
 
-### Language
+A loosely-kept 20-hour cycle, synchronised to the C calendar and overruled in practice by the festival calendar—major celebrations every few weeks, minor ones constant. A representative day: breakfast in a Heritage Row room serving reconstructed 23rd-century Lunar cuisine; a shift cataloguing in the Stacks; a Memory Theatre performance; dinner and drink with friends; a late hour at the Tournament Ground. For the Outring, the same day has more shift in it and less theatre, but the festivals reach every deck, and the Axis runs free.
 
-**Trade Tongue** is the Promenade default and external communication standard.
+### Language and dress
 
-**Ascendant Drift** is the native language, evolved from Trade Tongue over centuries with heavy archival and preservation terminology, emotional vocabulary related to memory and loss, and verb tenses distinguishing documented from undocumented events. Most Haven-born are bilingual; the Stacks employ specialists in over 200 tongues.
+**Trade Tongue** is the Promenade default and the language of the wider Drift; **Ascendant Drift**, the native tongue, has evolved from it over centuries, thick with archival and preservation vocabulary, rich in words for memory and loss, and grammatically insistent on distinguishing the documented from the merely remembered. Most Haven-born are bilingual; the Stacks keep specialists in over two hundred languages. Dress runs to no uniform—archivists favour durable and muted, Promenade workers dress for their venues, residents layer for the shifting temperatures and lean, given the choice, toward colour rather than austerity. Even the wardrobe argues that survival is not the same as grimness.
 
-### Dress
+## Gap 2: Assessment and Feast
 
-No uniform. Archivists favour practical, durable, muted clothing; Promenade workers dress for their venues; residents generally favour layered clothing adaptable to varying temperatures, tending toward colour and richness rather than austerity.
+The Haven's defining ritual compresses its whole philosophy into a single day.
 
-## The Gap 2 Tradition
+**Assessment.** Every section reports its status—food, water, atmosphere, fuel, systems, population. It began in the desperate early decades as bare practicality and hardened into rite: before anything else, the Haven counts exactly what it has.
 
-**Assessment Day**: Every section reports status—food, water, atmosphere, fuel, systems, population. This began as pure practicality in the desperate early decades and became ritual.
+**The Reading.** At midday the Captain-Archivist reads the Assessment summary from the Axis, broadcast through the whole station. Even the Promenade goes quiet. The message never changes: *this is what we have, this is who we are, and we continue.*
 
-**The Reading**: At midday, the Captain-Archivist reads the Assessment summary from the Axis, broadcast station-wide. Even the Promenade quiets. The message is constant: _this is what we have, this is who we are, and we continue_.
+**The Feast.** The evening scatters into thousands of simultaneous gatherings—every residential section, guild, and Promenade district laying out its own food and drink, people moving between them along a free-running Axis until it all burns out somewhere past the next nominal dawn.
 
-**The Feast**: The evening brings distributed celebration—every residential section, guild, and Promenade district prepares food and drink. Thousands of simultaneous gatherings, each with its own character. People move between them. The Axis runs free. The Feast runs until it ends, usually well past the next day's nominal dawn.
-
-Gap 2 encapsulates the Haven's philosophy: _first we know what we have, then we celebrate it_.
+The order is the meaning. *First we know what we have; then we celebrate it.* It is hard-won joy in liturgical form—clear-eyed about the ledger, and determined, having read it, to throw the feast anyway.
 
 ---
 
@@ -333,33 +354,35 @@ Gap 2 encapsulates the Haven's philosophy: _first we know what we have, then we 
 
 # Visiting Haven Ascendant
 
-External relations, and what to expect when arriving.
+How to find a city that moves, what it quietly runs on, and who is allowed to stay.
 
-## External Relations
+## What the Haven runs on
 
-**Financial services**: Accounts with the Arrhenos Financial Consortium, benefiting from neutral asset protection extended to Drift communities. Substantial reserves (centuries of entertainment revenues), distributed across multiple institutions.
+For all its wealth and its eleven centuries, Ascendant cannot make everything it needs aboard, and the gap is the same one every haven lives with: fuel, heavy parts, bulk materials, the routine resupply of a 23-kilometre city in motion. Two outside relationships fill it.
 
-**Planetary clients**: Various governments and wealthy individuals commission archival services—deposit of sensitive records, Chronicle services, reconstruction commissions, verification of historical claims. The Haven accepts commissions regardless of political alignment, subject only to the Core Codes; neutrality is essential to its value as trusted repository.
+**Logistics.** The carriers willing to service a wandering Grand Haven on its own schedule are few, and the most reliable is the **Sable Cartel**, whose logistics arm flies Drift routes others won't and whose **Korsen's Anchorage** is the hub Ascendant, like most of the fleet, plans its circuits around. The relationship is commercial, courteous, and quietly fundamental: even the richest haven in the Drift keeps moving by the grace of someone else's freighters. Ascendant's wealth buys it a long leash—centuries of reserves, many suppliers, the freedom to refuse a bad price and wait—but a leash it remains, and the poorer havens it shares the lanes with feel the same collar far tighter.
 
-**The Mandate**: Complex relations. The Haven preserves Mandate history extensively, including materials the Empire would prefer forgotten. The Mandate has never attempted direct pressure (the reputational cost would be enormous), but Mandate citizens visiting Ascendant sometimes report informal surveillance. The Yansieve Rebellion complicates matters—the Haven documents both sides, which neither appreciates.
+**Banking.** The Haven keeps its reserves—centuries of accumulated entertainment revenue—with the **Arrhenos Financial Consortium**, under the neutral, location-independent asset protection Arrhenos extends to the stateless Drift. Distributed across many institutions, those reserves are the real foundation of Ascendant's independence: the cushion that lets a filing cabinet that got lucky go on choosing its own course.
 
-**Academic networks**: Formal relationships with universities and research institutions across human space. The University of Campottonì (Arrhenos) and Tiamming Imperial Archives (Mandate) are the largest partners.
+## Clients, and a complicated empire
+
+Governments and wealthy individuals across human space commission the Haven's services—sensitive deposits, Chronicle work, reconstruction commissions, the verification of historical claims—and the Haven takes the work regardless of the client's politics, subject only to the Core Codes, because neutrality is the whole value of a trusted vault. Its formal academic partners are led by the **University of Campottonì** on Arrhenos and the **Tiamming Imperial Archives** of the Mandate.
+
+The Mandate is the delicate case. Ascendant preserves Imperial history exhaustively, including a great deal the Empire would prefer forgotten, and the Mandate has never dared apply direct pressure—the reputational cost of leaning on the Haven would be enormous—though Imperial citizens who visit sometimes report a quiet, informal surveillance. The **Yansieve Rebellion** has sharpened all of it: the Haven documents both sides faithfully, which is exactly what neither side wants, and exactly what the Haven exists to do. See [Preservation](preservation.md).
 
 ## Finding the Haven
 
-Haven Ascendant moves, jumping between systems according to its own schedule (trade opportunities, political conditions, Captain-Archivist's strategic judgment). Current position broadcast on standard Trade frequencies and updated at major Drift network nodes. Typical system stay: 3–8 months.
+Ascendant moves, jumping between systems on its own schedule—trade, politics, and the Captain-Archivist's judgement all factoring in. Its current position is broadcast on standard Trade frequencies and updated at the major Drift network nodes; a typical stay in any system runs three to eight months. Catching the Haven is a matter of reading the fleet's nervous system, which is itself a small skill the Drift takes for granted and outsiders find maddening.
 
-## Docking
+## Docking, and the gulf at the airlock
 
-The Outring handles arrivals at 200+ berths. Minimal customs (weapons check, disease screening, identity recording), then a Haven pass granting public access.
+Arrival is through the **Outring**, where over two hundred berths handle the traffic. Customs are minimal—a weapons check, a disease screen, an identity recording—and then a Haven pass grants the run of the public decks. This is the famous open door, and it is genuinely open: the Haven is *easy to visit*.
 
-Permanent residency requires Convocation approval—sponsorship by current residents, demonstrated contribution to Haven functions, and a waiting period extending years. The Haven is not difficult to visit but is selective about membership.
+It is not easy to *join*. Permanent residency requires Convocation approval—sponsorship by current residents, a demonstrated contribution to the Haven's functions, and a waiting period measured in years—which is why the Outring stays full of people who have been aboard for decades and remain, officially, passing through. The same Code that throws the door wide (welcome all who bring no threat) sits beside a membership process built for the settled, and the distance between the two is where most of the Haven actually lives. Easy to enter, hard to belong: the open city, selective about its citizens. See [Society](society.md) and [Tamsin Ord](characters.md).
 
-## What to Expect
+## What to expect
 
-First-time visitors often remark on: the density (the Haven is _crowded_, especially in the Promenade); the sensory intensity (layered smells, sounds, colours); the casualness about matters other societies regulate heavily; the genuine warmth beneath the commercial surface; the speed at which stranger becomes acquaintance becomes friend; the unsettling feeling, in the reconstructions, of walking through death.
-
-The Haven is not for everyone. Those who love it tend to return. Some never leave.
+First-time visitors tend to remark on the same things: the density (the Haven is genuinely *crowded*, the Promenade especially); the sensory overload of layered smell and sound and colour; the casualness about matters other societies regulate with terror; the real warmth under the commercial surface; the speed at which a stranger becomes a friend; and the particular vertigo, in the reconstructions, of walking through a death and out the other side. The Haven is not for everyone. Those it suits tend to come back. Some never leave—and a fair number of those, thirty years on, are still listed as transient, down in the Outring, throwing the best party on the ship.
 
 ---
 

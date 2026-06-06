@@ -1,48 +1,40 @@
 # Haven Ascendant
 
-A Grand Haven renowned for archival preservation and vibrant entertainment—humanity's most comprehensive living archive and a destination for sophisticated celebration.
+Haven Ascendant is what survival looks like when it gets lucky. It began as somebody else's filing cabinet—a corporate archival vessel—was orphaned by the collapse of human civilisation, and turned, over eleven centuries, into the richest living archive humanity possesses and the most celebrated party in the Drift. It is the haven outsiders mean when they say "the Drift," and it is worth remembering, walking its lovely decks, that most of its own population lives in the part the tours skip.
 
-|Attribute|Value|
-|---|---|
-|Type|Grand Haven (jump-capable)|
-|Population|~4.2 million permanent|
-|Founded|2691 C (pre-Cascade)|
-|Captain-Archivist|Teshen Briar (since 3847 C)|
-|Specialisations|Archives, environmental reconstruction, entertainment|
-|Language|Trade Tongue (primary), Ascendant Drift (local)|
-|Mass|~890 million tonnes|
-|Length|23 km primary axis|
+| Attribute | Value |
+|-----------|-------|
+| Type | Grand Haven (jump-capable) |
+| Population | ~4.2 million permanent |
+| Founded | 2691 C (pre-Cascade) |
+| Captain-Archivist | Teshen Briar (since 3847 C) |
+| Specialisations | Archives, environmental reconstruction, entertainment |
+| Language | Trade Tongue (primary), Ascendant Drift (local) |
+| Mass | ~890 million tonnes |
+| Length | 23 km primary axis |
 
-## History
+## How a filing cabinet survived the apocalypse
 
-The station began as the _Mnemosynë_, a corporate archival vessel commissioned by the Terran Heritage Foundation in 2691 C to preserve Earth cultures as humanity scattered across the stars.
+The station began as the _Mnemosynë_, commissioned in 2691 C by the Terran Heritage Foundation to preserve Earth's cultures as humanity scattered. The **Cascade** of 2756 C then destroyed the Foundation and the entire political order that funded it, and left the _Mnemosynë_ in transit between systems with no owner, no mission, and no obvious reason to exist. The crew voted on whether to seek absorption into some planetary polity or carry on alone. They chose alone, 342 to 7—a decision that should have killed them, because an archive has no trade goods, no weapons, and nothing anyone urgently needs.
 
-The Cascade of 2756 C destroyed the Foundation along with the political order sustaining it. The _Mnemosynë_, in transit between systems when its parent organisation ceased to exist, faced a choice: seek absorption into a planetary polity or continue independently. They chose independence, 342 to 7.
+What saved them was the cargo. The archives held centuries of Earth performance—music, theatre, dance, games, food—and the crew began selling "heritage experiences" to passing traders: a reconstructed meal, a recovered game, a play no one had staged in a hundred years. The novelty drew visitors; the quality brought them back; and by 2800 C the renamed Haven Ascendant had locked its two halves into a single engine—entertainment revenue funding preservation, preserved material generating new entertainment. The first environmental reconstruction, the Meridian District, opened in 2934 C after eleven years and very nearly bankrupted the Haven a second time. It also defined it. Others preserved records; others sold a good night out; no one else let you *walk through the past*. See [Preservation](preservation.md).
 
-The early decades were desperate—an archival vessel has no trade goods, no military capacity, no obvious value. What saved them was entertainment. The archives contained centuries of Earth performance traditions: music, theatre, dance, games, cuisines. The crew began offering "heritage experiences" to passing traders—reconstructed meals, theatrical productions, recovered gambling games. The novelty attracted visitors; the quality brought them back.
+## The five zones, and the one that holds the most people
 
-By 2800 C, the renamed Haven Ascendant had established itself as both archive and attraction, the two functions reinforcing each other: entertainment revenue funded preservation; preserved materials generated new entertainment. The station grew through salvage, trade, and careful investment.
+The Haven is not a designed thing but an accretion—the original _Mnemosynë_, salvaged hulls, and purpose-built modules grafted on across eleven hundred years, settled now into five zones.
 
-The first environmental reconstruction—the Meridian District, recreating a pre-Scattering São Paulo neighbourhood—was completed in 2934 C after eleven years and nearly bankrupted the Haven. It also established Ascendant's unique position: other havens offered entertainment, other archives preserved records, but no one else offered the experience of _walking through the past_.
+| Zone | Character | Population |
+|------|-----------|-----------|
+| The Core | Original _Mnemosynë_; administration, residence | ~400k |
+| The Stacks | Archive storage, research, data processing | ~200k |
+| The Reconstruction Halls | Environmental recreations, immersive experience | ~150k |
+| The Promenade | Entertainment, hospitality, commerce | ~800k |
+| The Outring | Docks, industry, transient housing | ~2.6m |
 
-## Physical Structure
+Read that table from the bottom. The Outring—docks, recycling, fabrication, and the churning transient housing of dockworkers, contract crews, and the just-arrived—holds nearly two in three of everyone aboard, and almost none of the fame. The archive that preserves the dignity of forgotten neighbourhoods runs on the labour of a neighbourhood its own brochures forget. This is not hypocrisy; it is simply the gulf between decks, reproduced inside a single haven, on the haven that does it most gently. See [Society](society.md).
 
-The Haven is not a single unified structure but an accretion of modules, salvaged vessels, and purpose-built additions accumulated over eleven centuries, organised into five major zones:
-
-|Zone|Character|Pop.|
-|---|---|---|
-|The Core|Original _Mnemosynë_; administrative, residential|~400k|
-|The Stacks|Archive storage, research, data processing|~200k|
-|The Reconstruction Halls|Environmental recreations, immersive experiences|~150k|
-|The Promenade|Entertainment, hospitality, commerce|~800k|
-|The Outring|Docks, industrial, transient housing|~2.6m|
-
-During major festivals, the Promenade alone may host an additional million visitors.
-
-**Gravity**: 0.85 G in residential and entertainment sections (slightly lighter than most planetary surfaces, heavy enough to feel grounded); 0.4 G in the Stacks (reducing wear on physical archives). Some Reconstruction Halls adjust gravity to match source environments.
-
-**The Axis**: A zero-gravity transit corridor running the station's full length, with capsules moving passengers and cargo between zones in minutes. Public infrastructure, free to use, perpetually crowded.
+**Movement and weight.** Gravity sits at 0.85 G through the residential and entertainment sections—light enough to feel buoyant, heavy enough to feel grounded—and drops to 0.4 G in the Stacks to spare the physical archives; some Reconstruction Halls retune it to match whatever they are recreating. Threading the whole 23-kilometre length is **the Axis**, a zero-gravity transit corridor whose capsules cross between zones in minutes: public, free, and perpetually crammed, the one place every deck of the Haven physically meets.
 
 ---
 
-_The Haven endures. The Haven remembers. The Haven celebrates. For eleven centuries and counting._
+_The Haven endures. The Haven remembers. The Haven celebrates. For eleven centuries and counting—and it is the lucky one._
