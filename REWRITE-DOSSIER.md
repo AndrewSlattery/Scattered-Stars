@@ -10,11 +10,11 @@ A working handoff for the great-power lore rewrites: the method, the house style
 | Elysian Collective | Done | One guild, two classes — the **sworn** and the **Tenders**; a commonwealth in name only; automation does the brute labour | `2383608` |
 | Neo-Solar Republic | Done | Famous for its vanguard, lived by its ordinary; a genuine utopia voting, by inches, on whether to remain a society of individuals | `e6f28ad` |
 | The Mandate | Done | A patchwork that calls itself a monolith, in its autumn; *unevenness is the point* over a reform-or-repeat fault-line | `3ba9220` |
-| Vega Commercial Throne | To do | — | — |
+| Vega Commercial Throne | Done | An honest meritocracy with a closed door—a few thousand players, ~1.4T audience; *savagely honest* market over a *seen-and-unseen* fault-line | `ab63b13` |
 | Union of Frontier Freeholds | To do | — | — |
 | Drift Communities | To do | — | — |
 
-(The setting / overview / appendix files were already rewritten before this initiative; these four powers are the work so far.)
+(The setting / overview / appendix files were already rewritten before this initiative; these five powers are the work so far.)
 
 ## The method (repeatable recipe)
 
@@ -53,6 +53,7 @@ Invented or load-bearing detail introduced during the rewrites:
 - **Elysian Collective:** the two classes — **sworn** (Apprentice→Journeyman→Master→Grandmaster) vs **Tenders** (associate labour: no vote, no naming rights, rarely a Garden berth); **"a commonwealth in name"**; the **world-song naming grievance** (the Tender dead long unsung); Grandmaster leanings — **Lis Valtonen** (First; traditionalist), **Maret Solveig** (Seventh; Tender advocate).
 - **Neo-Solar Republic:** the **EX-spectrum** reframe (most citizens EX 1–3, the famous post-humans a ~third-sized vanguard); **"go dark"** (leave the Lattice and lose your civic voice); **amplifiers** (the soft-aristocracy of resonance democracy); the **Lattice is Sol-bound** (the Republic can't expand, only export ideas); the **Registry of Endings**; Consul **Aven Solari-7** (Preservationist).
 - **The Mandate:** thesis — a *patchwork that calls itself a monolith*, in its **autumn**. Register (owner's call): **unevenness is the point** — quote the centre's one story (*Harmony*) and let the provinces complicate it; no single benign/cage verdict — carried over a cool **autumn-of-empire** throughline. Centre conflict — the **reform fault-line**: **crush / contain / concede** on Yansieve, fused with the **unspoken succession** (Xuanzong XVII, 96, 41-yr reign, no named heir; the dread's precedent is the **Long Interregnum** 2756–2847 C), all one question — *can it still reform itself, or only repeat itself?* Invented faces: **Marshal Cael Ombros** (Minister of War; of the Ombros clan; the 'crush' war faction); **Deputy Minister Vasha Toren** (Colonial Affairs; the cautious 'concede'/reform voice); 'contain' = the Emperor's deliberately faceless party-of-inertia. Load-bearing detail: the **polyglot smoking-gun** (200+ living languages; Classical is nobody's mother tongue) + the **citizen-majority** point (~5/6 are citizens; subjects a concentrated minority, not the whole); the **discontinued Sandholm agricultural-citizenship quota** (a mobility ladder pulled up — the autumn concretised); **Yansieve reframed as an *epistemic* blockade** (keeping a working example unseen; the rebels have abolished the distinction in-territory). Mandate scale standardised to **"hundreds of systems"** (matches Union/Cartel).
+- **Vega Commercial Throne:** thesis — *an honest meritocracy with a closed door*: the market discipline is genuine (houses rise and fall on performance; **attainder** falls even on archdukes), but the arena holds only a few thousand families and the other **~1.4 trillion** are the audience it performs for and the workforce that builds the stage. Register (owner's call): **savagely honest** — take the Throne's market-meritocracy claim seriously, then show its closed-arena limit. Engine: **the seen and the unseen** (the manufactory + entertainment precariat who make a glamour they can't afford), with two woven threads — **House Valdorian** as the overmighty winner the market *cannot* correct (largest private army; ~35% of entertainment; Duke Caelum, loyal-but-capable), and the **post-Caspian succession void** (heir Prince Caspian, 89, childless). Load-bearing: **media-as-governance** ("Vega needs no Bureau"—entertainment + a press *free except where it counts*; Prince Octavian's royal **Stellar Networks**); **Blackwell Media** (Cartel) as a listening-post in the ecosystem, and some Vega reconstruction debt quietly **Cartel-held** (not just Arrhenos); currency the **quid (ϟ)** / internal **crown**. Through-line: *effortlessness is the manufactured product*. **File note:** Vega had **16** files all along — `economy`/`media`/`stellavista` already existed (a truncated glob hid them); all rewritten, none added.
 - **Cross-power relations now agree** — e.g. Cartel⇄Collective "neither pries into the other's trade"; the Cartel covets Lattice tech the Republic will never sell; Cartel debt-leverage over Vega Houses; **Korsen's Anchorage** = Nexus HQ + Drift hub; **Veritas Station** = Aegis HQ; **Roughneck** = a Wayline hub. Keep new files consistent with these.
 
 ## Workflow notes
@@ -60,19 +61,12 @@ Invented or load-bearing detail introduced during the rewrites:
 - **Compiled files** (`1-setting.md`…`5-appendices.md`) are generated by `compile-lore.py` from `setting/ powers/ worlds/ appendices/`. Never hand-edit them; regenerate and commit the regenerated `2-powers.md` (and the others only if their sources changed).
 - **Commit cadence:** one commit per power (its sources + `2-powers.md`); keep unrelated regenerations in their own commit. (A `git pull`/merge that adds a setting file leaves `1-setting.md` stale — regenerate and commit it separately, as happened with `ftl/communication.md`.)
 - **Verify writes:** after drafting, run `git status --short` to confirm every intended file shows as modified. One file silently failed to persist once and was caught exactly this way.
+- **Confirm the full file list first.** `Glob` sorts by mtime and can truncate; cross-check the directory against this dossier's per-power *Files* line before deciding scope. (The Vega rewrite briefly missed `economy`/`media`/`stellavista` this way.)
 - Commits go to **`main`** (solo repo, direct-to-main history). **Not pushed** unless the owner asks.
 
-## Running-start diagnoses for the remaining three
+## Running-start diagnoses for the remaining two
 
 **UNVERIFIED** — drawn from the overview, `powers/index.md`, and cross-references, *not* a full read of each directory. Confirm by reading the files first. For each: the likely hat, the smoking-gun, candidate theses, and the fork to settle.
-
-### Vega Commercial Throne — ~1.4 trillion; media & luxury feudalism; Vega system; the Houses
-- **Likely hat:** the decadent media-aristocracy — everyone a glamorous noble, star, or artist (Planet of Celebrities).
-- **Smoking-gun:** a luxury/media economy runs on a vast unseen underclass — who *makes* the goods, films the content, serves the Houses? The **manufactory** workers vs the **Radiant Court**.
-- **Candidate theses:** (a) the glamour vs the labour beneath it; (b) media as soft power / population control, not just entertainment; (c) the four **Houses** (Cassiline, Kraeven, Meridian, Valdorian) as cut-throat business under a courtly veneer — with the post-**Andromedan Banking War** (3839) debt to the Cartel as live leverage.
-- **Fork:** is Vega's feudalism benign-glamorous, or quietly brutal beneath the sheen?
-- **Cross-canon:** the Cartel holds post-war debt over Vega Houses; **Blackwell Media** operates from **Stellavista**.
-- **Files:** `index, government, economy, culture, media, military, houses/{cassiline,kraeven,meridian,valdorian}, locations/{radiant-court,stellavista,lyra,manufactories}`.
 
 ### Union of Frontier Freeholds — ~1.7 trillion; frontier libertarianism; decentralised
 - **Likely hat:** Planet of Libertarians / space-Western — every Freeholder a rugged free individualist.
@@ -92,4 +86,4 @@ Invented or load-bearing detail introduced during the rewrites:
 
 ## Suggested resume point
 
-Three remain: **Vega Commercial Throne**, **Union of Frontier Freeholds**, **Drift Communities**. **Drift** and **Union** lean hardest into the diversity-of-lives angle; **Vega** is the glamour-vs-labour media-feudalism piece. The Mandate set the trillion-scale register — *unevenness is the point* with a cool autumn-of-empire throughline — worth matching for the remaining big powers. Whichever you pick: familiarise → diagnose the hat → agree thesis + fork → draft → consistency → compile → commit.
+Two remain: **Union of Frontier Freeholds** and **Drift Communities** — both lean hardest into the diversity-of-lives angle (libertarian *ideology* vs uneven frontier *reality*; the romance vs the hard logistics of nomadism). Both are heavily Cartel-penetrated (Nexus / Wayline; **Korsen's Anchorage**), so keep them consistent with the Cartel files and the **Sefkir Reach**. Register precedents now set: the Mandate's *unevenness + autumn*; Vega's *savage honesty + seen/unseen*. Recipe unchanged: familiarise → diagnose the hat → agree thesis + fork → draft → consistency → compile → commit.
