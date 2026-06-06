@@ -9,12 +9,12 @@ A working handoff for the great-power lore rewrites: the method, the house style
 | Sable Cartel | Done | Omniscience is a *cultivated myth* over a fractious, semi-coordinated ecosystem; the reputation is the product | `88c2aec` |
 | Elysian Collective | Done | One guild, two classes — the **sworn** and the **Tenders**; a commonwealth in name only; automation does the brute labour | `2383608` |
 | Neo-Solar Republic | Done | Famous for its vanguard, lived by its ordinary; a genuine utopia voting, by inches, on whether to remain a society of individuals | `e6f28ad` |
-| The Mandate | To do | — | — |
+| The Mandate | Done | A patchwork that calls itself a monolith, in its autumn; *unevenness is the point* over a reform-or-repeat fault-line | `3ba9220` |
 | Vega Commercial Throne | To do | — | — |
 | Union of Frontier Freeholds | To do | — | — |
 | Drift Communities | To do | — | — |
 
-(The setting / overview / appendix files were already rewritten before this initiative; these three powers are the work so far.)
+(The setting / overview / appendix files were already rewritten before this initiative; these four powers are the work so far.)
 
 ## The method (repeatable recipe)
 
@@ -52,6 +52,7 @@ Invented or load-bearing detail introduced during the rewrites:
 - **Sable Cartel:** the **Sefkir Reach** (a Freehold that expelled every Cartel subsidiary in 3829 C and survived poorer-but-free — the "they can lose" example); the **Trans-Orion Mercantile** (a dead pre-Cascade firm, in the origins); insider jargon **"the firm" / "upstairs" / "read the watermark."** Divisions: Capital, Transit, Assurance, Security, Commodities, Intelligence, Special Operations. Visible subsidiaries: Nexus (Capital), Wayline (Transit), Aegis (Security), Verdant (Commodities), Blackwell (Intelligence).
 - **Elysian Collective:** the two classes — **sworn** (Apprentice→Journeyman→Master→Grandmaster) vs **Tenders** (associate labour: no vote, no naming rights, rarely a Garden berth); **"a commonwealth in name"**; the **world-song naming grievance** (the Tender dead long unsung); Grandmaster leanings — **Lis Valtonen** (First; traditionalist), **Maret Solveig** (Seventh; Tender advocate).
 - **Neo-Solar Republic:** the **EX-spectrum** reframe (most citizens EX 1–3, the famous post-humans a ~third-sized vanguard); **"go dark"** (leave the Lattice and lose your civic voice); **amplifiers** (the soft-aristocracy of resonance democracy); the **Lattice is Sol-bound** (the Republic can't expand, only export ideas); the **Registry of Endings**; Consul **Aven Solari-7** (Preservationist).
+- **The Mandate:** thesis — a *patchwork that calls itself a monolith*, in its **autumn**. Register (owner's call): **unevenness is the point** — quote the centre's one story (*Harmony*) and let the provinces complicate it; no single benign/cage verdict — carried over a cool **autumn-of-empire** throughline. Centre conflict — the **reform fault-line**: **crush / contain / concede** on Yansieve, fused with the **unspoken succession** (Xuanzong XVII, 96, 41-yr reign, no named heir; the dread's precedent is the **Long Interregnum** 2756–2847 C), all one question — *can it still reform itself, or only repeat itself?* Invented faces: **Marshal Cael Ombros** (Minister of War; of House Ombros; the 'crush' war faction); **Deputy Minister Vasha Toren** (Colonial Affairs; the cautious 'concede'/reform voice); 'contain' = the Emperor's deliberately faceless party-of-inertia. Load-bearing detail: the **polyglot smoking-gun** (200+ living languages; Classical is nobody's mother tongue) + the **citizen-majority** point (~5/6 are citizens; subjects a concentrated minority, not the whole); the **discontinued Sandholm agricultural-citizenship quota** (a mobility ladder pulled up — the autumn concretised); **Yansieve reframed as an *epistemic* blockade** (keeping a working example unseen; the rebels have abolished the distinction in-territory). Mandate scale standardised to **"hundreds of systems"** (matches Union/Cartel).
 - **Cross-power relations now agree** — e.g. Cartel⇄Collective "neither pries into the other's trade"; the Cartel covets Lattice tech the Republic will never sell; Cartel debt-leverage over Vega Houses; **Korsen's Anchorage** = Nexus HQ + Drift hub; **Veritas Station** = Aegis HQ; **Roughneck** = a Wayline hub. Keep new files consistent with these.
 
 ## Workflow notes
@@ -61,17 +62,9 @@ Invented or load-bearing detail introduced during the rewrites:
 - **Verify writes:** after drafting, run `git status --short` to confirm every intended file shows as modified. One file silently failed to persist once and was caught exactly this way.
 - Commits go to **`main`** (solo repo, direct-to-main history). **Not pushed** unless the owner asks.
 
-## Running-start diagnoses for the remaining four
+## Running-start diagnoses for the remaining three
 
 **UNVERIFIED** — drawn from the overview, `powers/index.md`, and cross-references, *not* a full read of each directory. Confirm by reading the files first. For each: the likely hat, the smoking-gun, candidate theses, and the fork to settle.
-
-### The Mandate — ~2.4 trillion; imperial, bureaucratic; centred on Tiamming
-- **Likely hat:** the monolithic oppressive bureaucratic empire ("Imperial China in space" / Planet of Mandarins) — everyone a cog of the Bureau under a uniform citizen/subject hierarchy.
-- **Smoking-gun:** 2.4 trillion people across a sprawling hegemony cannot be culturally uniform — mine the gap between imperial ideology (Mandate Classical, the Bureau of Internal Harmony, the Sapphire Courts) and the wild regional variety of a trillion-scale empire.
-- **Candidate theses:** (a) the empire as a *patchwork* held together by ideology + logistics, not real uniformity — local accommodations, provincial identities, the centre's self-image vs the provinces; (b) the bureaucracy *lived* (careerists, true believers, the humane and the absurd, not only oppression); (c) the **citizen/subject** line as the central human drama (mobility, passing, resentment, the people in between).
-- **Live crisis to exploit:** the **Yansieve rebellion** (already canon; also the Cartel's blockade-running flashpoint).
-- **Fork:** how oppressive vs how functional/humane is the Mandate, really? It's the biggest power; its register colours the whole setting.
-- **Files:** `index, government, bureau, citizen-subject, culture, military, sapphire-courts, yansieve-rebellion`, plus a large `locations/tiamming/*` (chrysanthemum-court, hiveholm, orbital, osthavn, parvati, xuan). The most file-heavy power.
 
 ### Vega Commercial Throne — ~1.4 trillion; media & luxury feudalism; Vega system; the Houses
 - **Likely hat:** the decadent media-aristocracy — everyone a glamorous noble, star, or artist (Planet of Celebrities).
@@ -99,4 +92,4 @@ Invented or load-bearing detail introduced during the rewrites:
 
 ## Suggested resume point
 
-Any of the four; same recipe. **The Mandate** is the largest and most file-heavy — good to start fresh and well-rested. **Drift** and **Union** lean hardest into the diversity-of-lives angle. Whichever you pick: familiarise → diagnose the hat → agree thesis + fork → draft → consistency → compile → commit.
+Three remain: **Vega Commercial Throne**, **Union of Frontier Freeholds**, **Drift Communities**. **Drift** and **Union** lean hardest into the diversity-of-lives angle; **Vega** is the glamour-vs-labour media-feudalism piece. The Mandate set the trillion-scale register — *unevenness is the point* with a cool autumn-of-empire throughline — worth matching for the remaining big powers. Whichever you pick: familiarise → diagnose the hat → agree thesis + fork → draft → consistency → compile → commit.
