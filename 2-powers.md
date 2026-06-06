@@ -1176,7 +1176,7 @@ It is worth being precise about what that patience is. From one angle it is wisd
 
 ### Imperial powers
 
-Theoretically absolute; in practice fenced on every side by scale, procedure, the interests of the noble houses, and the simple impossibility of enforcing a will faster than light. The Emperor rules *through* his institutions rather than despite them, and the institutions know it. An edict that the ministries dislike does not need to be defied; it can be studied, referred, clarified, and implemented so slowly that the next edict overtakes it. The Throne's real power is the power to appoint, to promote, to ruin—and to be the one fixed point a fractious court cannot do without.
+Theoretically absolute; in practice fenced on every side by scale, procedure, the interests of the great clans, and the simple impossibility of enforcing a will faster than light. The Emperor rules *through* his institutions rather than despite them, and the institutions know it. An edict that the ministries dislike does not need to be defied; it can be studied, referred, clarified, and implemented so slowly that the next edict overtakes it. The Throne's real power is the power to appoint, to promote, to ruin—and to be the one fixed point a fractious court cannot do without.
 
 ## The succession, which no one discusses
 
@@ -1202,7 +1202,7 @@ The executive apparatus. Ministers serve at the Emperor's pleasure and concentra
 
 On its surface the Council administers. Beneath the surface it argues, in the careful deniable register of people who could be ruined for arguing too plainly, about the one thing the Emperor will not settle: what to *do*. The Yansieve rebellion has crystallised the disagreement into three positions, and because no one may say the largest part out loud, they are conducted as quarrels over budgets, jurisdiction and procedure.
 
-- **Crush.** The war faction, anchored in the Ministry of War under **Marshal Cael Ombros**—scion of the stern northern house, contemptuous of waiting—holds that the blockade is a slow humiliation and that a decisive ground campaign, however bloody, would end the rebellion and remind the frontier what defiance costs. Every month of stalemate is, to this faction, an advertisement for sedition.
+- **Crush.** The war faction, anchored in the Ministry of War under **Marshal Cael Ombros**—scion of the stern northern clan, contemptuous of waiting—holds that the blockade is a slow humiliation and that a decisive ground campaign, however bloody, would end the rebellion and remind the frontier what defiance costs. Every month of stalemate is, to this faction, an advertisement for sedition.
 - **Contain.** The Emperor's own line, and therefore the position with no champion and every advantage: the party of inertia, of the prudent, of everyone who has prospered across forty-one years of not deciding. It need not win the argument. It need only prevent the others from winning theirs, which it does superbly.
 - **Concede.** The dangerous one—voiced by a thin scattering of officials, most visibly **Deputy Minister Vasha Toren** of Colonial Affairs, who administers the failing frontier at first hand and has watched the citizen-subject system manufacture rebels faster than the Bureau can detain them. They do not say *abolition*; saying it would end them. They say *rationalising the registry*, *modernising status*, *reform*. Everyone understands the euphemism, including the people compiling the file.
 
@@ -1245,7 +1245,7 @@ Each world has a prefect responsible for implementing directives, collecting rev
 
 ### Noble estates
 
-Within the core systems, and on Tiamming above all, aristocratic families hold hereditary territories that run themselves. Mandate law applies and the treasury takes its due, but local administration is the lord's prerogative, and the lord's character is the law his subjects actually live under. The houses predate the Modern Mandate; their loyalty was purchased, long ago, with autonomy, and the price is still being paid. House **Vervain** controls water for hundreds of downstream communities; House **Ombros** breeds the cold-weather virtues and now the empire's loudest war-hawk; House **Kazan** has spent forty years performing a loyalty that may or may not be real. The aristocracy is not a relic. It is a second government, older than the first, smiling at it across the Council table. See [Xuan](locations/tiamming/xuan.md).
+Within the core systems, and on Tiamming above all, aristocratic families hold hereditary territories that run themselves. Mandate law applies and the treasury takes its due, but local administration is the lord's prerogative, and the lord's character is the law his subjects actually live under. The clans predate the Modern Mandate; their loyalty was purchased, long ago, with autonomy, and the price is still being paid. The **Vervain** clan controls water for hundreds of downstream communities; the **Ombros** clan breeds the cold-weather virtues and now the empire's loudest war-hawk; the **Kazan** clan has spent forty years performing a loyalty that may or may not be real. The aristocracy is not a relic. It is a second government, older than the first, smiling at it across the Council table. See [Xuan](locations/tiamming/xuan.md).
 
 ---
 
@@ -1560,7 +1560,7 @@ Where the powerful live: aristocratic compounds, ministerial residences, the hom
 
 ### The Thousand Markets
 
-The commercial district, where Trade Tongue is heard as often as Classical, foreign merchants keep permanent houses, and Drift Communities dock their shuttles to trade. Loud, crowded, indispensable. Here the citizen-subject distinction blurs further than anywhere else in the Court, because commerce cares about money and not status—though the registration bands are still there to be read, by anyone who troubles to look.
+The commercial district, where Trade Tongue is heard as often as Classical, foreign merchants maintain permanent establishments, and Drift Communities dock their shuttles to trade. Loud, crowded, indispensable. Here the citizen-subject distinction blurs further than anywhere else in the Court, because commerce cares about money and not status—though the registration bands are still there to be read, by anyone who troubles to look.
 
 ### The Old City
 
@@ -1867,13 +1867,13 @@ Temperate cooling to genuinely cold in the north—one of the few places on a cl
 
 Beyond the capital, Xuan belongs to its aristocracy. Noble families hold territories ranging from modest farms to regions the size of small countries, and while Mandate law applies uniformly and subjects retain their rights on paper, the practical reality is that the local lord shapes life in ways the distant capital cannot. The estates are not feudal in the medieval sense. They are something the Mandate finds more useful and more dangerous: a second government, older than the Modern Mandate, whose loyalty was bought long ago with autonomy, and which sits across the Council table from the first government smiling.
 
-### The major houses
+### The great clans
 
-**House Vervain** controls the Songjiang headwaters, and therefore the water of hundreds of downstream communities—an old, quiet, absolute kind of power. Its wealth is ancient and its loyalty has gone unquestioned for seventeen generations; it is conservative, ceremonial, and the house the Throne calls on when it needs reliable support to look spontaneous.
+**The Vervain clan** controls the Songjiang headwaters, and therefore the water of hundreds of downstream communities—an old, quiet, absolute kind of power. Its wealth is ancient and its loyalty has gone unquestioned for seventeen generations; it is conservative, ceremonial, and the clan the Throne calls on when it needs reliable support to look spontaneous.
 
-**House Ombros** administers the Northern Reaches, where the climate management fails and the winters are real. It breeds the cold-weather horses for the ceremonial cavalry and a stern northern self-image to match—plain speech, physical hardiness, open disdain for southern softness. It has also lately produced the empire's loudest war-hawk: **Marshal Cael Ombros**, Minister of War, who would end the Yansieve rebellion with a campaign rather than a wait, and whose northern bluntness is either a refreshing honesty or a dangerous simplicity, depending on which faction is describing him. See [Government](../../government.md).
+**The Ombros clan** administers the Northern Reaches, where the climate management fails and the winters are real. It breeds the cold-weather horses for the ceremonial cavalry and a stern northern self-image to match—plain speech, physical hardiness, open disdain for southern softness. It has also lately produced the empire's loudest war-hawk: **Marshal Cael Ombros**, Minister of War, who would end the Yansieve rebellion with a campaign rather than a wait, and whose northern bluntness is either a refreshing honesty or a dangerous simplicity, depending on which faction is describing him. See [Government](../../government.md).
 
-**House Kazan** is the cautionary tale and the redemption story both. The previous generation's involvement in a coup cost it half its holdings; the current lord, **Mirek Kazan**, has spent forty years buying back the family's standing with ostentatious loyalty and well-placed marriages, and has largely succeeded—Kazan is no longer a name spoken with a knowing glance. What he privately feels about the empire that nearly destroyed his house is a question no one asks, possibly including him.
+**The Kazan clan** is the cautionary tale and the redemption story both. The previous generation's involvement in a coup cost it half its holdings; the current lord, **Mirek Kazan**, has spent forty years buying back the family's standing with ostentatious loyalty and well-placed marriages, and has largely succeeded—Kazan is no longer a name spoken with a knowing glance. What he privately feels about the empire that nearly destroyed his clan is a question no one asks, possibly including him.
 
 ### Estate life
 
@@ -1893,10 +1893,10 @@ Xuan considers itself the heart of Mandate civilisation, and the claim is not ba
 
 ## Mirek Kazan
 
-**Role:** Lord of House Kazan
+**Role:** Lord of the Kazan clan
 **Age:** 84
 
-The man who rebuilt a disgraced house by performing loyalty so thoroughly that the performance may have replaced whatever it was performed over. His public statements run more orthodox than the Emperor's; his donations to Imperial causes are conspicuous; his children have married into impeccably loyal families. Privately, no one knows what Mirek Kazan thinks—and he has been the loyal Lord Kazan for so long now that the distinction between the role and the man may no longer exist, even for him. He is what the Mandate does to its aristocrats at its gentlest: not destroyed, but worn into the shape it requires, and left grateful for the wearing.
+The man who rebuilt a disgraced clan by performing loyalty so thoroughly that the performance may have replaced whatever it was performed over. His public statements run more orthodox than the Emperor's; his donations to Imperial causes are conspicuous; his children have married into impeccably loyal families. Privately, no one knows what Mirek Kazan thinks—and he has been the loyal Lord Kazan for so long now that the distinction between the role and the man may no longer exist, even for him. He is what the Mandate does to its aristocrats at its gentlest: not destroyed, but worn into the shape it requires, and left grateful for the wearing.
 
 ---
 

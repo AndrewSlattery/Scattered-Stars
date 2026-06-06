@@ -29,7 +29,7 @@ Where the powerful live: aristocratic compounds, ministerial residences, the hom
 
 ### The Thousand Markets
 
-The commercial district, where Trade Tongue is heard as often as Classical, foreign merchants keep permanent houses, and Drift Communities dock their shuttles to trade. Loud, crowded, indispensable. Here the citizen-subject distinction blurs further than anywhere else in the Court, because commerce cares about money and not status—though the registration bands are still there to be read, by anyone who troubles to look.
+The commercial district, where Trade Tongue is heard as often as Classical, foreign merchants maintain permanent establishments, and Drift Communities dock their shuttles to trade. Loud, crowded, indispensable. Here the citizen-subject distinction blurs further than anywhere else in the Court, because commerce cares about money and not status—though the registration bands are still there to be read, by anyone who troubles to look.
 
 ### The Old City
 
