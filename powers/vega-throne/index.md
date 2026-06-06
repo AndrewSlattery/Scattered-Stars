@@ -1,167 +1,86 @@
 # The Vega Commercial Throne
 
-A feudal media empire where hereditary aristocracy and commercial entertainment have fused into something neither purely traditional nor purely capitalist.
+Everyone has heard of the Vega Commercial Throne, and almost everyone has it slightly wrong. The serials that run for decades, the couture worth more than a Freehold ship, the archdukes who appear to have been born already wealthy and witty and beautiful—these are real, and they are the smallest part of Vega. The Throne's celebrated nobility numbers a few thousand families. Its population is one and a half trillion. Vega is not a society of aristocrats. It is the largest audience in human space, watching a contest its members will never be permitted to enter.
 
-## Overview
+The contest itself is the surprising part. Strip off the costumes and Vega is a market—a pitiless, and genuinely honest, one. Its houses do not hold safe seats. They rise and fall on performance; a house that fails in the marketplace is stripped of rank and name by a procedure called **attainder**, and the procedure takes archdukes as readily as barons. There is no decadence here, whatever outsiders assume, and no resting on ancient honours—only the quarterly report, the published ranking, and the long exhausting labour of making all of it look effortless. This is the thing Vega is least understood for: it tells its players the exact truth about their chances. It simply never thought to count everyone else as players.
 
-|Attribute|Value|
-|---|---|
-|Population|~1.4 trillion|
-|Centre|Vega system|
-|Government|Feudal heredity, commercial enterprise|
-|Military|House retinues, Royal Fleet|
-|Economy|Media, luxury goods, recovering|
-|Character|Spectacle, status, performative excellence|
+| Attribute | Value |
+|-----------|-------|
+| Population | ~1.4 trillion—of whom the famous aristocracy is a few thousand families; the rest are the workforce that builds the spectacle and the audience it is staged for |
+| Centre | The Vega system; the throne world **Lyra**, where the seen live and the unseen serve |
+| Government | Hereditary aristocracy under permanent market discipline—a real meritocracy with only a few thousand seats |
+| Sovereign | **Queen Lysandra IV**, 67 years on the Commercial Throne; sovereign and chief executive in one person |
+| Economy | Media, luxury goods, and the manufacture of effortlessness; recovering from the Banking War, and servicing a debt it cannot entirely trace |
+| Military | The Royal Fleet and the houses' private retinues—defensive by doctrine, and lately unbalanced by one house's inconvenient army |
+| Character | Glittering, competitive, relentlessly performed; a savage little meritocracy watched by a trillion people who are not in it |
 
-The Throne comprises several thousand fiefdoms, each ruled by hereditary nobility whose power derives from commercial success as much as bloodline. A house that fails in the marketplace loses standing at court; a house that succeeds spectacularly may rise despite undistinguished ancestry.
+## The Throne itself
 
-This fusion of feudal hierarchy and market competition creates a distinctive culture—one obsessed with status, spectacle, and the appearance of effortless superiority.
+The **Commercial Throne** is a seat of government and the oldest and largest corporation in Vega space at the same time; the monarch is sovereign and chief executive, and the royal family holds controlling shares in enterprises spanning the system. **Queen Lysandra IV** has held it for sixty-seven years—she is 134, presents perhaps forty-five, and has ruled through the Andromedan Banking War, the long reconstruction, and a careful recalibration of Vega's place among the powers. Her reputation is for patience, financial acumen, calculated generosity, and a ruthlessness that has, on occasion, ended houses. See [Government](government.md).
 
-## The Throne Itself
+## The feudal-commercial bargain
 
-The **Commercial Throne** is not merely a seat of government but a corporation, the oldest and largest in Vega space. The monarch is simultaneously sovereign and chief executive; the royal family holds controlling shares in enterprises spanning the system.
+Vega's nobility holds territory, but territory is not where the power is. The fiefdoms are commercial franchises as much as landed estates: a house owns brands, studios, distribution networks, broadcast licences, manufacturing patents, and passes them down with its titles. Commercial failure can trigger attainder—the loss of noble status itself.
 
-The current ruler, **Queen Lysandra IV**, has occupied the Throne for 67 years. Her reign has encompassed the Andromedan Banking War, the subsequent reconstruction, and a deliberate recalibration of Vega's relationship with external powers.
+The result is an aristocracy under permanent market discipline, and it is the engine of everything. No house can coast; the genealogies matter less than the quarterly numbers. In the twenty-three years since the Banking War, fourteen houses have been attainted and a handful of new ones raised. The churn is real, and the Throne points to it as proof that its system is fairer than any ballot: a house that fails its customers loses its market, its revenue, its rank, and at last its name. Whether that is accountability or merely a very honest cruelty is the question Vega declines to ask itself. See [Government](government.md) and [Economy](economy.md).
 
-See Government for the full structure.
+## What the trillion do
 
-## The Feudal-Commercial System
+For the overwhelming majority of Vegans, the aristocratic drama is something that happens on a screen. They work—in the prestige industries and the ordinary ones, in the manufactories that make luxuries they will never own, in the entertainment orbital that films a glamour they will only ever watch, on the agricultural worlds the court forgets between harvests. They are not oppressed in the Mandate's sense; there are no registration bands here, and a commoner is not degraded so much as simply not *attended to*. What the culture withholds from them is not dignity but visibility—the serials are about nobles, the news covers the court, the advertisements are set in lives no ordinary person leads. Whether invisibility is a mercy or a wound depends entirely on who you ask, and Vega has built a whole civilisation on not asking. See [Culture](culture.md) and [Media](media.md).
 
-Vega's nobility holds territory, but territory is not the primary source of wealth or power. The fiefdoms are **commercial franchises** as much as landed estates:
+## Recent history
 
-- A house controls brands, production facilities, distribution networks
-- Hereditary rights include intellectual property, broadcast licences, manufacturing patents
-- Succession passes these assets alongside titles and lands
-- Commercial failure can trigger **attainder**—loss of noble status
+**The Andromedan Banking War (3834–3839 C).** A conflict that began in finance—contested assets on the Andromedan frontier, clever instruments that turned out to be bombs—and escalated through Sable Cartel proxy forces into real fighting. Several houses were destroyed outright, the royal treasury was gutted, and Vega's pride in its own commercial sophistication did not survive being ruined by its own financial engineering. The reconstruction has run twenty-three years and is not finished.
 
-The result is aristocracy under permanent market discipline. No house can rest on ancient honours; the quarterly reports matter as much as the genealogies.
+**The debt.** Recovery was financed from outside, chiefly by **Arrhenos**—favourable loans from a planet of men who find hereditary rank quaint, which the aristocracy resents and cannot do without. Some of the reconstruction credit, however, came from elsewhere, on reasonable terms that have since matured into leverage: several houses now service debts to creditors they cannot prove are **Sable Cartel**-held, and cannot comfortably repay.
 
-See Economy for details.
+## Key locations
 
-## Industries
+| Location | Character |
+|----------|-----------|
+| [Lyra](locations/lyra.md) | Throne world; the seen on the Aurelian continent, the working unseen everywhere else |
+| [The Radiant Court](locations/radiant-court.md) | Royal palace complex; the stage on which the whole performance is judged |
+| [Stellavista](locations/stellavista.md) | The entertainment orbital, where the content is made and the precariat lives |
+| [The Manufactories](locations/manufactories.md) | The orbital where luxury—and effortlessness itself—is manufactured |
 
-### Media
+See [Locations](locations/index.md) for the full index, including the worlds beyond the Vega system.
 
-Vega productions dominate popular culture across human space. The entertainment industry produces:
+## The great houses
 
-- Serialised dramas running for decades
-- Musical performances ranging from intimate recitals to stadium spectacles
-- Immersive experiences blending narrative with audience participation
-- News programming with a reputation for clarity and independence
-- Sporting events, competitions, and tournaments
+Seven archducal houses sit at the top of the market; one seat now stands empty, a deliberate vacancy.
 
-The Throne's cultural influence extends far beyond its political reach. Mandate citizens consume Vega serials; Freehold miners hum Vega songs; Drift communities trade Vega recordings.
+| House | Specialisation | Standing |
+|-------|----------------|----------|
+| Valdorian | Entertainment media | Ascendant—and grown large enough to worry the Throne |
+| Meridian | News and journalism | Stable; sells the one thing Vega cannot fake—trust |
+| Therenne | Finance, jewellery | Strong; the Lord Chamberlain's house |
+| Corvane | Manufacturing | Stable; built the reconstruction |
+| Cassiline | Luxury fashion | Recovering, slowly, and circled by Valdorian |
+| Aurelian | Traditional crafts | Declining |
+| Kraeven | Finance (former) | **Attainted**—the ghost every house fears becoming |
 
-### Luxury Goods
-
-"Vega-made" carries connotations of quality and expense throughout human space. Hundreds of prestigious brands produce:
-
-- Fashion and textiles
-- Jewellery and personal adornment
-- Furniture and interior design
-- Vehicles and personal craft
-- Food and drink (wines, spirits, preserved delicacies)
-
-The luxury economy depends on perception as much as quality. A Vega brand is a guarantee of status; the actual craftsmanship, while genuine, is secondary to the social meaning.
-
-### News
-
-The Throne's journalism is, paradoxically, among the most trusted in human space.
-
-The explanation lies in the feudal structure itself. Vega journalists serve noble houses whose interests are **commercial rather than political**. A house that produces news wants audiences; audiences want accuracy. The competitive pressure is toward truth-telling rather than propaganda.
-
-This does not mean Vega news is without bias—coverage of internal Vega affairs is careful, and certain topics remain sensitive. But reporting on external events is notably clear-eyed.
-
-See Media for the industry structure.
-
-## Recent History
-
-### The Andromedan Banking War (ended 3839 C)
-
-The war's causes were complex—territorial disputes in the Andromedan frontier, financial instruments gone wrong, honour debts that escalated beyond reason. What matters now is the outcome:
-
-- Several major houses destroyed entirely
-- The royal treasury depleted
-- Infrastructure damaged across multiple systems
-- The Throne's credit rating collapsed
-
-The Banking War was not an existential threat—the Throne survived—but it was humiliating. Vega, which prided itself on commercial sophistication, had been brought low by its own financial instruments.
-
-### Reconstruction
-
-Recovery has required external assistance. **Arrhenos** provides reconstruction financing—loans at favourable rates, structured to rebuild without creating dependency.
-
-The relationship is delicate. Vega's aristocracy does not enjoy owing its recovery to a planet of male bankers who consider hereditary status quaint. But the alternative was worse.
-
-Twenty-three years after the war's end, reconstruction continues. Some houses have fully recovered; others remain financially constrained; still others have emerged stronger, having bought the assets of fallen rivals at distressed prices.
-
-## Culture
-
-Vega culture centres on **performance**—not merely in the entertainment sense, but as a way of being. To be Vega is to be observed, evaluated, judged on presentation.
-
-### Aristocratic Presentation
-
-The nobility cultivates an appearance of effortless superiority:
-
-- Perfect grooming and dress
-- Cultivated speech patterns
-- Knowledge of appropriate references and allusions
-- Physical grace (enhanced where necessary)
-- The studied casualness that requires enormous effort to maintain
-
-The performance is constant. Even in private, even among family, the awareness of observation shapes behaviour.
-
-### Common Experience
-
-Life for Vega's non-noble population varies enormously:
-
-- Skilled workers in prestige industries enjoy good conditions
-- Entertainment industry workers face intense competition and insecurity
-- Manufacturing and service sectors resemble other industrialised societies
-- Rural populations on agricultural worlds live quietly, largely ignored
-
-See Culture for details.
-
-## Key Locations
-
-|Location|Character|
-|---|---|
-|Lyra|Throne world, system capital|
-|The Radiant Court|Royal palace complex|
-|Stellavista|Entertainment industry centre|
-|The Manufactories|Luxury goods production|
-
-See Locations for the full index.
-
-## Major Houses
-
-|House|Specialisation|Status|
-|---|---|---|
-|House Valdorian|Entertainment media|Ascendant|
-|House Meridian|News and journalism|Stable|
-|House Cassiline|Luxury fashion|Recovering|
-|House Kraeven|Finance (former)|Fallen|
-
-See Houses for the full index.
+See [Houses](houses/index.md).
 
 ## Relations
 
-|Power|Relationship|
-|---|---|
-|Arrhenos|Reconstruction financing; mutual dependence, mutual wariness|
-|The Mandate|Cultural exchange; Vega media popular throughout Imperial space|
-|Union of Frontier Freeholds|Consumer market; some houses maintain frontier operations|
-|Sable Cartel|Commercial rivalry; post-war territorial disputes|
-|Neo-Solar Republic|Limited contact; cultural distance|
-|Drift Communities|Touring performers; media distribution|
-|Elysian Collective|Minor; terraforming contracts on damaged worlds|
+| Power | Relationship |
+|-------|-------------|
+| The Mandate | Vega's largest external audience; Imperial citizens devour Vega serials faster than the Bureau can ban them, and the Throne banks the licensing fees and the cultural condescension alike |
+| The Sable Cartel | The proxy-enemy of the Banking War, now a creditor in disguise—some of the houses' reconstruction debt is quietly Cartel-held, unprovably so, and Blackwell Media keeps a Vega presence the great houses are unwise to dismiss |
+| Arrhenos | The visible banker of the recovery; indispensable, favourably-termed, and quietly resented—Vega owes its rescue to people who find its whole way of life a charming anachronism |
+| Union of Frontier Freeholds | A consumer market and a touring circuit; some houses run frontier operations, and Freehold raiding is a nuisance the patrols absorb |
+| Neo-Solar Republic | A steady technology customer across a wide cultural gulf—each fascinated and repelled by the other in roughly equal measure |
+| Elysian Collective | Minor and transactional; terraforming contracts for worlds the Banking War damaged |
+| Drift Communities | Touring performers and media distribution—a niche, loyal market that carries Vega's songs to places its fleets will never reach |
 
-## Further Reading
+## Topics
 
-- Government — The feudal-commercial system
-- Economy — Industries, trade, reconstruction
-- Culture — Aesthetics, class, daily life
-- Media — Entertainment and news industries
-- Military — House retinues and the Royal Fleet
-- Locations — Worlds and places
-- Houses — Major noble families
+| Topic | Focus |
+|-------|-------|
+| [Government](government.md) | The feudal-commercial system, attainder as honest cruelty, the Queen, and the house that has grown too big for the market that made it |
+| [Economy](economy.md) | The machine up close—the quid, the brand economy, the talent pyramid, and the reconstruction debt that still shapes every house's options |
+| [Media](media.md) | Entertainment and news—the soft power that keeps an audience an audience, and the one house that sells the truth |
+| [Culture](culture.md) | Performance as a way of life, and the trillion lives the culture declines to see |
+| [Military](military.md) | The Royal Fleet, the house retinues, and Valdorian's inconvenient army |
+| [Houses](houses/index.md) | The great houses, the churn that raises and ruins them, and the ghost of the one that fell |
+| [Locations](locations/index.md) | Lyra and the Vega system; the Radiant Court, the Manufactories, and Stellavista |

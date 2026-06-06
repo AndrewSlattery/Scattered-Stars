@@ -1,201 +1,45 @@
 # House Valdorian
 
-The dominant entertainment house, ascendant since the Banking War.
+House Valdorian is the proof that Vega's market works, and the proof that it cannot fix what working produces. The dominant entertainment house, ascendant since the Banking War, it has done everything the system rewards—and in doing so has grown into the one thing the system has no answer for: a winner too big to discipline.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Rank | Archducal |
+| Head | Duke Caelum Valdorian |
+| Specialisation | Entertainment media |
+| Status | Ascendant |
+| Direct employees | ~500,000 |
+| Annual revenue | ~150 billion quid |
 
-|Attribute|Value|
-|---|---|
-|Rank|Archducal|
-|Head|Duke Caelum Valdorian|
-|Specialisation|Entertainment media|
-|Status|Ascendant|
-|Employees|~500,000 (direct)|
-|Revenue|~150 billion quid annually|
+Valdorian controls roughly 35% of all Vega entertainment production—a concentration without precedent in living memory.
 
-Valdorian controls approximately 35% of Vega entertainment production—a concentration unprecedented in recent history.
+## The rise
 
-## History
+Elevated to nobility in 3412 C for early success in entertainment, the house climbed the ranks on a single repeated move: quality production, strategic acquisition, relentless expansion—baronial to comital within a century, ducal by 3600 C, archducal after the consolidation of 3702 C. The Banking War was the masterstroke. It damaged Valdorian but devastated its rivals, and when the shooting stopped Valdorian had carefully preserved capital while its competitors had only debt. The house bought struggling studios, the distribution networks of failing rivals, and the talent contracts bankrupt employers could no longer honour. What emerged was dominance—three major studios (Radiant for prestige drama, Cascade for music, Eventide for immersive), the chokepoints over the infrastructure others depend on, and the cultural soft power that 35% of human space's entertainment confers. See [Media](../media.md).
 
-### Origins
+## Duke Caelum Valdorian
 
-House Valdorian was elevated to nobility in 3412 C, rewarded for commercial success in early entertainment production. The founding lord, Peregrine Valdorian, established the template the house still follows: quality production, strategic acquisition, relentless expansion.
+| Attribute | Value |
+|-----------|-------|
+| Age | 94 (presents mid-40s) |
+| Tenure | 31 years (since 3831 C) |
+| Style | Strategic patience; measured aggression |
+| Reputation | Formidable; not beloved |
 
-The house rose steadily through the ranks—baronial to comital within a century, ducal by 3600 C, archducal after the consolidation of 3702 C.
+The architect of the house's wartime survival and post-war dominance—the man who preserved capital while rivals spent and bought the distressed assets at the bottom. He is not liked: rivals find him predatory, his own people find him distant, and he has never seemed to mind either judgement, because he is right and the rankings prove it every quarter. He has also, in thirty-one years, never once moved against the Throne—loyalty performed with the same cold precision as everything else he does. Whether that restraint is principle or patience is the question Queen Lysandra cannot afford to answer wrongly.
 
-### Banking War Opportunity
+### The house's own succession
 
-The war damaged Valdorian's operations but not catastrophically. More importantly, it devastated competitors.
+The Duke has no children. His designated heir is his nephew, **Lord Evander Valdorian** (67), who runs the music division—competent, not brilliant, and untested at the scale his uncle operates. When the transition comes it will reveal whether Valdorian's dominance was the house's or merely Caelum's, and factions within the house already favour other candidates the Duke declines to discuss. His sister, **Lady Virellia Valdorian**, who has handled the delicate work of absorbing acquired studios and the resentments that come with them, is the more approachable of the two and the more underestimated. *"Caelum sees numbers,"* she has said. *"I see people. Someone has to."* Whether she wants the chair, no one knows.
 
-When the war ended, Valdorian had capital (carefully preserved) and competitors had debt. The house acquired:
+## The army
 
-- Three struggling studios
-- Distribution networks from failing houses
-- Talent contracts abandoned by bankrupt employers
+House Valdorian fields the largest non-royal military in Vega space—forty vessels, three hundred thousand ground troops, a hundred thousand in security, a hundred and fifty thousand support—and it has long since exceeded anything entertainment assets could require. The house calls it protection of production and distribution; the rest of Vega calls it what the arithmetic says it is. The Throne watches and does not act, because Valdorian has broken no law and failed no test, and there is no honest mechanism to constrain a house whose only offence is winning. See [Military](../military.md) and [Government](../government.md).
 
-What emerged was dominance. Valdorian now controls more entertainment production than any house in history.
+## Holdings
 
-### Current Position
-
-The house's position creates both opportunities and vulnerabilities:
-
-**Opportunities:**
-
-- Market power allows favourable terms
-- Scale permits investment competitors cannot match
-- Cultural influence confers soft power
-
-**Vulnerabilities:**
-
-- Concentration attracts regulatory attention
-- The royal house monitors for excessive power
-- Rivals seek to undermine collectively
-
-## Leadership
-
-### Duke Caelum Valdorian
-
-The current head has led the house for thirty-one years (since 3831 C, assuming leadership during the war).
-
-|Attribute|Value|
-|---|---|
-|Age|94|
-|Appearance|Mid-40s|
-|Style|Strategic patience; measured aggression|
-|Reputation|Formidable; not beloved|
-
-Caelum Valdorian is credited with the house's wartime survival and post-war dominance. His decisions during the crisis—preserving capital while rivals spent, acquiring distressed assets strategically—demonstrated the calculating approach that defines his leadership.
-
-He is not liked. Other houses consider him predatory; his own people find him distant. But he is effective.
-
-### The Succession Question
-
-Duke Caelum has no children.
-
-His designated heir is his nephew, **Lord Evander Valdorian** (67), who manages the house's music division. Evander is competent but not brilliant; the transition when it comes will test whether Valdorian's dominance depends on Caelum specifically.
-
-The house contains factions who believe other candidates should succeed. The Duke has not addressed this tension publicly.
-
-### Lady Virellia Valdorian
-
-The Duke's sister, managing the house's newer acquisitions.
-
-Virellia has overseen the integration of absorbed studios into Valdorian operations—a task requiring diplomacy as well as business skill. Former employees of acquired houses resent their new masters; Virellia manages that resentment.
-
-She is considered more approachable than her brother:
-
-> "Caelum sees numbers. I see people. Someone has to."
-
-Whether she has succession ambitions is unknown.
-
-## Commercial Operations
-
-### Radiant Productions
-
-The house's flagship studio.
-
-Radiant produces prestige serialised drama—the format that defines Vega entertainment. Its productions include _The Amber Throne_ (67 seasons), _Starfall_ (23 seasons), and dozens of other active serials.
-
-Quality standards are exacting. Radiant productions cost more than competitors'; they also command higher licensing fees and more loyal audiences.
-
-### Cascade Entertainment
-
-The music division.
-
-Cascade manages artists from development through career conclusion. Its roster includes major stars and hundreds of working musicians.
-
-The division operates semi-autonomously under Lord Evander Valdorian, with its own culture and priorities.
-
-### Eventide Productions
-
-Immersive entertainment—the growing sector.
-
-Eventide develops interactive experiences, game-narrative hybrids, and experimental formats. The division is smaller than Radiant or Cascade but receives investment proportional to expected growth.
-
-### Valdorian Lifestyle
-
-A secondary brand producing fashion-adjacent goods, entertainment merchandise, and licensed products. Revenue is significant; prestige is limited.
-
-## Military Strength
-
-House Valdorian maintains the largest non-royal military force in Vega space.
-
-|Component|Strength|
-|---|---|
-|Naval element|40 vessels|
-|Ground forces|~300,000|
-|Security services|~100,000|
-|Support|~150,000|
-
-The house claims these forces protect entertainment assets—production facilities, distribution networks, talent—but the scale exceeds commercial needs.
-
-The royal house monitors this expansion without yet acting. Duke Caelum has been careful to demonstrate loyalty; the forces have never been used against royal interests. But the capability exists.
-
-## Estate
-
-### Starhold
-
-The house's primary estate on Lyra's Aurelian continent.
-
-Starhold is an entertainment showcase as much as a residence:
-
-- Production facilities for exclusive content
-- Event spaces hosting industry gatherings
-- Guest quarters where talent and executives mingle
-- Security sufficient for a small fortress
-
-The estate projects power. Visitors understand they are entering the domain of someone significant.
-
-### Stellavista Presence
-
-Valdorian controls substantial portions of the entertainment orbital:
-
-- Radiant's production facilities
-- Cascade's studios
-- Talent residences housing house-contracted performers
-- The Promenade's most prestigious venues
-
-This concentration creates chokepoints. Other houses producing entertainment on Stellavista depend on Valdorian-controlled infrastructure.
+The house's flagship studio, **Radiant Productions**, defines prestige drama—_The Amber Throne_ has filmed there for sixty-seven seasons. **Cascade Entertainment** runs music from development to touring under Lord Evander; **Eventide** chases the growing immersive sector; **Valdorian Lifestyle** turns entertainment into fashion-adjacent merchandise and, lately, into the premium-fashion market where it grinds against a wounded Cassiline. The house seats at **Starhold** on Lyra's Aurelian continent—an estate that is half residence, half showcase, and built like a small fortress—and holds substantial portions of **Stellavista**, the entertainment orbital, where its control of production facilities and the distribution hub turns into leverage over every rival who must use them. See [Stellavista](../locations/stellavista.md).
 
 ## Relations
 
-### With the Royal House
-
-Careful mutual observation.
-
-Valdorian's power approaches levels that could threaten royal supremacy. The house has not crossed any lines—loyalty is performed correctly—but the potential is noted.
-
-Queen Lysandra IV has declined opportunities to constrain Valdorian, perhaps calculating that moving against the house would create instability exceeding the threat. This restraint may not continue indefinitely.
-
-### With Other Houses
-
-Mixed:
-
-|House|Relationship|
-|---|---|
-|Meridian|Cooperative (news serves entertainment marketing)|
-|Cassiline|Hostile (Cassiline resents Valdorian's war gains)|
-|Therenne|Neutral (different sectors)|
-|Corvane|Commercial (supply relationships)|
-|Aurelian|Dismissive (declining competitor)|
-
-The house has few genuine allies. Its dominance creates resentment that crosses commercial sector boundaries.
-
-### With External Powers
-
-Valdorian maintains:
-
-- Mandate distribution relationships (the largest external market)
-- Arrhenos financial services (reconstruction loans, though smaller than other houses)
-- Freehold operations (touring, distribution)
-- Drift community contacts (niche markets)
-
-The house's external reach extends Vega's cultural influence—and Valdorian's.
-
----
-
-## Notes
-
-House Valdorian is the most powerful non-royal entity in Vega space. Whether this power serves the Throne or threatens it remains to be determined.
-
-Duke Caelum Valdorian has not, in thirty-one years of leadership, made a move against royal authority. But he has accumulated the capability to do so. The house's future depends on what its leaders choose to do with that capability—and on how the royal house responds.
+The house has power and few friends. Meridian cooperates (news serves entertainment marketing); Cassiline is openly hostile (Valdorian took its talent during the war and now circles its carcass); Therenne stays neutral, Corvane commercial, Aurelian dismissed as a fading thing. Its dominance manufactures resentment that crosses every sector line, which is the ordinary fate of a winner—and the reason that, when the succession after Caspian finally comes due, the house best placed to exploit an uncertain Throne is also the house the rest of the aristocracy would most like to see stumble. Whether Valdorian's power serves the Throne or threatens it has not been decided, possibly not even by Valdorian. It has merely accumulated the capacity to decide, and waits, as patiently as its Duke.

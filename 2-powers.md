@@ -4407,171 +4407,90 @@ This arrangement serves the industry. Whether it serves broader interests is a q
 
 # The Vega Commercial Throne
 
-A feudal media empire where hereditary aristocracy and commercial entertainment have fused into something neither purely traditional nor purely capitalist.
+Everyone has heard of the Vega Commercial Throne, and almost everyone has it slightly wrong. The serials that run for decades, the couture worth more than a Freehold ship, the archdukes who appear to have been born already wealthy and witty and beautiful—these are real, and they are the smallest part of Vega. The Throne's celebrated nobility numbers a few thousand families. Its population is one and a half trillion. Vega is not a society of aristocrats. It is the largest audience in human space, watching a contest its members will never be permitted to enter.
 
-## Overview
+The contest itself is the surprising part. Strip off the costumes and Vega is a market—a pitiless, and genuinely honest, one. Its houses do not hold safe seats. They rise and fall on performance; a house that fails in the marketplace is stripped of rank and name by a procedure called **attainder**, and the procedure takes archdukes as readily as barons. There is no decadence here, whatever outsiders assume, and no resting on ancient honours—only the quarterly report, the published ranking, and the long exhausting labour of making all of it look effortless. This is the thing Vega is least understood for: it tells its players the exact truth about their chances. It simply never thought to count everyone else as players.
 
-|Attribute|Value|
-|---|---|
-|Population|~1.4 trillion|
-|Centre|Vega system|
-|Government|Feudal heredity, commercial enterprise|
-|Military|House retinues, Royal Fleet|
-|Economy|Media, luxury goods, recovering|
-|Character|Spectacle, status, performative excellence|
+| Attribute | Value |
+|-----------|-------|
+| Population | ~1.4 trillion—of whom the famous aristocracy is a few thousand families; the rest are the workforce that builds the spectacle and the audience it is staged for |
+| Centre | The Vega system; the throne world **Lyra**, where the seen live and the unseen serve |
+| Government | Hereditary aristocracy under permanent market discipline—a real meritocracy with only a few thousand seats |
+| Sovereign | **Queen Lysandra IV**, 67 years on the Commercial Throne; sovereign and chief executive in one person |
+| Economy | Media, luxury goods, and the manufacture of effortlessness; recovering from the Banking War, and servicing a debt it cannot entirely trace |
+| Military | The Royal Fleet and the houses' private retinues—defensive by doctrine, and lately unbalanced by one house's inconvenient army |
+| Character | Glittering, competitive, relentlessly performed; a savage little meritocracy watched by a trillion people who are not in it |
 
-The Throne comprises several thousand fiefdoms, each ruled by hereditary nobility whose power derives from commercial success as much as bloodline. A house that fails in the marketplace loses standing at court; a house that succeeds spectacularly may rise despite undistinguished ancestry.
+## The Throne itself
 
-This fusion of feudal hierarchy and market competition creates a distinctive culture—one obsessed with status, spectacle, and the appearance of effortless superiority.
+The **Commercial Throne** is a seat of government and the oldest and largest corporation in Vega space at the same time; the monarch is sovereign and chief executive, and the royal family holds controlling shares in enterprises spanning the system. **Queen Lysandra IV** has held it for sixty-seven years—she is 134, presents perhaps forty-five, and has ruled through the Andromedan Banking War, the long reconstruction, and a careful recalibration of Vega's place among the powers. Her reputation is for patience, financial acumen, calculated generosity, and a ruthlessness that has, on occasion, ended houses. See [Government](government.md).
 
-## The Throne Itself
+## The feudal-commercial bargain
 
-The **Commercial Throne** is not merely a seat of government but a corporation, the oldest and largest in Vega space. The monarch is simultaneously sovereign and chief executive; the royal family holds controlling shares in enterprises spanning the system.
+Vega's nobility holds territory, but territory is not where the power is. The fiefdoms are commercial franchises as much as landed estates: a house owns brands, studios, distribution networks, broadcast licences, manufacturing patents, and passes them down with its titles. Commercial failure can trigger attainder—the loss of noble status itself.
 
-The current ruler, **Queen Lysandra IV**, has occupied the Throne for 67 years. Her reign has encompassed the Andromedan Banking War, the subsequent reconstruction, and a deliberate recalibration of Vega's relationship with external powers.
+The result is an aristocracy under permanent market discipline, and it is the engine of everything. No house can coast; the genealogies matter less than the quarterly numbers. In the twenty-three years since the Banking War, fourteen houses have been attainted and a handful of new ones raised. The churn is real, and the Throne points to it as proof that its system is fairer than any ballot: a house that fails its customers loses its market, its revenue, its rank, and at last its name. Whether that is accountability or merely a very honest cruelty is the question Vega declines to ask itself. See [Government](government.md) and [Economy](economy.md).
 
-See Government for the full structure.
+## What the trillion do
 
-## The Feudal-Commercial System
+For the overwhelming majority of Vegans, the aristocratic drama is something that happens on a screen. They work—in the prestige industries and the ordinary ones, in the manufactories that make luxuries they will never own, in the entertainment orbital that films a glamour they will only ever watch, on the agricultural worlds the court forgets between harvests. They are not oppressed in the Mandate's sense; there are no registration bands here, and a commoner is not degraded so much as simply not *attended to*. What the culture withholds from them is not dignity but visibility—the serials are about nobles, the news covers the court, the advertisements are set in lives no ordinary person leads. Whether invisibility is a mercy or a wound depends entirely on who you ask, and Vega has built a whole civilisation on not asking. See [Culture](culture.md) and [Media](media.md).
 
-Vega's nobility holds territory, but territory is not the primary source of wealth or power. The fiefdoms are **commercial franchises** as much as landed estates:
+## Recent history
 
-- A house controls brands, production facilities, distribution networks
-- Hereditary rights include intellectual property, broadcast licences, manufacturing patents
-- Succession passes these assets alongside titles and lands
-- Commercial failure can trigger **attainder**—loss of noble status
+**The Andromedan Banking War (3834–3839 C).** A conflict that began in finance—contested assets on the Andromedan frontier, clever instruments that turned out to be bombs—and escalated through Sable Cartel proxy forces into real fighting. Several houses were destroyed outright, the royal treasury was gutted, and Vega's pride in its own commercial sophistication did not survive being ruined by its own financial engineering. The reconstruction has run twenty-three years and is not finished.
 
-The result is aristocracy under permanent market discipline. No house can rest on ancient honours; the quarterly reports matter as much as the genealogies.
+**The debt.** Recovery was financed from outside, chiefly by **Arrhenos**—favourable loans from a planet of men who find hereditary rank quaint, which the aristocracy resents and cannot do without. Some of the reconstruction credit, however, came from elsewhere, on reasonable terms that have since matured into leverage: several houses now service debts to creditors they cannot prove are **Sable Cartel**-held, and cannot comfortably repay.
 
-See Economy for details.
+## Key locations
 
-## Industries
+| Location | Character |
+|----------|-----------|
+| [Lyra](locations/lyra.md) | Throne world; the seen on the Aurelian continent, the working unseen everywhere else |
+| [The Radiant Court](locations/radiant-court.md) | Royal palace complex; the stage on which the whole performance is judged |
+| [Stellavista](locations/stellavista.md) | The entertainment orbital, where the content is made and the precariat lives |
+| [The Manufactories](locations/manufactories.md) | The orbital where luxury—and effortlessness itself—is manufactured |
 
-### Media
+See [Locations](locations/index.md) for the full index, including the worlds beyond the Vega system.
 
-Vega productions dominate popular culture across human space. The entertainment industry produces:
+## The great houses
 
-- Serialised dramas running for decades
-- Musical performances ranging from intimate recitals to stadium spectacles
-- Immersive experiences blending narrative with audience participation
-- News programming with a reputation for clarity and independence
-- Sporting events, competitions, and tournaments
+Seven archducal houses sit at the top of the market; one seat now stands empty, a deliberate vacancy.
 
-The Throne's cultural influence extends far beyond its political reach. Mandate citizens consume Vega serials; Freehold miners hum Vega songs; Drift communities trade Vega recordings.
+| House | Specialisation | Standing |
+|-------|----------------|----------|
+| Valdorian | Entertainment media | Ascendant—and grown large enough to worry the Throne |
+| Meridian | News and journalism | Stable; sells the one thing Vega cannot fake—trust |
+| Therenne | Finance, jewellery | Strong; the Lord Chamberlain's house |
+| Corvane | Manufacturing | Stable; built the reconstruction |
+| Cassiline | Luxury fashion | Recovering, slowly, and circled by Valdorian |
+| Aurelian | Traditional crafts | Declining |
+| Kraeven | Finance (former) | **Attainted**—the ghost every house fears becoming |
 
-### Luxury Goods
-
-"Vega-made" carries connotations of quality and expense throughout human space. Hundreds of prestigious brands produce:
-
-- Fashion and textiles
-- Jewellery and personal adornment
-- Furniture and interior design
-- Vehicles and personal craft
-- Food and drink (wines, spirits, preserved delicacies)
-
-The luxury economy depends on perception as much as quality. A Vega brand is a guarantee of status; the actual craftsmanship, while genuine, is secondary to the social meaning.
-
-### News
-
-The Throne's journalism is, paradoxically, among the most trusted in human space.
-
-The explanation lies in the feudal structure itself. Vega journalists serve noble houses whose interests are **commercial rather than political**. A house that produces news wants audiences; audiences want accuracy. The competitive pressure is toward truth-telling rather than propaganda.
-
-This does not mean Vega news is without bias—coverage of internal Vega affairs is careful, and certain topics remain sensitive. But reporting on external events is notably clear-eyed.
-
-See Media for the industry structure.
-
-## Recent History
-
-### The Andromedan Banking War (ended 3839 C)
-
-The war's causes were complex—territorial disputes in the Andromedan frontier, financial instruments gone wrong, honour debts that escalated beyond reason. What matters now is the outcome:
-
-- Several major houses destroyed entirely
-- The royal treasury depleted
-- Infrastructure damaged across multiple systems
-- The Throne's credit rating collapsed
-
-The Banking War was not an existential threat—the Throne survived—but it was humiliating. Vega, which prided itself on commercial sophistication, had been brought low by its own financial instruments.
-
-### Reconstruction
-
-Recovery has required external assistance. **Arrhenos** provides reconstruction financing—loans at favourable rates, structured to rebuild without creating dependency.
-
-The relationship is delicate. Vega's aristocracy does not enjoy owing its recovery to a planet of male bankers who consider hereditary status quaint. But the alternative was worse.
-
-Twenty-three years after the war's end, reconstruction continues. Some houses have fully recovered; others remain financially constrained; still others have emerged stronger, having bought the assets of fallen rivals at distressed prices.
-
-## Culture
-
-Vega culture centres on **performance**—not merely in the entertainment sense, but as a way of being. To be Vega is to be observed, evaluated, judged on presentation.
-
-### Aristocratic Presentation
-
-The nobility cultivates an appearance of effortless superiority:
-
-- Perfect grooming and dress
-- Cultivated speech patterns
-- Knowledge of appropriate references and allusions
-- Physical grace (enhanced where necessary)
-- The studied casualness that requires enormous effort to maintain
-
-The performance is constant. Even in private, even among family, the awareness of observation shapes behaviour.
-
-### Common Experience
-
-Life for Vega's non-noble population varies enormously:
-
-- Skilled workers in prestige industries enjoy good conditions
-- Entertainment industry workers face intense competition and insecurity
-- Manufacturing and service sectors resemble other industrialised societies
-- Rural populations on agricultural worlds live quietly, largely ignored
-
-See Culture for details.
-
-## Key Locations
-
-|Location|Character|
-|---|---|
-|Lyra|Throne world, system capital|
-|The Radiant Court|Royal palace complex|
-|Stellavista|Entertainment industry centre|
-|The Manufactories|Luxury goods production|
-
-See Locations for the full index.
-
-## Major Houses
-
-|House|Specialisation|Status|
-|---|---|---|
-|House Valdorian|Entertainment media|Ascendant|
-|House Meridian|News and journalism|Stable|
-|House Cassiline|Luxury fashion|Recovering|
-|House Kraeven|Finance (former)|Fallen|
-
-See Houses for the full index.
+See [Houses](houses/index.md).
 
 ## Relations
 
-|Power|Relationship|
-|---|---|
-|Arrhenos|Reconstruction financing; mutual dependence, mutual wariness|
-|The Mandate|Cultural exchange; Vega media popular throughout Imperial space|
-|Union of Frontier Freeholds|Consumer market; some houses maintain frontier operations|
-|Sable Cartel|Commercial rivalry; post-war territorial disputes|
-|Neo-Solar Republic|Limited contact; cultural distance|
-|Drift Communities|Touring performers; media distribution|
-|Elysian Collective|Minor; terraforming contracts on damaged worlds|
+| Power | Relationship |
+|-------|-------------|
+| The Mandate | Vega's largest external audience; Imperial citizens devour Vega serials faster than the Bureau can ban them, and the Throne banks the licensing fees and the cultural condescension alike |
+| The Sable Cartel | The proxy-enemy of the Banking War, now a creditor in disguise—some of the houses' reconstruction debt is quietly Cartel-held, unprovably so, and Blackwell Media keeps a Vega presence the great houses are unwise to dismiss |
+| Arrhenos | The visible banker of the recovery; indispensable, favourably-termed, and quietly resented—Vega owes its rescue to people who find its whole way of life a charming anachronism |
+| Union of Frontier Freeholds | A consumer market and a touring circuit; some houses run frontier operations, and Freehold raiding is a nuisance the patrols absorb |
+| Neo-Solar Republic | A steady technology customer across a wide cultural gulf—each fascinated and repelled by the other in roughly equal measure |
+| Elysian Collective | Minor and transactional; terraforming contracts for worlds the Banking War damaged |
+| Drift Communities | Touring performers and media distribution—a niche, loyal market that carries Vega's songs to places its fleets will never reach |
 
-## Further Reading
+## Topics
 
-- Government — The feudal-commercial system
-- Economy — Industries, trade, reconstruction
-- Culture — Aesthetics, class, daily life
-- Media — Entertainment and news industries
-- Military — House retinues and the Royal Fleet
-- Locations — Worlds and places
-- Houses — Major noble families
+| Topic | Focus |
+|-------|-------|
+| [Government](government.md) | The feudal-commercial system, attainder as honest cruelty, the Queen, and the house that has grown too big for the market that made it |
+| [Economy](economy.md) | The machine up close—the quid, the brand economy, the talent pyramid, and the reconstruction debt that still shapes every house's options |
+| [Media](media.md) | Entertainment and news—the soft power that keeps an audience an audience, and the one house that sells the truth |
+| [Culture](culture.md) | Performance as a way of life, and the trillion lives the culture declines to see |
+| [Military](military.md) | The Royal Fleet, the house retinues, and Valdorian's inconvenient army |
+| [Houses](houses/index.md) | The great houses, the churn that raises and ruins them, and the ghost of the one that fell |
+| [Locations](locations/index.md) | Lyra and the Vega system; the Radiant Court, the Manufactories, and Stellavista |
 
 ---
 
@@ -4580,286 +4499,67 @@ See Houses for the full index.
 
 # The Vega Commercial Throne: Culture
 
-Vega culture is performance. Not merely in the entertainment industry sense—though that too—but as a fundamental mode of existence. To be Vega is to be observed, evaluated, and judged on presentation.
+A Vega noble is trained from childhood to appear never to have been trained at all. The word for it is **sprezzatura**—the art of effortless excellence—and it is the most laboured-over thing in human space. Years of coaching go into the unstudied gesture; fortunes go into the face that looks as though it woke up flawless. This is the master key to Vega culture, and to the whole society beneath it: effortlessness is a product, the Throne's chief one, and like every product it is manufactured—by the nobles who perform it, and by the unnumbered people who build the stage they perform on.
 
-## The Aristocratic Ideal
+## The performance, and who gives it
 
-### Effortless Superiority
+### Effortless superiority
 
-The noble ideal is **sprezzatura**—the appearance of effortless excellence. A true aristocrat:
+The aristocratic ideal is to look perfect without visible effort, to speak elegantly without seeming rehearsed, to know everything relevant without having studied, to succeed in business without appearing to try. The appearance is a lie, and everyone knows it is a lie, and the lie is the point: to make the watching trillion believe that some people are simply *born* to this. Noble children spend years learning to seem unstudied, precisely so the result looks like nature rather than work.
 
-- Looks perfect without visible effort
-- Speaks elegantly without seeming rehearsed
-- Knows everything relevant without having to learn
-- Succeeds in business without appearing to try
+The body is maintained to exacting standards—enhancement in the EX 1.5–2.0 range, visible modification considered vulgar; immaculate grooming with staff to maintain it; bearing trained by deportment coaches from childhood. The standard is attainable only with wealth, which is the second point: the cost of the performance—staff, wardrobe, treatments, time—excludes commoners as efficiently as any law could, and far more elegantly.
 
-The appearance is a lie, of course. The effortlessness requires enormous effort. Noble children spend years learning to seem unstudied; the training is rigorous precisely so its results appear natural.
+### The constant evaluation
 
-### Physical Presentation
+Every interaction is assessed. Other nobles observe and judge; servants observe and gossip; the media reports the public appearances; and the quarterly commercial rankings reduce the whole thing to a number. No one escapes—the Queen's fashion and her family's behaviour are watched as closely as anyone's, and the watchers know themselves watched in turn. This is exhausting, and it is also, in Vega's own estimation, *fair*: status here is continuously earned and continuously at risk, which the Throne holds to be more honest than any system where rank, once granted, simply persists. It is not wrong about that. It is only silent about how few people are allowed into the assessment at all.
 
-Noble bodies are maintained to exacting standards:
+## The audience
 
-|Aspect|Norm|
-|---|---|
-|Enhancement|EX 1.5–2.0 typical; visible modifications unusual|
-|Grooming|Immaculate; personal staff for daily maintenance|
-|Dress|Appropriate to occasion; always high quality|
-|Bearing|Trained from childhood; deportment coaches are common|
+For the overwhelming majority of Vegans, aristocratic culture is something consumed rather than lived. Everyone watches Vega media; everyone has opinions on the current serials; celebrity gossip is the universal second language; a person who cannot converse about this season's drama is at a real social disadvantage. The industry manufactures a shared world, and a trillion people live in it together—as spectators.
 
-The standard is attainable only with wealth. The cost of maintaining aristocratic presentation—staff, wardrobe, treatments, time—excludes commoners almost as effectively as legal barriers.
+They relate to the ideal above them in three broad ways:
 
-### Social Performance
+- **Aspiration**—pursuing aristocratic style within reach, buying prestige brands at accessible price points, following the noble fashion cycles a season late.
+- **Mockery**—parodying the pretension, savouring the obviously artificial, enjoying the great houses' scandals as sport.
+- **Indifference**—simply living, neither aspiring nor mocking, attending to work and family and the local rather than the Radiant Court.
 
-Every interaction is a performance:
+All three are forms of watching. None is playing.
 
-**Conversation**: Witty but not trying too hard; informed but not pedantic; charming but not eager.
+### Dignity without visibility
 
-**Hospitality**: Generous but not ostentatious; comfortable but not extravagant; attentive but not hovering.
+It is important to be exact about what Vega does and does not do to its commoners. It does not degrade them; there is no forelock-tugging, no caste mark, no Bureau. The aristocracy maintains distance rather than demanding submission. What the culture withholds is not dignity but *attention*: the serials are about nobles, the news covers the court and the markets, the advertisements are set in lives no ordinary person leads. Common experience is unremarkable and therefore unremarked.
 
-**Business**: Shrewd but not grasping; successful but not boastful; ambitious but not desperate.
-
-The constant calibration is exhausting. Some nobles thrive on it; others endure it; a few retreat from public life entirely, accepting diminished status in exchange for relief.
-
-### The Evaluation
-
-Noble status is under continuous assessment:
-
-- Other nobles observe and judge
-- Servants observe and gossip
-- Media reports on public appearances
-- Commercial results quantify success
-
-No one escapes evaluation. Even the Queen is watched—her fashion choices, her public statements, her family's behaviour. The watchers know they are watched in turn. The system is recursive.
-
----
-
-## Common Culture
-
-### Distance from the Ideal
-
-Common Vega culture exists in the shadow of aristocratic culture—aware of the ideal, unable to attain it, relating to it in various ways.
-
-**Aspiration**: Some commoners pursue aristocratic style within their means, consuming prestige brands at accessible price points, following noble fashion cycles, affecting aristocratic manners.
-
-**Mockery**: Others reject the ideal through parody, finding humour in aristocratic pretension, celebrating the obviously artificial.
-
-**Indifference**: Many simply live their lives, neither aspiring to nor mocking the nobility, focused on work, family, and local community.
-
-### Regional Variation
-
-Vega culture is not uniform:
-
-|Region|Character|
-|---|---|
-|Lyra (throne world)|Most intense; aristocratic presence is constant|
-|Stellavista|Entertainment industry focus; celebrity culture dominates|
-|Outer system|More practical; distance creates perspective|
-|Rural worlds|Traditional; less touched by court fashion|
-
-The further from the Radiant Court, the less omnipresent the aristocratic ideal becomes. Farmers on agricultural worlds know the Queen exists but do not orient their lives around her.
-
-### Entertainment as Culture
-
-The dominance of entertainment production shapes common culture:
-
-- Everyone consumes Vega media
-- Everyone has opinions about current serials
-- Celebrity gossip is a universal topic
-- Entertainment industry workers are everywhere
-
-The industry creates a shared vocabulary—references to popular shows, awareness of stars, knowledge of production gossip. A commoner who cannot converse about current entertainment is socially disadvantaged.
-
----
+Whether that invisibility is freedom or erasure depends on where you stand. Some find it a relief—no one scrutinises their dress or their speech, no quarterly ranking decides their worth. Others find it a slow diminishment—to spend a life inside a culture that has never once thought to look back at you. Vega has built a magnificent civilisation on declining to resolve the question.
 
 ## Language
 
-### Vegan Standard
-
-The prestige language is **Vegan Standard**—evolved from Old Earth Romance languages with heavy Trade Tongue influence.
-
-Standard is the language of:
-
-- Court proceedings
-- Formal entertainment
-- Business documentation
-- Educated conversation
-
-### Regional Languages
-
-Older languages persist in various regions:
-
-|Language|Region|Status|
-|---|---|---|
-|Provençal derivatives|Lyra's equatorial regions|Common in daily life|
-|Germanian dialects|Northern agricultural worlds|Rural persistence|
-|Sinic-influenced creoles|Outer system settlements|Trade communities|
-
-Regional languages carry no stigma among commoners; the aristocracy considers them quaint.
-
-### Trade Tongue
-
-Essential for external commerce and increasingly common in entertainment production (which serves galactic audiences).
-
----
+The prestige tongue is **Vegan Standard**, evolved from Old Earth Romance languages with heavy Trade Tongue influence—the language of court, formal entertainment, business, and educated conversation. Beneath it the older languages persist without stigma among commoners and with faint condescension from the nobility: Provençal derivatives in Lyra's equatorial regions, Germanian dialects on the northern agricultural worlds, Sinic-influenced creoles among the outer-system traders. Trade Tongue runs through all of it, increasingly so in entertainment, which serves galactic audiences and cannot afford to be parochial.
 
 ## Religion
 
-Religious observance in Vega is minimal, consistent with human space generally.
+Religious observance is minimal, as across most of human space. The Throne does not suppress belief but regards organised religion with the same wariness it regards any independent power centre; congregations exist and stay quiet and stay out of politics. The nearest thing Vega has to a faith is the **cult of excellence**—not literally worshipped, but functioning as the society's organising value: quality, achievement, and competitive success treated as something close to sacred. It is a religion perfectly suited to a market, which is what Vega, underneath the velvet, is.
 
-The Throne does not suppress religion but views organised belief with suspicion—independent power centres are unwelcome. Religious organisations exist but operate quietly, without political influence.
+## Art and aesthetics
 
-The closest thing to official belief is the **cult of excellence**—a quasi-religious commitment to quality, achievement, and competitive success. This is not literally worshipped, but it functions as an organising value.
+The Vega style is recognisable across human space: clean lines over rich materials, restraint that implies hidden opulence, the appearance of simplicity achieved by expensive means; sophisticated orchestration and technically demanding performance made to sound effortless; character-driven drama in long arcs with delayed gratification. Bodies are treated as art and rooms as stages; every surface is designed to be observed.
 
----
+The line between high culture and popular entertainment is unusually soft. A prestige serial may run for decades, win critical acclaim, and command a mass audience all at once; a popular song may be genuinely sophisticated; nobles consume popular work and commoners attend the high cultural events. What separates the tiers is production value and subtlety, not the audience—both are held to be legitimate, because both, ultimately, sell.
 
-## Art and Aesthetics
+## Social customs
 
-### The Vega Style
+**Hospitality** is taken seriously and predates the Throne: a guest is owed welcome, refreshment, protection from other guests' rudeness, and a gracious farewell, and hosts who fail are quietly avoided. **Gift-giving** is a language—the practical gift signals friendship or obligation, the luxury gift a wish to impress, the handmade gift real intimacy, and nothing at all a statement of independence; misjudging the register damages relationships, and the resulting anxiety is considered healthy because it enforces attention.
 
-Vega aesthetics are recognisable across human space:
+The social calendar is anchored by great court occasions—the Ascension Ball at the new year, the Commercial Review where the houses present their numbers and the rankings are published, the Founder's Festival, the Harvest Gala—with smaller functions filling every week of the peak season. The **Gap** days, by contrast, are treated as rest: no formal obligations, reduced business, time returned briefly to private life. Even Vega lets the performance stop for three days a year.
 
-**Visual**: Clean lines but rich materials; restraint suggesting hidden opulence; the appearance of simplicity achieved through expensive means.
+## Scandal and reputation
 
-**Audio**: Sophisticated orchestration; technically demanding performance; the impression of effortless musicality.
+Reputation is existential, because in Vega reputation is directly convertible into revenue: consumers buy a house's goods partly for the status the brand confers, and a tarnished house taints its own products. Houses therefore invest heavily in managing it—controlling appearances, cultivating (and when necessary pressuring) the media, rehearsing crisis responses, constructing long narratives of excellence. When scandal breaks anyway, the playbook is predictable: deny if plausible, contextualise if not, distract with positive stories, and rehabilitate over time through demonstrated success.
 
-**Narrative**: Character-driven drama; long arcs with delayed gratification; emotional complexity presented accessibly.
+The media reports noble scandal with delicacy, by mutual interest—today's target is tomorrow's partner—so coverage tends to innuendo rather than accusation, leaving the audience to infer what cannot be safely stated. Genuine exposés happen, and when they do it means someone has made an enemy powerful enough to spend the usual courtesies. See [Media](media.md).
 
-**Physical**: Bodies as art; environments as stages; every surface designed for observation.
+## Outsider perspectives
 
-### High and Popular
-
-The distinction between high culture and popular entertainment is less rigid than in some societies.
-
-A prestige serial drama might run for decades, attract critical acclaim, and also achieve mass popularity. A popular song might demonstrate genuine musical sophistication. The aristocracy consumes popular entertainment; commoners attend high cultural events.
-
-What distinguishes levels is production value and subtlety, not audience. High culture rewards close attention; popular culture delivers immediate pleasure. Both are considered legitimate.
-
-### Architecture
-
-Vega architecture expresses the same values:
-
-- **Palaces**: Grand but not overwhelming; impressive through proportion and material rather than size
-- **Commercial buildings**: Elegant functionality; quality visible in details
-- **Entertainment venues**: Designed to frame performance; audiences as part of the aesthetic
-- **Common housing**: Varies enormously; ranges from gracious to merely adequate
-
-The built environment signals status constantly. Where you live, where you work, where you shop—each location communicates something about position.
-
----
-
-## Social Customs
-
-### Hospitality
-
-Hospitality is taken seriously. A guest is owed:
-
-- Appropriate welcome
-- Refreshment suitable to the visit's nature
-- Protection from other guests' rudeness
-- Gracious farewell
-
-Hosts who fail in hospitality are noted and avoided. The tradition predates the Throne and retains genuine force.
-
-### Gift-Giving
-
-Gifts communicate relationship:
-
-|Gift|Meaning|
-|---|---|
-|Practical item|Friendship or obligation|
-|Luxury item|Desire to impress|
-|Handmade item|Personal connection|
-|Nothing|Statement of independence|
-
-Getting the gift wrong—too much, too little, wrong category—damages relationships. The anxiety this produces is considered healthy; it encourages attention.
-
-### Celebrations
-
-The social calendar includes:
-
-| Event         | Character                                                        |
-| ------------- | ---------------------------------------------------------------- |
-| The Ascension | New year; renewal; formal celebrations                           |
-| Founder's Day | Throne's establishment; patriotic observance                     |
-| Harvest Gala  | Season's end; feasting; gift exchange                            |
-| House Days    | Each house celebrates its founding; public festivals in fiefdoms |
-
-The Gap days are treated as rest—no formal obligations, reduced business, time for private life.
-
----
-
-## Scandal and Reputation
-
-### The Stakes
-
-Reputation is existential. A noble house that loses reputation loses:
-
-- Social standing
-- Business partnerships
-- Marriage prospects for children
-- Eventually, commercial position
-
-The connection between reputation and business is direct. Consumers buy Vega goods partly for the status association; a tarnished house taints its products.
-
-### Scandal Management
-
-Houses therefore invest heavily in reputation management:
-
-- Careful control of public appearances
-- Media relationships (cultivation and, where necessary, pressure)
-- Crisis response protocols
-- Long-term narrative construction
-
-When scandal erupts despite precautions, the response follows predictable patterns: denial if plausible, contextualisation if not, distraction through positive stories, and eventual rehabilitation through demonstrated excellence.
-
-### The Media's Role
-
-Vega media reports on noble scandal with delicacy.
-
-The major houses that produce entertainment and news have reasons not to destroy rivals' reputations—today's target might tomorrow's ally. Coverage tends toward innuendo rather than explicit accusation, allowing audiences to draw conclusions while providing legal deniability.
-
-Genuine exposés occur but are rare. When they happen, someone has made enemies powerful enough to sacrifice the usual courtesies.
-
----
-
-## Common Life
-
-### What It's Like
-
-For the average Vega subject, daily life resembles daily life elsewhere in developed human space:
-
-- Work (various industries and occupations)
-- Family (varied structures, though traditional nuclear households are more common than on, say, Arrhenos)
-- Consumption (entertainment, goods, services)
-- Community (neighbourhood, profession, interest groups)
-
-The aristocratic culture that dominates public discourse is not absent from common life—it shapes aspirations, provides entertainment, sets certain standards—but it does not determine existence.
-
-### Dignity
-
-Commoners are not degraded. The system does not require peasant forelock-tugging; the aristocracy maintains distance rather than demanding submission.
-
-What commoners lack is **visibility**. The culture simply does not attend to ordinary lives. The serials are about nobles and celebrities; the news covers court and business; the advertisements feature aristocratic settings. Common experience is unremarkable, therefore unremarked.
-
-Whether this invisibility is oppression depends on perspective. Some find it freeing—no one scrutinises their dress or speech. Others find it diminishing—their existence does not matter to the culture they inhabit.
-
----
-
-## Outsider Perspectives
-
-Visitors from other polities often find Vega culture:
-
-- **Exhausting**: The constant performance and evaluation is wearying
-- **Impressive**: The aesthetic achievements are genuine
-- **Superficial**: The focus on appearance can seem substance-free
-- **Refined**: The attention to quality is admirable
-- **Alienating**: The hierarchy is visible and unapologetic
-
-The Throne does not much care what outsiders think. The culture serves internal purposes; external opinion is commercially relevant but not culturally constitutive.
-
-Arrhene visitors, coming from a society that lacks hereditary status entirely, often struggle with Vega's assumptions. Mandate visitors, familiar with hierarchy but not with its commercial fusion, find the system recognisable but differently calibrated. Drift community members, whose societies are more intimate, find the scale and formality overwhelming.
-
-Each polity's visitors see Vega through their own assumptions and find it strange in different ways.
+Visitors tend to find Vega exhausting, impressive, superficial, refined, and alienating, in proportions that say as much about the visitor as the place. Arrhene visitors, from a society with no hereditary status at all, struggle with the basic premise; Mandate visitors recognise hierarchy but not its fusion with the market; Drift travellers, used to intimate fleets, find the scale and formality overwhelming. The Throne does not much care. External opinion is commercially relevant and culturally beside the point—the performance was never being staged for outsiders. It was being staged for the trillion at home, who applaud, and buy, and are not invited up.
 
 ---
 
@@ -4868,260 +4568,58 @@ Each polity's visitors see Vega through their own assumptions and find it strang
 
 # The Vega Commercial Throne: Economy
 
-The Throne's economy is dominated by media and luxury goods—industries where perception matters as much as production, and where Vega's cultural advantages translate into market power.
+Vega's economy has one genuinely original idea, and it is an honest one: that the most valuable thing you can manufacture is *meaning*. A Vega luxury good is worth what it costs because it costs what it's worth—the price is not a measure of the product, it is part of it. The Throne does not pretend otherwise, which is the savage candour at the centre of the whole society: Vega knows exactly what it is selling, says so, and charges accordingly. What it is quieter about is who makes it.
 
 ## Currency
 
-Vega uses the standard **quid (ϟ)**, though internal accounting often uses the **crown**—a unit pegged to the quid but psychologically distinct. Prices in crowns feel less connected to galactic markets, which is the point.
+Vega uses the standard **quid (ϟ)**, but keeps its internal books in the **crown**—a unit pegged to the quid and psychologically detached from it. Prices in crowns feel like Vega prices, untethered from the galactic markets that humbled the Throne in the Banking War. The detachment is deliberate, and a little wistful: a small daily fiction of sovereignty, maintained by a Throne that owes its recovery to foreign banks.
 
----
+## The brand economy
 
-## Major Industries
+A Vega brand is not a producer so much as a meaning-generating engine, and its economics run inside-out from ordinary trade:
 
-### Entertainment Media
+- **Scarcity is manufactured.** Production is held deliberately below demand; the limit is the luxury.
+- **Price signals status,** and so, within bounds, a higher price raises desire rather than dampening it.
+- **Authenticity is everything,** and counterfeiting is pursued with a ferocity reserved for heresy—because a fake that passes does not steal a sale, it dissolves the meaning the whole sector is built on. See [The Manufactories](locations/manufactories.md).
+- **Narrative is the real factory:** brands invest fortunes in stories of heritage, craft, and distinguished clientele, because the story is the thing the customer actually wears.
 
-The largest sector by revenue and employment.
+The entire luxury sector floats on Vega's collective prestige, which is why houses that compete viciously for market share will nonetheless cooperate, instantly and absolutely, to defend "Vega-made" as a mark. They are rivals for slices of a pie they must all keep baking. It is the same logic that governs the entertainment houses and the news houses: compete on everything except the shared illusion that keeps the customers paying. See [Media](media.md).
 
-|Segment|Character|
-|---|---|
-|Serialised drama|Multi-decade narratives; the flagship product|
-|Music|Performance, recording, touring|
-|Immersive entertainment|Interactive experiences blending narrative and participation|
-|Sports and competition|Tournaments, leagues, spectacle events|
-|News and information|Journalism, documentary, analysis|
+## The sectors
 
-#### Production Structure
+**Entertainment media** is the largest by revenue and employment—the serials, music, immersive formats and spectacles that are Vega's chief export and its chief instrument of rule both. **Luxury goods**—fashion, jewellery, furnishings, vehicles, fine consumables—overlap heavily with it, since a fashion house sells the garment and the programme about the garment in the same breath. **News** is a sector of its own, trusted abroad precisely because it is commercial, careful at home for the same reason. All three sell perception dressed as product, and all three are organised the same way: a few great houses, a churn of smaller ones, and a market that kills the losers. See [Media](media.md) and [Government](government.md).
 
-Entertainment production is organised around **studios**—enterprises that may be house-owned, independent, or joint ventures between houses.
+## The scar: the Banking War
 
-Major studios include:
+The Andromedan Banking War (ended 3839 C) did to the economy what it did to the map. Several great houses were bankrupted and dissolved, infrastructure and trade routes were wrecked, and output fell perhaps fifteen to twenty per cent in the worst year. Recovery has been real but uneven: news recovered first (bad times raise the price of reliable information), entertainment and luxury have mostly rebuilt, and **finance never came back at all**. Before the war Vega contended with Arrhenos in interstellar finance; House Kraeven's collapse ended the contest, and Arrhenos has held the field since. Vega is now a client of the money trade it once rivalled, and the wound to its pride has outlasted the wound to its accounts. See [House Kraeven](houses/house-kraeven.md).
 
-|Studio|House|Specialisation|
-|---|---|---|
-|Radiant Productions|Valdorian|Prestige drama|
-|Stellar Networks|Royal (direct)|News, general entertainment|
-|Cascade Entertainment|Valdorian|Music, touring|
-|Meridian Broadcasting|Meridian|News, documentary|
-|Phoenix Studios|Cassiline|Fashion-adjacent lifestyle content|
+### The debt
 
-Studios compete for talent, audiences, and distribution. The competition is genuine—houses that produce unpopular content lose money—but operates within a framework of shared interests. All houses benefit from Vega's overall cultural dominance; none wants to damage the ecosystem.
+Reconstruction required capital the Throne could not raise itself, and it came from outside.
 
-#### Distribution
+| Metric | Value |
+|--------|-------|
+| Peak debt to Arrhenos institutions | ~3.8 trillion quid |
+| Current outstanding | ~2.4 trillion quid |
+| Lender of record | Arrhenos (favourable rates, flexible terms, few overt conditions) |
 
-Vega content reaches audiences through:
+The Arrhenos debt is the visible leash—galling to an aristocracy that must thank a planet of bankers who find hereditary rank a quaint affectation, and cannot do without them. The invisible leash is worse. Some of the reconstruction credit the houses carry did not come from Arrhenos at all but from the **Sable Cartel**, advanced on reasonable terms that have since matured into leverage; several houses now service debts to creditors they cannot prove are Cartel-held and cannot comfortably retire. Vega knows almost exactly what it owes, and to whom—except for the part it does not, which is the part that can be used against it. See the [Sable Cartel](../sable-cartel/index.md).
 
-- **Syndicated feeds** (priority couriers carry master feeds to hubs in major systems for local rebroadcast)
-- **Licensed distribution** (local partners in other polities)
-- **Physical media** (for regions with limited connectivity)
-- **Touring productions** (live performances, especially in premium markets)
+## Labour and class
 
-Distribution rights are valuable assets. A house that controls the pipeline to Mandate audiences, for instance, can extract fees from any competitor wanting access.
+Strip away the brands and the question underneath is the seen and the unseen, drawn in incomes.
 
-#### The Talent Economy
-
-Performers, writers, directors, technicians—the people who actually make entertainment—occupy a peculiar position.
-
-Top talent commands enormous compensation and genuine influence. A star whose presence guarantees audiences has leverage even noble houses must respect.
-
-Lesser talent is expendable. Competition for positions is intense; working conditions vary; job security is minimal. The industry chews through aspirants and discards most of them.
-
-The system produces excellence at the top and exploitation at the bottom. This is considered acceptable.
-
-### Luxury Goods
-
-The second major sector, overlapping significantly with entertainment (fashion houses produce both goods and content about goods).
-
-|Category|Character|
-|---|---|
-|Fashion|Clothing, accessories, personal adornment|
-|Jewellery|Precious materials, distinctive designs|
-|Furnishings|Furniture, decor, domestic goods|
-|Vehicles|Personal craft, luxury transport|
-|Consumables|Wine, spirits, preserved foods, rare ingredients|
-
-#### The Brand Economy
-
-A Vega luxury brand is not merely a producer but a **meaning-generating entity**. The physical product matters less than what ownership signals about the buyer.
-
-This creates a peculiar economics:
-
-- **Scarcity is manufactured**: Production is deliberately limited to maintain exclusivity
-- **Price signals status**: Higher prices increase desirability (within limits)
-- **Authenticity is paramount**: Counterfeiting is aggressively prosecuted
-- **Narrative matters**: Brands invest heavily in stories about heritage, craftsmanship, and distinguished clientele
-
-The luxury economy depends on maintaining Vega's overall prestige. If "Vega-made" ceased to signify quality and status, the entire sector would collapse. Houses therefore cooperate on quality standards and brand protection even while competing for market share.
-
-#### Craft and Manufacture
-
-Actual production ranges from:
-
-- **Artisanal workshops** where skilled craftsmen produce bespoke items
-- **Manufactories** combining traditional techniques with modern efficiency
-- **Automated facilities** producing licensed goods for broader markets
-
-The relationship between these tiers is complex. A house might maintain artisanal workshops for its highest-end products while licensing its brand to manufactories for accessible lines. Managing these tiers without diluting brand prestige is a constant challenge.
-
-### News and Journalism
-
-A distinct sector with unusual characteristics.
-
-Vega journalism's reputation for accuracy derives from its commercial structure. News houses compete for audiences; audiences value reliability; therefore houses that produce accurate news outcompete those that don't.
-
-This logic has limits:
-
-- Coverage of internal Vega affairs is careful
-- Royal activities receive respectful treatment
-- Advertising relationships create soft pressures
-- Some stories are simply not pursued
-
-But coverage of external events—Mandate politics, Freehold developments, Drift community affairs—is notably clear-eyed. Vega journalists have no stake in foreign outcomes; they can report what they observe.
-
-House Meridian dominates news production, though Stellar Networks (the royal house's media arm) and several smaller houses compete.
-
----
-
-## The Banking War's Economic Impact
-
-### What Was Lost
-
-The Andromedan Banking War (ended 3839 C) caused:
-
-- **House destruction**: Several major houses bankrupted; their assets seized or dissolved
-- **Infrastructure damage**: Production facilities, distribution networks, and physical plant destroyed or degraded
-- **Market disruption**: Trade routes interrupted; customer relationships severed
-- **Confidence collapse**: Vega's reputation for financial sophistication shattered
-
-The war's immediate economic contraction was severe—estimates suggest 15-20% GDP decline in the worst year.
-
-### Recovery
-
-Recovery has been uneven:
-
-|Sector|Recovery Status|
-|---|---|
-|News|Fully recovered (demand for reliable information increased)|
-|Entertainment|Largely recovered; some studios still rebuilding|
-|Luxury goods|Recovering; damaged supply chains being restored|
-|Finance|Permanently diminished; Arrhenos has captured market share|
-
-Twenty-three years post-war, aggregate economic output has returned to pre-war levels. But the distribution has shifted—houses that weathered the war well now control larger shares, while survivors of damaged houses operate at reduced scale.
-
-### Arrhenos Financing
-
-The reconstruction required capital the Throne could not generate internally.
-
-Arrhenos provided loans:
-
-- At favourable rates (below market, reflecting strategic interest)
-- With flexible terms (recognising recovery timelines)
-- Without political conditions (mostly)
-
-The arrangement benefits both parties. Arrhenos gains influence and interest income; Vega gains capital for reconstruction. Neither is entirely comfortable with the relationship.
-
-Current outstanding debt to Arrhenos institutions: approximately 2.4 trillion quid (reduced from peak of 3.8 trillion).
-
-The debt service burden constrains Throne finances and creates political sensitivity. The aristocracy resents dependence on foreign bankers; the bankers are aware of the resentment.
-
----
-
-## Trade
-
-### Exports
-
-|Category|Destinations|Character|
-|---|---|---|
-|Entertainment media|Human space generally|The dominant export; cultural influence exceeds economic value|
-|Luxury goods|Wealthy populations everywhere|Premium products at premium prices|
-|News services|Institutional subscribers|Valued for reliability|
-|Tourism|Wealthy visitors|The Radiant Court is a destination|
-
-### Imports
-
-|Category|Sources|Character|
-|---|---|---|
-|Raw materials|Various|Manufacturing inputs|
-|Food|Agricultural worlds|Lyra cannot feed itself|
-|Technology|Various; Neo-Solar for cutting-edge|Production equipment|
-|Financial services|Arrhenos|The uncomfortable necessity|
-
-### Trade Balance
-
-Vega runs a trade surplus in normal times—exports of high-value cultural products exceed imports of bulk commodities. The post-war period has seen deficits as reconstruction imports have surged, but the balance is returning to historic norms.
-
----
-
-## Labour and Class
-
-### The Aristocratic Economy
-
-Noble houses are employers, and employment by a prestigious house carries social weight.
-
-**House retainers**—personal servants, administrative staff, specialists in house business—form a distinct class. They are not noble themselves, but their proximity to nobility grants status and security. Retainer positions are sought after; families may serve the same house for generations.
-
-### The Professional Classes
-
-Below the retainer class, professionals work in house-adjacent enterprises:
-
-- Studio employees (production, technical, creative)
-- Manufacturing workers (skilled trades, factory labour)
-- Service workers (hospitality, retail, maintenance)
-
-These positions offer varying conditions depending on employer and industry. Entertainment and luxury goods pay well for talent; routine labour pays adequately. Competition keeps wages honest, more or less.
-
-### Common Labour
-
-The bulk of Vega's population works outside the prestige industries:
-
-- Agriculture (on rural worlds and orbital facilities)
-- Basic manufacturing
-- Services
-- Extraction (in outer system operations)
-
-These workers are not oppressed—Vega is not the Mandate—but they are invisible. The culture that celebrates aristocratic elegance and entertainment glamour simply does not notice the people who grow food and maintain infrastructure.
+- **Retainers**—the personal staff, administrators and specialists attached directly to a noble house—are not noble, but their nearness to nobility confers status and security; families serve the same house for generations, and the positions are coveted. These are the *seen* among the unennobled: visible because they stand close to the visible.
+- **Professionals**—studio and manufactory workers, skilled trades, the better service roles—live decently where talent or scarcity gives them leverage, adequately where it does not. Competition keeps wages roughly honest, in the savage Vega way.
+- **Common labour**—agriculture on the rural worlds and orbital farms, basic manufacture, services, extraction in the outer system—is the bulk of one and a half trillion people, and is not oppressed in the Mandate's sense and not *seen* in any sense. The culture that lavishes attention on aristocratic elegance simply does not register the people who grow its food and hold its infrastructure together. They are not pressed down. They are left out of frame. See [Lyra](locations/lyra.md).
 
 ### Mobility
 
-Social mobility exists but is constrained:
+The ladder exists, and is mostly theoretical. Talent discovery can transform a life (the entertainment industry's great advertisement, paid for in the failures it does not screen); skill can win a retainer's place; commercial brilliance may, very rarely, attract a grant of rank. None of it is closed. All of it is narrow. For the overwhelming majority the economic truth is the social one: a person ends roughly where they began, watching from the same seat, and Vega is too honest to promise otherwise and too tactful to say it aloud.
 
-|Path|Character|
-|---|---|
-|Talent discovery|Entertainment success can transform circumstances|
-|Professional advancement|Skill and competence can lead to retainer positions|
-|Entrepreneurship|Commercial success may attract noble notice (rarely)|
-|Education|Training in valued skills opens opportunities|
+## The standing worry
 
-The system is not closed. But movement upward is difficult, and the vast majority remain where they began.
-
----
-
-## Current Challenges
-
-### Debt Burden
-
-The reconstruction debt constrains policy options. The Throne cannot afford major new initiatives while servicing Arrhenos loans; houses feel similar constraints.
-
-### Competitive Pressure
-
-Other producers of entertainment and luxury goods have improved quality while Vega recovered. The Mandate's internal studios have grown; some Freehold operations now produce competitive content. Vega's market position, while still dominant, is less unassailable than before the war.
-
-### Generational Wealth Transfer
-
-The houses that profited from the war—buying distressed assets, expanding into vacated markets—now face succession questions. Will the next generation maintain their gains? Will inheritance disputes fragment consolidated holdings?
-
-### Labour Unrest
-
-The entertainment industry's labour conditions have produced periodic organising efforts. The Throne permits limited collective action but monitors carefully for political content.
-
----
-
-## Notes
-
-The Vega economy is not designed for equality. It is designed for excellence—specifically, the production of cultural products and luxury goods that command premium prices across human space.
-
-By that standard, it works. Vega produces some of the finest entertainment and most desirable goods humanity has created.
-
-Whether the system serves its population well is a different question, and one the aristocracy prefers not to consider.
+The economy works, by its own exacting standard—it produces some of the finest goods and richest entertainment humanity has made, and disciplines its producers without mercy. The standing worries are three, and they are all about the edges of the frame: the **debt** that constrains every ambitious move; the **competition** now improving abroad while Vega rebuilt, in Mandate studios and Freehold workshops that no longer simply lose; and the slow **labour pressure** in the entertainment trades, where the discarded occasionally organise, and the Throne permits just enough collective action to release the pressure and watches it for the political content it is careful never quite to develop.
 
 ---
 
@@ -5130,248 +4628,79 @@ Whether the system serves its population well is a different question, and one t
 
 # The Vega Commercial Throne: Government
 
-The Throne operates through a fusion of feudal hierarchy and corporate structure that outsiders often find bewildering.
+The Vega Throne is not a democracy, does not pretend to be one, and will explain to you, with disarming candour, exactly why it is better than one. The argument runs: a vote is a blunt instrument exercised once in a while, but a market votes every day, with money, and it never lies for long. A house that fails its customers loses its sales, then its revenue, then its rank, and at last its name. The market disciplines more ruthlessly than any electorate could, and more honestly, because it cannot be flattered.
 
-## The Monarch
+The remarkable thing is how much of this is true. Vega really is governed by a savage, working meritocracy in which the mighty are routinely ruined for poor performance. The trick—and it is the whole trick of the place—is that the market only adjudicates the few thousand families who are *in* it. The other one and a half trillion Vegans get neither a vote nor a verdict. They are not failed competitors. They were never entered.
 
-### Constitutional Position
+## The monarch
 
-The monarch holds:
+### The position
 
-- **Sovereign authority** over all Vega territory
-- **Controlling interest** in the Throne Corporation (the holding company encompassing royal enterprises)
-- **Final arbitration** in disputes between houses
-- **Command** of the Royal Fleet
-
-These powers are not ceremonial. The monarch genuinely rules—but rules through institutions, precedent, and the management of competing noble interests rather than by decree.
+The monarch holds sovereign authority over all Vega territory, a controlling interest in the **Throne Corporation** (the holding company over the royal enterprises), final arbitration in disputes between houses, and command of the Royal Fleet. These are not ceremonial powers. But the monarch rules *through* institutions, precedent, and the management of competing noble interests far more than by decree—a chief executive as much as a sovereign, and bound, like any chief executive, by the board she chairs and the markets she serves.
 
 ### Lysandra IV
 
-The current Queen has occupied the Throne for 67 years (since 3795 C). She is 134 years old, appears perhaps 45, and is known for:
+Sixty-seven years on the Throne (since 3795 C); 134 years old, presenting near forty-five. She is known for patience—her responses to crises unfold across years—for financial acumen that has kept the royal enterprises ahead of the market, for a calculated generosity that spins webs of obligation, and for a ruthlessness, used sparingly, that has ended houses that crossed her. The Banking War was the test of her reign; the Throne came through it diminished but intact, and the reconstruction has been, in her hands, partly an opportunity—a chance to reshape the field while rivals were weak.
 
-- **Patience**: Her responses to crises unfold over years, not months
-- **Financial acumen**: The royal enterprises have outperformed the market consistently
-- **Calculated generosity**: Favours granted strategically, creating webs of obligation
-- **Ruthlessness when required**: Houses that crossed her have ceased to exist
+She is, by common consent, the most capable monarch in living memory. It is worth noticing, then, the two problems she has *not* solved—because what a ruler this skilled cannot fix by management tells you where the real strains are.
 
-The Banking War tested her reign. The Throne survived, diminished but intact. The reconstruction has been, in some ways, an opportunity—a chance to reshape the noble landscape while competitors were weakened.
+### The royal family
 
-Her heir, **Prince Caspian**, is 89 and has spent decades managing the entertainment division of Throne Corporation. His eventual succession is expected to continue current policies.
+The monarch's children hold posts across the royal enterprises: **Prince Caspian** (the heir) over the Entertainment Division, **Princess Aurelie** over External Relations, **Prince Hadrian** liaising with the Royal Fleet, **Princess Seraphine** over Luxury Brands, **Prince Octavian** over the News Division—a delicate posting, since the Throne owning the news is exactly the thing Vega's free press exists to be trusted as separate from. Family members are expected to perform; those who cannot are quietly sidelined. Caspian and Seraphine are reckoned genuinely able.
 
-### The Royal Family
+## The houses
 
-The monarch's immediate family holds positions throughout royal enterprises:
+### The hierarchy
 
-- **Prince Caspian** (heir): Entertainment Division
-- **Princess Aurelie**: External Relations (diplomatic functions)
-- **Prince Hadrian**: Military liaison (Royal Fleet coordination)
-- **Princess Seraphine**: Luxury Brands Division
-- **Prince Octavian**: News Division (a delicate portfolio)
+| Rank | Count | Character |
+|------|-------|-----------|
+| Royal House | 1 | The monarch's family |
+| Archducal Houses | 7 | The great houses; vast commercial empires (one seat now attainted and empty) |
+| Ducal Houses | ~40 | Major players; significant market presence |
+| Comital Houses | ~400 | Mid-tier; specialised niches |
+| Baronial Houses | ~3,000 | Minor nobility; single enterprises or localities |
 
-Family members are expected to perform competently; those who cannot are quietly sidelined. The current generation has proven adequate, with Caspian and Seraphine considered genuinely capable.
-
----
-
-## The Noble Houses
-
-### The Hierarchy
-
-Vega nobility is organised in ranks:
-
-|Rank|Count|Character|
-|---|---|---|
-|Royal House|1|The monarch's family|
-|Archducal Houses|7|The great houses; vast commercial empires|
-|Ducal Houses|~40|Major players; significant market presence|
-|Comital Houses|~400|Mid-tier houses; specialised niches|
-|Baronial Houses|~3,000|Minor nobility; single enterprises or localities|
-
-### Rights and Obligations
-
-Noble status confers:
-
-- **Territorial jurisdiction** over designated fiefdoms
-- **Commercial licences** in specified industries
-- **Court access** (the right to attend royal functions)
-- **Judicial privileges** (trial by peers for serious offences)
-- **Military obligations** (house retinues must answer royal summons)
-
-Noble status requires:
-
-- **Tax obligations** to the Throne
-- **Commercial performance** above minimum thresholds
-- **Attendance** at required court functions
-- **Military contributions** proportional to house resources
+Noble status confers territorial jurisdiction, commercial licences, court access, trial by peers, and the right to raise a retinue; it requires taxes, court attendance, military contribution, and—above all—**commercial performance above a minimum threshold**. That last requirement is the one that makes Vega Vega.
 
 ### Attainder
 
-A house that fails to meet obligations—particularly commercial performance requirements—faces **attainder**: the stripping of noble status.
+A house that fails its obligations, commercial performance chief among them, can be stripped of everything by **attainder**: rank gone, licences revoked and returned to the Throne for redistribution, jurisdiction lost, court access ended, often personal assets seized. Former nobles become commoners, and their descendants carry the stigma down.
 
-Attainder is rare but real. In the twenty-three years since the Banking War ended, fourteen houses have been attainted:
-
-- Seven for bankruptcy
-- Four for criminal conduct
-- Two for rebellion
-- One for "conduct unbecoming" (a catch-all)
-
-Attainder is devastating. The house loses:
-
-- Noble rank and privileges
-- Territorial jurisdiction
-- Commercial licences (which revert to the Throne for redistribution)
-- Court access
-- Often, personal assets (depending on the specific judgement)
-
-Former nobles become commoners. Their descendants may, theoretically, rise again—but the social stigma is profound.
+It is rare, and it is real. In the twenty-three years since the Banking War, fourteen houses have been attainted—seven for bankruptcy, four for criminal conduct, two for rebellion, one for the catch-all of "conduct unbecoming." The first archducal attainder in two centuries fell in this period, on House Kraeven, and its message was received throughout the aristocracy: rank is no shield. Every house, in its quiet hours, runs the same arithmetic Kraeven failed. See [House Kraeven](houses/house-kraeven.md).
 
 ### Elevation
 
-New houses can be created, though this is uncommon.
+The door opens inward, too, though seldom. New houses are created by royal grant (rare, for extraordinary service), by purchase (occasional, baronial only—wealth can buy the bottom rung), by marriage (rare), and by commercial triumph so spectacular the Throne cannot ignore it (very rare). Most new creations are baronial; climbing higher takes generations of sustained success. The ladder is genuine. It is also, for almost everyone, theoretical: a trillion-strong population, and a few new baronies a generation.
 
-Paths to nobility include:
+## The bind the Queen cannot manage: Valdorian
 
-|Path|Frequency|Character|
-|---|---|---|
-|Royal grant|Rare|Direct elevation for extraordinary service|
-|Purchase|Occasional|Sufficient wealth can buy baronial status|
-|Marriage|Rare|A commoner marrying into nobility may be ennobled|
-|Commercial triumph|Very rare|Spectacular success may attract royal notice|
+The honest market has produced an outcome it cannot honestly correct.
 
-Most new creations are baronial; elevation to higher ranks requires generations of demonstrated success.
+House **Valdorian** has won entertainment so thoroughly—roughly 35% of all Vega production, the largest private military in Vega space, chokepoints over the infrastructure rivals depend on—that it now approaches the power to defy the Throne itself. And it has done so *legitimately*. Valdorian has not failed; it cannot be attainted. It has broken no law; it cannot be charged. It has performed correct loyalty for thirty-one years under Duke Caelum; it offers no pretext. The very mechanism that disciplines every other house—you fail, you fall—has no purchase on a house that keeps winning.
 
----
+Queen Lysandra has declined every opportunity to clip Valdorian, calculating, probably rightly, that moving against a house that has done nothing wrong would shatter the legitimacy the whole system runs on. So she manages, and waits, and the house grows. It is the one problem her famous skill at management cannot touch, because it is not a problem of management. It is a problem of design: a market built to punish losers has no answer to a winner who wins too much. See [House Valdorian](houses/house-valdorian.md) and [Military](military.md).
 
-## The Court
+## The bind the Queen cannot manage: the empty cradle
 
-### Physical Location
+The succession is settled until, abruptly, it is not. Prince Caspian is the accepted heir, and his eventual accession is expected to be smooth. Caspian is also eighty-nine, childless, and has shown no interest whatever in becoming otherwise. The dynasty's continuation past him is, at present, a mathematical impossibility that no one at court will name aloud.
 
-The court sits at the **Radiant Court** complex on Lyra, the throne world. The complex includes:
-
-- The palace proper (royal residence and ceremonial spaces)
-- Administrative buildings (government functions)
-- Guest quarters (visiting nobles, diplomats)
-- The commercial exchanges (where house representatives conduct business)
-
-### Court Functions
-
-Attendance at court serves multiple purposes:
-
-**Political**: Nobles demonstrate loyalty, petition the monarch, form alliances, and observe rivals.
-
-**Commercial**: The exchanges facilitate deals between houses, and proximity to the Throne can influence royal decisions affecting commerce.
-
-**Social**: Court functions are where aristocratic culture is performed, relationships are maintained, and status is displayed.
-
-**Mandatory**: Certain functions require attendance; absence without excuse signals disloyalty.
-
-### The Social Season
-
-The court year is structured around formal events:
-
-| Event                  | Timing | Character                                         |
-| ---------------------- | ------ | ------------------------------------------------- |
-| The Ascension Ball     | 1, 1/1 | Celebrates the new year; full attendance expected |
-| The Commercial Review  | 5, 2/1 | Houses present annual reports; rankings published |
-| The Founder's Festival | 7, 1/1 | Commemorates the Throne's establishment           |
-| The Harvest Gala       | 9, 3/1 | Season's end; final major event                   |
-
-Between these anchors, smaller functions occur continuously. A noble house might attend dozens of events per month during peak season.
-
-### Precedence
-
-Who stands where, who speaks when, who enters first—precedence governs court interaction with exhausting specificity.
-
-Precedence is determined by:
-
-1. Rank (archducal before ducal, etc.)
-2. Seniority within rank (older houses before newer)
-3. Current commercial standing (quarterly rankings affect placement)
-4. Royal favour (which can override other factors)
-
-The interplay of these factors creates constant, low-level competition. A house rising in the commercial rankings may find itself placed ahead of older but declining rivals—a public signal of shifting status.
-
----
+The Throne can designate an heir; in practice the choice must be acceptable to the great houses, whose withdrawal of cooperation would make rule impossible. So beneath the settled surface, every archducal house has begun, very quietly, to game the generation after next—and the house best positioned for an uncertain succession is precisely the one already too large. The two binds are not separate. They are the same bind, asked twice.
 
 ## Administration
 
-### The Royal Ministries
+Day-to-day governance runs through professional ministries—the **Exchequer** (taxation, royal finances, commercial regulation), **Justice**, **Commerce** (licensing, market oversight), **External Affairs**, **Defence**, **Culture** (broadcasting regulation, patronage), and a **Reconstruction** ministry that is theoretically temporary and showing every sign of permanence. These posts are not noble preserves; competent commoners rise to senior roles, though the very top tends to go to minor nobility or royal appointees. The machinery of the Throne, like its stages and its luxuries, is largely operated by the unseen.
 
-Day-to-day governance operates through ministries staffed by a professional civil service:
-
-|Ministry|Portfolio|
-|---|---|
-|Exchequer|Taxation, royal finances, commercial regulation|
-|Justice|Courts, law enforcement, noble disputes|
-|Commerce|Trade regulation, licensing, market oversight|
-|External Affairs|Diplomacy, foreign relations|
-|Defence|Royal Fleet, military coordination|
-|Culture|Broadcasting regulation, artistic patronage|
-|Reconstruction|Post-war recovery (temporary, theoretically)|
-
-Ministry positions are not noble preserves. Competent commoners can rise to senior roles, though the very highest positions typically go to minor nobility or royal appointees.
-
-### Local Governance
-
-Within fiefdoms, noble houses govern as they see fit, subject to:
-
-- Royal law (which sets minimum standards)
-- Commercial regulations (which constrain certain practices)
-- Custom (which varies by region)
-
-A benevolent lord might provide excellent services; a negligent one might extract maximum revenue while investing nothing. The Throne intervenes only in extreme cases.
-
-### The Judiciary
-
-Noble disputes are heard by the **Court of Peers**—judges drawn from the nobility itself. Commoner cases go to ordinary courts staffed by professional magistrates.
-
-The system is not equal. Nobles judged by nobles tend to receive consideration their common subjects do not. But the court system functions, more or less, and outcomes are not entirely arbitrary.
-
----
+Within their fiefdoms, houses govern as they like, subject to royal law, commercial regulation, and custom. A benevolent lord provides excellent services; a negligent one extracts what he can and invests nothing; the Throne intervenes only at the extremes. Noble disputes go to the **Court of Peers**, where nobles are judged by nobles and receive, predictably, the consideration their common subjects do not; commoner cases go to ordinary magistrates' courts that function adequately and arbitrarily by turns. Justice, like the culture, attends most closely to the people it is made of.
 
 ## Politics
 
-### Factions
+The nobility is not monolithic. Factions form around shared industries (cooperation and conspiracy among competitors), adjacent territories, ideology (traditionalists against modernisers, expansionists against consolidators), and the old currents of marriage, friendship, and inherited enmity. The Queen plays these against one another with great skill, ensuring no coalition grows strong enough to threaten the Throne—the ordinary, manageable politics of court.
 
-The nobility is not monolithic. Factions form around:
+But the reconstruction has left the court less comfortable than a generation ago. Houses that weathered the war have grown fat on the assets of houses that did not; the survivors resent the profiteers; the Arrhenos debt is a standing humiliation; and a rising cohort of younger nobles, who never knew the pre-war prosperity, has begun to wonder aloud whether recovery will ever reach them. None of this is open conflict. All of it is the kind of resentment that, in a system this honest about winners and losers, eventually finds a winner to resent—and his name is Valdorian.
 
-**Commercial interests**: Houses in the same industry often cooperate (or conspire) against competitors.
+## The justification, weighed
 
-**Regional ties**: Houses with adjacent territories share concerns.
-
-**Ideological positions**: Traditionalists versus modernisers; expansionists versus consolidators.
-
-**Personal relationships**: Marriage alliances, old friendships, inherited enmities.
-
-The Queen manages these factions with care, balancing one against another, ensuring no coalition grows strong enough to threaten royal authority.
-
-### Current Tensions
-
-Post-war reconstruction has created winners and losers:
-
-- Houses that weathered the war well have expanded at rivals' expense
-- Houses still struggling resent those who profited from their misfortune
-- The Arrhenos financing creates dependencies some find humiliating
-- Younger nobles, who did not experience pre-war prosperity, question whether recovery will ever reach them
-
-These tensions have not produced open conflict. But the court's atmosphere is less comfortable than it was a generation ago.
-
-### The Succession Question
-
-Prince Caspian's eventual succession is expected but not guaranteed.
-
-Theoretically, the monarch designates an heir; practically, the choice must be acceptable to the great houses. A deeply unpopular heir might face opposition—not rebellion, exactly, but the withdrawal of cooperation that would make governance impossible.
-
-Caspian is acceptable. But he is also 89, has no children, and has shown no interest in producing any. The question of _his_ succession creates uncertainty that the court prefers not to discuss openly.
-
----
-
-## Notes
-
-The Vega system is not a democracy, does not pretend to be one, and would find the concept faintly absurd.
-
-The justification, such as it is, runs: commercial competition provides accountability that elections cannot. A house that fails to serve its subjects loses market share, loses revenue, loses standing, and eventually loses everything. The market disciplines more ruthlessly than voters ever could.
-
-Whether this is true, or merely convenient ideology, depends on who you ask.
+Vega's defence of itself is that commercial competition is a truer accountability than any ballot, and on its own terms the claim holds: the powerful here really are ruined for failure, routinely and without mercy, which is more than most aristocracies can say. The argument's silence is simply that it describes a contest of a few thousand families and calls it a society of one and a half trillion. The market is honest. It is the *count* that lies—the quiet assumption that the people who matter are the people in the game, and that the rest are weather. Whether that is accountability or only a very well-lit cruelty depends, as ever in Vega, on whether anyone is looking at you.
 
 ---
 
@@ -5380,352 +4709,75 @@ Whether this is true, or merely convenient ideology, depends on who you ask.
 
 # The Vega Commercial Throne: Media
 
-The entertainment and news industries that define Vega's galactic presence.
+Vega has no Bureau of Internal Harmony, no listeners, no disappearances. It has never needed them. A population watching the next episode is not building barricades, and a population that trusts the news is not hunting for another source. The Throne governs one and a half trillion people with content, and it is the most effective instrument of rule in human space precisely because almost no one experiences it as one. The Mandate spends fortunes making its subjects feel watched; Vega spends rather more making its audience feel entertained, and gets a quieter society for the money.
 
-## Entertainment Industry
+This is the part of Vega that reaches everyone—the export that travels further than its ships, its goods, or its name. It comes in two kinds: the entertainment that fills the days, and the news that is trusted to tell the truth. Both are made by houses, for profit, and both do political work no one quite admits to.
 
-### Scale
+## Entertainment
 
-|Metric|Value|
-|---|---|
-|Annual revenue|~800 billion quid|
-|Employment|~40 million direct; ~200 million indirect|
-|Active productions|Thousands|
-|Distribution reach|Most of human space|
+| Metric | Value |
+|--------|-------|
+| Annual revenue | ~800 billion quid |
+| Employment | ~40 million direct; ~200 million indirect |
+| Active productions | Thousands |
+| Reach | Most of human space |
 
-Entertainment is not merely an industry in Vega; it is the industry around which society organises.
+The flagship format is the **serialised drama**—narratives running for years or decades, built to make audiences care. _The Amber Throne_ is in its sixty-seventh season, has outlived its original creators, and has put a phrase into Trade Tongue: to "do an Amber Throne" is to navigate a tangled situation with strategic patience. A prestige season costs fifty to a hundred million quid and forty episodes, and earns it back several times over in licensing and merchandise. Around the serials orbit the rest: music built for **live performance** and relentless touring (the Core, the Mandate circuit, the Freehold run, the Drift stops), the growing trade in **immersive** formats, and the great spectacles—the Crown Tournament, the Artistic Olympiad—where noble houses sponsor competitors and bask in their wins.
 
-### Serialised Drama
+Mandate citizens devour Vega serials the Bureau cannot quite bring itself to ban; Freehold miners hum Vega songs; Drift flotillas trade Vega recordings hand to hand. The Throne's cultural reach runs far past its political one, and the production of it concentrates in one house. **Valdorian** controls perhaps 35% of all Vega entertainment through three studios—Radiant (prestige drama), Cascade (music), Eventide (immersive)—a concentration without precedent and one of the two things keeping the Queen awake.
 
-The flagship format: narrative productions running for years or decades, building audiences through long-term character investment.
+| Studio | House | Specialisation |
+|--------|-------|----------------|
+| Radiant Productions | Valdorian | Prestige serialised drama |
+| Cascade Entertainment | Valdorian | Music, touring, live events |
+| Eventide Productions | Valdorian | Immersive entertainment |
+| Meridian Broadcasting | Meridian | News, documentary, analysis |
+| Starfire Studios / Stellar Networks | Royal (direct) | General entertainment; the royal news arm |
+| Phoenix Studios | Cassiline | Lifestyle, fashion-adjacent content |
+| Crimson Theatre | Independent consortium | Theatrical production |
 
-#### Structure
+See [House Valdorian](houses/house-valdorian.md) and [Stellavista](locations/stellavista.md).
 
-A major serial involves:
+### The cost of the content
 
-- **Writers' rooms**: Teams developing storylines across seasons
-- **Production staff**: Directors, designers, technical crew
-- **Cast**: Principal performers plus rotating supporting roles
-- **Post-production**: Editing, effects, music, finalisation
+The serials are about beautiful people leading enviable lives. They are made by people who are neither, arranged in a pyramid as steep as anything in Vega.
 
-Productions are capital-intensive. A prestige serial might cost 50–100 million quid per season, with seasons running 40 episodes.
+| Level | Numbers | Conditions |
+|-------|---------|------------|
+| Stars | Hundreds | Excellent; real negotiating power |
+| Working professionals | Tens of thousands | Steady, decent |
+| Aspirants | Hundreds of thousands | Poor; ferocious competition |
+| Support staff | Millions | Variable; the invisible majority |
 
-#### Example: _The Amber Throne_
+The industry *needs* this shape—many candidates to yield few successes—and the human cost is written off as the price of the product. Talent is signed, developed, used, and dropped; a face beloved this season is gone the next, replaced from an inexhaustible supply of the hopeful. The guilds—Performers', Writers', Technical, Musicians'—enforce minimum standards and arbitrate credit, and can do nothing about the economics; houses tolerate them because a functional guild reduces friction, and would crush one that reached past that. The precarity is not a flaw the industry hides. It is part of the spectacle: nothing makes a star shine like the visible crowd of those who didn't make it. See [Stellavista](locations/stellavista.md) and [Culture](culture.md).
 
-Currently in its 67th season, _The Amber Throne_ follows a fictional noble house through centuries of intrigue. The production has:
+## News
 
-- Outlived its original creators
-- Employed thousands of performers across its run
-- Generated merchandise revenue exceeding production costs
-- Become cultural shorthand throughout human space
+Here is Vega's strangest achievement: its journalism is among the most trusted in human space, and the trust is earned.
 
-When people across the galaxy reference "doing an Amber Throne," they mean navigating complex political situations with strategic patience. The phrase has entered Trade Tongue.
+The reason is structural. Vega's news houses are commercial, not political; they sell information to audiences who want it accurate, and competition therefore rewards truth-telling, because a house caught lying loses the only thing it sells. House **Meridian**—~40% of Vega news consumption, bureaux in every major system, four and a half centuries of investment in credibility—is the purest case: when a Meridian correspondent reports something, human space believes it, and that belief is the house's whole asset. See [House Meridian](houses/house-meridian.md).
 
-#### Audience Cultivation
+### Free except where it counts
 
-Serials build audiences deliberately:
+The trust is real and carefully bounded, and the boundary is the most revealing thing Vega media draws.
 
-|Strategy|Implementation|
-|---|---|
-|Accessibility|Early seasons require minimal context|
-|Complexity|Later seasons reward long-term viewers|
-|Community|Discussion spaces foster investment|
-|Merchandise|Products extend engagement beyond viewing|
-|Events|Live gatherings (virtual and physical) strengthen loyalty|
-
-The goal is not merely viewership but **emotional investment**—audiences who care about characters, discuss developments, defend the production against critics, and consume associated products.
-
-### Music
-
-The second major entertainment format.
-
-#### Live Performance
-
-Vega prioritises live performance over recording. A musician's primary revenue comes from:
-
-- Concert appearances
-- Festival performances
-- Private events (corporate, aristocratic)
-- Residencies at prestigious venues
-
-Recording exists but is considered promotional—a way to build audiences who then attend performances.
-
-#### Touring
-
-Successful musicians tour extensively:
-
-|Circuit|Character|
-|---|---|
-|The Core (Vega system)|Home performances; familiar audiences|
-|The Mandates Circuit|Massive audiences; high security needs|
-|The Freehold Run|Rougher venues; enthusiastic crowds|
-|Drift Community stops|Intimate shows; premium fees|
-
-Touring is lucrative but exhausting. Performers may spend years away from home, moving between systems on schedules optimised for profit rather than human wellbeing.
-
-### Immersive Entertainment
-
-Interactive experiences blending narrative with audience participation.
-
-#### Forms
-
-|Type|Character|
-|---|---|
-|Theatrical immersion|Audiences move through story spaces|
-|Interactive serial|Viewers influence storyline development|
-|Game-narrative hybrids|Competitive elements within dramatic frameworks|
-|Reality constructions|Documented "real" situations, edited for drama|
-
-Immersive entertainment is growing. The technology improves continuously; audiences seem to want deeper engagement than passive viewing provides.
-
-### Sports and Competition
-
-Organised spectacle around competitive activities.
-
-#### Major Events
-
-|Event|Character|
-|---|---|
-|The Crown Tournament|Multi-sport championship; annual|
-|The Artistic Olympiad|Performance competition; every four years|
-|The Racing Circuit|Vehicle competition across multiple worlds|
-|The Grand Strategy Championship|Mind sports; strategy gaming|
-
-Sporting events generate significant revenue through broadcast rights, attendance, gambling, and sponsorship. Noble houses often own teams or sponsor competitors; success reflects on the house.
-
----
-
-## News and Journalism
-
-### The Paradox
-
-Vega journalism is trusted precisely because it is commercial.
-
-The explanation: news houses compete for audiences. Audiences value accuracy. Therefore, houses that consistently deliver accurate reporting outcompete those that don't.
-
-This logic holds for external affairs—events in the Mandate, Freeholds, Drift communities, and elsewhere. Vega journalists have no stake in foreign outcomes; they can report what they observe without pressure to favour particular narratives.
-
-The logic has limits. Coverage of internal Vega affairs is more careful.
-
-### House Meridian
-
-The dominant news producer.
-
-|Metric|Value|
-|---|---|
-|Founded|3412 C|
-|Market share|~40% of Vega news consumption|
-|Employees|~80,000|
-|Bureaux|Every major system in human space|
-
-Meridian built its position on reliability. When a Meridian correspondent reports something, audiences believe it. This reputation is the house's primary asset; everything else—facilities, equipment, staff—can be replaced.
-
-The current Lord Meridian, **Castor Meridian**, is 78 and has led the house for thirty years. He is known for:
-
-- Protecting journalists from external pressure
-- Resisting government requests for favourable coverage
-- Occasionally publishing stories that damage powerful interests
-
-His independence makes him enemies. It also makes him essential—a Throne that silenced Meridian would lose the credibility Vega journalism provides.
-
-### Stellar Networks
-
-The royal house's media arm.
-
-Stellar covers news alongside entertainment production. Its journalism is:
-
-- Professional and competent
-- Careful about royal family coverage
-- More willing to align with Throne interests than Meridian
-- Viewed with mild scepticism by sophisticated audiences
-
-Stellar is not propaganda. But it is not entirely independent either.
-
-### Coverage Norms
-
-What Vega journalism covers well:
-
-|Topic|Treatment|
-|---|---|
-|External politics|Clear, accurate, contextualised|
-|Business and commerce|Detailed, analytical|
-|Cultural events|Comprehensive|
-|Scandal (foreign)|Thorough|
-
-What Vega journalism handles carefully:
-
-|Topic|Treatment|
-|---|---|
-|Royal family|Respectful; negative stories are rare|
-|Inter-house disputes|Cautious; sources may be unreliable|
-|Labour conditions|Minimal coverage unless dramatic|
-|Scandal (domestic nobles)|Innuendo rather than explicit accusation|
-
-What Vega journalism largely ignores:
-
-|Topic|Treatment|
-|---|---|
-|Common life|Not newsworthy|
-|Structural critique|Outside Overton window|
-|Historical controversies|Deemed resolved|
-
-### Foreign Bureaux
-
-Vega maintains journalist presence throughout human space:
-
-|Location|Bureau Size|Character|
+| Vega journalism covers well | …handles carefully | …simply does not see |
 |---|---|---|
-|Tiamming (Mandate)|~500|Major presence; covers Imperial politics|
-|Arrhenos|~100|Financial coverage; smaller cultural presence|
-|Synthesis (Neo-Solar)|~50|Technology and society coverage|
-|Major Drift Havens|~30 each|Roving correspondents|
-|Frontier systems|Variable|Stringers and freelancers|
+| External politics (Mandate, Freeholds, Drift) | The royal family (respectful; negatives rare) | Common life (not "newsworthy") |
+| Business and commerce | Inter-house disputes (cautious) | Structural critique (outside the frame) |
+| Foreign scandal (thorough) | Domestic noble scandal (innuendo, not accusation) | Labour conditions (unless dramatic) |
 
-These bureaux operate with varying degrees of freedom. Mandate authorities monitor foreign journalists; Arrhenos is entirely open; Drift communities welcome anyone willing to pay for passage.
+The pattern is exact: the lens is clear-eyed on everything the houses have no stake in, and narrows precisely as it nears home. The seam shows most at the Throne itself, where **Prince Octavian** runs the royal news arm—**Stellar Networks**, professional, competent, and never quite willing to embarrass the family that owns it. Queen Lysandra is scrupulous never to be *seen* directing the news, because a Throne visibly steering it would forfeit the credibility that makes it useful; tolerating Meridian's independence is cheaper than controlling it, and buys more. And note the third column, the unwritten one: the lives of the trillion are not censored out of the news. They were simply never news. The unseen are not hidden. They are off-camera, which in Vega is the same thing.
 
----
+## The foreign hand
 
-## Industry Structure
+Not all of Vega's media is Vega's. **Blackwell Media**, a subsidiary of the Sable Cartel, has held a presence in the ecosystem since before the Banking War, and the great houses are unwise to dismiss it as a minor competitor. Its outlets are modest and its content unremarkable, which is rather the point: a media operation is a listening post, a channel, and a lever, and the Cartel has never owned one for the advertising. In a polity that rules by narrative, a quiet foreign stake in the narrative is worth more than a fleet—and the Cartel is content, as ever, to be underestimated. See the [Sable Cartel](../sable-cartel/index.md).
 
-### The Studios
+## Media as government
 
-Production entities organise Vega entertainment:
+Assemble the pieces and Vega's rule comes clear. The entertainment fills the trillion's attention and gives them a shared world to inhabit as spectators. The news hands them a reality they can trust, inside limits drawn so smoothly as to be invisible. The Ministry of Culture regulates broadcasting and disburses patronage, keeping the apparatus aligned with the Throne without an order crude enough to notice. There is no censor's office worth the name, because there is no need for one: a people given fine entertainment and trustworthy-enough news, and shown their own lives nowhere in either, do not generally rise.
 
-#### Major Studios
-
-|Studio|House Affiliation|Specialisation|
-|---|---|---|
-|Radiant Productions|Valdorian|Prestige serialised drama|
-|Cascade Entertainment|Valdorian|Music, touring, live events|
-|Starfire Studios|Royal (direct)|General entertainment|
-|Meridian Broadcasting|Meridian|News, documentary, analysis|
-|Phoenix Studios|Cassiline|Lifestyle, fashion-adjacent content|
-|Eventide Productions|Valdorian|Immersive entertainment|
-|Crimson Theatre|Independent consortium|Theatrical production|
-
-House Valdorian's dominance is notable—three major studios, controlling perhaps 35% of entertainment revenue. This concentration is recent; Valdorian acquired struggling competitors during the Banking War recovery.
-
-#### Independent Productions
-
-Not all entertainment comes from major studios. Independent productions serve niches:
-
-- Regional content for local audiences
-- Experimental formats testing new approaches
-- Prestige projects with limited commercial appeal
-- Foreign-focused content for external markets
-
-Independents face distribution challenges. Major studios control most pipelines; independents must negotiate access or find alternative channels.
-
-### Labour
-
-#### The Talent Pyramid
-
-|Level|Numbers|Conditions|
-|---|---|---|
-|Stars|Hundreds|Excellent; genuine negotiating power|
-|Working professionals|Tens of thousands|Good; steady employment|
-|Aspirants|Hundreds of thousands|Poor; fierce competition|
-|Support staff|Millions|Variable; depends on employer|
-
-The pyramid is steep. Stars at the top earn fortunes; the mass of aspirants earn little and may never break through. The industry requires this structure—it needs many candidates to find few successes—but the human cost is significant.
-
-#### Guilds
-
-Professional organisations regulate certain functions:
-
-|Guild|Function|
-|---|---|
-|Performers' Association|Actor representation; minimum standards|
-|Writers' Collective|Writer protections; credit arbitration|
-|Technical Guild|Crew standards; safety regulations|
-|Musicians' Society|Performance contracts; touring protocols|
-
-Guilds have limited power. They can enforce minimum standards and resolve disputes but cannot fundamentally alter industry economics. Houses tolerate them because functional guilds reduce friction; challenging them would create disruption.
-
-### Distribution
-
-Content reaches audiences through:
-
-|Channel|Character|
-|---|---|
-|Syndicated feeds|Master feeds carried by priority courier to partner hubs in major systems; rebroadcast locally on arrival, days fresh from Vega|
-|Licensed relay|Local partners retransmit to regional audiences|
-|Physical distribution|Media packages for connectivity-limited regions|
-|Touring|Live performances in external markets|
-
-Distribution rights are valuable. A house controlling the pipeline to Mandate audiences, for instance, can charge fees to any competitor wanting access.
-
-The post-war period disrupted distribution networks. Reconstruction has restored most capacity, but some routes remain degraded.
-
----
-
-## Cultural Influence
-
-### Soft Power
-
-Vega's media presence constitutes significant soft power:
-
-- Audiences throughout human space consume Vega content
-- Cultural references spread from Vega productions
-- Fashion and aesthetic trends originate in Vega
-- "Vega quality" remains a meaningful standard
-
-This influence does not translate directly into political power. The Throne cannot command the Mandate through entertainment exports. But it creates familiarity, shapes perceptions, and provides channels for communication that formal diplomacy cannot.
-
-### Critique
-
-Vega's cultural dominance attracts criticism:
-
-|Critique|Source|
-|---|---|
-|Cultural imperialism|Mandate nationalists; regional identity movements|
-|Superficiality|Intellectual critics across polities|
-|Class propaganda|Labour movements; egalitarian ideologies|
-|Moral corruption|Religious conservatives (various traditions)|
-
-The Throne does not much care. The content sells; the influence serves interests; complaints from those who cannot compete are noted and dismissed.
-
----
-
-## Current Challenges
-
-### Competition
-
-Other polities have developed entertainment industries:
-
-- Mandate productions have improved significantly
-- Freehold content serves underserved audiences
-- Independent producers reach niche markets
-
-Vega remains dominant but less unassailable than before the war.
-
-### Technology
-
-New production and distribution technologies create opportunities and threats:
-
-- AI-assisted production reduces costs but threatens jobs
-- Direct distribution challenges established pipelines
-- Immersive formats require investment in new capabilities
-
-Houses that adapt will prosper; houses that don't will decline.
-
-### Labour Pressure
-
-Periodic organising efforts challenge industry practices:
-
-- Aspirant populations are desperate and thus hard to organise
-- Working professionals have more leverage but risk retaliation
-- Stars can afford principles but often prefer comfort
-
-The industry has absorbed previous challenges. Whether current conditions produce something different remains to be seen.
-
----
-
-## Notes
-
-The entertainment industry is not merely business. It is how Vega projects itself into human consciousness—the stories it tells about itself and the galaxy, the aesthetics it propagates, the desires it cultivates.
-
-Whether this cultural production serves humanity well is a question Vega does not ask. The content succeeds; success justifies itself.
+Outsiders call it cultural imperialism, superficiality, class propaganda; the Throne notes the complaints of those who cannot compete and dismisses them. The deeper truth is the one Vega never states. The cage is not locked, because it is not felt as a cage. It is felt as a screen—and on the screen, always, are the few thousand who matter, performing the charmed life for the trillion who watch and buy and are given, in the watching, something that feels enough like belonging to keep them in their seats.
 
 ---
 
@@ -5734,275 +4786,57 @@ Whether this cultural production serves humanity well is a question Vega does no
 
 # The Vega Commercial Throne: Military
 
-The Throne's military reflects its feudal-commercial character: a royal core supplemented by noble house forces, organised for defence rather than conquest.
+Vega built its forces to keep outsiders out, and the force that now matters most flies a house's colours rather than the Throne's. That sentence is the whole strategic situation. The Royal Fleet is a defensive instrument, deliberately so; the Throne has no wish to conquer anything, because garrisons subtract from commercial competitiveness and conquest pays worse than a hit serial. But a market that ruins its losers has, over thirty-one years, produced a winner—House Valdorian—whose private army has quietly become the question Vega's military cannot answer with doctrine.
 
-## Overview
-
-|Attribute|Value|
-|---|---|
-|Royal Fleet personnel|~3 million|
-|House retinue forces|~15 million (combined)|
-|Defence doctrine|Territorial; deterrence-focused|
-|Recent deployments|Banking War (concluded); reconstruction security|
-
-The Throne is not a military power in the Mandate sense. It does not project force across human space; it does not seek territorial expansion; it does not maintain the vast standing armies that conquest would require.
-
-What it maintains is sufficient force to deter aggression and protect commercial interests.
-
----
+| Attribute | Value |
+|-----------|-------|
+| Royal Fleet personnel | ~3 million |
+| House retinue forces | ~15 million combined |
+| Doctrine | Territorial; deterrence-focused; defensive by design |
+| Recent deployments | The Banking War (concluded); reconstruction security |
 
 ## The Royal Fleet
 
-### Composition
+The monarch's own force, around three million strong: a **Navy** of roughly 2.2 million crewing some two hundred combat vessels (system defence, force projection, the dull vital work of convoy escort), half a million **Marines** for boarding and ground capability, a quarter-million **Support**, and the fifty-thousand-strong **Royal Guard**. The Fleet organises into squadrons configured by task—patrol, escort, the rarely-deployed strike, and the purely **ceremonial**, which is not a joke in a culture where being seen to be powerful is most of being powerful.
 
-The monarch's direct military force:
+Naval service is professional and competitive, an avenue of advancement for ambitious commoners and a posting for minor nobility working the military and court hierarchies at once; the enlisted ranks draw from the commoner population and offer steady employment, technical training, and modest status. The **Royal Guard** is a thing apart—rigorous selection, service for life, loyalty to the Throne personally rather than to any house or institution. In a reign with no heir after Caspian, that last fact is studied at court more closely than anyone will admit.
 
-|Branch|Personnel|Role|
-|---|---|---|
-|Navy|~2.2 million|Space operations, system defence|
-|Marines|~500,000|Ship security, boarding operations, ground capability|
-|Guard|~50,000|Royal protection, special operations|
-|Support|~250,000|Logistics, maintenance, administration|
+## The house retinues
 
-### Naval Organisation
+Noble houses keep private forces—**retinues**—as privilege and obligation both: a house can protect its interests and parade its status, and must answer the royal summons when the Throne calls. Scale tracks rank and wealth, from an archducal house's combined-arms hundreds of thousands down to a baron's symbolic guard. They are not standardised; each house equips and trains to its own doctrine and budget, so that "the Vega military" is really the Royal Fleet plus several thousand private armies of wildly varying seriousness.
 
-The Fleet organises around **squadrons**—task forces of vessels configured for specific missions:
+Most are ceremonial or modest. One is not.
 
-|Squadron Type|Composition|Mission|
-|---|---|---|
-|Patrol|Light vessels|Routine security, anti-piracy|
-|Escort|Mixed|Commercial convoy protection|
-|Strike|Heavy vessels|Offensive capability (rarely deployed)|
-|Ceremonial|Historic vessels|Royal occasions, diplomatic functions|
+### Valdorian's army
 
-The Fleet maintains approximately 200 combat-capable vessels of various classes, plus hundreds of support and auxiliary craft.
+| Component | Strength |
+|-----------|----------|
+| Naval element | 40 vessels of various classes |
+| Ground forces | ~300,000 |
+| Security services | ~100,000 |
+| Support | ~150,000 |
 
-### Fleet Culture
+House Valdorian fields the largest non-royal military in Vega space, and it long ago passed the size any entertainment business could need. The house says the forces protect production facilities, distribution routes and talent; the arithmetic says otherwise, and everyone can do the arithmetic. Duke Caelum has been scrupulous—the retinue has never been turned against royal interests, loyalty has been performed correctly for three decades—but the *capability* now exists, and capability, in a system this honest about power, is its own kind of statement.
 
-Royal Fleet service is:
-
-- Professional (career military, not conscripts)
-- Competitive (advancement through demonstrated competence)
-- Political (officers navigate court relationships alongside military duties)
-
-Naval officers are often minor nobility or ambitious commoners seeking elevation. The Fleet is a path upward—distinguished service attracts royal notice.
-
-The enlisted ranks draw from commoner populations throughout Vega space. Service offers steady employment, technical training, and modest status. It is not glamorous, but it is secure.
-
-### The Royal Guard
-
-An elite force with dual functions:
-
-**Protection**: The Guard secures the monarch, the royal family, and designated installations. Guard units are present at the Radiant Court, aboard royal vessels, and at sensitive locations.
-
-**Special Operations**: Guard units conduct operations requiring discretion—intelligence gathering, counter-terrorism, actions the Throne prefers not to acknowledge publicly.
-
-Guard selection is rigorous; service is for life (or until honourable discharge). The Guard's loyalty is to the Throne personally, not to any house or institution.
-
----
-
-## House Retinues
-
-### The Feudal Obligation
-
-Noble houses maintain private military forces—**retinues**—as both privilege and obligation.
-
-The privilege: A house with armed forces can protect its interests, enforce its will within its fiefdoms, and demonstrate status through military display.
-
-The obligation: Retinues must answer royal summons. When the Throne requires military force, houses contribute proportionally.
-
-### Scale and Composition
-
-Retinue size varies by house rank and wealth:
-
-|House Rank|Typical Retinue|Character|
-|---|---|---|
-|Archducal|500,000–1,000,000|Full combined-arms capability|
-|Ducal|50,000–200,000|Significant force; specialised capabilities|
-|Comital|5,000–20,000|Company to regiment scale|
-|Baronial|500–2,000|Security force; symbolic military|
-
-Retinues are not standardised. Each house equips and trains its forces according to its own doctrine, budget, and preferences. The result is military diversity—some houses maintain cutting-edge forces; others field ceremonial units with limited combat capability.
-
-### House Valdorian's Retinue
-
-The largest non-royal military force in Vega space.
-
-|Component|Strength|
-|---|---|
-|Naval element|40 vessels of various classes|
-|Ground forces|~300,000|
-|Security services|~100,000|
-|Support|~150,000|
-
-Valdorian's military expansion has attracted attention. The house claims the growth reflects commercial needs—protecting entertainment production, securing distribution routes—but rivals note that the retinue now exceeds what commerce could possibly require.
-
-The Throne monitors the situation without yet taking action.
-
----
+The Throne watches and does not act, for the reason laid out in [Government](government.md): Valdorian has broken no law and failed no test, and moving against a house that has done nothing wrong would crack the legitimacy the whole order runs on. So the largest army in Vega grows under a house flag while the Queen calculates, and the deterrent Vega built against outsiders sits facing the wrong way. See [House Valdorian](houses/house-valdorian.md).
 
 ## Doctrine
 
-### Defensive Posture
-
-Vega military doctrine emphasises defence:
-
-- Protect the home system
-- Secure commercial routes
-- Deter aggression through demonstrated capability
-- Avoid entanglement in foreign conflicts
-
-The Throne has no territorial ambitions. Expansion would require military expenditure that would degrade commercial competitiveness; garrison forces would drain resources better invested in profitable enterprise.
-
-### Deterrence Logic
-
-The defensive posture works because potential aggressors face unfavourable calculations:
-
-- Vega's system defences are strong
-- The commercial disruption from war would damage attackers' economies (everyone consumes Vega media)
-- The Banking War demonstrated that Vega can survive and recover from conflict
-- No prize worth taking justifies the cost of taking it
-
-This logic held during the Banking War. The Sable Cartel's proxy forces damaged Vega significantly but could not hold territory or force political concessions. Eventually, both sides exhausted themselves and negotiated.
-
-### Commercial Protection
-
-The Fleet's primary peacetime mission is protecting commercial interests:
-
-- Escorting valuable shipments
-- Patrolling trade routes
-- Responding to piracy
-- Ensuring distribution network security
-
-This is not glamorous work. But it directly serves Vega's interests—commercial prosperity requires secure commerce.
-
----
+Vega doctrine is defensive and frankly commercial: hold the home system, secure the trade routes, deter aggression by making it unprofitable, and stay out of foreign wars. The deterrence works because the sums work against any attacker—Vega's system defences are strong, war would wreck the attacker's own access to the entertainment and goods everyone consumes, and the Banking War proved Vega can absorb a blow and recover. No prize is worth the price of taking it. In peacetime the Fleet's real job is escorting valuable cargo and chasing pirates: unglamorous, and exactly aligned with a state whose strength was always commercial rather than martial.
 
 ## The Banking War
 
-### Military Experience
+The Andromedan Banking War (3834–3839 C) was Vega's largest military experience in centuries, and it began as a financial quarrel—contested Andromedan-frontier assets, clever instruments turned to weapons—before escalating through **Sable Cartel** proxy forces into asset seizures, commerce raiding, and at last fleet actions in disputed systems. It was never existential; neither side sought the other's destruction, only advantage, concessions, the demonstration of resolve. It ended in a negotiated settlement arbitrated through Arrhenos, with both sides exhausted and both claiming a victory neither had quite won.
 
-The Andromedan Banking War (3834–3839 C) was Vega's most significant military engagement in centuries.
+The military lessons were ambiguous and instructive. The Fleet performed adequately, not brilliantly; the house retinues ranged from sharp to ornamental; the war showed that Vega *could* fight and would much rather not. The reforms since—fleet modernisation, better Fleet-retinue coordination, expanded logistics, enhanced external intelligence—continue within the limits the reconstruction debt allows. See the [Sable Cartel](../sable-cartel/index.md).
 
-The war began as financial conflict—competing claims on assets in the Andromedan frontier systems—and escalated through proxy forces, commercial warfare, and eventually direct military action.
+## The military as performance
 
-|Phase|Character|
-|---|---|
-|Financial warfare|Asset seizures, credit attacks, market manipulation|
-|Proxy conflict|Hired forces, deniable operations|
-|Commerce raiding|Attacks on shipping, distribution disruption|
-|Direct engagement|Fleet actions in disputed systems|
+In Vega even the armed forces are partly a show, and unembarrassed about it. Parades and ceremonies project power; uniforms and vessels are designed to look as good as they fight; warships appear in entertainment productions; the Guard provides a constant, photogenic royal presence. Soldiers are expected to look impressive as well as be effective, and the officer corps carries heavy noble representation—younger sons seeking careers, houses demonstrating loyalty through service, ambitious commoners climbing alongside them. It is a real military and a wing of the performance culture at once, which is true of almost everything in Vega.
 
-The war was not existential. Neither side sought the other's destruction. The goal was advantage—forcing concessions, seizing assets, demonstrating resolve.
+## Current posture
 
-### Outcome
-
-The war ended in negotiated settlement:
-
-- Territorial status largely unchanged
-- Asset claims adjudicated through neutral arbitration (Arrhenos)
-- Both sides exhausted
-- Both sides claiming victory (neither convincingly)
-
-The military lessons were ambiguous. The Fleet performed adequately but not brilliantly. House retinues varied in effectiveness. The war demonstrated that Vega could fight but preferred not to.
-
-### Post-War Adjustments
-
-The war prompted military reforms:
-
-|Reform|Implementation|
-|---|---|
-|Fleet modernisation|Equipment upgrades; new vessel classes|
-|Coordination protocols|Better integration between Fleet and retinues|
-|Reserve capacity|Expanded logistics and support infrastructure|
-|Intelligence|Enhanced monitoring of external threats|
-
-These reforms continue. The Throne has increased military spending modestly, though the reconstruction debt constrains options.
-
----
-
-## Current Posture
-
-### Deployment
-
-|Location|Force|Mission|
-|---|---|---|
-|Vega system|Fleet main body|Home defence|
-|Trade routes|Patrol squadrons|Commerce protection|
-|External stations|Guard detachments|Intelligence, diplomacy security|
-|Reconstruction zones|Engineering units|Infrastructure restoration|
-
-No significant combat deployments are ongoing. The Fleet trains, patrols, and maintains readiness without current active operations.
-
-### Threat Assessment
-
-The Throne assesses threats as:
-
-|Source|Assessment|
-|---|---|
-|Sable Cartel|Ongoing commercial rivalry; military threat low|
-|Mandate|No direct threat; mutual economic interests|
-|Freehold raiders|Nuisance; handled by patrol forces|
-|Internal instability|Low probability; monitored|
-
-The threat environment is relatively benign. This may not last—the Mandate's Yansieve troubles could spread instability; Cartel ambitions remain unclear—but current conditions permit reduced military alertness.
-
-### House Monitoring
-
-The Throne watches house retinue developments:
-
-- Valdorian's expansion is the primary concern
-- Other houses have made modest increases
-- No house has challenged royal military supremacy
-- The balance remains stable
-
-Maintaining this balance is a royal priority. A house that grew too strong militarily would threaten the entire system.
-
----
-
-## Military Culture
-
-### Professionalism
-
-Vega military forces are professional—career soldiers rather than conscripts or militia.
-
-This produces:
-
-- Technical competence (training and retention)
-- Institutional continuity (experienced leadership)
-- Limited numbers (professionals are expensive)
-- Distance from civilian life (soldiers are a distinct class)
-
-### Spectacle
-
-Military display serves cultural functions:
-
-- Parades and ceremonies demonstrate power
-- Uniforms and equipment are aesthetically designed
-- Naval vessels appear in entertainment productions
-- Guard units provide visible royal presence
-
-The military is part of Vega's performance culture. Soldiers are expected to look impressive as well as fight effectively.
-
-### Noble Officers
-
-The officer corps includes significant noble representation:
-
-- Younger sons seeking careers
-- Houses demonstrating loyalty through service
-- Ambitious commoners alongside aristocrats
-
-Noble officers navigate military and court hierarchies simultaneously. Success in one arena supports success in the other.
-
----
-
-## Notes
-
-The Throne's military is adequate to its purposes: defence, commercial protection, and the maintenance of internal order.
-
-It is not adequate for conquest, hegemony, or sustained power projection. This is by design. Vega's strength is commercial, not military; military investment beyond defensive needs would subtract from commercial competitiveness.
-
-Whether this calculation remains correct if the strategic environment shifts is an open question.
+No significant combat is ongoing; the Fleet trains, patrols, escorts, and maintains readiness. The external threat board is benign—the Cartel a commercial rival of low military menace, the Mandate no direct threat and a vast customer, Freehold raiders a patrol-able nuisance—and might not stay so if the Mandate's Yansieve troubles spill outward or the Cartel's ambitions sharpen. The internal board is the one that matters. The Throne's standing military priority is not any foreign power but the balance among its own houses, and that balance now has Valdorian's thumb on it. Maintaining it is the quiet work of the reign; whether it can be maintained indefinitely is the question no doctrine in the manual was written to answer.
 
 ---
 
@@ -6011,105 +4845,45 @@ Whether this calculation remains correct if the strategic environment shifts is 
 
 # The Vega Commercial Throne: Houses
 
-The noble houses that constitute Vega's aristocracy.
+A Vega house is not a family that happens to own businesses. It is a business that happens to be a family, and it is judged every quarter. This is the thing that makes Vega's aristocracy unlike any other in human space: the rank is real and hereditary, and it can be taken away for losing money. The houses are the players in the savage little market the Throne calls a society—and they are perhaps three and a half thousand families out of one and a half trillion people, the seen among the seen.
 
-## House Hierarchy
+## The hierarchy
 
-|Rank|Count|Character|
-|---|---|---|
-|Royal House|1|The monarch's family; supreme|
-|Archducal Houses|7|The great houses; commercial empires|
-|Ducal Houses|~40|Major players; significant presence|
-|Comital Houses|~400|Mid-tier; specialised niches|
-|Baronial Houses|~3,000|Minor nobility; single enterprises|
+| Rank | Count | Character |
+|------|-------|-----------|
+| Royal House | 1 | The monarch's family; supreme |
+| Archducal Houses | 7 | The great houses; commercial empires (one seat now empty) |
+| Ducal Houses | ~40 | Major players; significant presence |
+| Comital Houses | ~400 | Mid-tier; specialised niches |
+| Baronial Houses | ~3,000 | Minor nobility; single enterprises or localities |
 
-## The Archducal Houses
+Rank is not a resting place. Every house holds its standing on commercial performance, and a house that fails far enough is stripped of rank and name by **attainder**; a commoner of sufficient wealth or spectacular success may, rarely, be raised from below. The ladder runs both ways, and both directions are used. See [Government](../government.md).
 
-The seven great houses that dominate Vega commerce and politics:
+## The seven archducal houses
 
-|House|Specialisation|Status|Head|
-|---|---|---|---|
-|Valdorian|Entertainment media|Ascendant|Duke Caelum Valdorian|
-|Meridian|News and journalism|Stable|Lord Castor Meridian|
-|Cassiline|Luxury fashion|Recovering|Duchess Isadora Cassiline|
-|Therenne|Finance, jewellery|Strong|Duke Vasilis Therenne|
-|Corvane|Manufacturing|Stable|Duke Marcus Corvane|
-|Aurelian|Traditional crafts|Declining|Duchess Helena Aurelian|
-|Kraeven|Finance (former)|Fallen|(Attainted)|
+The great houses sit at the top of the market. Six are occupied; one seat stands deliberately empty.
 
-## House Dynamics
+| House | Specialisation | Standing | Head |
+|-------|----------------|----------|------|
+| [Valdorian](house-valdorian.md) | Entertainment media | Ascendant | Duke Caelum Valdorian |
+| [Meridian](house-meridian.md) | News, journalism | Stable | Lord Castor Meridian |
+| Therenne | Finance, jewellery | Strong | Duke Vasilis Therenne (also Lord Chamberlain) |
+| Corvane | Manufacturing | Stable | Duke Marcus Corvane |
+| [Cassiline](house-cassiline.md) | Luxury fashion | Recovering | Duchess Isadora Cassiline |
+| Aurelian | Traditional crafts | Declining | Duchess Helena Aurelian |
+| [Kraeven](house-kraeven.md) | Finance (former) | **Attainted** | — |
 
-### Post-War Shifts
+## The churn
 
-The Banking War (ended 3839 C) reshuffled house standings:
+The Banking War was the great reshuffling, and the standings still carry its marks. The **winners** compounded their luck into dominance: Valdorian bought its rivals' wreckage and rose; Meridian's reliability became priceless when nothing else could be trusted; Corvane supplied the reconstruction. The **losers** are still paying: Kraeven collapsed and was dissolved; Cassiline was gutted and recovers by inches; Aurelian drifts down the rankings, a craft house in an age that has stopped buying craft. The **steady**—Therenne, and the royal house itself—simply held, which in a market this brutal is its own achievement.
 
-**Winners:**
+The result is a court less comfortable than a generation ago, and an arithmetic everyone is running: the houses that profited resent being resented; the houses that suffered resent the profiteers; and all of them, in private, watch Valdorian grow and wonder how the system corrects a winner it has no mechanism to correct. See [House Valdorian](house-valdorian.md).
 
-- Valdorian expanded through acquisitions
-- Meridian's news services were in demand
-- Corvane supplied reconstruction
+## What a house is, structurally
 
-**Losers:**
+A great house is a conglomerate wearing a coronet. Beneath the Lord or Lady and the designated heir sit a family council, the house offices that run the administration, the commercial enterprises that generate the revenue everything depends on, a private **retinue** under arms, and a class of **retainers**—the non-noble staff whose proximity to nobility is itself a kind of status, families serving the same house across generations. The aristocratic and the commercial are not two faces of the house; they are the same face. Status here is bought with revenue and spent on the display that secures more revenue, around and around, for as long as the quarterly numbers hold.
 
-- Kraeven collapsed entirely
-- Cassiline suffered heavily
-- Aurelian lost market position
-
-**Unchanged:**
-
-- Therenne weathered the war
-- The royal house maintained position
-
-### Current Tensions
-
-House relations are shaped by:
-
-- Valdorian's growing dominance
-- Cassiline's resentment of Valdorian
-- The royal house's balancing act
-- Uncertainty about succession (both royal and within houses)
-- Arrhenos debt creating dependencies
-
-## House Structure
-
-### Typical Organisation
-
-A major house includes:
-
-|Element|Function|
-|---|---|
-|Lord/Lady|Head of house; ultimate authority|
-|Heir|Designated successor|
-|Family council|Advisory; major decisions|
-|House offices|Administrative management|
-|Commercial enterprises|Revenue generation|
-|Retinue|Military forces|
-|Retainers|Personal service staff|
-
-### Commercial Integration
-
-Houses are not merely aristocratic families—they are commercial conglomerates:
-
-- Brands owned directly
-- Studios and production companies
-- Distribution networks
-- Real estate (estates, urban properties)
-- Financial instruments
-
-The commercial and aristocratic dimensions are inseparable. Status derives from commercial success; commercial success enables aristocratic display.
-
----
-
-## Documented Houses
-
-- House Valdorian — Entertainment media dominance
-- House Meridian — News and journalism
-- House Cassiline — Luxury fashion, recovering from war
-- House Kraeven — Fallen house, cautionary tale
-
----
-
-_Additional houses to be documented as developed._
+That is the whole of it, and the whole of Vega: a few thousand families performing excellence for their lives, in front of a trillion who are not keeping score because they were never told they could play.
 
 ---
 
@@ -6118,268 +4892,45 @@ _Additional houses to be documented as developed._
 
 # House Cassiline
 
-The luxury fashion house, still recovering from the Banking War.
+There are two ways for a Vega house to fall: Kraeven's way, in a single catastrophic season, and Cassiline's way, by inches, over decades, while still making the finest thing in its market. Cassiline is dying honestly—not destroyed, not disgraced, simply being out-competed in slow motion—and it is the cruellest thing the market ever says, because it says it so quietly that the house can almost pretend it isn't being said at all.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Rank | Archducal |
+| Head | Duchess Isadora Cassiline |
+| Specialisation | Luxury fashion, textiles |
+| Status | Recovering (slowly) |
+| Employees | ~60,000 |
+| Annual revenue | ~35 billion quid |
 
-|Attribute|Value|
-|---|---|
-|Rank|Archducal|
-|Head|Duchess Isadora Cassiline|
-|Specialisation|Luxury fashion, textiles|
-|Status|Recovering|
-|Employees|~60,000|
-|Revenue|~35 billion quid annually|
+For centuries "Cassiline" simply *was* Vega fashion—the house invented the aesthetic vocabulary the whole culture still calls Vega style. Then came the war.
 
-House Cassiline defined Vega fashion for centuries. The Banking War damaged that position; recovery has been slow and painful.
+## The wound that won't close
 
-## History
+The Banking War struck Cassiline disproportionately: facilities damaged in contested systems, distribution severed, inventory lost, and—worst, because hardest to rebuild—its best designers gone, some to rivals offering stability, some of them to Valdorian, a betrayal the house has not forgiven. Luxury consumption collapsed in wartime and the post-war austerity prolonged the fall, and brand prestige, once visibly weakened, proved far harder to restore than any factory. Twenty-three years on, Cassiline has recovered its production capacity and not its position. The haute division, **Cassiline Couture**, runs at half its former output—two seasonal collections where there were four, two thousand bespoke clients where there were five thousand, two hundred designers where there were five hundred. The premium line, **Silken Thread**, still earns the house's bread, and now does it against **Valdorian Lifestyle**, which entered premium fashion during the war with scale Cassiline cannot match. See [The Manufactories](../locations/manufactories.md).
 
-### Golden Era
+## Duchess Isadora Cassiline
 
-From 3500 C through the war's outbreak, Cassiline was ascendant.
+| Attribute | Value |
+|-----------|-------|
+| Age | 62 (presents late 30s) |
+| Tenure | Since 3847 C |
+| Style | Determined; sometimes inflexible |
+| Reputation | Capable but embattled |
 
-The house developed:
+Isadora inherited a struggling house from a father who died without resolving the war's aftermath, and has held the line against further decline by betting everything on traditional quality—rejecting the compromises that might raise volume, defending the brand against dilution, refusing Valdorian's repeated approaches, and waiting for excellence to be rewarded as she believes it must be. Her critics call her rigid, in love with a past the market has left behind. Her supporters call brand identity the one asset worth protecting. Both may be right; that is the trap. Her brother and heir, **Lord Cassian Cassiline**, who runs the house's fashion-content arm (Phoenix Studios), wants the opposite—volume, accessibility, branded content—and the siblings' disagreement about whether to chase the market or outlast it is the house's real, unresolved argument, conducted in private and known to the whole industry.
 
-- The aesthetic vocabulary still considered "Vega style"
-- Production techniques that competitors could not match
-- Brand prestige exceeding any rival
-- Cultural influence shaping fashion across human space
+## The slow vice
 
-"Cassiline" was synonymous with elegance. To wear Cassiline was to announce taste and wealth simultaneously.
+Two forces tighten on the house, and neither is dramatic enough to make the news.
 
-### The War's Impact
+The first is **debt**. Cassiline carries roughly two hundred billion quid in Arrhenos reconstruction loans, fifteen billion a year to service, with payoff projected for 3890 C if nothing goes wrong—and the burden constrains everything that might reverse the decline: new capacity, talent, marketing, the acquisitions a stronger house would make. The house is solvent. It is also unable to move.
 
-The Banking War struck Cassiline disproportionately.
+The second is **Valdorian**, which has approached about acquisition more than once and will approach again. The logic is plain on both sides: Cassiline's prestige would complete Valdorian Lifestyle, and Cassiline's weakness is exactly the kind of opportunity Valdorian was built to take; and acquisition would mean, for Cassiline, the end of the family's independence and the absorption or quiet discarding of an identity centuries old. Isadora has refused each time. Whether she can keep refusing as the vice tightens is the question her whole reign now turns on. See [House Valdorian](house-valdorian.md).
 
-**Direct losses:**
+## A house sliding out of the light
 
-- Production facilities damaged in contested systems
-- Distribution networks disrupted
-- Key personnel lost to competitors offering stability
-- Inventory destroyed or seized
-
-**Indirect losses:**
-
-- Luxury consumption collapsed during wartime
-- Post-war austerity continued the decline
-- Brand prestige suffered from visible weakness
-
-The house survived—archducal status prevented complete collapse—but emerged diminished.
-
-### Recovery Struggles
-
-Twenty-three years after the war's end, Cassiline has not returned to pre-war prominence.
-
-**Progress:**
-
-- Production capacity restored
-- Distribution networks rebuilt
-- New collections released to moderate acclaim
-
-**Remaining challenges:**
-
-- Brand prestige not fully recovered
-- Market share lost to Valdorian's Lifestyle division
-- Debt to Arrhenos constraining investment
-- Leadership questions
-
-## Leadership
-
-### Duchess Isadora Cassiline
-
-The current head assumed leadership in 3847 C, succeeding her father who died without fully addressing the war's aftermath.
-
-|Attribute|Value|
-|---|---|
-|Age|62|
-|Appearance|Late 30s|
-|Style|Determined; sometimes inflexible|
-|Reputation|Capable but embattled|
-
-Isadora inherited a struggling house and has managed to prevent further decline. Whether she can achieve actual recovery is uncertain.
-
-Her approach emphasises:
-
-- Return to traditional quality (rejecting compromises her predecessors made)
-- Brand protection (aggressive action against dilution)
-- Independence (resisting Valdorian acquisition approaches)
-- Patience (recovery takes time)
-
-Critics suggest she is too rigid, too focused on past glory, too unwilling to adapt. Supporters argue that preserving brand identity is precisely what the house needs.
-
-### Lord Cassian Cassiline
-
-The Duchess's younger brother and designated heir.
-
-Cassian manages the house's fashion-adjacent entertainment content—the Phoenix Studios operation. He is more willing than his sister to compromise, more interested in commercial results than artistic purity.
-
-The siblings disagree about the house's direction:
-
-- Isadora wants to rebuild traditional prestige
-- Cassian wants to pursue volume and accessibility
-
-The disagreement has not become public conflict, but tension is known within the industry.
-
-### The Talent Exodus
-
-The war prompted many of Cassiline's best designers to leave.
-
-Some went to competitors (including Valdorian, to the house's lasting resentment). Others established independent operations. Still others left the industry entirely.
-
-Rebuilding the creative team has been difficult. The house recruits actively but struggles to attract talent who can command terms elsewhere.
-
-## Commercial Operations
-
-### Cassiline Couture
-
-The haute division—bespoke fashion for wealthy clients.
-
-Couture is where brand prestige is created. The collections showcased here establish trends that filter down to accessible lines.
-
-Current output is reduced from pre-war levels:
-
-|Metric|Pre-War|Current|
-|---|---|---|
-|Seasonal collections|4|2|
-|Bespoke clients|~5,000|~2,000|
-|Design staff|~500|~200|
-
-The reduction reflects both financial constraints and talent shortage.
-
-### Silken Thread
-
-The premium division—high-quality ready-to-wear.
-
-Silken Thread generates most of the house's revenue. Quality remains strong; production has recovered to near pre-war levels.
-
-The division competes directly with Valdorian Lifestyle, which entered the premium fashion space during the war. This competition is painful—Valdorian has scale advantages Cassiline cannot match.
-
-### Phoenix Studios
-
-Fashion-adjacent content: lifestyle programming, design documentation, promotional material.
-
-Phoenix Studios is Lord Cassian's domain. The operation is profitable but considered by traditionalists to dilute brand prestige.
-
-The tension is real: does branded content strengthen fashion perception or cheapen it? The house debates internally without resolution.
-
-## Estate
-
-### Silken Reach
-
-The house's primary estate on Lyra's Aurelian continent.
-
-Silken Reach emphasises design:
-
-- Architecture by distinguished practitioners
-- Interiors showcasing historical Cassiline aesthetics
-- Gardens planned as fashion photography locations
-- Studios where couture production occurs
-
-The estate is beautiful—possibly the most aesthetically distinguished among the great houses. It also requires maintenance expenditure the house can barely afford.
-
-### Manufactories Presence
-
-Cassiline maintains significant facilities on the Manufactories orbital:
-
-- The Cassiline Atelier (primary design studio)
-- Production facilities for Silken Thread
-- Artisan workshops for couture construction
-
-This presence is expensive. Some within the house have suggested consolidating to Lyra; Isadora has resisted, viewing orbital presence as necessary for industry credibility.
-
-## Financial Position
-
-### Arrhenos Debt
-
-Cassiline carries substantial reconstruction debt to Arrhenos financial institutions.
-
-|Metric|Value|
-|---|---|
-|Outstanding principal|~200 billion quid|
-|Annual service cost|~15 billion quid|
-|Projected payoff|3890 C (if current trajectory holds)|
-
-The debt burden constrains everything:
-
-- Investment in new capacity
-- Talent acquisition
-- Marketing expenditure
-- Acquisition of competitors
-
-The house is solvent—revenue exceeds costs including debt service—but has no capacity for aggressive moves.
-
-### Valdorian Acquisition Interest
-
-House Valdorian has approached Cassiline about acquisition multiple times.
-
-The logic from Valdorian's perspective:
-
-- Cassiline's brand prestige would complement Valdorian Lifestyle
-- Cassiline's talent and facilities would enhance Valdorian capabilities
-- Cassiline's weakness creates opportunity
-
-The logic from Cassiline's perspective:
-
-- Acquisition would mean loss of independence
-- Valdorian would absorb or discard Cassiline identity
-- The family would become subordinate to rivals
-
-Duchess Isadora has rejected approaches. Whether she can continue rejecting if financial pressure increases is uncertain.
-
-## Relations
-
-### With Valdorian
-
-Hostile.
-
-Cassiline blames Valdorian for:
-
-- Acquiring Cassiline talent during the war
-- Entering premium fashion (previously Cassiline's space)
-- Circling Cassiline during weakness
-- The general predatory approach
-
-Valdorian views Cassiline as:
-
-- A valuable potential acquisition
-- An obstacle to full fashion sector dominance
-- Increasingly irrelevant if recovery fails
-
-The houses interact when necessary—court functions require it—but warmth is absent.
-
-### With Other Houses
-
-Mixed:
-
-|House|Relationship|
-|---|---|
-|Meridian|Neutral (coverage neither helps nor hurts)|
-|Therenne|Cooperative (jewellery complements fashion)|
-|Corvane|Commercial (supply relationships)|
-|Aurelian|Sympathetic (both declining from former heights)|
-
-Cassiline has few strong alliances. The house's difficulties have not attracted supporters.
-
-### With the Royal House
-
-Traditionally close, now strained.
-
-Cassiline dressed generations of royalty; the connection was source of prestige. Post-war, the royal house has diversified its wardrobe—Valdorian designs now appear alongside Cassiline.
-
-Duchess Isadora feels this diversification as betrayal, though she cannot say so publicly.
-
----
-
-## Notes
-
-House Cassiline represents a question: can prestige, once damaged, be restored?
-
-The house's brand was worth more than its physical assets. When the brand weakened, recovery became uncertain.
-
-Duchess Isadora believes traditional excellence will eventually prevail. Her critics suggest the market has moved on.
-
-Twenty-three years of recovery have produced stability, not triumph. The next twenty-three will determine which view was correct.
+The house seats at **Silken Reach** on the Aurelian continent—arguably the most beautiful of the great estates, and an expense the house can barely meet—and keeps the **Cassiline Atelier** on the Manufactories, where its couture is still made by hands worth more than most worlds will ever see. Its relations map its trajectory: hostile with Valdorian, cooperative with Therenne (jewellery complements fashion), quietly sympathetic with Aurelian (the other house declining from former heights), and—most painful—strained now with the royal house itself, which after generations of dressing exclusively in Cassiline has begun to wear Valdorian designs alongside it. Isadora feels the diversified royal wardrobe as a betrayal she cannot name aloud, because it is not a betrayal. It is a customer making a choice, which is the only verdict Vega recognises, and the one Cassiline is slowly, honourably, losing.
 
 ---
 
@@ -6388,189 +4939,45 @@ Twenty-three years of recovery have produced stability, not triumph. The next tw
 
 # House Kraeven
 
-A cautionary tale: the archducal house destroyed by the Banking War.
+Shadowmere stands empty on the Aurelian continent, maintained just enough not to fall down, and that is precisely what the Queen wants: a great house turned into a sentence the others read every day. House Kraeven is the market's honesty made into a monument—the proof that even archducal rank is no shield, kept visible on purpose so that no one forgets it. Every house knows the Kraeven story. Every house, in its quiet hours, runs the arithmetic Kraeven failed.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Former rank | Archducal |
+| Former specialisation | Finance, investment, complex instruments |
+| Status | **Attainted** (3840 C) |
+| Current head | None (house dissolved) |
+| Shadowmere estate | Empty; maintained at minimum |
 
-|Attribute|Value|
-|---|---|
-|Former Rank|Archducal|
-|Former Specialisation|Finance, investment, complex instruments|
-|Status|Attainted (3840 C)|
-|Current Head|None (house dissolved)|
-|Shadowmere Estate|Empty; maintained at minimum|
+## The rise, and the instruments
 
-House Kraeven no longer exists. Its story persists as warning.
+Kraeven climbed to archducal status on financial innovation, and by 3800 C it was woven into the foundations of Vega commerce—every major house used its instruments, the royal treasury employed its managers. The instruments were the house's genius and its grave: **Cascade Notes**, layered obligations in which the returns from one investment funded the next; **Temporal Arbitrage Bonds**, exploiting the communication lag between systems; **Risk Tranches**, slicing commercial risk into tradeable segments. They returned more than conventional investments and concentrated risk in ways their buyers never fully understood—which was fine, and profitable, and stable, right up until the assumptions underneath them stopped being true.
 
-## History
+## The collapse
 
-### Rise
+The Banking War broke the assumptions. Trade routes that were supposed to function stopped; counterparties that were supposed to pay could not; assets that were supposed to hold value evaporated. And because Kraeven's instruments were *everywhere*, the failure cascaded—the most leveraged products failed, the institutions holding them sold other Kraeven products to cover the losses, the selling drove prices down, more products failed, faster. Within months the house's debts exceeded its assets not by percentages but by multiples. There was no managing it, though former Lord **Varen Kraeven**—not a malicious man, only a confident one who believed his own models—tried, and failed, and watched the house come down.
 
-House Kraeven achieved archducal status through financial innovation.
+## The attainder
 
-The house developed:
+The Throne's response, in 3840 C, one year after the war, was the first attainder of an archducal house in two centuries: rank stripped, licences revoked, assets seized for the creditors, the family reduced to common status. The message needed no explanation. Commercial failure has consequences, the Throne said, all the way to the top—and it meant it, which is the entire point of having said it. The market's honesty, which had made Kraeven rich, unmade it completely, and the system did not so much as flinch.
 
-- Complex investment instruments
-- Risk management techniques
-- Cross-system arbitrage strategies
-- Financing structures for other houses
+## The fall from the light
 
-By 3800 C, Kraeven was essential to Vega's financial architecture. Every major house used Kraeven instruments; the royal treasury employed Kraeven managers.
+What attainder does is not death but *erasure*—the total fall from the seen into the unseen, and the Kraeven survivors trace its whole arc:
 
-### The Instruments
+- **Varen Kraeven**, who kept his life and lost everything else, tried to rebuild as a commoner and died in 3855 C, broken by it. Former archdukes are news when they fall; fifteen years on, they are nothing in particular.
+- **Lady Serene**, his wife, retreated to her birth house among the minor nobility.
+- **Lady Vera**, a daughter, married into minor Mandate nobility—rank recovered, in another empire's currency.
+- **Lord Caspar**, a son, is rumoured somewhere in the Freeholds; the family is not sure.
+- **Lord Dorian**, the heir who would have led the house, now works as a financial analyst in Aurelius City—one of many, distinguished only by his name, which he explains reluctantly.
 
-Kraeven's signature products were sophisticated:
+Dorian has spoken of the collapse only rarely, and with a flatness that may be acceptance or may be the last discipline left to him. *"We believed our models. The models were wrong. Everything else follows from that."* Asked whether he resents the Throne's response: *"The attainder was correct. We failed. What else should have happened?"* Whether that is genuine or simply what a ruined man must say to keep breathing in Vega, no one can tell, possibly including him.
 
-- **Cascade Notes**: Layered obligations where returns from one investment funded the next
-- **Temporal Arbitrage Bonds**: Exploiting communication lag between systems
-- **Risk Tranches**: Slicing commercial risks into tradeable segments
+## The empty chair
 
-These instruments generated returns exceeding conventional investments. They also concentrated risks in ways their purchasers did not fully understand.
+The collapse left two monuments. The first is regulatory: the post-Kraeven rules that constrain financial innovation—disclosure for complex instruments, monitored leverage, the Exchequer's enhanced oversight—which make another such collapse less likely and also throttle the financial sector that might have recovered. Vega once contended with Arrhenos in interstellar finance; after Kraeven it does not, and the lost ground has not been retaken. See [Economy](../economy.md).
 
-### The Collapse
-
-When the Banking War began, Kraeven instruments were everywhere.
-
-The war disrupted the assumptions underlying the instruments:
-
-- Trade routes that were supposed to function stopped functioning
-- Counterparties that were supposed to pay could not pay
-- Assets that were supposed to be valuable became worthless
-
-The collapse cascaded:
-
-1. Kraeven's most leveraged instruments failed
-2. Institutions holding those instruments faced losses
-3. Those institutions sold other Kraeven instruments to cover losses
-4. Selling pressure drove prices down
-5. Further instruments failed
-6. The cycle accelerated
-
-Within months, Kraeven's financial position was impossible. Debts exceeded assets by factors, not percentages.
-
-### Attainder
-
-The Throne's response was decisive.
-
-In 3840 C—one year after the war's end—House Kraeven was formally attainted:
-
-- Noble status stripped
-- Commercial licences revoked
-- Assets seized for distribution to creditors
-- Family members reduced to commoner status
-
-The attainder was the first of an archducal house in two centuries. Its message was clear: commercial failure has consequences even at the highest levels.
-
-## The Kraeven Legacy
-
-### Financial Regulations
-
-Post-Kraeven regulations constrain financial innovation:
-
-- Complex instruments require disclosure
-- Leverage ratios are monitored
-- Systemic risk is assessed
-- The Exchequer has enhanced oversight powers
-
-These regulations make another Kraeven-style collapse less likely. They also constrain financial activity that might be productive.
-
-### Reputational Effects
-
-Vega's reputation for financial sophistication was damaged.
-
-Before Kraeven, Vega competed with Arrhenos in financial services. After Kraeven, that competition effectively ended. Arrhenos now dominates interstellar finance; Vega is a client rather than competitor.
-
-This shift persists. Twenty-three years later, Vega has not rebuilt its financial sector to pre-war prominence.
-
-### The Empty Estate
-
-Shadowmere, the Kraeven estate on Lyra, stands empty.
-
-The Throne seized the estate but has not redistributed it. The buildings are maintained at minimum levels—basic security, structural preservation, nothing more.
-
-The estate serves as monument to failure. Visitors to the Aurelian continent see it: a great house, empty, decaying slowly.
-
-Some have suggested the Throne should grant Shadowmere to a rising house. Queen Lysandra IV has declined. The empty estate serves purposes a occupied one would not.
-
-## The Kraeven Family
-
-### Former Lord Varen Kraeven
-
-The head of house at the collapse.
-
-Varen Kraeven was not malicious. He was confident—perhaps overconfident—in instruments his house had developed. When the collapse began, he attempted to manage it; the attempt failed.
-
-After attainder, Varen Kraeven:
-
-- Lost his title, his estate, his position
-- Retained his life (attainder does not require execution)
-- Attempted to rebuild as a commoner
-- Died in 3855 C, broken by the experience
-
-His death was unremarkable. Former archdukes are news when they fall; fifteen years later, they are forgotten.
-
-### Survivors
-
-Other family members scattered:
-
-|Member|Fate|
-|---|---|
-|Lady Serene (wife)|Returned to her birth house (minor nobility)|
-|Lord Dorian (heir)|Works as financial analyst in Aurelius City|
-|Lady Vera (daughter)|Married into minor Mandate nobility|
-|Lord Caspar (son)|Location unknown; rumoured in the Freeholds|
-
-The family name persists but carries stigma. Those who bear it explain their history reluctantly.
-
-### Lord Dorian Kraeven
-
-The former heir now works as a financial analyst—one of many, distinguished only by his name.
-
-He has spoken rarely about the collapse:
-
-> "We believed our models. The models were wrong. Everything else follows from that."
-
-Asked if he resents the Throne's response:
-
-> "The attainder was correct. We failed. What else should have happened?"
-
-Whether this acceptance is genuine or performed for survival is unclear.
-
-## Lessons
-
-### What Kraeven Teaches
-
-The Kraeven collapse demonstrates several principles:
-
-**Markets can fail.** Instruments that worked for decades can stop working suddenly.
-
-**Complexity obscures risk.** Kraeven's instruments were sophisticated; their sophistication hid their vulnerabilities.
-
-**Systemic effects matter.** Kraeven's failure damaged institutions throughout Vega; the house could not fail alone.
-
-**Status does not protect.** Archducal rank did not prevent attainder when commercial failure was severe enough.
-
-### What Kraeven Does Not Teach
-
-The collapse offers ambiguous lessons:
-
-**Should innovation be constrained?** Kraeven's instruments were innovative; they also failed. Post-Kraeven regulation constrains innovation—but also constrains growth.
-
-**Was the punishment proportional?** Attainder destroyed a family. Some argue the response was excessive; others argue it was necessary.
-
-**Could the collapse have been prevented?** Perhaps—with different regulation, different oversight, different decisions. Or perhaps not; perhaps the pressures that produced Kraeven would produce something similar eventually.
-
----
-
-## Notes
-
-House Kraeven is a ghost that haunts Vega's aristocracy.
-
-Every noble house knows the story. Every noble house considers, in quiet moments, whether it could happen to them.
-
-The Throne allows this fear to persist. A visible example of failure serves purposes that reassurance would not.
-
-Shadowmere stands empty, maintained barely, a reminder. The house that built it believed itself secure. It was wrong.
+The second monument is **Shadowmere** itself. The Throne seized the estate and has pointedly never redistributed it, declining every suggestion that it be granted to a rising house. It stands empty on the Aurelian continent, decaying by slow degrees, maintained at the minimum that keeps it standing—a great house's seat turned into a warning that every other house must drive past. The house that built it believed itself secure. It was wrong, and the Queen keeps the proof of how wrong exactly where the secure can see it.
 
 ---
 
@@ -6579,219 +4986,43 @@ Shadowmere stands empty, maintained barely, a reminder. The house that built it 
 
 # House Meridian
 
-The news and journalism house, whose reputation for accuracy is Vega's most valuable export.
+House Meridian sells the one thing Vega cannot fake, and has grown rich and strange doing it. In a civilisation built on manufactured perception, Meridian's product is accuracy—and its great discovery, four and a half centuries old, is that accuracy is most profitable when it is most genuinely true.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Rank | Archducal |
+| Head | Lord Castor Meridian |
+| Specialisation | News, journalism, documentary |
+| Status | Stable |
+| Employees | ~80,000 |
+| Annual revenue | ~40 billion quid |
 
-|Attribute|Value|
-|---|---|
-|Rank|Archducal|
-|Head|Lord Castor Meridian|
-|Specialisation|News, journalism, documentary|
-|Status|Stable|
-|Employees|~80,000|
-|Revenue|~40 billion quid annually|
+Meridian is neither the largest house nor the richest. Its significance is that its journalism is trusted across all of human space, and that trust is priceless.
 
-Meridian is not the largest house, nor the wealthiest. Its significance lies elsewhere: the house's journalism is trusted throughout human space, and that trust is priceless.
+## The credibility investment
 
-## History
+Founded in 3412 C—the same year as Valdorian—when the Throne ennobled a consortium of news producers who had reported reliably through a succession crisis, Meridian has run on one principle ever since: the house succeeds by being trustworthy, so the house protects its trustworthiness above any single story. It shields its journalists from pressure, publishes work that damages powerful interests including its own, accepts short-term losses for long-term reputation, and recruits the best regardless of origin. The Banking War was the proof: Meridian reported Vega's defeats and casualties accurately while friendlier sources spun, and came out of the war trusted more than before, because audiences had learned they could believe it even when the news was bad. See [Media](../media.md).
 
-### Origins
+## Lord Castor Meridian
 
-House Meridian was founded in 3412 C—the same year as Valdorian—when the Throne granted noble status to a consortium of news producers who had demonstrated reliable reporting during a succession crisis.
+| Attribute | Value |
+|-----------|-------|
+| Age | 78 (presents early 50s) |
+| Tenure | 30 years |
+| Style | Reclusive; governs through intermediaries |
+| Reputation | Incorruptible; somewhat mysterious |
 
-The founding principle was clear: the house would succeed by being trustworthy. That principle has persisted for 450 years.
+Rarely seen, ruling the house through written instruction and trusted deputies, Castor is known through what Meridian produces rather than through any public presence—an absence that has become its own authority. His commitment to independence is genuine, whether it springs from conviction or from a clear-eyed grasp of the business model: *"The house sells trust. If we sell it short, we have nothing."* He has never married; his heir is his niece, **Lady Theodora Meridian** (52), who runs daily operations, handles the public and political work he avoids, and plays the court game more willingly than her uncle. Whether that is pragmatism or a quieter difference of philosophy, the house has not had to find out yet.
 
-### The Credibility Investment
+## The operation
 
-Meridian has systematically invested in credibility:
+**Meridian Broadcasting** is the largest news operation in human space: five thousand correspondents, bureaux in every major system, continuous coverage carried to audiences across the Mandate, the Freeholds, Arrhenos, the Drift, everywhere people will pay for reliable information. Revenue comes chiefly from **subscriptions**—institutional, professional, and individual—which frees the house from the advertisers it would otherwise have to please; it answers to its subscribers, and its subscribers want only that it be right. The **Verity House Academy**, on the house's Lyra estate, trains its journalists and takes outside students whose fees fund the work; a Meridian credential carries weight across the industry. Verity House itself is unusual among great estates—gardens open to the public, archives available for research, the whole thing less ostentatious than its peers—an openness that is partly principle and entirely on-brand: the house with nothing to hide, performing having nothing to hide. See [Lyra](../locations/lyra.md).
 
-- Protecting journalists from pressure
-- Publishing stories that damaged powerful interests (including, occasionally, Meridian interests)
-- Accepting short-term losses for long-term reputation
-- Recruiting the best journalists regardless of origin
+## The limit, and the danger
 
-This investment produces returns. When a Meridian correspondent reports something, audiences believe it. That belief is worth more than any single story.
+Meridian's independence is real and exactly bounded. It does not criticise the royal family directly—that would be unwise—and it covers internal noble affairs with the delicacy of a house that must live among its subjects; its clarity is reserved for the external world, where it has no stake. The Queen values that clarity even when it inconveniences her, because a Throne seen to silence Meridian would lose more than it gained: tolerating the house is cheaper than controlling it.
 
-### Banking War Coverage
-
-The war tested Meridian's principles.
-
-The house reported on Vega's setbacks accurately—defeats, casualties, strategic failures—when other sources presented more favourable narratives. This accuracy was painful; it was also valuable.
-
-Post-war, Meridian's credibility stood higher than before. Audiences had learned they could trust Meridian when the news was bad.
-
-## Leadership
-
-### Lord Castor Meridian
-
-The current head has led the house for thirty years.
-
-|Attribute|Value|
-|---|---|
-|Age|78|
-|Appearance|Early 50s|
-|Style|Reclusive; communicates through intermediaries|
-|Reputation|Incorruptible; somewhat mysterious|
-
-Lord Castor is rarely seen. He governs through written communications and trusted deputies; public appearances are rare. This absence contributes to his mystique—he is known through what the house produces rather than personal presence.
-
-His commitment to journalistic independence is genuine:
-
-> "The house sells trust. If we sell it short, we have nothing."
-
-Whether this principle is ethical conviction or business calculation—perhaps both—he has maintained it consistently.
-
-### The Meridian Family
-
-The house's family structure is unusual:
-
-- Lord Castor has never married
-- His heir is his niece, **Lady Theodora Meridian** (52)
-- The family is small, concentrated, private
-
-Lady Theodora manages day-to-day operations while Lord Castor sets direction. The arrangement works; the succession should be smooth.
-
-### Lady Theodora Meridian
-
-The heir apparent and operational head.
-
-Theodora handles what Castor avoids:
-
-- Public representation
-- External negotiations
-- Personnel matters
-- Industry relationships
-
-She is more visible than her uncle, more engaged with the court, more willing to play political games. Whether this represents pragmatism or philosophical difference is unclear.
-
-## Commercial Operations
-
-### Meridian Broadcasting
-
-The primary operation: news production and distribution.
-
-|Metric|Value|
-|---|---|
-|Bureaux|Every major system in human space|
-|Correspondents|~5,000|
-|Support staff|~75,000|
-|Output|Continuous news programming; documentary; analysis|
-
-Meridian Broadcasting is the largest news operation in human space. Its coverage reaches audiences across the Mandate, the Freeholds, Arrhenos, the Drift Communities—everywhere people want reliable information.
-
-### The Subscription Model
-
-Revenue comes primarily from subscriptions:
-
-- Institutional (governments, corporations, other media)
-- Professional (traders, diplomats, researchers)
-- Individual (wealthy consumers seeking quality)
-
-Advertising exists but is secondary. This reduces commercial pressure on content—the house need not please advertisers, only subscribers.
-
-### Verity House Academy
-
-Journalist training on the house's Lyra estate.
-
-The Academy:
-
-- Trains Meridian journalists (required before field posting)
-- Accepts external students (fees fund operations)
-- Maintains research programmes (media ethics, historical journalism)
-- Preserves broadcast archives (historical reference)
-
-Academy graduates are sought throughout the industry; Meridian training carries weight even for those who don't join the house.
-
-## Estate
-
-### Verity House
-
-The house's primary estate on Lyra's Aurelian continent.
-
-Verity House is unusual among great estates:
-
-- Gardens open to public viewing (transparency performed)
-- The Academy accessible to visitors
-- Archives available for research
-- Less ostentatious than peers
-
-This openness is deliberate. The house signals that it has nothing to hide—or at least performs that signal convincingly.
-
-## Relations
-
-### With the Royal House
-
-Complicated respect.
-
-Meridian journalism does not criticise the royal family directly—such criticism would be unwise—but neither does it propagandise. Coverage is factual, measured, careful.
-
-Queen Lysandra IV values Meridian's credibility even when it inconveniences her. A Throne seen to suppress journalism would lose legitimacy; tolerating Meridian is cheaper than controlling it.
-
-### With Other Houses
-
-Generally neutral:
-
-|House|Relationship|
-|---|---|
-|Valdorian|Cooperative (news supports entertainment marketing)|
-|Cassiline|Neutral (different sectors)|
-|Therenne|Neutral (limited interaction)|
-|Corvane|Neutral (limited interaction)|
-|Aurelian|Neutral (limited interaction)|
-
-Meridian's independence requires distance. The house cannot be close to those it might cover.
-
-### With External Powers
-
-Meridian maintains bureaux throughout human space:
-
-- **Mandate**: Largest external presence; covers Imperial politics extensively
-- **Arrhenos**: Smaller presence; financial coverage
-- **Freeholds**: Roving correspondents; challenging environment
-- **Drift Communities**: Embedded journalists aboard some havens
-- **Neo-Solar**: Limited access; challenging cultural distance
-
-External coverage is Meridian's strength. The house can report on foreign affairs accurately because it has no stake in outcomes.
-
-## Challenges
-
-### Independence Under Pressure
-
-Maintaining independence requires:
-
-- Financial self-sufficiency (not depending on favours)
-- Political protection (the royal house's tacit support)
-- Journalistic culture (employees who believe in the mission)
-- Audience trust (the ultimate source of revenue)
-
-Each element is vulnerable. Financial pressure could compromise independence; royal displeasure could restrict access; cultural drift could erode standards; trust lost is hard to regain.
-
-### Valdorian's Growing Power
-
-Meridian news sometimes covers Valdorian activities. As Valdorian grows more powerful, such coverage becomes more delicate.
-
-The house has not yet faced direct pressure from Valdorian. But the possibility shapes editorial decisions—how much scrutiny is appropriate? When does coverage become provocation?
-
-### Technology and Competition
-
-New information sources compete for audience attention:
-
-- Social media and citizen journalism
-- AI-generated content
-- Competitor news operations
-
-Meridian's advantage is credibility, but credibility requires investment that competitors may not match. How long does the advantage persist?
-
----
-
-## Notes
-
-House Meridian represents something valuable: journalism that serves audiences rather than power.
-
-Whether this value persists depends on continuous investment in credibility—protecting journalists, publishing uncomfortable truths, accepting costs that serve long-term reputation.
-
-Lord Castor Meridian has made that investment for thirty years. His successors will face the same choice.
+The harder problem is Valdorian. Meridian's news must occasionally cover the largest house in Vega, and the larger Valdorian grows, the more delicate each line of that coverage becomes—how much scrutiny is appropriate; at what point reporting becomes provocation; what an entertainment giant with the largest private army in Vega might do to a news house that pressed too hard. Meridian has not yet been leaned on. But the calculation now shadows its editorial choices, and a credibility that bends, even once, even quietly, is a credibility that has begun to spend the only capital the house owns. See [House Valdorian](house-valdorian.md).
 
 ---
 
@@ -6800,205 +5031,49 @@ Lord Castor Meridian has made that investment for thirty years. His successors w
 
 # House Valdorian
 
-The dominant entertainment house, ascendant since the Banking War.
+House Valdorian is the proof that Vega's market works, and the proof that it cannot fix what working produces. The dominant entertainment house, ascendant since the Banking War, it has done everything the system rewards—and in doing so has grown into the one thing the system has no answer for: a winner too big to discipline.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Rank | Archducal |
+| Head | Duke Caelum Valdorian |
+| Specialisation | Entertainment media |
+| Status | Ascendant |
+| Direct employees | ~500,000 |
+| Annual revenue | ~150 billion quid |
 
-|Attribute|Value|
-|---|---|
-|Rank|Archducal|
-|Head|Duke Caelum Valdorian|
-|Specialisation|Entertainment media|
-|Status|Ascendant|
-|Employees|~500,000 (direct)|
-|Revenue|~150 billion quid annually|
+Valdorian controls roughly 35% of all Vega entertainment production—a concentration without precedent in living memory.
 
-Valdorian controls approximately 35% of Vega entertainment production—a concentration unprecedented in recent history.
+## The rise
 
-## History
+Elevated to nobility in 3412 C for early success in entertainment, the house climbed the ranks on a single repeated move: quality production, strategic acquisition, relentless expansion—baronial to comital within a century, ducal by 3600 C, archducal after the consolidation of 3702 C. The Banking War was the masterstroke. It damaged Valdorian but devastated its rivals, and when the shooting stopped Valdorian had carefully preserved capital while its competitors had only debt. The house bought struggling studios, the distribution networks of failing rivals, and the talent contracts bankrupt employers could no longer honour. What emerged was dominance—three major studios (Radiant for prestige drama, Cascade for music, Eventide for immersive), the chokepoints over the infrastructure others depend on, and the cultural soft power that 35% of human space's entertainment confers. See [Media](../media.md).
 
-### Origins
+## Duke Caelum Valdorian
 
-House Valdorian was elevated to nobility in 3412 C, rewarded for commercial success in early entertainment production. The founding lord, Peregrine Valdorian, established the template the house still follows: quality production, strategic acquisition, relentless expansion.
+| Attribute | Value |
+|-----------|-------|
+| Age | 94 (presents mid-40s) |
+| Tenure | 31 years (since 3831 C) |
+| Style | Strategic patience; measured aggression |
+| Reputation | Formidable; not beloved |
 
-The house rose steadily through the ranks—baronial to comital within a century, ducal by 3600 C, archducal after the consolidation of 3702 C.
+The architect of the house's wartime survival and post-war dominance—the man who preserved capital while rivals spent and bought the distressed assets at the bottom. He is not liked: rivals find him predatory, his own people find him distant, and he has never seemed to mind either judgement, because he is right and the rankings prove it every quarter. He has also, in thirty-one years, never once moved against the Throne—loyalty performed with the same cold precision as everything else he does. Whether that restraint is principle or patience is the question Queen Lysandra cannot afford to answer wrongly.
 
-### Banking War Opportunity
+### The house's own succession
 
-The war damaged Valdorian's operations but not catastrophically. More importantly, it devastated competitors.
+The Duke has no children. His designated heir is his nephew, **Lord Evander Valdorian** (67), who runs the music division—competent, not brilliant, and untested at the scale his uncle operates. When the transition comes it will reveal whether Valdorian's dominance was the house's or merely Caelum's, and factions within the house already favour other candidates the Duke declines to discuss. His sister, **Lady Virellia Valdorian**, who has handled the delicate work of absorbing acquired studios and the resentments that come with them, is the more approachable of the two and the more underestimated. *"Caelum sees numbers,"* she has said. *"I see people. Someone has to."* Whether she wants the chair, no one knows.
 
-When the war ended, Valdorian had capital (carefully preserved) and competitors had debt. The house acquired:
+## The army
 
-- Three struggling studios
-- Distribution networks from failing houses
-- Talent contracts abandoned by bankrupt employers
+House Valdorian fields the largest non-royal military in Vega space—forty vessels, three hundred thousand ground troops, a hundred thousand in security, a hundred and fifty thousand support—and it has long since exceeded anything entertainment assets could require. The house calls it protection of production and distribution; the rest of Vega calls it what the arithmetic says it is. The Throne watches and does not act, because Valdorian has broken no law and failed no test, and there is no honest mechanism to constrain a house whose only offence is winning. See [Military](../military.md) and [Government](../government.md).
 
-What emerged was dominance. Valdorian now controls more entertainment production than any house in history.
+## Holdings
 
-### Current Position
-
-The house's position creates both opportunities and vulnerabilities:
-
-**Opportunities:**
-
-- Market power allows favourable terms
-- Scale permits investment competitors cannot match
-- Cultural influence confers soft power
-
-**Vulnerabilities:**
-
-- Concentration attracts regulatory attention
-- The royal house monitors for excessive power
-- Rivals seek to undermine collectively
-
-## Leadership
-
-### Duke Caelum Valdorian
-
-The current head has led the house for thirty-one years (since 3831 C, assuming leadership during the war).
-
-|Attribute|Value|
-|---|---|
-|Age|94|
-|Appearance|Mid-40s|
-|Style|Strategic patience; measured aggression|
-|Reputation|Formidable; not beloved|
-
-Caelum Valdorian is credited with the house's wartime survival and post-war dominance. His decisions during the crisis—preserving capital while rivals spent, acquiring distressed assets strategically—demonstrated the calculating approach that defines his leadership.
-
-He is not liked. Other houses consider him predatory; his own people find him distant. But he is effective.
-
-### The Succession Question
-
-Duke Caelum has no children.
-
-His designated heir is his nephew, **Lord Evander Valdorian** (67), who manages the house's music division. Evander is competent but not brilliant; the transition when it comes will test whether Valdorian's dominance depends on Caelum specifically.
-
-The house contains factions who believe other candidates should succeed. The Duke has not addressed this tension publicly.
-
-### Lady Virellia Valdorian
-
-The Duke's sister, managing the house's newer acquisitions.
-
-Virellia has overseen the integration of absorbed studios into Valdorian operations—a task requiring diplomacy as well as business skill. Former employees of acquired houses resent their new masters; Virellia manages that resentment.
-
-She is considered more approachable than her brother:
-
-> "Caelum sees numbers. I see people. Someone has to."
-
-Whether she has succession ambitions is unknown.
-
-## Commercial Operations
-
-### Radiant Productions
-
-The house's flagship studio.
-
-Radiant produces prestige serialised drama—the format that defines Vega entertainment. Its productions include _The Amber Throne_ (67 seasons), _Starfall_ (23 seasons), and dozens of other active serials.
-
-Quality standards are exacting. Radiant productions cost more than competitors'; they also command higher licensing fees and more loyal audiences.
-
-### Cascade Entertainment
-
-The music division.
-
-Cascade manages artists from development through career conclusion. Its roster includes major stars and hundreds of working musicians.
-
-The division operates semi-autonomously under Lord Evander Valdorian, with its own culture and priorities.
-
-### Eventide Productions
-
-Immersive entertainment—the growing sector.
-
-Eventide develops interactive experiences, game-narrative hybrids, and experimental formats. The division is smaller than Radiant or Cascade but receives investment proportional to expected growth.
-
-### Valdorian Lifestyle
-
-A secondary brand producing fashion-adjacent goods, entertainment merchandise, and licensed products. Revenue is significant; prestige is limited.
-
-## Military Strength
-
-House Valdorian maintains the largest non-royal military force in Vega space.
-
-|Component|Strength|
-|---|---|
-|Naval element|40 vessels|
-|Ground forces|~300,000|
-|Security services|~100,000|
-|Support|~150,000|
-
-The house claims these forces protect entertainment assets—production facilities, distribution networks, talent—but the scale exceeds commercial needs.
-
-The royal house monitors this expansion without yet acting. Duke Caelum has been careful to demonstrate loyalty; the forces have never been used against royal interests. But the capability exists.
-
-## Estate
-
-### Starhold
-
-The house's primary estate on Lyra's Aurelian continent.
-
-Starhold is an entertainment showcase as much as a residence:
-
-- Production facilities for exclusive content
-- Event spaces hosting industry gatherings
-- Guest quarters where talent and executives mingle
-- Security sufficient for a small fortress
-
-The estate projects power. Visitors understand they are entering the domain of someone significant.
-
-### Stellavista Presence
-
-Valdorian controls substantial portions of the entertainment orbital:
-
-- Radiant's production facilities
-- Cascade's studios
-- Talent residences housing house-contracted performers
-- The Promenade's most prestigious venues
-
-This concentration creates chokepoints. Other houses producing entertainment on Stellavista depend on Valdorian-controlled infrastructure.
+The house's flagship studio, **Radiant Productions**, defines prestige drama—_The Amber Throne_ has filmed there for sixty-seven seasons. **Cascade Entertainment** runs music from development to touring under Lord Evander; **Eventide** chases the growing immersive sector; **Valdorian Lifestyle** turns entertainment into fashion-adjacent merchandise and, lately, into the premium-fashion market where it grinds against a wounded Cassiline. The house seats at **Starhold** on Lyra's Aurelian continent—an estate that is half residence, half showcase, and built like a small fortress—and holds substantial portions of **Stellavista**, the entertainment orbital, where its control of production facilities and the distribution hub turns into leverage over every rival who must use them. See [Stellavista](../locations/stellavista.md).
 
 ## Relations
 
-### With the Royal House
-
-Careful mutual observation.
-
-Valdorian's power approaches levels that could threaten royal supremacy. The house has not crossed any lines—loyalty is performed correctly—but the potential is noted.
-
-Queen Lysandra IV has declined opportunities to constrain Valdorian, perhaps calculating that moving against the house would create instability exceeding the threat. This restraint may not continue indefinitely.
-
-### With Other Houses
-
-Mixed:
-
-|House|Relationship|
-|---|---|
-|Meridian|Cooperative (news serves entertainment marketing)|
-|Cassiline|Hostile (Cassiline resents Valdorian's war gains)|
-|Therenne|Neutral (different sectors)|
-|Corvane|Commercial (supply relationships)|
-|Aurelian|Dismissive (declining competitor)|
-
-The house has few genuine allies. Its dominance creates resentment that crosses commercial sector boundaries.
-
-### With External Powers
-
-Valdorian maintains:
-
-- Mandate distribution relationships (the largest external market)
-- Arrhenos financial services (reconstruction loans, though smaller than other houses)
-- Freehold operations (touring, distribution)
-- Drift community contacts (niche markets)
-
-The house's external reach extends Vega's cultural influence—and Valdorian's.
-
----
-
-## Notes
-
-House Valdorian is the most powerful non-royal entity in Vega space. Whether this power serves the Throne or threatens it remains to be determined.
-
-Duke Caelum Valdorian has not, in thirty-one years of leadership, made a move against royal authority. But he has accumulated the capability to do so. The house's future depends on what its leaders choose to do with that capability—and on how the royal house responds.
+The house has power and few friends. Meridian cooperates (news serves entertainment marketing); Cassiline is openly hostile (Valdorian took its talent during the war and now circles its carcass); Therenne stays neutral, Corvane commercial, Aurelian dismissed as a fading thing. Its dominance manufactures resentment that crosses every sector line, which is the ordinary fate of a winner—and the reason that, when the succession after Caspian finally comes due, the house best placed to exploit an uncertain Throne is also the house the rest of the aristocracy would most like to see stumble. Whether Valdorian's power serves the Throne or threatens it has not been decided, possibly not even by Valdorian. It has merely accumulated the capacity to decide, and waits, as patiently as its Duke.
 
 ---
 
@@ -7007,45 +5082,32 @@ Duke Caelum Valdorian has not, in thirty-one years of leadership, made a move ag
 
 # The Vega Commercial Throne: Locations
 
-The Throne spans multiple systems, though its heart remains the Vega system itself.
+The Throne spans several systems, but its heart is the Vega system, and the heart of that is one world. Where you are in Vega tells you, almost exactly, whether you are seen.
 
-## The Vega System
+## The Vega system
 
-|Location|Character|
-|---|---|
-|Lyra|Throne world; political and cultural centre|
-|The Radiant Court|Royal palace complex|
-|Stellavista|Entertainment industry centre|
-|The Manufactories|Luxury goods production orbital|
-|Outer stations|Mining, agriculture, support infrastructure|
+| Location | Character |
+|----------|-----------|
+| [Lyra](lyra.md) | Throne world; the seen on the Aurelian continent, the working unseen everywhere else |
+| [The Radiant Court](radiant-court.md) | The royal palace complex—the stage on which the whole performance is judged |
+| [Stellavista](stellavista.md) | The entertainment orbital, where the content is made and the precariat lives |
+| [The Manufactories](manufactories.md) | The orbital where luxury, and effortlessness itself, is manufactured |
+| Outer stations | Mining, agriculture, the unglamorous support that keeps the system running |
 
 ## Beyond Vega
 
-The Throne controls or claims territory in several additional systems:
+The Throne controls or claims territory across several further systems, all of them provincial by definition—the further from Lyra, the less the court remembers you exist.
 
-|System|Character|
-|---|---|
-|Deneb Reach|Agricultural worlds; food production|
-|Altair Cluster|Manufacturing; middle-market goods|
-|The Andromedan Holdings|Disputed frontier; post-war uncertainty|
-|Outward stations|Trading posts; distribution hubs|
+| System | Character |
+|--------|-----------|
+| Deneb Reach | Agricultural worlds; food production; where many an aspirant comes *from* |
+| Altair Cluster | Manufacturing; middle-market goods |
+| The Andromedan Holdings | Disputed frontier; the Banking War's unhealed edge |
+| Outward stations | Trading posts and distribution hubs |
 
-## Fiefdom Geography
+## Fiefdom geography
 
-Noble fiefdoms are distributed across Throne territory:
-
-|Region|Character|
-|---|---|
-|Lyra surface|Most prestigious; archducal estates|
-|Vega orbital|Commercial operations; station-based houses|
-|Deneb Reach|Agricultural houses; traditional nobility|
-|Frontier|Newer houses; recent grants|
-
-The further from Lyra, the less prestigious the territory (generally). Frontier fiefdoms offer opportunity but lack the status of core holdings.
-
----
-
-_Additional locations to be documented as developed._
+Noble fiefdoms are distributed by prestige, which is to say by distance from the Throne. The **Aurelian continent** of Lyra holds the archducal seats; **Vega orbital** holds the station-based commercial houses; **Deneb Reach** holds the older agricultural nobility; the **frontier** holds the newer houses and recent grants, where opportunity is real and status is thin. A house's address is a statement of its standing, read instantly by everyone who matters and most who don't.
 
 ---
 
@@ -7054,212 +5116,48 @@ _Additional locations to be documented as developed._
 
 # Lyra
 
-The throne world of the Vega Commercial Throne.
+Lyra is where power concentrates, and where the seen and the unseen are sorted by continent. The throne world of the Vega Commercial Throne holds the Radiant Court, the archducal seats, and the institutions that govern the Throne—and it holds, on its other two continents, the hundreds of millions who make the first continent possible and are not, by the culture, much noticed for it.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| System | Vega (Alpha Lyrae, A0V) |
+| Population | ~4 billion |
+| Gravity | 0.94 standard |
+| Character | Political centre, aristocratic residence, cultural heartland |
 
-|Attribute|Value|
-|---|---|
-|System|Vega|
-|Star|Vega (Alpha Lyrae, A0V)|
-|Orbital period|347 days (adjusted to approximate C calendar)|
-|Population|~4 billion|
-|Gravity|0.94 standard|
-|Character|Political centre, aristocratic residence, cultural heartland|
+## A climate that performs
 
-Lyra is where power concentrates. The Radiant Court, the archducal estates, the institutions that govern the Throne—all are here. What happens on Lyra matters; what happens elsewhere is provincial.
+Vega's star is fierce, and Lyra's climate has been managed for millennia—orbital mirrors moderating the light, processors holding the air, weather scheduled rather than suffered. The result is pleasant to the point of unease. Visitors from harder worlds find it unsettling that nothing here is raw, that even the rain keeps to its cue. On Lyra, the weather performs too. It is the first thing the world teaches: everything here is arranged to be looked at.
 
-## Geography
+## Aurelian: the seen
 
-### Continents
+The northern continent is where the aristocracy lives, and it has been landscaped into a single enormous stage—rolling parkland, manicured forests, elegant manor houses, supporting infrastructure tucked discreetly out of frame. Each archducal house keeps its primary seat here, and the estates are operational centres as much as residences, where business is done, guests received, and power projected.
 
-|Continent|Location|Character|
-|---|---|---|
-|Aurelian|Northern hemisphere|The Court; aristocratic estates; government|
-|Meridine|Equatorial|Commercial districts; urban centres|
-|Australis|Southern hemisphere|Agriculture; traditional regions|
+| Estate | House | Character |
+|--------|-------|-----------|
+| Starhold | Valdorian | Entertainment headquarters; built like a fortress |
+| Verity House | Meridian | News operations; famously open gardens |
+| Silken Reach | Cassiline | Fashion house; the most beautiful, the least affordable |
+| Gilded Hall | Therenne | Financial operations; opulent |
+| Ironheart | Corvane | Manufacturing interests; industrial aesthetic |
+| Cloudrest | Aurelian (minor branch) | Ancient seat; ceremonial weight |
+| **Shadowmere** | Kraeven (former) | **Empty since the Banking War**—maintained barely, on purpose |
 
-### Climate
+**Shadowmere** is the continent's most instructive sight: an archducal seat decaying by inches, seized at Kraeven's attainder and pointedly never redistributed, because an empty great house teaches the occupied ones a lesson no speech could. See [House Kraeven](../houses/house-kraeven.md).
 
-Lyra's climate has been managed for millennia:
+## Meridine: the working unseen
 
-- Vega's intense radiation required early intervention
-- Orbital mirrors moderate illumination
-- Atmospheric processors maintain comfortable conditions
-- Weather is controlled (rain scheduled, storms prevented)
+The equatorial continent is where the work happens—urban centres, commercial districts, the professional and labouring classes who serve aristocratic enterprise without belonging to it. Its capital, **Aurelius City** (~800 million), is not glamorous and was never meant to be: good transit, adequate services, real employment, comfortable lives lived without aristocratic pretension. It is also, quietly, where the fallen land—Lord Dorian Kraeven analyses finances here now, one competent commoner among many. The continent holds the **Exchange**, Lyra's commercial trading hall, less sophisticated than Arrhenos's machinery (the Banking War proved that painfully) but adequate to domestic commerce. Meridine is most of Lyra's actual life, and it appears in almost none of Lyra's stories.
 
-The result is pleasant—perhaps too pleasant. Visitors from harsher worlds find Lyra's perfected climate unsettling. Nothing is raw; nothing is uncontrolled; even the weather performs.
+## Australis: the fed and the forgotten
 
-## The Aurelian Continent
+The southern continent feeds the others and keeps the old ways—agriculture, seasonal rhythm, community, minor nobility and prosperous commoners, traditional values, distance from court fashion. Its **Vintners' Valleys** produce the prestige wines poured at court, and its vintner families occupy a peculiar rung: not noble, but respected; not rich by archducal standards, but comfortable; connected to power through what power drinks. **Dame Vesper Holt**, the most famous of them, has dined with the Queen and would rather be in her vineyards—a woman whose products are welcome at court in a way she herself never quite is. The young leave Australis for Aurelius City and the orbitals; those who stay generally prefer the quieter pace, and the freedom of not being watched.
 
-### Character
+## Orbit, and the sense of centre
 
-The Aurelian is where the aristocracy lives.
+Lyra's orbital space glitters with infrastructure—the Court's ceremonial annex, commercial and industrial platforms, defence installations, and the great production orbitals of [Stellavista](stellavista.md) and [the Manufactories](manufactories.md), which carry their own entries. The rings are visible from the surface, a reminder that Lyra is the hub of a network spanning systems.
 
-The continent combines:
-
-- The Radiant Court complex (seat of government)
-- Archducal estates (great houses' primary residences)
-- Supporting infrastructure (discreetly placed)
-- Landscape designed for beauty rather than productivity
-
-Travelling through the Aurelian, one sees rolling parkland, elegant manor houses, manicured forests. The aesthetic is pastoral—nature tamed into art.
-
-### The Great Estates
-
-Each archducal house maintains a primary estate on the Aurelian:
-
-|Estate|House|Character|
-|---|---|---|
-|Starhold|Valdorian|Entertainment industry headquarters|
-|Verity House|Meridian|News operations centre; famous gardens|
-|Silken Reach|Cassiline|Fashion house headquarters; design studios|
-|Cloudrest|Aurelian (minor branch)|Ancient seat; ceremonial importance|
-|Gilded Hall|Therenne|Financial operations; opulent architecture|
-|Ironheart|Corvane|Manufacturing interests; industrial aesthetic|
-|Shadowmere|Kraeven (former)|Abandoned since Banking War collapse|
-
-The estates are not merely residences but operational centres—where houses conduct business, receive guests, and project power.
-
-### Shadowmere
-
-House Kraeven's abandoned estate is a visible reminder of failure.
-
-The Banking War destroyed Kraeven—their financial instruments collapsed, their debts exceeded their assets, attainder followed. The estate was seized but not redistributed; it stands empty, maintained at minimum levels, a warning to other houses.
-
-Some suggest the Queen should grant Shadowmere to a rising house. She has declined. The empty estate serves her purposes—a demonstration that even archducal status offers no protection from commercial failure.
-
-## The Meridine Continent
-
-### Character
-
-The Meridine is where work happens.
-
-Urban centres, commercial districts, middle-class residential areas—the continent houses the professionals and workers who serve aristocratic enterprise without being aristocrats themselves.
-
-### Aurelius City
-
-The largest urban centre on Lyra.
-
-|Attribute|Value|
-|---|---|
-|Population|~800 million|
-|Character|Commercial hub; professional classes|
-|Districts|Financial, retail, residential, entertainment|
-
-Aurelius City is not glamorous. It is functional—good transit, adequate services, employment opportunities. The population works in industries that serve the estates and the Court, living comfortable lives without aristocratic pretensions.
-
-### The Exchange
-
-Lyra's primary commercial exchange—where securities trade, contracts clear, and financial information flows.
-
-The Exchange is not as sophisticated as Arrhenos's financial infrastructure; the Banking War demonstrated that painfully. But it handles domestic commerce adequately and provides a venue for inter-house transactions.
-
-## The Australis Continent
-
-### Character
-
-The Australis feeds Lyra and preserves traditional life.
-
-The continent is:
-
-- Agricultural (supplying food for urban populations)
-- Traditional (older customs persist)
-- Less touched by court fashion
-- Home to minor nobility and prosperous commoners
-
-### The Vintners' Valleys
-
-A region of wine production—estates that have cultivated the same varieties for centuries.
-
-Australis wine is prestigious, consumed at court functions, exported as luxury goods. The vintner families occupy a peculiar social position: not noble, but respected; not wealthy by archducal standards, but comfortable; not powerful, but connected to power through their products.
-
-### Provincial Life
-
-Life in the Australis resembles life in agricultural regions elsewhere in human space:
-
-- Seasonal rhythms
-- Community ties
-- Limited exposure to court culture
-- Traditional values
-
-Young people leave for opportunities in Aurelius City or the orbital stations. Those who remain often prefer the quieter pace.
-
----
-
-## Orbital Infrastructure
-
-### The Rings
-
-Lyra's orbital space contains extensive infrastructure:
-
-|Installation|Character|
-|---|---|
-|The Radiant Court orbital annex|Ceremonial; diplomatic receiving|
-|Commercial stations|Trade, transit, distribution|
-|Industrial platforms|Manufacturing (some luxury, mostly support)|
-|Defence installations|Fleet presence, security|
-
-The rings are visible from the surface—glittering bands crossing the sky. Their presence is a reminder that Lyra is not isolated; it is the centre of a network spanning systems.
-
-### The Manufactories
-
-A separate entry covers the Manufactories—the orbital complex where luxury goods production concentrates.
-
-### Stellavista
-
-A separate entry covers Stellavista—the entertainment industry's production centre.
-
----
-
-## Society
-
-### The Aristocratic Presence
-
-On Lyra, nobles are visible. Not constantly—most of the population never encounters the aristocracy directly—but present:
-
-- Estate activities visible from public areas
-- Court occasions covered by media
-- Noble-affiliated businesses marked as such
-- The assumption that someone important might be watching
-
-This visibility shapes behaviour. Lyra's commoners present well—not because they aspire to nobility, necessarily, but because sloppiness stands out.
-
-### Commoner Life
-
-Most Lyrans are not aristocrats and do not interact with aristocrats.
-
-They work, raise families, consume entertainment, and live ordinary lives. The aristocratic culture that dominates public discourse is background noise—present but not determining.
-
-What distinguishes Lyra from comparable worlds elsewhere is the **sense of centre**. Lyrans know they live at the heart of something significant. Even those indifferent to court politics absorb the assumption that Lyra matters, that what happens here shapes events elsewhere.
-
-Whether this awareness is accurate or merely provincial pride varies by perspective.
-
----
-
-## Characters
-
-### Castor Meridian
-
-Lord of House Meridian, the news and journalism dynasty.
-
-His estate, Verity House, is known for:
-
-- Gardens open to public viewing (unusual transparency for a great house)
-- A journalist training academy
-- Archives of historical broadcasts
-
-Meridian himself is rarely seen publicly; he governs the house from seclusion, communicating through intermediaries.
-
-### Dame Vesper Holt
-
-A vintner from the Australis who has become famous for her wines.
-
-Not noble—she holds no title—but respected across society. Her products appear at court functions; she has dined with the Queen. The attention makes her uncomfortable; she prefers her vineyards to social performance.
-
----
-
-_Additional locations and characters to be documented as developed._
+That sense of centre is the world's defining trait, and it crosses the class line. Aurelian aristocrats know they live where the decisions are made; Meridine professionals and Australis farmers, indifferent to court politics, still absorb the assumption that Lyra *matters*, that what happens here shapes events elsewhere. Whether that conviction is accurate or merely the provincial pride of a very grand province depends, as ever in Vega, on where exactly you are standing when you hold it.
 
 ---
 
@@ -7268,288 +5166,40 @@ _Additional locations and characters to be documented as developed._
 
 # The Manufactories
 
-The orbital complex where Vega's luxury goods production concentrates.
+Effortlessness is made here, by enormous effort, by people who will never own it. The Manufactories—an orbital complex trailing Stellavista around Lyra, some eight million strong—is where Vega produces what "Vega-made" signifies: the luxury goods that command premium prices across human space, and the meaning stitched to them, which is the part that actually sells. It is the factory floor of the charmed life, and almost no one who works it is charmed.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Location | Lyra orbit, trailing Stellavista by 40° |
+| Population | ~8 million |
+| Gravity | 0.85 G (standardised) |
+| Character | Production facilities, artisan workshops, design studios |
 
-|Attribute|Value|
-|---|---|
-|Location|Lyra orbit, trailing Stellavista by 40°|
-|Population|~8 million|
-|Character|Production facilities, artisan workshops, design studios|
-|Gravity|0.85 G (standardised)|
+## How the place is built
 
-The Manufactories produce what "Vega-made" signifies: luxury goods commanding premium prices across human space.
+Four zones, in descending order of prestige and ascending order of headcount. The **Design Ring** is where concepts become products and a successful designer can achieve near-celebrity—house studios, independent designers, materials libraries, prototyping. The **Artisan Quarter** is where traditional craft persists, in workshops producing bespoke work by hand, because scarcity is the luxury and the labour itself is the thing the customer pays for. The **Production Halls** are where scalable manufacturing runs—automated and semi-automated lines turning out the licensed goods that are still better than the alternatives, just not unique. And the **Showrooms** are where products meet buyers in curated, flattering spaces, the selling begun before a price is ever named.
 
-## Structure
+## The economy of meaning
 
-### The Design Ring
+A Vega brand does not sell objects; it sells what owning the object says. The whole apparatus exists to protect that meaning—**manufactured scarcity** holding production below demand, **price as a status signal**, and above all **authenticity**, policed by embedded markers, database registration, and a certification regime pursued with near-religious ferocity. A counterfeit that passes does not steal a sale; it dissolves the meaning the entire sector floats on, which is why the houses, ruthless rivals in everything else, cooperate instantly and absolutely on brand protection. See [Economy](../economy.md).
 
-Where concepts become products.
+## The two kinds of worker
 
-The Design Ring houses:
+The Manufactories draw the seen/unseen line through the workforce itself, and draw it honestly.
 
-- House design studios (each major brand maintains presence)
-- Independent designers (licensed to houses or producing original work)
-- Materials libraries (samples of fabrics, metals, components)
-- Prototyping facilities (turning designs into samples)
+The **artisan** is the seen kind: trained for years, narrowly specialised, producing limited work that he *signs*—individual identity attached to the product, genuine prestige attached to the person. A master craftsman may not be rich by aristocratic standards, but he is somebody, and he can refuse a commission, which is how everyone knows he is somebody.
 
-Design work is prestigious. A successful designer may achieve near-celebrity status; their name becomes associated with particular aesthetics or innovations.
+The **production worker** is the unseen kind: adequately paid, regularly scheduled, largely interchangeable, with little prospect of advancement, making luxuries he cannot afford for customers he will never meet. The work is not harsh—Vega is no sweatshop—but it is not fulfilling either, and the system does not pretend it is. The **guilds** (Tailors', Jewellers', Furniture, Leatherworkers') set training standards and certify credentials and preserve the craft knowledge individual houses might let lapse; their authority stops where the houses' control of production begins, which is well short of the economics.
 
-### The Artisan Quarter
+## Notable places and people
 
-Where traditional craftsmanship persists.
+The **Cassiline Atelier** is where Vega fashion still originates, collections debuting here before they reach the markets that will imitate them; the **Gilded Vault** holds House Therenne's reserves of gold, platinum, and gemstones, worth more than many planetary economies; the **Certification Hall** is the gate between production and market, where authenticity is conferred or denied; the **Archive** preserves centuries of design for the designers who mine the past to make the present.
 
-The Quarter contains:
+- **Master Artisan Kell Soren**, a jeweller of sixty years' reputation, whose settings collectors seek by name and who has declined noble commissions that failed to interest him—the surest proof of his standing. *"The hand learns what the mind cannot teach. You must do the work ten thousand times before you understand it."*
+- **Designer Lyric Vane**, five years out of the academy and signed to Cassiline, a "nostalgic modernist" by the critics' label she dislikes and accepts for its marketing value—and perfectly clear about her own position. *"They love me now. They'll love someone else later. What matters is the work while I can do it."*
+- **Quality Director Tam Essien**, senior official of the Certification Hall, who has rejected products from every great house and whose judgement is final—a commoner with an absolute veto over the work of nobles, the one place in Vega where the unseen rule the seen, tolerated because the system's honesty depends on someone who cannot be charmed. He is not popular and is entirely necessary. *"If I approved substandard work, the system collapses. Everyone knows this. They still resent me for it."* He buys little, owns less, and lives in a small apartment far from the luxury he guards.
 
-- Workshops producing bespoke items
-- Training academies for craft skills
-- Material processing (traditional techniques)
-- Quality certification (authenticating handmade claims)
-
-Artisan production is limited by definition—one craftsman can only produce so much. This scarcity supports premium pricing; customers pay for the labour itself as much as the product.
-
-### The Production Halls
-
-Where scalable manufacturing operates.
-
-The Halls contain:
-
-- Automated facilities (mass production of licensed goods)
-- Semi-automated lines (human oversight of machine work)
-- Assembly operations (components becoming finished products)
-- Quality control (ensuring brand standards)
-
-Production goods are not bespoke but maintain quality standards. A mass-produced item bearing a Vega brand is still better than alternatives—just not unique.
-
-### The Showrooms
-
-Where products meet buyers.
-
-Showrooms serve:
-
-- Wholesale buyers (placing orders for external retail)
-- House representatives (reviewing production)
-- Selected visitors (tourism, media)
-
-The showroom experience is curated. Buyers move through designed spaces, encountering products in flattering contexts. The selling begins before prices are discussed.
-
----
-
-## The Brand Economy
-
-### Hierarchy
-
-Brands occupy tiers:
-
-|Tier|Character|Example|
-|---|---|---|
-|Haute|Bespoke, limited, artisan-produced|House Cassiline couture|
-|Premium|High-quality, controlled distribution|Major house standard lines|
-|Accessible|Licensed production, broader availability|Secondary brands|
-|Mass|Volume production for general markets|Few Vega brands operate here|
-
-Movement between tiers is rare. A brand positioned as haute loses credibility producing accessible goods; an accessible brand cannot simply declare itself premium.
-
-### Brand Protection
-
-Authenticity is paramount.
-
-The Manufactories maintain:
-
-- Certification systems (verifying genuine products)
-- Anti-counterfeiting technology (embedded markers)
-- Legal enforcement (prosecuting imitators)
-- Market monitoring (detecting fakes in circulation)
-
-Counterfeiting threatens the entire system. If customers cannot trust that a Vega-branded product is genuine, the brand premium collapses.
-
-### House Relationships
-
-Major houses control major brands:
-
-|House|Brands|Specialisation|
-|---|---|---|
-|Cassiline|Cassiline Couture, Silken Thread|Fashion, textiles|
-|Therenne|Gilded, Aureate|Jewellery, precious materials|
-|Valdorian|Valdorian Lifestyle|Fashion-adjacent, entertainment merchandise|
-|Aurelian|Crown Series|Ceremonial goods, traditional crafts|
-
-Houses may own multiple brands at different tiers; brand identity is distinct from house identity.
-
----
-
-## Craft and Labour
-
-### The Artisan Tradition
-
-Craft production requires human skill.
-
-An artisan:
-
-- Trains for years (apprenticeship under established masters)
-- Specialises narrowly (a jeweller does not make textiles)
-- Produces limited quantities (scarcity maintains value)
-- Signs work (individual identity attached to products)
-
-Artisan status is respected. A master craftsman may not be wealthy by aristocratic standards, but commands genuine prestige.
-
-### Manufacturing Labour
-
-Production workers have different experiences.
-
-Manufacturing workers:
-
-- Receive adequate wages
-- Work regular schedules
-- Have limited advancement prospects
-- Are largely interchangeable
-
-The work is not harsh—Vega is not a sweatshop economy—but it is not fulfilling. Workers produce luxury goods they cannot afford, for customers they will never meet.
-
-### The Guild System
-
-Craft workers organise through guilds:
-
-|Guild|Coverage|
-|---|---|
-|Tailors' Guild|Textile crafts|
-|Jewellers' Guild|Precious materials|
-|Furniture Guild|Wood, furnishings|
-|Leatherworkers' Guild|Leather goods|
-
-Guilds:
-
-- Set training standards
-- Certify artisan credentials
-- Mediate disputes
-- Maintain quality traditions
-
-Guild authority is limited—houses ultimately control production—but guilds preserve craft knowledge that individual houses might neglect.
-
----
-
-## Materials
-
-### Sourcing
-
-Luxury goods require luxury materials.
-
-The Manufactories import:
-
-|Material|Source|Use|
-|---|---|---|
-|Silks|Agricultural worlds, specialised production|Textiles|
-|Precious metals|Mining operations throughout Throne space|Jewellery, decoration|
-|Rare woods|Forest preserves, aged stocks|Furniture|
-|Exotic materials|Various (including off-Throne sources)|Special applications|
-
-Material quality is verified and documented. Provenance matters—customers pay premiums for materials with distinguished origins.
-
-### The Workshops
-
-Materials are processed before use:
-
-- Fabrics treated and prepared
-- Metals refined and alloyed
-- Woods seasoned and stabilised
-- Components pre-fabricated
-
-The Workshops employ specialists whose skills are not visible in finished products but determine final quality.
-
----
-
-## Notable Locations
-
-### The Cassiline Atelier
-
-House Cassiline's primary design studio.
-
-The Atelier is where Vega fashion originates. Designers work in spaces designed to inspire; the environment is part of the creative process.
-
-Collections debut here before reaching external markets. Industry observers attend showings; what emerges from the Atelier shapes fashion across human space.
-
-### The Gilded Vault
-
-House Therenne's precious materials storage.
-
-The Vault contains:
-
-- Gold and platinum reserves
-- Gemstone inventory (cut and uncut)
-- Rare materials awaiting use
-- Historic pieces preserved for reference
-
-Security is intense. The Vault's contents are worth more than many planetary economies.
-
-### The Certification Hall
-
-Where products receive authentication.
-
-Items passing through certification receive:
-
-- Physical markers (embedded, not visible without tools)
-- Database registration (tracked throughout product lifetime)
-- Documentation (provenance certificates)
-
-Certification is the gateway between production and market. Uncertified goods cannot be sold as authentic.
-
-### The Archive
-
-The Manufactories' design archive.
-
-The Archive preserves:
-
-- Historical designs (centuries of production)
-- Material samples (what was available when)
-- Production records (how things were made)
-- Market data (what sold, where, for how much)
-
-Designers consult the Archive when developing new collections; the past informs the present.
-
----
-
-## Characters
-
-### Master Artisan Kell Soren
-
-A jeweller of extraordinary reputation.
-
-Soren has worked for sixty years. His pieces are recognisable—a particular way of setting stones, a distinctive approach to metal finishing. Collectors seek his work specifically.
-
-He trains apprentices carefully:
-
-> "The hand learns what the mind cannot teach. You must do the work ten thousand times before you understand it."
-
-He has declined noble commissions when the requested work did not interest him. The ability to refuse demonstrates his status.
-
-### Designer Lyric Vane
-
-A rising fashion designer working with House Cassiline.
-
-Vane emerged from the academy five years ago with distinctive ideas. Cassiline signed her; her first collection received attention; her second received acclaim.
-
-She is aware of her position's fragility:
-
-> "They love me now. They'll love someone else later. What matters is the work while I can do it."
-
-Her designs reference historical Vega aesthetics through contemporary techniques. Critics call her "nostalgic modernist"; she dislikes the label but accepts its marketing value.
-
-### Quality Director Tam Essien
-
-The Certification Hall's senior official.
-
-Essien has rejected products from every major house. His judgement is final; houses may appeal, but rarely succeed.
-
-He is not popular. But he is necessary:
-
-> "If I approved substandard work, the system collapses. Everyone knows this. They still resent me for it."
-
-His own consumption is modest—he buys little, owns less, and lives in a small apartment far from the Manufactories' luxury.
-
----
-
-_Additional detail to be documented as developed._
+Tam Essien is the Manufactories in one man: the meaning Vega sells is real only because someone unglamorous and incorruptible, far from the frame, refuses to let it be faked.
 
 ---
 
@@ -7558,302 +5208,51 @@ _Additional detail to be documented as developed._
 
 # The Radiant Court
 
-The royal palace complex and seat of government for the Vega Commercial Throne.
+The Radiant Court is the stage on which the whole performance is judged, and like every stage it is mostly machinery and crew. A city in itself—fifty square kilometres of complex in five hundred of grounds, some two hundred thousand people—it houses the institutions of government beside the ceremonial spaces where the aristocracy performs itself, and it is run, almost entirely, by the unseen.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Location | Aurelian continent, Lyra |
+| Area | ~50 km² complex; ~500 km² grounds |
+| Population | ~200,000 (staff, residents, permanent visitors) |
+| Character | Ceremonial, administrative, residential |
 
-|Attribute|Value|
-|---|---|
-|Location|Aurelian continent, Lyra|
-|Area|~50 km² (complex); ~500 km² (grounds)|
-|Population|~200,000 (staff, residents, permanent visitors)|
-|Character|Ceremonial, administrative, residential|
+## The complex
 
-The Radiant Court is not merely a palace—it is a city in itself, housing the institutions of government alongside the ceremonial spaces where aristocratic culture performs itself.
+At its heart is the **Central Palace**—the Throne Hall for formal audiences, the Great Gallery, the Council Chamber, the royal apartments—old at its core and layered with centuries of additions, each expressing its era's taste while pretending continuity with the last. Around it sit the **administrative districts** (the Ministries, the Courts, the Archives, the Exchequers), the working buildings where the civil service operates the Throne's machinery; the **Noble Quarters**, where visiting aristocrats are housed in accommodation graded precisely to rank, an archduke's townhouse a small palace and a baron's suite merely comfortable; and the **Commercial Exchanges**, where business meets government because proximity to the Throne is itself a tradeable asset.
 
-## Structure
+## The performance, judged
 
-### The Central Palace
+The court year is built around great occasions—the Ascension Ball at the new year, the **Commercial Review** where the houses present their numbers and the rankings are published, the Founder's Festival, the Harvest Gala—with smaller functions filling every week of the peak season. Attendance is not optional: each rank owes a calibrated minimum of presence, and absence without an excuse accepted by the Chamberlain's office reads as disloyalty.
 
-The monarch's residence and the complex's ceremonial heart.
+What governs every interaction is **precedence**—who stands where, enters when, speaks in what order—determined by rank, then seniority, then *current commercial standing*, then royal favour. That third term is the Vega twist: the precedence lists are updated quarterly, so a house rising in the market is placed, visibly, ahead of an older house in decline, and the whole court reads the seating like a stock ticker. Nothing here is private. A casual remark may be noted, interpreted, and reported by nightfall; the performance never stops, because the judging never does.
 
-|Space|Function|
-|---|---|
-|The Throne Hall|Formal audiences; major ceremonies|
-|The Great Gallery|Art display; social functions|
-|The Council Chamber|Cabinet meetings; policy deliberation|
-|Royal Apartments|Monarch's private residence|
-|Guest Wings|Visiting dignitaries; family overflow|
+## The two hundred thousand
 
-The Central Palace is old—sections date to the Throne's founding—and has been expanded, modified, and refined across centuries. The architecture layers styles, each addition expressing its era's tastes while attempting coherence with what came before.
+The Court's population is overwhelmingly the people who run it, and the figures are the truest thing about the place:
 
-### Administrative Districts
+| Category | Numbers | Role |
+|----------|---------|------|
+| Commercial services | ~80,000 | Exchanges, banking, retail |
+| Administrative civil servants | ~50,000 | Government functions |
+| Maintenance | ~30,000 | Physical plant, grounds |
+| Security | ~20,000 | Guard presence, grounds |
+| Ceremonial staff | ~10,000 | Event production, protocol |
+| Household servants | ~5,000 | Direct royal service |
 
-Government functions occupy dedicated areas:
+Nineteen in twenty people at the Radiant Court are there to make the other one in twenty look effortless. Court service carries status—"served at the Court" opens doors elsewhere—but it is service, and the grandeur everyone travels to see is produced, continuously and invisibly, by the people standing just outside the frame of it. The **petitioners** who come seeking royal attention are taught the same lesson from the other side: they wait in designated areas, submit through proper channels, and may wait weeks or receive no answer at all—an experience designed, with no particular malice, to communicate that royal attention is valuable and owed to no one.
 
-|District|Function|
-|---|---|
-|The Ministries|Executive administration|
-|The Courts|Judicial functions|
-|The Archives|Records, documentation, legal deposit|
-|The Exchequers|Financial administration, revenue|
+## The Queen, behind the layers
 
-These are working buildings—functional rather than ceremonial—housing the civil servants who operate the Throne's machinery.
+Queen Lysandra IV is not constantly visible; she appears at the functions that require her and the occasions she chooses, and her absence is noted as sharply as her presence is prized. Reaching her means passing through layers, each with its gatekeeper—court presence through the Chamberlain's office, noble audience through the **Lord Chamberlain**, private audience through the **Queen's Secretary**, informal contact through the royal family itself. Most never pass the first. The household that controls those layers is quietly among the most powerful bodies in Vega:
 
-### The Noble Quarters
+- **Duke Vasilis Therenne**, Lord Chamberlain—gatekeeper to the Queen for nineteen years; meticulous, discreet, feared, loyal to the Throne rather than to any house, and careful to keep his own house's benefit from his position within tolerable bounds.
+- **Lady Celeste Aurum**, the Queen's Secretary—controller of the royal schedule, risen from modest minor nobility on civil-service competence, loyal to Lysandra personally; what reaches the Queen's attention, Aurum decides.
+- **Sir Marcus Varn**, Captain of the Guard, and **Countess Elara Silven**, Mistress of the Robes—the inner ring, controlling the body and the image of the sovereign.
 
-Visiting aristocrats require appropriate accommodation.
+## Notable spaces
 
-The Noble Quarters provide:
-
-- Townhouses for archducal families (permanent presence)
-- Apartments for ducal visitors (seasonal occupation)
-- Guest suites for lesser nobility (temporary stays)
-
-Accommodation quality reflects rank. An archduke's townhouse is a small palace; a baron's guest suite is merely comfortable.
-
-### The Commercial Exchanges
-
-Where business meets government.
-
-The Exchanges provide:
-
-- Trading floors (securities, commodities, contracts)
-- Meeting rooms (negotiations between houses)
-- Information services (market data, news feeds)
-- Banking facilities (major financial institutions maintain presence)
-
-Proximity to government is the point. Decisions affecting commerce are made nearby; those affected want to know immediately.
-
----
-
-## Ceremonial Functions
-
-### The Social Calendar
-
-Court functions structure the aristocratic year:
-
-| Event                  | Timing | Character                               |
-| ---------------------- | ------ | --------------------------------------- |
-| The Ascension Ball     | 1, 1/1 | New year celebration; full formal dress |
-| The Commercial Review  | 5, 2/1 | Annual reports; public rankings         |
-| The Queen's Birthday   | 6, 3/5 | Royal celebration; invited guests       |
-| The Founder's Festival | 7, 1/1 | Historical commemoration                |
-| The Harvest Gala       | 9, 3/1 | Season finale; major social event       |
-
-Between these anchors, smaller functions occur continuously—receptions, dinners, performances, informal gatherings.
-
-### Attendance Requirements
-
-Noble houses must attend certain functions:
-
-|House Rank|Required Attendance|
-|---|---|
-|Archducal|All major events; regular minor presence|
-|Ducal|Major events; periodic minor attendance|
-|Comital|Major events; occasional minor presence|
-|Baronial|Major events (at minimum)|
-
-Absence without acceptable excuse signals disloyalty. The excuse must be communicated in advance and accepted by the Chamberlain's office.
-
-### Precedence
-
-Who stands where, who enters when, who speaks in what order—precedence governs every ceremonial interaction.
-
-Precedence combines:
-
-1. Rank (archducal before ducal, etc.)
-2. Seniority within rank
-3. Current commercial standing
-4. Royal favour
-
-The Chamberlain's office maintains precedence lists, updated quarterly. Changes in ranking—a house rising commercially, another falling—are communicated through placement at events. Everyone watches; everyone understands.
-
-### The Performance
-
-Court events are performances:
-
-- Dress is carefully chosen to communicate messages
-- Conversation is strategic as well as social
-- Observation is constant
-- Reports circulate afterward
-
-Nothing at court is purely private. Even a casual conversation may be noted, interpreted, reported. Participants navigate this awareness constantly.
-
----
-
-## Daily Life
-
-### The Rhythm
-
-Court activity follows patterns:
-
-|Time|Activity|
-|---|---|
-|Morning|Administrative work; audiences with officials|
-|Midday|Informal meetings; light refreshment|
-|Afternoon|Audiences continue; petitioners received|
-|Evening|Social functions begin|
-|Night|Events continue; private gatherings|
-
-The pattern varies by season. The peak social period (months 1 through 5) is intense; the quieter months allow recovery.
-
-### Staff
-
-The Court employs thousands:
-
-|Category|Numbers|Role|
-|---|---|---|
-|Household servants|~5,000|Royal family direct service|
-|Ceremonial staff|~10,000|Event production, protocol|
-|Administrative civil servants|~50,000|Government functions|
-|Security|~20,000|Guard presence, grounds security|
-|Maintenance|~30,000|Physical plant, grounds|
-|Commercial services|~80,000|Exchanges, banking, retail|
-
-Employment at the Radiant Court carries status. "Court service" is noted on records; it opens doors elsewhere.
-
-### Petitioners
-
-Those seeking royal attention or official action:
-
-- Wait in designated areas
-- Submit petitions through proper channels
-- May wait days or weeks for response
-- May never receive response
-
-The petitioner experience is not comfortable. It is designed to communicate that royal attention is valuable, not owed.
-
----
-
-## The Queen's Presence
-
-### Visibility
-
-Queen Lysandra IV is not constantly visible. She appears at:
-
-- Required ceremonial functions
-- Selected audiences
-- Occasions she chooses
-
-Her absence from an event is noted; her presence transforms it. Guests fortunate enough to converse with her remember it.
-
-### Access
-
-Reaching the Queen requires navigating layers:
-
-|Layer|Gatekeeper|
-|---|---|
-|Court presence|The Chamberlain's office|
-|Noble audience|The Lord Chamberlain|
-|Private audience|The Queen's Secretary|
-|Informal contact|Royal family members|
-
-Most never pass the first layer. Those who do find further barriers.
-
-### The Household
-
-The Queen's immediate entourage:
-
-|Role|Current Holder|
-|---|---|
-|Lord Chamberlain|Duke Vasilis Therenne|
-|Queen's Secretary|Lady Celeste Aurum|
-|Captain of the Guard|Sir Marcus Varn|
-|Mistress of the Robes|Countess Elara Silven|
-
-These positions are powerful. Their holders control access, filter information, shape perceptions.
-
----
-
-## Notable Spaces
-
-### The Throne Hall
-
-The ceremonial heart.
-
-A vast space designed to overwhelm—vaulted ceilings, walls of precious materials, light managed to dramatic effect. The throne itself sits on a raised dais, positioned so supplicants must look up.
-
-Formal audiences occur here: reception of ambassadors, ennobling ceremonies, major announcements. The Hall's grandeur is the point—visitors should understand that they encounter something significant.
-
-### The Mirror Gallery
-
-A display space for the royal art collection.
-
-The Gallery runs 400 metres, walls lined with masterworks accumulated across centuries. Diplomatic receptions occur here; the art is both aesthetic achievement and statement of wealth.
-
-Walking the Gallery with a knowledgeable guide takes hours. Most visitors manage only highlights.
-
-### The Star Gardens
-
-Exterior grounds designed for evening events.
-
-The Gardens are planted with bioluminescent species that glow after dark—paths of soft light winding through designed landscapes. Night events in the Star Gardens are prestigious invitations; the setting is genuinely beautiful.
-
-### The Commercial Floor
-
-The main trading hall of the Exchanges.
-
-Less decorative than ceremonial spaces—functionality matters here. Screens display prices; traders move with purpose; the sound is constant murmur punctuated by raised voices.
-
-Business continues regardless of court events. When the Ascension Ball proceeds in the Central Palace, trades clear in the Exchanges.
-
----
-
-## Security
-
-### The Royal Guard
-
-Guard presence is constant but unobtrusive:
-
-- Uniformed guards at ceremonial posts
-- Plain-clothed protection moving through crowds
-- Technical surveillance throughout
-- Response teams positioned for rapid deployment
-
-The Court has not faced a serious security incident in decades. This is not chance.
-
-### Access Control
-
-Entering the complex requires:
-
-|Area|Requirement|
-|---|---|
-|Outer grounds|Registration; appointment for business areas|
-|Inner complex|Court pass (issued to authorised individuals)|
-|Palace areas|Specific invitation or permanent authorisation|
-|Royal apartments|Guard escort; royal summons|
-
-The layers filter traffic. Most visitors never pass the outer administrative areas.
-
----
-
-## Characters
-
-### Duke Vasilis Therenne
-
-The Lord Chamberlain—gatekeeper to the Queen.
-
-Therenne has held the position for nineteen years. He is:
-
-- Meticulous (no detail escapes attention)
-- Discreet (knows everything; reveals nothing)
-- Feared (his displeasure closes doors)
-- Loyal (to the Queen, not to any house)
-
-His own house benefits from his position; he is careful to manage that benefit within acceptable limits.
-
-### Lady Celeste Aurum
-
-The Queen's Secretary—manager of royal time and attention.
-
-Aurum controls the Queen's schedule. Requests for audience pass through her; she determines what reaches the Queen's attention.
-
-Her background is modest—minor nobility, unremarkable before her appointment. She rose through civil service competence. Her loyalty to the Queen is personal as well as professional.
-
----
-
-_Additional detail to be documented as developed._
+The **Throne Hall** is built to overwhelm—vaulted, vast, the throne raised so that supplicants must look up—and stages the receptions, ennoblings, and major announcements that are Vega power made visible. The **Mirror Gallery** runs four hundred metres of accumulated masterworks, aesthetic achievement and statement of wealth in one corridor. The **Star Gardens**, planted with species that glow after dark, host the prestige evening functions and are genuinely beautiful. And the **Commercial Floor** of the Exchanges hums on through all of it—when the Ascension Ball turns in the Central Palace, the trades still clear next door, because in Vega the performance and the business were never two different things.
 
 ---
 
@@ -7862,255 +5261,43 @@ _Additional detail to be documented as developed._
 
 # Stellavista
 
-The entertainment industry's production centre, orbiting Lyra.
+Stellavista films the most enviable lives in human space, and is populated by some of the most precarious. The entertainment orbital above Lyra—roughly twelve million people across a complex of studios, residences, and the infrastructure that keeps content flowing to audiences everywhere—is where the charmed life is manufactured, frame by frame, by a workforce living the opposite of it. It is the clearest single illustration of the whole Vega bargain: the glamour is real, the labour behind it is real, and the two almost never share a cafeteria.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Location | Lyra high orbit |
+| Population | ~12 million |
+| Gravity | Variable (0.3–1.0 G by section) |
+| Character | Production facilities, talent residences, industry infrastructure |
 
-|Attribute|Value|
-|---|---|
-|Location|Lyra high orbit|
-|Population|~12 million|
-|Character|Production facilities, talent residences, industry infrastructure|
-|Gravity|Variable (0.3–1.0 G depending on section)|
+## The machine
 
-Stellavista is where Vega entertainment is made.
+Concentric **Production Rings** house the major studios at varying gravities—the Outer Ring for Radiant's prestige drama and Eventide's immersive work, the Middle for Cascade's music and the smaller houses, the Inner for the royal Starfire and the technical facilities. The **Talent Quarter** is where performers live, in residences graded from a star's luxury to an aspirant's shared dormitory; living there is privilege and constraint at once, close to the work and close to the observation. The **Processing Centres** finish nearly all Vega content—editing, effects, sound, quality control—and the **Distribution Hub** is where it leaves for human space. The Hub is the chokepoint, and House Valdorian's grip on it, along with its studios, is exactly the leverage that makes the house's dominance more than a matter of market share. See [House Valdorian](../houses/house-valdorian.md) and [Media](../media.md).
 
-The station complex houses studios, post-production facilities, performer residences, and the supporting infrastructure that keeps content flowing to audiences across human space.
+## The hierarchy, made literal
 
-## Structure
+| Level | Status | Life |
+|-------|--------|------|
+| Stars | Highest | Luxury residences; personal staff; every comfort |
+| Established talent | High | Good housing; choice of work |
+| Working professionals | Middle | Adequate housing; steady employment |
+| Aspirants | Low | Shared quarters; ceaseless competition |
+| Support staff | Variable | The crews who build it all |
 
-### The Production Rings
+The hierarchy is not abstract here. Different levels eat in different cafeterias; residential areas are separated; social mixing is limited and noticed. Stellavista renders the seen and the unseen as architecture, floor by floor.
 
-Concentric rings housing major studios:
+## The aspirants
 
-|Ring|Studios|Character|
-|---|---|---|
-|Outer Ring|Radiant Productions, Eventide|Prestige drama, immersive|
-|Middle Ring|Cascade Entertainment, smaller houses|Music, variety|
-|Inner Ring|Starfire Studios, technical facilities|Royal productions, post-production|
+Young hopefuls arrive constantly, from across Vega space and beyond, carrying training and talent and savings into a competition almost all of them will lose. Housing is dear, work is scarce, the savings drain, and the years pass without a breakthrough; a realistic assessment would send most of them home, and the industry is careful never to encourage a realistic assessment, because it needs the crowd of the failing to make the few who succeed mean anything. The predictable costs—substance use, mental-health collapse, the exploitation desperate people accept—are known and not prioritised. The industry needs what it produces; the individual casualties are, in the unsentimental phrase the place uses about itself, acceptable losses.
 
-Each ring maintains different gravity and atmosphere—some productions require specific conditions; the variable environment accommodates diverse needs.
+## The people of the station
 
-### The Talent Quarter
+- **Vex Calder**, a former star two decades past his fame, now taking supporting parts and teaching master classes, managing a smaller apartment with care and no visible bitterness. *"The industry takes what it needs and discards the rest. I gave good years; I received good payment. Complaining would be unseemly."* He is the seen, after the seeing stops—the proof that the discarding reaches even the top.
+- **Mira Thrace**, an aspirant from Deneb Reach three years in, savings nearly gone, sharing a dormitory with three others, still auditioning. *"Ask me again next year. Either I'll have broken through, or I'll have gone home. Either way, I'll know."* She is the unseen, hoping to be seen, and statistically she will go home.
+- **Director Cassia Norn**, one of Radiant's senior directors, thirty years of prestige productions, recognisable style, uninterested in celebrity and modest by Stellavista standards, reinvesting her earnings into work she believes in. *"The work is the point. The rest is noise."* She is the rare third thing—seen for the work rather than the face, which in Vega is the only kind of being seen that lasts.
 
-Where performers live.
+## Where they meet
 
-The Quarter provides:
-
-- Long-term residences (for established talent under contract)
-- Short-term apartments (for productions requiring temporary presence)
-- Amenities (recreation, services, social spaces)
-- Security (protecting valuable assets from unwanted attention)
-
-Living in the Talent Quarter is both privilege and constraint. Residents are close to work; they are also under observation.
-
-### The Processing Centres
-
-Post-production facilities:
-
-- Editing suites (thousands)
-- Effects rendering (massive computational capacity)
-- Sound stages (recording and mixing)
-- Quality control (review before distribution)
-
-Most content passes through these centres. A production shot elsewhere still requires Stellavista processing before release.
-
-### The Distribution Hub
-
-Where content leaves for audiences:
-
-- Broadcast and feed-syndication facilities (system transmission; master-feed uplink to courier relays)
-- Media preparation (formatting for various markets)
-- Archival (master copies preserved)
-- Rights management (tracking licences and usage)
-
-The Hub is the chokepoint. All major Vega entertainment passes through; control of the Hub confers leverage.
-
----
-
-## Industry Culture
-
-### The Hierarchy
-
-Stellavista society reflects industry structure:
-
-|Level|Status|Life|
-|---|---|---|
-|Stars|Highest|Luxury residences; personal staff; every comfort|
-|Established talent|High|Good housing; industry respect; work choices|
-|Working professionals|Middle|Adequate housing; steady employment|
-|Aspirants|Low|Shared quarters; competition for opportunities|
-|Support staff|Variable|Depends on employer and role|
-
-The hierarchy is visible. Different cafeterias serve different levels; residential areas are separated; social mixing is limited.
-
-### Competition
-
-Competition is constant:
-
-- For roles (more aspirants than positions)
-- For projects (producers court desirable talent)
-- For attention (media coverage, audience awareness)
-- For longevity (entertainment careers are fragile)
-
-The pressure produces excellence and casualties. Those who cannot maintain performance are replaced; the system generates both stars and wreckage.
-
-### The Aspirant Experience
-
-Young hopefuls arrive constantly.
-
-They come from across Vega space and beyond, seeking entertainment careers. Most will fail:
-
-- Housing is expensive (shared dormitories are common)
-- Work is scarce (competition is intense)
-- Living costs deplete savings
-- Years pass without breakthrough
-
-Some succeed—enough to maintain the dream. But realistic assessment suggests most aspirants would be better served by alternative careers.
-
-The industry does not encourage realistic assessment.
-
-### Substance and Pressure
-
-The combination of competition, visibility, and instability produces predictable problems:
-
-- Substance use (managing anxiety, enhancing performance, coping)
-- Mental health challenges (the pressure is genuinely destructive)
-- Exploitation (desperate people accept unfavourable arrangements)
-
-These issues are known but not prioritised. The industry needs what it produces; individual casualties are acceptable losses.
-
----
-
-## Major Studios
-
-### Radiant Productions
-
-House Valdorian's prestige studio.
-
-|Metric|Value|
-|---|---|
-|Current productions|23 active serials|
-|Employment|~40,000 direct|
-|Facilities|15 sound stages; 200 editing suites|
-|Revenue|~80 billion quid annually|
-
-Radiant defines prestige drama. Its productions are reference points—"Radiant quality" is industry shorthand for excellence.
-
-The studio's creative leadership rotates; no individual vision dominates. What persists is institutional culture—attention to craft, production value, long-term narrative thinking.
-
-### Cascade Entertainment
-
-House Valdorian's music division.
-
-|Metric|Value|
-|---|---|
-|Signed artists|~2,000|
-|Annual releases|~500 albums/recordings|
-|Touring operations|Continuous across human space|
-|Revenue|~30 billion quid annually|
-
-Cascade manages music from development through distribution. An artist signs with Cascade for career support: training, production, promotion, touring, merchandise. In exchange, Cascade takes a substantial share.
-
-The arrangement benefits successful artists enormously; it also binds them. Leaving Cascade means losing its support infrastructure.
-
-### Starfire Studios
-
-The royal house's direct entertainment operation.
-
-Starfire produces:
-
-- News programming (through Stellar Networks)
-- General entertainment (various formats)
-- Ceremonial content (royal events, national celebrations)
-
-Starfire is competent but not dominant. Its value lies in royal connection rather than creative excellence.
-
----
-
-## Notable Locations
-
-### The Promenade
-
-Stellavista's public entertainment district.
-
-The Promenade offers:
-
-- Performance venues (live shows for station residents and visitors)
-- Restaurants and bars (industry gathering places)
-- Retail (entertainment merchandise, fan services)
-- Tourism facilities (tours of production areas)
-
-The Promenade is where industry people relax, meet, network. Career opportunities emerge from Promenade conversations as often as from formal processes.
-
-### Studio 7
-
-Radiant Productions' most famous sound stage.
-
-_The Amber Throne_ has filmed in Studio 7 for sixty-seven seasons. The space has become associated with the production; tours include it; industry people reference it reverently.
-
-The stage itself is unremarkable—a large room with configurable walls and advanced lighting. The significance is cultural.
-
-### The Audition Halls
-
-Where aspirants test their futures.
-
-The Halls process thousands of auditions daily:
-
-- Scheduled appointments for represented talent
-- Open calls for specific productions
-- Continuous casting for background and minor roles
-
-The experience is dispiriting. Aspirants wait, perform briefly, receive vague responses, and wait again. Most auditions lead nowhere.
-
-### The Observation Deck
-
-A public area with views of Lyra below.
-
-The Deck is a tourist attraction—spectacular views, reasonable refreshments—and a meeting point for industry people who want to converse without being overheard in the Promenade.
-
----
-
-## Characters
-
-### Vex Calder
-
-A former star navigating career decline.
-
-Calder was famous twenty years ago—lead roles in multiple successful serials, critical acclaim, wealth. Then the roles diminished. Now he takes supporting parts, teaches master classes, and manages his remaining assets.
-
-He is philosophical about his trajectory:
-
-> "The industry takes what it needs and discards the rest. I gave good years; I received good payment. Complaining would be unseemly."
-
-His apartment in the Talent Quarter is smaller than it was; he maintains it well.
-
-### Mira Thrace
-
-An aspirant from Deneb Reach.
-
-Thrace arrived three years ago with training, some talent, and determination. She has worked: background roles, commercial voiceovers, one small speaking part that led to nothing.
-
-Her savings are nearly exhausted. She shares a dormitory room with three others. She continues to audition.
-
-Asked if she regrets coming:
-
-> "Ask me again next year. Either I'll have broken through, or I'll have gone home. Either way, I'll know."
-
-### Director Cassia Norn
-
-One of Radiant's senior directors.
-
-Norn has helmed prestige productions for three decades. Her visual style is recognisable; critics debate her choices; younger directors study her work.
-
-She is not interested in celebrity:
-
-> "The work is the point. The rest is noise."
-
-She lives modestly by Stellavista standards, reinvesting earnings into productions she cares about.
-
----
-
-_Additional detail to be documented as developed._
+The **Promenade** is the public entertainment district and the station's real marketplace of careers, where opportunities surface in conversation as often as in any formal process. **Studio 7**, where _The Amber Throne_ has filmed for sixty-seven seasons, is an unremarkable room made sacred by association, included reverently on the tours. The **Audition Halls** process thousands of hopefuls a day through a dispiriting liturgy of waiting, brief performance, and vague response. And the **Observation Deck**, with its view of Lyra turning below, is where industry people go to talk without being overheard—and, sometimes, simply to look down at the world that watches everything they make and will never know a single one of their names.
 
 ---

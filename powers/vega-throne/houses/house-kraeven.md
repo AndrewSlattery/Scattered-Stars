@@ -1,185 +1,41 @@
 # House Kraeven
 
-A cautionary tale: the archducal house destroyed by the Banking War.
+Shadowmere stands empty on the Aurelian continent, maintained just enough not to fall down, and that is precisely what the Queen wants: a great house turned into a sentence the others read every day. House Kraeven is the market's honesty made into a monument—the proof that even archducal rank is no shield, kept visible on purpose so that no one forgets it. Every house knows the Kraeven story. Every house, in its quiet hours, runs the arithmetic Kraeven failed.
 
-## Overview
+| Attribute | Value |
+|-----------|-------|
+| Former rank | Archducal |
+| Former specialisation | Finance, investment, complex instruments |
+| Status | **Attainted** (3840 C) |
+| Current head | None (house dissolved) |
+| Shadowmere estate | Empty; maintained at minimum |
 
-|Attribute|Value|
-|---|---|
-|Former Rank|Archducal|
-|Former Specialisation|Finance, investment, complex instruments|
-|Status|Attainted (3840 C)|
-|Current Head|None (house dissolved)|
-|Shadowmere Estate|Empty; maintained at minimum|
+## The rise, and the instruments
 
-House Kraeven no longer exists. Its story persists as warning.
+Kraeven climbed to archducal status on financial innovation, and by 3800 C it was woven into the foundations of Vega commerce—every major house used its instruments, the royal treasury employed its managers. The instruments were the house's genius and its grave: **Cascade Notes**, layered obligations in which the returns from one investment funded the next; **Temporal Arbitrage Bonds**, exploiting the communication lag between systems; **Risk Tranches**, slicing commercial risk into tradeable segments. They returned more than conventional investments and concentrated risk in ways their buyers never fully understood—which was fine, and profitable, and stable, right up until the assumptions underneath them stopped being true.
 
-## History
+## The collapse
 
-### Rise
+The Banking War broke the assumptions. Trade routes that were supposed to function stopped; counterparties that were supposed to pay could not; assets that were supposed to hold value evaporated. And because Kraeven's instruments were *everywhere*, the failure cascaded—the most leveraged products failed, the institutions holding them sold other Kraeven products to cover the losses, the selling drove prices down, more products failed, faster. Within months the house's debts exceeded its assets not by percentages but by multiples. There was no managing it, though former Lord **Varen Kraeven**—not a malicious man, only a confident one who believed his own models—tried, and failed, and watched the house come down.
 
-House Kraeven achieved archducal status through financial innovation.
+## The attainder
 
-The house developed:
+The Throne's response, in 3840 C, one year after the war, was the first attainder of an archducal house in two centuries: rank stripped, licences revoked, assets seized for the creditors, the family reduced to common status. The message needed no explanation. Commercial failure has consequences, the Throne said, all the way to the top—and it meant it, which is the entire point of having said it. The market's honesty, which had made Kraeven rich, unmade it completely, and the system did not so much as flinch.
 
-- Complex investment instruments
-- Risk management techniques
-- Cross-system arbitrage strategies
-- Financing structures for other houses
+## The fall from the light
 
-By 3800 C, Kraeven was essential to Vega's financial architecture. Every major house used Kraeven instruments; the royal treasury employed Kraeven managers.
+What attainder does is not death but *erasure*—the total fall from the seen into the unseen, and the Kraeven survivors trace its whole arc:
 
-### The Instruments
+- **Varen Kraeven**, who kept his life and lost everything else, tried to rebuild as a commoner and died in 3855 C, broken by it. Former archdukes are news when they fall; fifteen years on, they are nothing in particular.
+- **Lady Serene**, his wife, retreated to her birth house among the minor nobility.
+- **Lady Vera**, a daughter, married into minor Mandate nobility—rank recovered, in another empire's currency.
+- **Lord Caspar**, a son, is rumoured somewhere in the Freeholds; the family is not sure.
+- **Lord Dorian**, the heir who would have led the house, now works as a financial analyst in Aurelius City—one of many, distinguished only by his name, which he explains reluctantly.
 
-Kraeven's signature products were sophisticated:
+Dorian has spoken of the collapse only rarely, and with a flatness that may be acceptance or may be the last discipline left to him. *"We believed our models. The models were wrong. Everything else follows from that."* Asked whether he resents the Throne's response: *"The attainder was correct. We failed. What else should have happened?"* Whether that is genuine or simply what a ruined man must say to keep breathing in Vega, no one can tell, possibly including him.
 
-- **Cascade Notes**: Layered obligations where returns from one investment funded the next
-- **Temporal Arbitrage Bonds**: Exploiting communication lag between systems
-- **Risk Tranches**: Slicing commercial risks into tradeable segments
+## The empty chair
 
-These instruments generated returns exceeding conventional investments. They also concentrated risks in ways their purchasers did not fully understand.
+The collapse left two monuments. The first is regulatory: the post-Kraeven rules that constrain financial innovation—disclosure for complex instruments, monitored leverage, the Exchequer's enhanced oversight—which make another such collapse less likely and also throttle the financial sector that might have recovered. Vega once contended with Arrhenos in interstellar finance; after Kraeven it does not, and the lost ground has not been retaken. See [Economy](../economy.md).
 
-### The Collapse
-
-When the Banking War began, Kraeven instruments were everywhere.
-
-The war disrupted the assumptions underlying the instruments:
-
-- Trade routes that were supposed to function stopped functioning
-- Counterparties that were supposed to pay could not pay
-- Assets that were supposed to be valuable became worthless
-
-The collapse cascaded:
-
-1. Kraeven's most leveraged instruments failed
-2. Institutions holding those instruments faced losses
-3. Those institutions sold other Kraeven instruments to cover losses
-4. Selling pressure drove prices down
-5. Further instruments failed
-6. The cycle accelerated
-
-Within months, Kraeven's financial position was impossible. Debts exceeded assets by factors, not percentages.
-
-### Attainder
-
-The Throne's response was decisive.
-
-In 3840 C—one year after the war's end—House Kraeven was formally attainted:
-
-- Noble status stripped
-- Commercial licences revoked
-- Assets seized for distribution to creditors
-- Family members reduced to commoner status
-
-The attainder was the first of an archducal house in two centuries. Its message was clear: commercial failure has consequences even at the highest levels.
-
-## The Kraeven Legacy
-
-### Financial Regulations
-
-Post-Kraeven regulations constrain financial innovation:
-
-- Complex instruments require disclosure
-- Leverage ratios are monitored
-- Systemic risk is assessed
-- The Exchequer has enhanced oversight powers
-
-These regulations make another Kraeven-style collapse less likely. They also constrain financial activity that might be productive.
-
-### Reputational Effects
-
-Vega's reputation for financial sophistication was damaged.
-
-Before Kraeven, Vega competed with Arrhenos in financial services. After Kraeven, that competition effectively ended. Arrhenos now dominates interstellar finance; Vega is a client rather than competitor.
-
-This shift persists. Twenty-three years later, Vega has not rebuilt its financial sector to pre-war prominence.
-
-### The Empty Estate
-
-Shadowmere, the Kraeven estate on Lyra, stands empty.
-
-The Throne seized the estate but has not redistributed it. The buildings are maintained at minimum levels—basic security, structural preservation, nothing more.
-
-The estate serves as monument to failure. Visitors to the Aurelian continent see it: a great house, empty, decaying slowly.
-
-Some have suggested the Throne should grant Shadowmere to a rising house. Queen Lysandra IV has declined. The empty estate serves purposes a occupied one would not.
-
-## The Kraeven Family
-
-### Former Lord Varen Kraeven
-
-The head of house at the collapse.
-
-Varen Kraeven was not malicious. He was confident—perhaps overconfident—in instruments his house had developed. When the collapse began, he attempted to manage it; the attempt failed.
-
-After attainder, Varen Kraeven:
-
-- Lost his title, his estate, his position
-- Retained his life (attainder does not require execution)
-- Attempted to rebuild as a commoner
-- Died in 3855 C, broken by the experience
-
-His death was unremarkable. Former archdukes are news when they fall; fifteen years later, they are forgotten.
-
-### Survivors
-
-Other family members scattered:
-
-|Member|Fate|
-|---|---|
-|Lady Serene (wife)|Returned to her birth house (minor nobility)|
-|Lord Dorian (heir)|Works as financial analyst in Aurelius City|
-|Lady Vera (daughter)|Married into minor Mandate nobility|
-|Lord Caspar (son)|Location unknown; rumoured in the Freeholds|
-
-The family name persists but carries stigma. Those who bear it explain their history reluctantly.
-
-### Lord Dorian Kraeven
-
-The former heir now works as a financial analyst—one of many, distinguished only by his name.
-
-He has spoken rarely about the collapse:
-
-> "We believed our models. The models were wrong. Everything else follows from that."
-
-Asked if he resents the Throne's response:
-
-> "The attainder was correct. We failed. What else should have happened?"
-
-Whether this acceptance is genuine or performed for survival is unclear.
-
-## Lessons
-
-### What Kraeven Teaches
-
-The Kraeven collapse demonstrates several principles:
-
-**Markets can fail.** Instruments that worked for decades can stop working suddenly.
-
-**Complexity obscures risk.** Kraeven's instruments were sophisticated; their sophistication hid their vulnerabilities.
-
-**Systemic effects matter.** Kraeven's failure damaged institutions throughout Vega; the house could not fail alone.
-
-**Status does not protect.** Archducal rank did not prevent attainder when commercial failure was severe enough.
-
-### What Kraeven Does Not Teach
-
-The collapse offers ambiguous lessons:
-
-**Should innovation be constrained?** Kraeven's instruments were innovative; they also failed. Post-Kraeven regulation constrains innovation—but also constrains growth.
-
-**Was the punishment proportional?** Attainder destroyed a family. Some argue the response was excessive; others argue it was necessary.
-
-**Could the collapse have been prevented?** Perhaps—with different regulation, different oversight, different decisions. Or perhaps not; perhaps the pressures that produced Kraeven would produce something similar eventually.
-
----
-
-## Notes
-
-House Kraeven is a ghost that haunts Vega's aristocracy.
-
-Every noble house knows the story. Every noble house considers, in quiet moments, whether it could happen to them.
-
-The Throne allows this fear to persist. A visible example of failure serves purposes that reassurance would not.
-
-Shadowmere stands empty, maintained barely, a reminder. The house that built it believed itself secure. It was wrong.
+The second monument is **Shadowmere** itself. The Throne seized the estate and has pointedly never redistributed it, declining every suggestion that it be granted to a rising house. It stands empty on the Aurelian continent, decaying by slow degrees, maintained at the minimum that keeps it standing—a great house's seat turned into a warning that every other house must drive past. The house that built it believed itself secure. It was wrong, and the Queen keeps the proof of how wrong exactly where the secure can see it.
