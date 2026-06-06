@@ -1,68 +1,56 @@
 # Parvati
 
-Equatorial continent of Tiamming, producing much of what the planet consumes and exports.
+Parvati makes what the Mandate consumes, and the Mandate would rather not think about Parvati. The equatorial continent of Tiamming is where the empire builds its ships, forges its weapons, processes its materials and assembles its goods—the work that keeps a civilisation running and stays, by mutual arrangement, invisible to the aristocrats in the north who enjoy its products. It is also where the citizen-subject line presses hardest, because Parvati is where the Mandate keeps most of its subjects.
 
-|Attribute|Value|
-|---|---|
-|Location|Equatorial, extending southern|
-|Population|~7 billion|
-|Subject proportion|~65% (highest on Tiamming)|
-|Character|Industrial, manufacturing, extraction|
-|Major city|Hiveholm (~2.3 billion)|
+| Attribute | Value |
+|-----------|-------|
+| Location | Equatorial, extending south |
+| Population | ~7 billion |
+| Subject share | ~65% (the highest on Tiamming) |
+| Character | Industrial, manufacturing, extraction |
+| Major city | [Hiveholm](hiveholm.md) (~2.3 billion) |
 
-## Character
+## Who works here
 
-Heavy industry, manufacturing, resource extraction—the work that keeps an empire running, largely invisible to Xuan's aristocrats. Where the Mandate _makes_ things: ships, weapons, consumer goods, processed materials.
+Sixty-five per cent subjects, the highest proportion on the throne world, for reasons that are structural rather than decreed: industrial work does not require citizenship, comfort-seeking citizens do not move to industrial regions, and status passes down the generations along with the jobs. The citizens who *are* in Parvati cluster in the roles that need legal standing or confer authority—managers, administrators, security. Subjects do the work. The pattern is not absolute, and it is not subtle.
 
-## Demographics
+## The Parvati character
 
-65% subjects—highest on Tiamming. Structural reasons: industrial work doesn't require citizenship; industrial regions don't attract comfort-seeking citizens; generations inherit status.
+There is something here the northern aristocrats lack: a practical solidarity across the citizen-subject line, forged by shared conditions. When the atmospheric scrubbers fail, everyone breathes the same bad air; when the transit seizes, everyone walks. The distinction still matters—it always matters—but it is daily and physical rather than abstract and ceremonial, and a real camaraderie grows in the gap between people doing the same hard work side by side.
 
-Citizens in Parvati are disproportionately managers, administrators, security—positions requiring legal standing or conferring authority. Subjects do the actual work. The pattern is clear though not absolute.
+And then there is the limit of that camaraderie, which is the whole truth of Parvati in a single fact: the citizen can leave, and the subject cannot. Solidarity reaches exactly as far as the door, and stops.
 
-## The Parvati Character
+## The road out
 
-Citizens and subjects share something here that northern aristocrats lack: practical solidarity. When atmospheric systems fail, everyone breathes the same bad air. When transit breaks, everyone walks.
+Parvati sends more of its subjects down the military road to citizenship than any region in the Mandate, because limited options make twenty years in uniform look like a reasonable price for transforming a family's legal future. The veterans come home with citizenship, status, and a clear-eyed ambivalence about the empire that made them buy in—and they come home, increasingly, paying close attention to the Yansieve news. See [Military](../../military.md).
 
-The citizen-subject distinction matters—always—but differently here. Daily and visible, not abstract. Camaraderie emerges across the divide. But citizens can leave; subjects cannot.
+## Major locations
 
-## Military Recruitment
+**[Hiveholm](hiveholm.md):** 2.3 billion people in a vertical industrial megacity—the largest city on Tiamming and the fullest expression of what Parvati is.
 
-Sends more subjects through military citizenship than any other region. Limited options make twenty years of service look reasonable. Veterans return with citizenship, status, and often deep ambivalence.
+**The Extraction Zones:** mining and resource processing in the interior, with harsh conditions, transient workforces, and company towns where the operating corporation simply *is* the local authority. Where the raw materials come from; where people leave the moment they can.
 
-## Major Locations
+**The Coastal Manufacturing Belt:** lighter industry along the northern coast, better conditions than the interior and proximity to shipping that makes export efficient—but industrial through and through.
 
-**Hiveholm**: 2.3 billion in a vertical industrial complex. See [[Hiveholm]].
+**Port Avalon:** the largest spaceport, moving bulk cargo for export. Less prestigious than the Ascension Gates, and handling far more tonnage.
 
-**The Extraction Zones**: Mining and resource processing in Parvati's interior. Harsh conditions, transient workforces, company towns where the corporation _is_ local authority. Where raw materials originate. Life is hard; people leave when they can.
+## Regional culture
 
-**The Coastal Manufacturing Belt**: Lighter industry along the northern coast; proximity to shipping makes export efficient. Better conditions than the interior but firmly industrial.
+**Food:** efficient and calorie-dense—bold spices to cut through industrial air, fermented condiments that keep for months, aesthetics frankly secondary. It is the food of people eating fast on a shift, and the rest of the Mandate has lately started ordering it on purpose.
 
-**Port Avalon**: Largest spaceport; bulk cargo for export. Less prestigious than the Ascension Gates but processing more tonnage.
+**Music:** factory rhythm turned to song, the industrial pulse made into a beat; Parvatan music has carried across human space far beyond the continent that made it.
 
-## Regional Culture
+**Art:** the leavings of manufacture repurposed—scrap sculpture, beauty wrung out of industrial form.
 
-**Food**: Efficient, calorie-dense—bold spices cutting through industrial air; fermented condiments lasting indefinitely. Aesthetics secondary.
+**Language:** Parvatan dialects, distinct from Xuanese Classical, with constant code-switching between the tongue of home and the tongue of getting on.
 
-**Music**: Factory rhythms becoming song beats. Parvatan industrial music has influenced styles across human space.
+## The Yansieve factor
 
-**Art**: Manufacturing byproducts—waste repurposed; scrap sculpture; beauty in industrial forms.
+Parvati watches the rebellion with an attention that makes the Bureau uneasy, and for the plainest of reasons: its subjects share both legal status and accumulated grievance with the rebels. Hiveholm's workers discuss the frontier with a specificity that betrays close following; the Bureau monitors, the conversations continue more carefully, and the arithmetic goes on quietly under everything. Few here are ready to rise. But the interest is real, and it is the interest of people who recognise their own situation in someone else's revolt. See [The Yansieve Rebellion](../../yansieve-rebellion.md).
 
-**Language**: Parvatan dialects distinct from Xuanese Classical. Code-switching common.
+## Wen Daoshi
 
-## The Yansieve Factor
+**Role:** Shift supervisor, Hiveholm Factory Complex 7
+**Age:** 53
 
-Parvati watches the rebellion with attention that makes the Bureau uncomfortable. Subjects share legal status with rebels, share grievances. Few ready to rebel. But the interest is there.
-
-Hiveholm workers discuss Yansieve news with specificity suggesting close attention. Bureau monitors; conversations continue, more carefully.
-
-## Characters
-
-### Wen Daoshi
-
-**Role**: Shift supervisor, Hiveholm Factory Complex 7  
-**Age**: 53
-
-Subject who has applied for citizenship three times. Each denied on procedural grounds. Suspects Bureau involvement. Manages 200 workers with competence her status denies recognition.
-
-Has stopped applying. Has not stopped paying attention.
+A subject who has applied for citizenship three times and been denied three times on procedural grounds—documentation insufficiencies, backlogs, errors she suspects the Bureau of arranging and cannot prove. She manages two hundred workers with a competence her status forbids anyone from officially recognising. She has stopped applying. She has not stopped paying attention to the Yansieve news. She is what the Mandate's narrowing ladder looks like from the rung just below the top of it—close enough to see the citizenship she has earned, and held there, on purpose or by indifference, which from where she stands amount to the same thing.

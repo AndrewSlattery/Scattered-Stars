@@ -1,32 +1,31 @@
 # The Mandate: Locations
 
-The Mandate spans hundreds of systems. This index is not exhaustive.
+The Mandate spans hundreds of systems, and no index could be exhaustive. What follows is the throne world in detail and a handful of the places that matter most to the present moment—the centre, and the frontier that is testing it.
 
-## Core Systems
+## Core systems
 
-|World|Character|
-|---|---|
-|Tiamming|Throne world, administrative centre|
-|_(Others to be documented)_|—|
+| System | Character |
+|--------|-----------|
+| [Tiamming](tiamming/index.md) | Throne world and administrative heart; the empire's contradictions gathered into one system |
 
-## Frontier Systems
+Hundreds of other core systems—older colonies, sector capitals, industrial and agricultural worlds—remain to be documented.
 
-|Region|Character|
-|---|---|
-|Yansieve systems|Currently in rebellion|
-|Kepler-442|Active military deployment; purpose classified|
-|_(Others to be documented)_|—|
+## Frontier systems
 
-## Tiamming Detail
+| Region | Character |
+|--------|-----------|
+| The Yansieve systems | Trailing frontier cluster in open revolt since 3858 C; self-governing under Imperial blockade. See [The Yansieve Rebellion](../yansieve-rebellion.md) |
+| Kepler-442 | Active military deployment; purpose and status classified |
 
-|Continent|Location|Character|
-|---|---|---|
-|Xuan|Northern hemisphere|Imperial heartland, aristocratic estates|
-|Parvati|Equatorial/southern|Industrial, subject-majority|
-|Osthavn|Southern hemisphere|Agricultural, provincial|
+## Tiamming in detail
 
-| Location            | Character                           |
-| ------------------- | ----------------------------------- |
-| Chrysanthemum Court | Capital complex, seat of government |
-| Hiveholm            | Industrial mega-city, 2.3 billion   |
-| Orbital             | Gates, Jade Belt, High Tiamming     |
+The throne world, continent by continent and up into orbit:
+
+| Location | Character |
+|----------|-----------|
+| [The Chrysanthemum Court](tiamming/chrysanthemum-court.md) | The capital complex; seat of government, aristocracy, and the court's quiet argument with itself |
+| [Xuan](tiamming/xuan.md) | Northern continent; imperial heartland and the aristocratic estates |
+| [Parvati](tiamming/parvati.md) | Equatorial continent; industrial, manufacturing, subject-majority |
+| [Hiveholm](tiamming/hiveholm.md) | Parvati's vertical industrial megacity—2.3 billion, and the Substrate beneath |
+| [Osthavn](tiamming/osthavn.md) | Southern continent; agricultural, provincial, and the Provisional Territories |
+| [Tiamming Orbital](tiamming/orbital.md) | The Ascension Gates, the Jade Belt, and the High Tiamming fleet base |

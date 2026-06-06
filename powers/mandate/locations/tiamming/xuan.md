@@ -1,59 +1,49 @@
 # Xuan
 
-Northern continent of Tiamming, containing the Mandate's political centre and oldest aristocratic lineages.
+Xuan is certain that it is the Mandate, and the rest of the Mandate is almost as certain that Xuan thinks so. The northern continent of Tiamming holds the empire's political centre, its oldest lineages, and its highest opinion of itself—the place that has supplied the administrative class for centuries and has concluded, not unreasonably and not entirely fairly, that nowhere else quite matters.
 
-|Attribute|Value|
-|---|---|
-|Location|Northern hemisphere|
-|Population|~8 billion|
-|Character|Imperial heartland, aristocratic estates|
-|Major city|Chrysanthemum Court|
+| Attribute | Value |
+|-----------|-------|
+| Location | Northern hemisphere |
+| Population | ~8 billion |
+| Character | Imperial heartland; aristocratic estates |
+| Major city | The Chrysanthemum Court |
 
 ## Geography
 
-Temperate to cool. Ancient forests (some from original terraforming), mountain ranges, broad river valleys where earliest settlements took root. The Songjiang River—flowing from northern highlands to the sea—is the defining feature. The Chrysanthemum Court sits at its mouth.
+Temperate cooling to genuinely cold in the north—one of the few places on a climate-managed world where real winters still come, because the management was deliberately left thin there. Ancient forests, some grown from the original terraforming; mountain ranges; broad river valleys where the earliest settlements took root. The defining feature is the **Songjiang**, flowing from the northern highlands to the sea, with the Chrysanthemum Court at its mouth. See [The Chrysanthemum Court](chrysanthemum-court.md).
 
-## The Provincial Estates
+## The provincial estates
 
-Beyond the capital, Xuan is dominated by aristocratic landholdings. Noble families control territories from modest farms to small-country-sized regions. Not feudal in the medieval sense—Mandate law applies uniformly; subjects have rights—but the practical effect is similar. The local lord shapes life in ways the distant capital cannot.
+Beyond the capital, Xuan belongs to its aristocracy. Noble families hold territories ranging from modest farms to regions the size of small countries, and while Mandate law applies uniformly and subjects retain their rights on paper, the practical reality is that the local lord shapes life in ways the distant capital cannot. The estates are not feudal in the medieval sense. They are something the Mandate finds more useful and more dangerous: a second government, older than the Modern Mandate, whose loyalty was bought long ago with autonomy, and which sits across the Council table from the first government smiling.
 
-### Major Houses
+### The major houses
 
-**House Vervain**: Controls Songjiang headwaters, managing water access for hundreds of downstream communities. Wealth old; loyalty unquestioned across seventeen generations. Conservative, traditional, deeply embedded in Imperial ceremony. When the Throne needs reliable support, Vervain is asked.
+**House Vervain** controls the Songjiang headwaters, and therefore the water of hundreds of downstream communities—an old, quiet, absolute kind of power. Its wealth is ancient and its loyalty has gone unquestioned for seventeen generations; it is conservative, ceremonial, and the house the Throne calls on when it needs reliable support to look spontaneous.
 
-**House Ombros**: Administers the Northern Reaches where climate management breaks down and genuine winters occur. Breeds the cold-weather horses for ceremonial cavalry. Cultivates stern northern virtue—plain speaking, physical toughness, disdain for southern softness.
+**House Ombros** administers the Northern Reaches, where the climate management fails and the winters are real. It breeds the cold-weather horses for the ceremonial cavalry and a stern northern self-image to match—plain speech, physical hardiness, open disdain for southern softness. It has also lately produced the empire's loudest war-hawk: **Marshal Cael Ombros**, Minister of War, who would end the Yansieve rebellion with a campaign rather than a wait, and whose northern bluntness is either a refreshing honesty or a dangerous simplicity, depending on which faction is describing him. See [Government](../../government.md).
 
-**House Kazan**: A cautionary tale and redemption story. Previous generation's coup involvement cost the house half its holdings. Current lord **Mirek Kazan** (84) has spent forty years rebuilding reputation through ostentatious loyalty and strategic marriages. No longer mentioned with knowing glances. What he privately resents is a question no one asks.
+**House Kazan** is the cautionary tale and the redemption story both. The previous generation's involvement in a coup cost it half its holdings; the current lord, **Mirek Kazan**, has spent forty years buying back the family's standing with ostentatious loyalty and well-placed marriages, and has largely succeeded—Kazan is no longer a name spoken with a knowing glance. What he privately feels about the empire that nearly destroyed his house is a question no one asks, possibly including him.
 
-### Estate Life
+### Estate life
 
-For subjects, paternalistic at best. A good lord provides schools, medical care, dispute resolution, opportunity. A bad lord extracts labour, deference, whatever else he wants.
+For subjects, the estates are paternalism at best. A good lord provides schools, medicine, dispute resolution, and a real if circumscribed security; a bad lord extracts labour, deference, and whatever else he can reach. Mandate law theoretically shields subjects from the worst, but the shield depends on someone reporting a violation—and reporting one's own lord to Imperial authorities, across the distance and the deference and the lord's own networks, is not a thing most people attempt twice. On the estates more than anywhere, the question of whether the Mandate is humane or cruel has a single honest answer: *it depends entirely on who your lord is.*
 
-Mandate law theoretically protects subjects from worst abuses, but enforcement depends on reporting violations—and reporting your lord to Imperial authorities is not simple.
+## Regional culture
 
-## Regional Culture
+Xuan considers itself the heart of Mandate civilisation, and the claim is not baseless—the Xuanese dialect is the prestige form of Classical, Xuanese cuisine sets court fashion, and Xuanese traditions are presented, by Xuanese, as simply *the* traditions. The region has earned some of this by genuinely producing the empire's administrators for generations. But the self-regard shades easily into its own kind of provincialism: the serene assumption that the capital's way of seeing is the only one, which is exactly the assumption that left the centre blind to a frontier it had stopped really looking at.
 
-Xuan considers itself the heart of Mandate civilisation. Xuanese is the prestige Classical dialect; Xuanese cuisine defines court fashion; Xuanese traditions are presented as _the_ traditions.
+## Notable locations
 
-This self-regard is not entirely unjustified—the region has produced the Empire's administrative class for centuries. But it can shade into its own provincialism: the assumption that nowhere else quite matters.
+**The Songjiang Valley**, where the river dictates settlement—cities strung along its course, agriculture filling the floodplains, the highlands left sparse.
 
-## Notable Locations
+**The Northern Reaches**, where the climate thins and the Ombros estates keep alive the hunting, horsemanship and cold-hardiness that subtropical Mandaters find frankly incomprehensible.
 
-**The Songjiang Valley**: River course defines settlement patterns. Cities cluster along it; agriculture fills floodplains; highlands remain sparse.
+**The Chrysanthemum Court**, the capital complex at the river's mouth. See [The Chrysanthemum Court](chrysanthemum-court.md).
 
-**The Northern Reaches**: Where climate management thins, winters return. Ombros estates maintain traditions faded elsewhere—hunting, horsemanship, cold tolerance that subtropical Mandaters find incomprehensible.
+## Mirek Kazan
 
-**The Chrysanthemum Court**: Capital complex at Songjiang's mouth. See [[Chrysanthemum Court]].
+**Role:** Lord of House Kazan
+**Age:** 84
 
-## Characters
-
-### Mirek Kazan
-
-**Role**: Lord of House Kazan  
-**Age**: 84
-
-The disgraced house's rehabilitator. Four decades of performed loyalty have restored Kazan's position; the performance may have become the man.
-
-Public statements more orthodox than the Emperor's. Donations to Imperial causes conspicuous. Children married into impeccably loyal families.
-
-Privately, no one knows what Kazan thinks. He has been performing so long the distinction may no longer matter.
+The man who rebuilt a disgraced house by performing loyalty so thoroughly that the performance may have replaced whatever it was performed over. His public statements run more orthodox than the Emperor's; his donations to Imperial causes are conspicuous; his children have married into impeccably loyal families. Privately, no one knows what Mirek Kazan thinks—and he has been the loyal Lord Kazan for so long now that the distinction between the role and the man may no longer exist, even for him. He is what the Mandate does to its aristocrats at its gentlest: not destroyed, but worn into the shape it requires, and left grateful for the wearing.

@@ -1,74 +1,56 @@
 # Osthavn
 
-Southern continent of Tiamming, feeding the planet and exporting food across the Mandate.
+Osthavn feeds the Mandate and is, in every sense the word can carry, far from power. The southern continent of Tiamming grows the food that supplies the throne world and ships the surplus across the empire, and it does so at a remove from the Chrysanthemum Court that is geographic, cultural and temperamental all at once. It is the part of Tiamming that the other two parts forget about until the harvest arrives—which suits a great many people in Osthavn perfectly well.
 
-|Attribute|Value|
-|---|---|
-|Location|Southern hemisphere|
-|Population|~3 billion|
-|Subject proportion|~45%|
-|Character|Agricultural, provincial|
-|Major hub|Port Yelling|
+| Attribute | Value |
+|-----------|-------|
+| Location | Southern hemisphere |
+| Population | ~3 billion |
+| Subject share | ~45% |
+| Character | Agricultural, provincial |
+| Major hub | Port Yelling |
 
 ## Character
 
-Agricultural at scale: engineered plains, climate-controlled growing zones, vertical farms. Population sparse by Tiamming standards—most work automated. Provincial; far from the Chrysanthemum Court in every sense.
+Agriculture at planetary scale: engineered plains, climate-controlled growing zones, vertical farms, most of the work automated and the population sparse by Tiamming's crowded standards. It is provincial in the literal sense and the dismissive one, and it knows the dismissive sense is being used, and it has decided not to mind.
 
 ## The Sandholm Peninsula
 
-Traditional agriculture where human labour persists alongside automation. Sandholm families have farmed this land eight centuries; techniques blend Mandate-standard genetic modification with methods predating the Modern Mandate.
+Where traditional agriculture persists alongside the automation, worked by families who have farmed the same land for eight centuries, blending Mandate-standard genetic engineering with techniques older than the Modern Mandate itself.
 
-### Citizen Heritage
+### A closed door
 
-Citizen-majority and proud. Families earned citizenship through agricultural productivity quotas since discontinued. View Parvati's subjects with mixed pity and suspicion—sympathy for hard circumstances, wariness of resentments.
+The Sandholm families are citizen-majority and proud of it, and the manner of their citizenship is the quiet tragedy folded into their pride: their ancestors *earned* it, through agricultural productivity quotas that converted sustained output into legal status—a real ladder, climbed by real families, within living memory. The quotas were discontinued a generation ago. The Sandholms are citizens because they climbed a ladder that no longer exists, and they regard Parvati's subjects with a mixture of pity and wariness that is, underneath, the discomfort of people who got through a door before it was shut and would rather not examine the fact too closely.
 
-### Seasonal Life
+### Seasonal life
 
-Seasonal in ways industrial/urban Tiamming has forgotten. Planting and harvest structure the year. Gap festivals celebrated with genuine agricultural significance—actual assessment of stores, actual feasting on actual surplus.
+Osthavn is seasonal in a way that industrial and urban Tiamming has forgotten how to be. Planting and harvest still structure the year; the Gap festivals carry genuine agricultural meaning here—an actual reckoning of the stores, an actual feast on an actual surplus—rather than the abstracted ceremony they have become in the cities.
 
 ## The Provisional Territories
 
-Interior regions designated "provisional"—subject to development planning not yet occurred, administered by temporary authorities become permanent.
+The interior regions designated "provisional"—awaiting development planning that never came, administered by temporary authorities that became permanent the way temporary things do.
 
-### Population
+### Who is sent here
 
-Where the Mandate sends people it doesn't want elsewhere: resettled populations from failed colonies; subjects convicted of minor crimes and sentenced to agricultural labour; citizens disgraced enough for exile but not imprisonment. People with nothing in common except the Mandate put them here.
-
-### Character
-
-Some build lives and stay. Others serve time and leave. Still others die before either becomes relevant.
-
-Administrators usually the least competent the civil service offers—assignment is itself soft punishment. Services minimal; oversight distant. Life hard in ways differing from Hiveholm's hardship but no less real.
+The Territories are where the Mandate puts the people it does not want anywhere else: populations resettled from failed colonies, subjects sentenced to agricultural labour for minor crimes, citizens disgraced enough to exile but not enough to imprison. People with nothing in common except that the empire decided they should be here. Some build lives and stay; some serve their time and leave; some die before either becomes relevant. The administrators are usually the least capable the civil service can spare, because the posting is itself a soft punishment, and the services are minimal and the oversight distant. Life here is hard in ways that differ from Hiveholm's hardness and are no less real for being quiet.
 
 ### Tam Orel
 
-**Role**: Registration clerk  
-**Age**: 38
+**Role:** Registration clerk
+**Age:** 38
 
-An exile. Crime was minor corruption—siphoning fees from transactions in the Ministries District—but minor corruption there is intolerable. The Territories were his punishment.
-
-Nine years here. Will likely die here. Has stopped resenting this and started building a life: a role that matters locally; relationships with resettled populations he serves; a small garden behind his quarters.
-
-Not happy. No longer unhappy. Processes registrations and waits for nothing in particular.
+An exile. His crime was minor corruption—siphoning fees from transactions in the Ministries District of the Chrysanthemum Court—and minor corruption *there* is intolerable in a way it never is on the frontier. The Territories were his sentence. Nine years in, he will most likely die here, and somewhere in the ninth year he stopped resenting that and started, almost against his own will, building a life: a role that matters locally, relationships with the resettled people he processes, a small garden behind his quarters. He is not happy. He is no longer unhappy. He stamps registrations and waits for nothing in particular, and he is the human face of the Mandate's vast provincial bureaucracy—neither monster nor martyr, just a man doing a small job adequately at the empire's far edge, which is what most of the empire's government actually consists of. See [Government](../../government.md).
 
 ## Port Yelling
 
-Largest transit hub; agricultural exports packaged for off-world shipment. Named for a colonial administrator whose reputation hasn't survived.
+The largest transit hub, where Osthavn's produce is packed for off-world shipping—and where outside information filters in, because news arrives with the ships and rumour circulates among the crews. The port workers know more about galactic affairs than most of Osthavn, and share it selectively. Named for a colonial administrator whose reputation has not survived him.
 
-### Information Gateway
+## Osthavn and the rebellion
 
-Where Provisional Territories' produce enters the broader economy—and where outside information filters in. Port workers know more about galactic affairs than most Osthavn residents: news arrives with ships; rumours circulate among crews. They share selectively.
+Yansieve is weeks of travel away, and the mood here is not rebellious. But it is *attentive*, in a way that the Mandate's security organs find unsettling precisely because it is so quiet. The Sandholm citizens discuss the rebellion over dinner with the detail of close attention. The Provisional Territories' subjects do not discuss it at all—which suggests something else entirely, and is noted. No one expects Osthavn to rise. The attention is filed anyway. See [The Yansieve Rebellion](../../yansieve-rebellion.md).
 
-## Osthavn and the Rebellion
+## Regional culture
 
-Yansieve is far—weeks of travel. But Osthavn receives transmissions, hosts occasional refugees, and wonders.
+**Food:** seasonal and abundant—harvest feasts with fresh produce in varieties the cities never see, and more on the table than anyone can finish. The bounty is for export; what stays behind is still more than most of Tiamming ever eats.
 
-The mood is not rebellious. But _attentive_ in ways making Imperial Security uncomfortable. Sandholm's citizens discuss the rebellion over dinner with specificity suggesting close attention. The Provisional Territories' subjects don't discuss it at all—which suggests something else entirely.
-
-No one expects Osthavn to rise. But the attention is noted.
-
-## Regional Culture
-
-**Food**: Seasonal, abundant. Harvest feasts with fresh produce and more food than anyone can finish. This bounty is exported; Osthavn residents enjoy what remains—still more than most of Tiamming sees.
-
-**Character**: Considers itself honest, practical, grounded—contrast to Xuan's pretensions and Parvati's grime. Whether accurate or provincial vanity depends on whom you ask. Far from power and knows it—producing both resentment (they take our food, give nothing) and relief (at least we're not in the Court's sight).
+**Character:** Osthavn considers itself honest, practical and grounded, in pointed contrast to Xuan's pretension and Parvati's grime. Whether that is true or merely the vanity of a place far from power depends on whom one asks—and being far from power produces, in roughly equal measure, resentment (*they take our food and give nothing back*) and relief (*at least we are not in the Court's sight*).

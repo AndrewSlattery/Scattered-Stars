@@ -862,124 +862,135 @@ The Garden is no warship, but it is not soft. It carries long-range sensors for 
 
 # The Mandate
 
-The largest political entity in human space, centred on Tiamming.
+Ask the Mandate what it is and it answers with a single word: *Harmony*. One Throne, one law, one Classical tongue, one hierarchy descending in good order from the Emperor to the lowliest registered subject—all-under-heaven, ancient and eternal. It is a magnificent answer, and it is the first thing about the Mandate worth learning to distrust.
 
-|Attribute|Value|
-|---|---|
-|Population|~2 trillion citizens, ~400 billion subjects|
-|Centre|Tiamming system|
-|Government|Imperial autocracy|
-|Military|Strong; engaged in Yansieve suppression|
-|Economy|Stable, diversified|
-|Character|Hierarchical, bureaucratic, ancient|
+The Mandate is the largest political entity in human space and the least uniform thing ever to insist that it is uniform. Its prestige language, Mandate Classical, is the tongue of its law, its examinations and its poetry—and the cradle-tongue of almost no one; beneath it live more than two hundred regional languages the Classical was meant to have replaced centuries ago and has not. Its fearsome reputation is built on the subject underclass, the people who carry permits and registration bands and weigh less in a courtroom—and roughly five in six of its people are not subjects at all but citizens, for whom the whole apparatus is a background hum they need never think about. What binds its scattered worlds together is therefore not a shared way of living. It is an idea, a bureaucracy and a fleet. And the quiet question of the present reign—asked in the ministries, never from the Throne—is whether the idea has stopped doing the work the bureaucracy and the fleet were never meant to do alone.
 
-## The Citizen-Subject Distinction
+**A note on vantage.** Every account of the Mandate is written from somewhere, and the empire is not the same seen from two places. From the Chrysanthemum Court it is a functioning order nine centuries deep; from a Hiveholm factory floor it is a ceiling; from the Provisional Territories it is the place you were sent to be forgotten; from the Yansieve frontier it is the enemy. The Mandate's official self-portrait reconciles all of these into one serene civilisation. This entry does not. Where it can show you the gap between the centre's single story and the lives lived under it, it does.
 
-The Mandate divides its population into **citizens** (full rights) and **subjects** (restricted movement, profession, and legal standing). This legal architecture is the organising principle of Mandate society. See [[Citizen-Subject System]].
+| Attribute | Value |
+|-----------|-------|
+| Population | ~2.4 trillion, of whom roughly 400 billion are legal *subjects* rather than citizens—a minority underclass, concentrated in the industrial and frontier worlds, that the Mandate's reputation mistakes for the whole |
+| Centre | Tiamming—the throne world; not the most populous Mandate system, but its political, cultural and symbolic heart |
+| Government | Imperial autocracy: theoretically absolute, in practice a bureaucracy so vast the Throne steers it far more than it commands |
+| Sovereign | **Xuanzong XVII**, 41 years on the Stellar Throne; age 96 and presenting fifty-five; conspicuously without a named heir |
+| Languages | Mandate Classical for law, letters and advancement; 200+ regional tongues for living. Classical is almost no one's first language |
+| Military | The largest in human space—and presently bogged down blockading a rebellion it can neither win nor abandon |
+| Character | Ancient, hierarchical, polyglot; a patchwork that calls itself a monolith, and an old one no longer sure it can still change |
 
-## Government
+## The citizen and the subject
 
-The **Stellar Throne** holds supreme authority. **Xuanzong XVII** has ruled for 41 years.
+The Mandate divides every person it recognises into **citizens**, who possess full rights, and **subjects**, whose movement, profession, legal standing and very testimony are constrained. This is presented as the load-bearing architecture of a harmonious society. It is more honestly the load-bearing *fiction*—the single line that lets a centre governing two hundred languages and hundreds of worlds imagine it governs one people.
 
-- **Council of Ministers**: executive administration
-- **Sapphire Courts**: justice
-- **Bureau of Internal Harmony**: internal security
+The line is real in its effects and wildly uneven in its weight. On Tiamming's industrial continent, Parvati, subjects are the majority and the distinction is the texture of every day. In the agricultural south it blurs; on the aristocratic estates of the north it is whatever the local lord decides; in the unregistered warrens beneath the great cities it does not formally apply, because the people there have fallen out of the count entirely. There are routes across the line—military service, the examinations, exceptional contribution, outright purchase—and they are narrowing, or lengthening, or quietly being closed. See [The Citizen-Subject System](citizen-subject.md).
 
-See [[Government]].
+## The Throne and the unasked question
 
-## Current Events
+The **Stellar Throne** holds supreme authority, exercised through a machine of ministries, courts and security organs that the dossier of any honest official will admit the Throne influences more than it controls. **Xuanzong XVII** has reigned forty-one years by a method his admirers call patience and his critics call deferral: contain, isolate, wait.
 
-**The Yansieve Rebellion**: 12+ trailing frontier systems in open revolt since 3858 C. The Mandate maintains blockades; rebels govern themselves under siege. Stalemate continues. See [[The Yansieve Rebellion]].
+It has served the Mandate well, and it is reaching its limits in public. The Yansieve frontier is in open revolt and the strategy of waiting has not ended it in four years. The Emperor is ninety-six, kept youthful by means available to anyone who can afford them, and has named no successor—so that beneath the surface calm of the court runs a single current dressed in a dozen disguises: a war faction that would crush the rebellion now, a containment faction that holds the Emperor's present line, and a quieter current still that thinks the citizen-subject system is itself the disease. Crush, contain, or concede. They are the same question asked in three rooms—**can the Mandate still reform itself, or only repeat itself?**—and no one is yet willing to ask it of the Throne directly. See [Government](government.md).
 
-**Kepler-442 Deployment**: Military forces deployed; purpose classified.
+## Current events
 
-## Culture
+**The Yansieve Rebellion.** Twelve to fifteen trailing frontier systems in open revolt since 3858 C, governing themselves under an Imperial blockade that isolates them without conquering them. Four years of stalemate; the rebels demand the abolition of the citizen-subject distinction, or independence from a system that enforces it. The Mandate calls it criminal sedition and will not negotiate revolution. Across the empire, subjects watch with an attention the Bureau finds difficult to police. See [The Yansieve Rebellion](yansieve-rebellion.md).
 
-**Misrule** (Gap 1–3): The Emperor temporarily abdicates; hierarchies ceremonially invert. Functions as pressure release—resentments voiced under Misrule's protection would be sedition otherwise.
+**The Kepler-442 deployment.** Imperial forces deployed to the system; purpose and status classified. The silence is itself the news.
 
-**Mandate Classical**: prestige language for law, literature, official communication. Regional languages persist (~200+) in daily life.
+**The succession.** Not an event so much as a held breath. Every ministry quietly games the day the Throne falls vacant; none will admit to doing so.
 
-See [[Culture]].
+## Culture under one story
 
-## Key Locations
+**Mandate Classical** is the language of the educated and the ambitious; the two hundred others are the languages of home, and the Bureau monitors both but only fears sedition spoken in the first. **Misrule** (the Gap festival, days 1–3) is the empire's pressure valve: the Emperor ceremonially abdicates, hierarchies invert, and for three days a subject may tell a citizen exactly what he thinks under a protection that lasts until the fourth morning. It is theatre, and everyone knows it is theatre, and it works anyway. High opera and factory-rhythm music, court cuisine and worker's fuel, tolerated old faiths and a Ministry that manages rather than forbids them—the variety is the truth the single story is built to hide. See [Culture](culture.md).
 
-|Location|Character|
-|---|---|
-|Tiamming|Throne world, administrative centre|
-|Yansieve systems|Rebel-held frontier|
-|Kepler-442|Active military deployment|
+## Key locations
+
+| Location | Character |
+|----------|-----------|
+| Tiamming | Throne world and administrative heart; the empire's contradictions in one system |
+| The Yansieve systems | Rebel-held trailing frontier; self-governing under blockade |
+| Kepler-442 | Active military deployment; purpose classified |
+
+See [Locations](locations/index.md) for Tiamming in detail—the Chrysanthemum Court, industrial Parvati, agricultural Osthavn, aristocratic Xuan, and the orbital infrastructure that ties them together.
 
 ## Relations
 
-| Power                       | Relationship                                          |
-| --------------------------- | ----------------------------------------------------- |
-| Arrhenos                    | Essential banking partner; careful political distance |
-| Union of Frontier Freeholds | Territorial friction; commercial ties                 |
-| Vega Commercial Throne      | Cultural exchange; media imports                      |
-| Sable Cartel                | Necessary commercial engagement; mutual suspicion     |
-| Neo-Solar Republic          | Technological interest; ideological distance          |
-| Drift Communities           | Tolerance of passage; no formal relations             |
+| Power | Relationship |
+|-------|-------------|
+| Union of Frontier Freeholds | Territorial friction and steady trade; the Bureau insists Freehold elements arm the Yansieve rebels and has never proven it |
+| Vega Commercial Throne | Cultural condescension over a real dependence—Vega entertainment saturates the Mandate faster than the Bureau can ban it |
+| The Sable Cartel | Necessary commerce and settled distrust; the Bureau maps a Cartel it has never penetrated above subsidiary level, while Cartel subsidiaries both run and lend against the Yansieve blockade |
+| Neo-Solar Republic | Technological appetite across deep ideological distance—the Mandate covets the enhancement and refuses the philosophy; the two quarrel, decade upon decade, over who and what counts as a person |
+| Elysian Collective | Distant and correct; the Mandate buys terraforming expertise and finds the guild's commonwealth airs faintly absurd from a fellow two-class society |
+| Drift Communities | Tolerance of passage, no formal relations; Drift shuttles dock at the Thousand Markets and the Mandate prefers not to count them |
+| Arrhenos | The banker the Mandate cannot do without and will not fully trust; the Throne keeps its reserves where it cannot control them, and likes that less each year |
+
+## Topics
+
+| Topic | Focus |
+|-------|-------|
+| [Government](government.md) | The Stellar Throne, the Council of Ministers, the civil service, and the reform fault-line running beneath the court |
+| [The Citizen-Subject System](citizen-subject.md) | The legal line that organises everything, and what it is to live on either side of it |
+| [The Bureau of Internal Harmony](bureau.md) | The listeners—surveillance, detention, and the rebellion it failed to see coming |
+| [The Sapphire Courts](sapphire-courts.md) | Justice that works at the bottom and bends at the top, and who it belongs to |
+| [Military](military.md) | The largest fleet in human space, the doctrine of mass and patience, and the war it cannot finish |
+| [Culture](culture.md) | Language, faith, food and Misrule—the many lives under one official story |
+| [The Yansieve Rebellion](yansieve-rebellion.md) | The frontier in revolt, the stalemate, and the question it forces on the centre |
+| [Locations](locations/index.md) | Tiamming and beyond |
 
 ---
 
 <!-- source: powers/mandate/bureau.md -->
 ## `powers/mandate/bureau.md`
 
-# Bureau of Internal Harmony
+# The Bureau of Internal Harmony
 
-Officially the Bureau of Internal Harmony. Colloquially "the Bureau" or "the listeners."
+The Bureau of Internal Harmony would like you to believe it is everywhere. It is not, quite—and the gap between *everywhere* and *nearly everywhere* is the country in which the Yansieve rebellion was organised. Officially the Bureau of Internal Harmony; colloquially the Bureau, or the listeners. It is the most feared institution in the Mandate, genuinely formidable, and quietly more overstretched than either its enemies or its own legend will admit.
 
-## Function
+## What it is for
 
-Monitors threats to Imperial stability, interpreted broadly: political dissent, organised crime with political dimensions, separatism, corruption threatening Imperial interests, "disharmonious" movements, foreign intelligence, whatever else the Bureau decides is relevant.
+The Bureau monitors threats to Imperial stability, "stability" interpreted as broadly as it finds convenient: political dissent, organised crime with a political dimension, separatism, corruption that touches Imperial interests, "disharmonious" movements, foreign intelligence, and whatever else the Bureau decides belongs on the list this year. It reports to the Ministry of Internal Harmony and through it to the Throne, and it operates with an autonomy that makes ministerial oversight a courtesy rather than a constraint.
 
-Reports to Ministry of Internal Harmony and through it to the Throne. Operates with considerable autonomy; ministerial oversight is nominal.
+Its true product is not information. It is the *assumption* of information—the working belief, carried by two and a half trillion people, that someone may be listening. Surveillance that everyone believes in costs a fraction of surveillance that actually reaches everywhere, and does most of the same work. The Bureau has spent centuries cultivating that belief, for the same reason the Sable Cartel cultivates its omniscience: a thing imagined to be everywhere need not go to the expense of being so.
 
 ## Methods
 
-### Informant Networks
+### Informant networks
 
-Files on millions. Recruitment is coercive (cooperate or face consequences), voluntary (ideological), or financial. The result: distributed surveillance where in any gathering someone _might_ be reporting. Usually no one is. But the possibility shapes behaviour.
+Files on millions, fed by informants recruited through coercion (cooperate or face consequences), conviction (the true believers), or money. The result is distributed surveillance: in any gathering, someone *might* be reporting. Usually no one is. But the possibility does the work, shaping what people say, to whom, and how—a whole population learning to police itself so the Bureau need not.
 
-### Direct Surveillance
+### Direct surveillance
 
-Communications monitoring, physical observation, infiltration. Legal authority to monitor any communication; practical limitations are resource constraints.
-
-Citizen communications have somewhat greater protection (warrants technically required; routinely issued). Subject communications have no protection.
+Communications monitoring, physical observation, infiltration. The Bureau has legal authority to monitor any communication in the Mandate; what limits it is not law but resources. Citizen communications enjoy a nominally greater protection—warrants are technically required, and routinely granted. Subject communications enjoy none.
 
 ### Intervention
 
-**Arrests** for identified crimes/threats. **Interrogations** at Bureau facilities, outside normal process. **Disappearances**—subjects who enter custody and do not emerge.
-
-The Bureau can detain subjects indefinitely without charge. Citizens: 72 hours without charge; extended detention requires judicial approval (rarely refused). Long-term detainees held for years without trial. The Bureau does not publish statistics.
+**Arrests**, for identified crimes and threats. **Interrogations**, conducted at Bureau facilities outside the ordinary legal process. And **disappearances**—subjects who enter Bureau custody and do not come out, into a silence the Bureau does not explain and does not have to. It may detain a subject indefinitely without charge. A citizen it may hold seventy-two hours; longer requires judicial approval, which is rarely refused. Some long-term detainees have been held for years without trial. The Bureau publishes no statistics, which is itself a statement.
 
 ## Structure
 
-**Central Bureau**: Headquarters in Chrysanthemum Court. Sets priorities, allocates resources, handles sensitive cases.
+**Central Bureau.** Headquarters in the Chrysanthemum Court; sets priorities, allocates resources, runs the sensitive cases.
 
-**Sector Offices**: Each sector has one reporting to Central. Handles regional threats.
+**Sector offices.** One per sector, reporting to Central, handling regional threats with regional knowledge.
 
-**Station Chiefs**: Presence at individual systems and major installations. Broad local authority.
+**Station chiefs.** Posted to individual systems and major installations, with broad local authority and, on the far frontier, very little above them—which is part of how the frontier surprises the centre.
 
-**The Unseen**: Covert operatives embedded in institutions, organisations, communities. How many exist is classified.
+**The Unseen.** Covert operatives embedded in institutions, organisations and communities. Their number is classified, and the classification is load-bearing: no one outside the Bureau knows how many there are, which means everyone must behave as though there are more than there are.
 
-## Leadership
+## Lady Fen Aravis
 
-### Lady Fen Aravis
+Minister of Internal Harmony and chief of the Bureau; age seventy-one, twenty-three years in the post. She rose by being indispensable—every investigation produced a result, every superior received the credit, every rival met an obstacle that could never quite be traced back to her. She is feared throughout the Mandate, and the fear suits her, because fear, in her line of work, is cheaper and more reliable than affection.
 
-Minister of Internal Harmony (Bureau Chief). Age 71; 23 years as director. Rose by being indispensable: every investigation produced results; every superior received credit; every rival encountered untraceable setbacks.
+Her private views are unknown, which is not an accident but an achievement: she has made the question of what Fen Aravis wants for herself genuinely unanswerable. In the politics of the succession this makes her the most watched figure in the Mandate after the Emperor. She is assumed—correctly—to be preparing for several different successions at once, owing loyalty to the office of the Throne and to no particular occupant of it. The faction that wins will find her indispensable. So, until then, will every faction that might.
 
-Feared throughout the Mandate, which suits her purposes. Private views unknown. She serves the Throne; what she might want for herself is a question she has made impossible to ask.
+## The Bureau in the world
 
-## Reputation and Effect
+The same institution is a different animal depending on where it touches you.
 
-Everyone knows the Bureau exists. No one discusses it casually.
+**In the Chrysanthemum Court**, the Bureau is visible on purpose. Its agents attend social functions openly; their presence is the Throne's reminder that it watches its own elite most closely of all. Conversation, correspondence and behaviour at Court are all conducted on the assumption of an audience, which is exactly the assumption the Bureau wishes the powerful to hold about themselves.
 
-**In the Chrysanthemum Court**: Bureau agents attend social functions openly. Their presence reminds the elite that the Throne watches. The assumption of surveillance shapes conversation, correspondence, behaviour.
+**In the industrial regions**, the Bureau is a rumour with a method—agents known by their questions, by which topics draw their interest. Hiveholm workers learn the shape of the listening and complain around it, in trusted company, in regional tongues, in the spaces Misrule briefly licenses. The complaints happen anyway. The Bureau mostly lets them, so long as they stay complaints.
 
-**In Industrial Regions** (Hiveholm): The Bureau is a rumour—agents identified by their questions, their interest in certain topics. Workers learn not to complain in ways that attract attention. The complaints happen anyway, in trusted company.
-
-**In the Substrate**: An occasional raid—names checked, some people taken. Communities adapt: information networks warn of sweeps; those with reason to fear learn when to hide.
+**In the Substrate and on the frontier**, the Bureau is an occasional raid and long stretches of absence. It cannot be everywhere, and the margins know it; information networks pass word of coming sweeps, and those with reason to fear learn the rhythm of when to vanish. Yansieve was the bill for that absence coming due all at once: the listeners, it turned out, had not been listening to the right rooms, in the right languages, on the right worlds—and an institution built on the belief that it hears everything is now spending lives and reputation to prove the belief was not entirely a bluff. See [The Yansieve Rebellion](yansieve-rebellion.md).
 
 ---
 
@@ -988,67 +999,71 @@ Everyone knows the Bureau exists. No one discusses it casually.
 
 # The Citizen-Subject System
 
-The Mandate's foundational legal architecture.
+To a citizen of the Mandate, the citizen-subject distinction is very nearly invisible—a thing that happens to other people, in queues one never has to stand in. To a subject it is the air. It is the same empire; the line between them is simply drawn beneath one set of feet and not the other, and almost everything else about the Mandate follows from where it falls.
 
-## Legal Framework
+The Mandate presents the distinction as the foundational architecture of a harmonious society—every person in a known place, every place in a known order. It is more honestly the load-bearing fiction of the whole empire: the single legal line that lets a centre ruling two hundred languages across hundreds of worlds tell itself it rules one ordered people. Take the line away and the Mandate does not become fairer. It becomes unintelligible to itself.
 
-**Citizens possess:** voting rights (local/regional assemblies), freedom of movement, access to all professions and education, full legal standing, eligibility for advancement, protection against arbitrary detention.
+## The legal framework
 
-**Subjects possess:** restricted movement (travel permits required), limited professional access, reduced legal standing (testimony weighted less), no voting rights, mandatory registration, vulnerability to administrative detention.
+**Citizens possess** voting rights in local and regional assemblies, freedom of movement, access to all professions and education, full legal standing, eligibility for advancement, and protection against arbitrary detention.
 
-## Population Distribution
+**Subjects possess** restricted movement (travel permits required), limited professional access, reduced legal standing (their testimony weighs less), no vote, mandatory registration, and a permanent vulnerability to administrative detention.
 
-|Status|Mandate-wide|Tiamming|
-|---|---|---|
-|Citizens|~2.0 trillion|~11 billion|
-|Subjects|~400 billion|~7 billion|
+Everything in that contrast is real. None of it is evenly applied.
 
-Tiamming's citizen-heavy ratio (61%) reflects its core status. Peripheral systems and industrial worlds often have subject majorities. Parvati (Tiamming's industrial continent) is 65% subjects.
+## How many, and where
 
-## Acquiring Citizenship
+| Status | Mandate-wide | Tiamming |
+|--------|--------------|----------|
+| Citizens | ~2.0 trillion | ~11 billion |
+| Subjects | ~400 billion | ~7 billion |
 
-Citizenship passes through lineage. Mixed parentage produces subjects unless the citizen parent sponsors elevation.
+The first number surprises outsiders, who imagine the Mandate as an ocean of subjects ruled by a sliver of citizens. It is the reverse: roughly five in six of the Mandate's people are citizens, and the subject underclass—real, and the engine of the Mandate's worst reputation—is a concentrated minority. Concentrated is the operative word. Tiamming, as a core world, runs citizen-heavy at sixty-one per cent; its industrial continent, Parvati, runs sixty-five per cent subject; the peripheral and extractive worlds run higher still. The Mandate is not uniformly a cage. It keeps its cages in particular places, and houses particular people in them.
 
-|Path|Requirements|Duration|
-|---|---|---|
-|Military service|Honourable extended enlistment|15–20 years|
-|Imperial examination|Passing civil service tests|Varies|
-|Exceptional contribution|Recognition by authority|Case-by-case|
-|Purchase|Substantial fee, clean record, sponsorship|Immediate|
+## Crossing the line
 
-**Military path**: Most common. Twenty years of service for transformed legal status, inherited by all descendants. Parvati sends more subjects through this path than any other region. Veterans return with citizenship and often deep ambivalence.
+Citizenship passes by lineage. Mixed parentage produces subjects unless the citizen parent sponsors elevation. For those born on the wrong side, the Mandate advertises four ways across:
 
-**Examination path**: Open to subjects but favours those who can afford expensive preparation.
+| Path | Requirement | Time |
+|------|-------------|------|
+| Military service | Honourable extended enlistment | 15–20 years |
+| Imperial examination | Passing the civil service tests | Varies |
+| Exceptional contribution | Recognition by authority | Case by case |
+| Purchase | Substantial fee, clean record, sponsorship | Immediate |
 
-**Purchase path**: Controversial—wealthy subjects buy what poor subjects must earn through decades of service.
+These are the empire's pressure valves: proof, recited in every official account, that the line can be crossed by anyone with the merit and the will. Look closer and the valves are narrowing. **Military service** is the commonest road and the hardest—twenty years for a legal status your children will inherit, and the industrial world of Parvati sends more subjects down it than anywhere in the Mandate, its veterans returning with citizenship and a deep ambivalence about the system they bled to join. The **examination** is open to subjects and priced for citizens. **Purchase** lets a wealthy subject buy in an afternoon what a poor one earns in two decades, which the poor one is invited not to dwell on. And some roads have simply closed: the agricultural productivity quotas that once made citizens of the Sandholm farming families on Osthavn were discontinued a generation ago, the ladder pulled up behind the last to climb it. A system that once renewed itself by absorbing the able from below now mostly reproduces the people already above the line. That, more than any single cruelty, is the autumn of the thing.
 
-## The Experience
+## What it is to live there
 
-**For citizens**: Often invisible—a background condition. The system works for them. Most rarely think about the distinction except when interacting with subjects.
+**For citizens**, mostly nothing—a background condition, a set of doors that simply open. The system works for them precisely by being unnoticeable. Most citizens think about the distinction only when a subject is standing in front of them, and then only briefly.
 
-**For subjects**: Constant. The permit, the registration line, the "citizens preferred" posting, the knowledge that their word weighs less, the registration band marking status visibly. And the calculations: is military service worth twenty years? Can I afford exam preparation?
+**For subjects**, everything: the permit, the registration queue, the *citizens preferred* on the better postings, the knowledge that one's word weighs less before it is even heard, the band on the wrist that announces all of it to a stranger across a room. And the running arithmetic underneath—is twenty years in uniform worth it; can the family afford a season of exam preparation; is it better to be counted, or to disappear.
 
-### The Weight of Testimony
+### The weight of testimony
 
-In the Sapphire Courts, citizen testimony is weighted more heavily than subject testimony. A subject accusing a citizen faces evidentiary disadvantage before any facts are considered.
+In the Sapphire Courts, a citizen's testimony is weighted above a subject's. A subject accusing a citizen begins at an evidentiary disadvantage, before a single fact is examined. It is not framed as injustice. It is framed as prudence. See [The Sapphire Courts](sapphire-courts.md).
 
 ## Registration
 
-All subjects must register: biometrics, residence, employment, movement history, family connections. **Registration bands**—visible markers—serve practical and social functions.
+Every subject must register: biometrics, residence, employment, movement history, family ties. The **registration band** is the visible token of it—a marker that does practical work at checkpoints and social work everywhere else, sorting a crowd into ranks at a glance. To a Mandate sensibility that prizes visible station, the band is reassuring. To the person wearing it, it is the empire's hand resting permanently on the shoulder.
 
-**The Unregistered**: Those who slip out of the system have no legal protection. They survive in the Substrate beneath Hiveholm, the edges of the Provisional Territories, wherever the Mandate's gaze does not reach. Bureau sweeps periodically disrupt these communities; they absorb the disruptions and continue.
+### The unregistered
 
-## Regional Variation
+Some slip the count entirely—into the **Substrate** beneath Hiveholm, the ragged edges of the Provisional Territories, the seams of any city large enough to lose a person in. They have no legal protection because they have no legal existence; they also have no permit to be refused, no band to be read, no file to be held against them, which a certain kind of person decides is a fair trade. The Bureau sweeps these communities periodically—names checked, some registered and returned, some deported, the warranted arrested—and the communities absorb the disruption and re-form, because the alternative to the margin, for the people on it, is no better than the margin. See [Hiveholm](locations/tiamming/hiveholm.md).
 
-**Imperial Core** (Tiamming area): Most visible, most enforced. Subjects know their place because the system actively reminds them.
+## The same line, drawn differently
 
-**Frontier**: Enforcement spottier. Some frontier subjects live lives barely distinguishable from citizens; others face arbitrary enforcement worse than anything in the core.
+**The imperial core** (Tiamming and its neighbours): the distinction is most visible and most enforced. Subjects know their place because the system reminds them of it daily, on purpose.
 
-**Industrial regions** (Hiveholm): Citizens and subjects work side by side—the factory does not care about status. But authority positions skew citizen. Practical solidarity emerges across the divide; but citizens can leave, subjects cannot.
+**The frontier:** enforcement is spotty and personal. Some frontier subjects live lives a core subject would envy, all but indistinguishable from their citizen neighbours; others suffer arbitrary local cruelty worse than anything the core would permit, because no one is watching the watchers that far out.
 
-## The Yansieve Factor
+**The industrial worlds** (Hiveholm above all): citizens and subjects work the same lines and breathe the same bad air, and a genuine practical solidarity grows across the divide—right up to the point that matters, which is that the citizen can leave and the subject cannot. **Wen Daoshi**, who supervises two hundred workers on Factory Complex 7 with a competence her three rejected citizenship applications will not let anyone officially acknowledge, is what that solidarity and that ceiling look like in one person. See [Parvati](locations/tiamming/parvati.md).
 
-The rebellion's core demand is ending the distinction—or independence from a system that enforces it. Across the Mandate, subjects watch with attention that makes the Bureau uncomfortable. Few are ready to rebel. But many are _interested_.
+## The Yansieve factor
+
+The rebellion's core demand is the abolition of the distinction—or failing that, independence from a system that enforces it. This is precisely why the Mandate will not negotiate: the citizen-subject line is not a policy the Throne could trade away, but the foundation the whole edifice stands on, and everyone involved knows that pulling it would bring down more than the Yansieve question.
+
+So across the empire, subjects watch the frontier with an interest that makes the Bureau uneasy—not because many are ready to rebel, but because so many are visibly, attentively *interested*. The line that organises the Mandate is the same line the rebellion is fighting to erase, and four hundred billion people are watching to see whether it can be erased at all. See [The Yansieve Rebellion](yansieve-rebellion.md).
 
 ---
 
@@ -1057,95 +1072,88 @@ The rebellion's core demand is ending the distinction—or independence from a s
 
 # The Mandate: Culture
 
+A Hiveholm family sits down to dinner speaking Parvatan and switches, without noticing, to Classical the moment the talk turns to a child's examinations. That switch—performed a hundred billion times a day across the empire—is Mandate culture in miniature: a home tongue for living and a state tongue for getting on, and a flawless instinct for which rooms each belongs in. The Mandate's official culture is a single, ancient, exquisitely refined thing radiating from the Chrysanthemum Court. Its actual culture is the two hundred things the official one was supposed to replace, still going, having quietly outlasted every century that was sure they would fade.
+
 ## Language
 
 ### Mandate Classical
 
-The prestige language: law, literature, official communication, social aspiration. Required for civil service examinations; used in Court proceedings; marker of education and status. Fluency signals belonging to educated classes; imperfect Classical marks the speaker as provincial, lower-class, or foreign.
+The prestige language: law, literature, official correspondence, social aspiration. It is required for the civil service examinations, mandatory in the Courts, and the surest single marker of an educated upbringing. Spoken well, it signals belonging; spoken imperfectly, it marks the speaker as provincial, low, or foreign before a sentence is finished. Fortunes have turned on a vowel.
 
-### Regional Languages
+It is also almost no one's mother tongue. This is not an embarrassment the Mandate acknowledges; it is simply the arrangement. Classical is the language one *acquires*—at school, at expense, on purpose—which is precisely what makes fluency worth having.
 
-Classical is almost no one's mother tongue. Children learn it alongside regional languages—the tongues their grandparents spoke—which persist despite centuries of official preference. 200+ distinct languages remain.
+### The two hundred others
 
-Society has two linguistic registers: formal contexts demand Classical; informal contexts permit whatever speakers share. A Hiveholm family might speak Parvatan at dinner, switching to Classical for discussing exam preparation.
+Children learn Classical alongside the tongues their grandparents spoke, and the grandparents' tongues win the kitchen, the market, the lullaby and the funeral. More than two hundred distinct regional languages persist, in defiance of centuries of official preference, because a language is not a policy. Society runs on two registers: formal contexts demand Classical; everywhere else, people use whatever they share.
 
-The Bureau monitors both registers but cares more about the official one. Sedition in Classical is sedition; sedition in a regional language might be folklore.
+The Bureau monitors both and cares about only one. Sedition in Classical is sedition—committed in the language of the state, before the state, and therefore real. The same words in a regional tongue are more easily filed as folklore, grievance, the noise the provinces make. It is a revealing blind spot, and the Yansieve organisers are widely thought to have lived inside it.
 
 ## Religion
 
-Officially promotes no religion; tolerates most. Practically cautious—the First Dynasty fell partly due to religious conflict. Religious organisations face registration, Bureau monitoring, proselytising restrictions, property limits.
+The Mandate promotes no religion and tolerates most, for a reason it remembers precisely: the First Dynasty fell partly to religious war, and the Modern Mandate was built by people determined never to repeat it. Faith is therefore *managed*, not crushed. Religious bodies register; they accept Bureau monitoring, limits on proselytising, ceilings on property; in return they are left alone to do what they do.
 
-Most citizens and subjects maintain no strong religious commitment. Those who worship often follow traditions predating the Mandate, adapted over centuries, practised to attract minimal official attention.
+Most citizens and subjects carry no strong religious commitment. Those who worship tend to follow traditions older than the Mandate, adapted over generations to attract as little official notice as possible—a faith that has learnt to keep its voice down. The **Ministry of Rites** oversees all of this alongside Imperial ceremony, and its true doctrine is administrative: keep movements visible, fragmented and politically quiet, and they may believe whatever they like.
 
-**Ministry of Rites** handles religious affairs alongside Imperial ceremony and cultural policy. Approach is management rather than suppression: keep movements visible, fragmented, politically quiescent.
+## Art and entertainment
 
-## Art and Entertainment
+### High culture
 
-### High Culture
+The Chrysanthemum Court defines it and largely pays for it: opera, classical music, formal verse, dances that take decades to learn. Imperial patronage serves Imperial ends—the works celebrate the Throne, the dynasty, the order of things—but the Mandate has never confused propaganda with mediocrity, and the best of this work is genuinely among the finest humanity makes. It is also, increasingly, a museum that knows it is a museum: forms perfected so long ago that mastery now means flawless repetition, and innovation is faintly suspect.
 
-The Chrysanthemum Court defines it: opera, classical music, formal poetry, dance requiring decades of training. Imperial patronage serves Imperial purposes—celebrating the Throne, the dynasty—but genuine excellence is cultivated.
+### Industrial culture
 
-### Industrial Culture
+Hiveholm and the manufacturing worlds grow their own: music built on factory rhythm, sculpture from manufacturing waste, theatre staged in break-rooms, stories told down the dormitory corridors. Some of it is openly oppositional; more of it is simply *other*—made by people the high culture was never about, for an audience the Court does not court. Parvatan industrial music has, to the Ministry of Rites' faint discomfort, become fashionable across human space.
 
-Hiveholm and similar regions have their own traditions: music incorporating factory rhythms, visual art from manufacturing waste, break-room theatre, dormitory storytelling. Some explicitly oppositional; more simply _different_.
+### Imported entertainment
 
-### Imported Entertainment
-
-Vega Commercial Throne productions are enormously popular despite foreign origin. The Bureau monitors for subversive content, occasionally banning works; cultural penetration is too deep to reverse.
+Vega Commercial Throne productions are devoured across the Mandate despite—or because of—their foreign origin. The Bureau screens them for subversion and bans the occasional title; the penetration is far too deep to reverse, and everyone involved knows it. The Mandate condescends to Vega's glittering frivolity in public and watches it in private.
 
 ## Cuisine
 
-### Xuanese (Northern)
+Three traditions, three philosophies of what food is for.
 
-Refinement: subtle flavours, precise presentation, ingredients selected for symbolic value. A formal meal tells a story; eating is performance. Court cuisine; highest prices.
+**Xuanese (northern).** Refinement: subtle flavours, exact presentation, ingredients chosen as much for symbol as for taste. A formal Xuanese meal tells a story, and eating it is a performance with rules. Court cuisine; the highest prices and the longest training.
 
-### Parvatan (Industrial)
+**Parvatan (industrial).** Fuel: efficient, calorie-dense, built for workers eating fast—bold spices to cut through industrial air, fermented condiments that keep for months. Aesthetics are beside the point, which is itself an aesthetic, and one the rest of the Mandate has started ordering.
 
-Fuel: efficient, calorie-dense, designed for workers eating quickly. Bold spices cutting through industrial air; fermented condiments that last. Aesthetics secondary.
-
-### Osthavn (Agricultural)
-
-Seasonal abundance. Harvest feasts impossible elsewhere—fresh produce, varied preparation, more food than anyone can finish.
+**Osthavn (agricultural).** Abundance: seasonal feasts impossible to stage anywhere else, fresh produce in varieties the cities never see, more food than the table can finish. The bounty is exported; what stays behind is still more than most of the Mandate eats.
 
 ## Misrule
 
-Gap 1–3: The Mandate inverts.
+For three days at the turn of the Gap, the Mandate inverts itself.
 
-### The Tradition
+### The tradition
 
-Gap 1 morning: Emperor formally abdicates, transferring authority to a randomly selected citizen (the "Fool Emperor") until Gap 3 midnight. Social hierarchies ceremonially reverse—masters serve servants; officers defer to enlisted; subjects addressed with citizen honorifics.
+On the morning of Gap 1 the Emperor formally abdicates, handing authority to a citizen chosen at random—the **Fool Emperor**—until midnight on Gap 3. The hierarchies reverse: masters serve servants, officers defer to the enlisted, subjects are addressed with citizen honorifics. For three days the order of the world is ceremonially upside down.
 
-### The Reality
+### The reality
 
-Theatre. Everyone understands this. The Fool Emperor's proclamations are ignored once the festival ends. And yet—something happens. The theatre opens space for truths otherwise unspeakable. The subject who tells his employer exactly what he thinks has Misrule's protection; words may be remembered but cannot officially be punished.
+Theatre, and no one is fooled. The Fool Emperor's decrees are forgotten by the fourth morning; the masters resume mastery. And yet the theatre does something real. Under Misrule, truths that are sedition on every other day of the year may be spoken aloud and not punished. The subject who tells his employer exactly what he is worth has Misrule's protection: his words may be *remembered*, but they cannot officially be heard.
 
-### The Function
+### The function
 
-The Mandate's rulers understand pressure requires release. Misrule is a safety valve. For three days, resentment has an outlet. On the fourth day, the system resumes, slightly easier to bear.
+The Mandate's rulers have always understood that pressure wants a valve. Misrule is the valve—three days of licensed release, after which the system resumes one notch easier to bear. It is one of the oldest instruments of Mandate government, and one of the most honest, because it concedes in its very design that there is something to release. A confident empire might not need it. This one has come to lean on it.
 
-### Regional Variations
+### Regional variations
 
-**Chrysanthemum Court**: Elaborate formal ceremony; everything choreographed, documented, aestheticised.
+- **Chrysanthemum Court:** elaborate, choreographed, documented—an inversion so aestheticised it inverts nothing.
+- **Hiveholm:** raw. Workers say things that verge on sedition; supervisors drink themselves insensible rather than have to remember hearing them. The Bureau watches and rarely moves. On the fourth day everyone recalls exactly what was said, and everyone pretends otherwise.
+- **The provincial estates:** as the lord prefers. Some embrace it; some endure it; none has managed to abolish it.
+- **The unregistered:** Misrule protects only those the system recognises. In the Substrate the festival is just three days the sweeps are less likely to come.
 
-**Hiveholm**: Raw. Workers say things verging on sedition. Supervisors drink themselves unconscious to avoid hearing. Bureau monitors but rarely intervenes—Misrule speech is protected.
-
-**Provincial Estates**: Depends on the lord. Some embrace it genuinely; others treat it as obligation. None have succeeded in abolishing it.
-
-**The Unregistered**: Misrule's protections apply only to those the system recognises.
-
-## Social Customs
+## Social customs
 
 ### Formality
 
-Mandate society is formal: proper address, appropriate dress, correct behaviour for context. More intense in core systems; relaxed on the frontier.
+Mandate society is formal—proper address, appropriate dress, correct behaviour for the context—and the formality tightens toward the core and loosens toward the frontier. In the Chrysanthemum Court a misjudged greeting is a small catastrophe; on a Yansieve mining world, before the rebellion, it was barely noticed.
 
-### Hierarchy Markers
+### Visible station
 
-Social position is meant to be visible: dress indicates profession/status; subject registration bands mark legal category; speech patterns differ by class; behaviour defers upward. Ambiguity about relative status is uncomfortable.
+Position is meant to be seen. Dress signals profession and rank; subject registration bands mark legal category at a glance; speech patterns and deference run uphill. Ambiguity about where two strangers stand relative to one another is, to a Mandate sensibility, acutely uncomfortable—which is part of what makes the unregistered, who wear no band and fit no slot, so quietly unsettling to the orderly mind.
 
 ### Hospitality
 
-Traditions strong. A guest is sacred; even enemies may share meals under hospitality's protection. Violations are serious transgressions.
+The traditions of the guest run deep and cross every other line. A guest is sacred; enemies may share a table under hospitality's protection; to violate it is a serious transgression that even hard men are slow to commit. It is the one relation in the Mandate that the citizen-subject distinction does not touch—which is exactly why it matters so much to the people the distinction touches most.
 
 ---
 
@@ -1154,64 +1162,90 @@ Traditions strong. A guest is sacred; even enemies may share meals under hospita
 
 # The Mandate: Government
 
+The theory of the Mandate is simple: the Emperor wills, and all-under-heaven obeys. The practice is hundreds of worlds, two hundred languages and a courier lag measured in weeks—which is to say the theory is a story the practice tells about itself. The Mandate is not governed by an emperor. It is governed by an enormous, ancient, self-perpetuating bureaucracy, in the Emperor's name, by a method that has worked for nine centuries and is, just now, visibly tiring.
+
 ## The Stellar Throne
 
-The Emperor holds supreme authority. Hereditary within the Imperial dynasty, though succession has not always been smooth—the Long Interregnum (2756–2847 C) followed the First Dynasty's collapse.
+Supreme authority rests with the Emperor, hereditary within the Imperial dynasty—though "hereditary" has carried an asterisk ever since the **Long Interregnum** (2756–2847 C), the ninety-one years of fracture and pretenders that followed the First Dynasty's collapse. The Modern Mandate was built by people who had lived through the consequences of a broken succession, and built so that it could never happen again. Whether they succeeded is a question the present reign is quietly forcing.
 
 ### Xuanzong XVII
 
-Current Emperor; 41-year reign; age 96 (appears ~55). Known for methodical administration. His reign has seen territorial consolidation, the Andromedan Banking War, and the Yansieve crisis. His response to the rebellion: contain, isolate, wait.
+The current Emperor: forty-one years on the Throne, ninety-six years old and presenting somewhere near fifty-five, by the same longevity medicine available to anyone who can afford it. He is admired for methodical administration and an almost geological patience. His reign has seen territorial consolidation, the Andromedan Banking War, and now the Yansieve crisis, to which his answer has been consistent and characteristic: contain, isolate, wait.
 
-### Imperial Powers
+It is worth being precise about what that patience is. From one angle it is wisdom—the refusal to spend a million lives conquering what a blockade might ripen into surrender. From another it is the inability of an old man and an older system to *decide*, dressed up as strategy after the fact. Both readings have adherents at the highest levels of his own government, and the Emperor has not told anyone which is correct.
 
-Theoretically absolute; practically constrained by scale, bureaucratic procedures, noble house interests, and enforcement limits across interstellar distances. Rules through institutions rather than despite them.
+### Imperial powers
+
+Theoretically absolute; in practice fenced on every side by scale, procedure, the interests of the noble houses, and the simple impossibility of enforcing a will faster than light. The Emperor rules *through* his institutions rather than despite them, and the institutions know it. An edict that the ministries dislike does not need to be defied; it can be studied, referred, clarified, and implemented so slowly that the next edict overtakes it. The Throne's real power is the power to appoint, to promote, to ruin—and to be the one fixed point a fractious court cannot do without.
+
+## The succession, which no one discusses
+
+The Emperor is ninety-six and has named no heir.
+
+This is the single most important fact in Mandate politics and the one least permissible to mention. His surviving children hold honours and no power, kept apart, kept comfortable, and kept watched. Candidates have been raised toward the succession before and quietly set aside; each un-naming rippled through the ministries for a decade. The court reads the Emperor's health, his diet, the length of his audiences, like augury, because when the Throne falls vacant without a clear successor the precedent is not a coronation. The precedent is the Interregnum.
+
+So every faction in the Mandate is, beneath whatever it claims to be arguing about, also positioning for the day the question comes due. The **Bureau of Internal Harmony** is widely assumed to be preparing for several different successions at once; its director's survival has always depended on being indispensable to whoever wins, and she has never in her life backed a loser. See [The Bureau](bureau.md).
 
 ## The Council of Ministers
 
-|Ministry|Portfolio|
-|---|---|
-|Internal Harmony|Internal security, the Bureau|
-|War|Military forces, strategic planning|
-|Revenue|Taxation, treasury, economic policy|
-|Justice|The Sapphire Courts, legal administration|
-|Transit|Space elevators, shipping, infrastructure|
-|Colonial Affairs|Governance of non-core systems|
-|Rites|Imperial ceremony, cultural policy, religious oversight|
+The executive apparatus. Ministers serve at the Emperor's pleasure and concentrate in the Ministries District of the Chrysanthemum Court, where tens of thousands of civil servants process the paperwork that holds the empire together.
 
-Ministers serve at the Emperor's pleasure. The apparatus concentrates in the Ministries District of the Chrysanthemum Court: tens of thousands of civil servants processing the paperwork that holds the Empire together.
+| Ministry | Portfolio |
+|----------|-----------|
+| Internal Harmony | Internal security; the Bureau |
+| War | Military forces, strategic planning |
+| Revenue | Taxation, treasury, economic policy |
+| Justice | The Sapphire Courts, legal administration |
+| Transit | Space elevators, shipping, infrastructure |
+| Colonial Affairs | Governance of non-core systems |
+| Rites | Imperial ceremony, cultural policy, religious oversight |
 
-## The Civil Service
+On its surface the Council administers. Beneath the surface it argues, in the careful deniable register of people who could be ruined for arguing too plainly, about the one thing the Emperor will not settle: what to *do*. The Yansieve rebellion has crystallised the disagreement into three positions, and because no one may say the largest part out loud, they are conducted as quarrels over budgets, jurisdiction and procedure.
 
-### Examinations
+- **Crush.** The war faction, anchored in the Ministry of War under **Marshal Cael Ombros**—scion of the stern northern house, contemptuous of waiting—holds that the blockade is a slow humiliation and that a decisive ground campaign, however bloody, would end the rebellion and remind the frontier what defiance costs. Every month of stalemate is, to this faction, an advertisement for sedition.
+- **Contain.** The Emperor's own line, and therefore the position with no champion and every advantage: the party of inertia, of the prudent, of everyone who has prospered across forty-one years of not deciding. It need not win the argument. It need only prevent the others from winning theirs, which it does superbly.
+- **Concede.** The dangerous one—voiced by a thin scattering of officials, most visibly **Deputy Minister Vasha Toren** of Colonial Affairs, who administers the failing frontier at first hand and has watched the citizen-subject system manufacture rebels faster than the Bureau can detain them. They do not say *abolition*; saying it would end them. They say *rationalising the registry*, *modernising status*, *reform*. Everyone understands the euphemism, including the people compiling the file.
 
-Entry requires rigorous examinations—theoretically meritocratic. In practice: preparation is expensive; tests favour Mandate Classical literature and administrative precedent; subject candidates receive fewer appointments per success. Produces competent administrators; representativeness is another question.
+Crush, contain, concede. They are three answers to one question the court cannot ask the Throne: **can the Mandate still reform itself, or has it forgotten how, and will it now only repeat itself until something breaks?**
+
+## The civil service
+
+### The examinations
+
+Entry is by examination, and the examinations are the Mandate's proudest idea about itself: advancement by merit, open to talent wherever born. The idea was once substantially true and is now substantially ornamental. Preparation is expensive; the tests reward deep fluency in Classical literature and administrative precedent, which is to say they reward having had the leisure and money to acquire it; subjects who pass receive fewer and worse appointments than citizens who pass. The system still finds the occasional brilliant outsider and elevates him, and points to him for a generation. It mostly reproduces the families already inside it. A meritocracy that has quietly become a hereditary class, while keeping the paperwork of merit, is a fair miniature of the whole empire.
 
 ### Ranks
 
-|Rank|Role|
-|---|---|
-|Probationary Clerk|Entry; supervised|
-|Clerk|Independent case handling|
-|Senior Clerk|Supervisory|
-|Secretary|Departmental management|
-|Deputy Minister|Ministry-level authority|
-|Minister|Ministerial head (Throne appointment)|
+| Rank | Role |
+|------|------|
+| Probationary Clerk | Entry; supervised |
+| Clerk | Independent case handling |
+| Senior Clerk | Supervisory |
+| Secretary | Departmental management |
+| Deputy Minister | Ministry-level authority |
+| Minister | Ministerial head (Throne appointment) |
 
-Promotion theoretically by merit; patronage networks matter practically.
+Promotion is by merit on paper and by patronage in practice; the two are not always opposed, and the careers that prosper most are the ones that make them look identical.
 
-## Provincial Administration
+### The people who run it
 
-### Sector Governors
+The bureaucracy is not a single grey mass, whatever its enemies and its own propaganda agree to pretend. It contains true believers who love the order they serve and serve it well; careerists for whom the empire is a ladder; humane administrators who bend rules to spare the people in front of them and absurd ones who enforce rules that spare no one; and a great sediment of time-servers processing their allotted forms and waiting for nothing in particular—men like **Tam Orel**, the disgraced registration clerk of the Provisional Territories, who stopped resenting his exile somewhere in its ninth year and started, almost against his will, to do the job well. The Mandate's oppression and the Mandate's competence and the Mandate's small daily mercies all wear the same uniform, and frequently the same face.
 
-Appointed officials administering clusters of systems. Broad authority within sectors; answer to ministries and Throne. Valuable appointments—opportunities for wealth, patronage, power—but dangerous: spectacular failure means disgrace; excessive success attracts suspicion.
+## Provincial administration
 
-### Planetary Prefects
+Power thins with distance from the Throne, and what fills the vacuum is local.
 
-Each world has a Prefect responsible for local administration: implementing directives, collecting revenue, maintaining order. Quality varies enormously.
+### Sector governors
 
-### Noble Estates
+Appointed officials administering clusters of systems with broad authority and answerable, slowly, to the ministries and the Throne. The appointments are immensely valuable—wealth, patronage, a small kingdom's worth of power—and immensely dangerous: spectacular failure means disgrace, and spectacular success attracts the suspicion of a centre that does not like its servants to shine too brightly. The result is a class of governors trained to be capable but never conspicuous, which is not the same as capable.
 
-Within core systems (especially Tiamming), aristocratic families control hereditary territories operating semi-autonomously. Mandate law applies; taxation flows to treasury; but local administration is the lord's prerogative. The houses predate the Modern Mandate; their loyalty was purchased with autonomy.
+### Planetary prefects
+
+Each world has a prefect responsible for implementing directives, collecting revenue and keeping order. Quality varies from the conscientious to the predatory, and for most of the Mandate's people the prefect, not the Emperor, *is* the government—the face of whichever Mandate they happen to live in.
+
+### Noble estates
+
+Within the core systems, and on Tiamming above all, aristocratic families hold hereditary territories that run themselves. Mandate law applies and the treasury takes its due, but local administration is the lord's prerogative, and the lord's character is the law his subjects actually live under. The houses predate the Modern Mandate; their loyalty was purchased, long ago, with autonomy, and the price is still being paid. House **Vervain** controls water for hundreds of downstream communities; House **Ombros** breeds the cold-weather virtues and now the empire's loudest war-hawk; House **Kazan** has spent forty years performing a loyalty that may or may not be real. The aristocracy is not a relic. It is a second government, older than the first, smiling at it across the Council table. See [Xuan](locations/tiamming/xuan.md).
 
 ---
 
@@ -1220,66 +1254,68 @@ Within core systems (especially Tiamming), aristocratic families control heredit
 
 # The Mandate: Military
 
-The largest military force in human space.
+The largest military in human space cannot take twelve frontier systems—and this is not a contradiction. It is a lesson about what that military is for. The Mandate's forces are built to deter great powers, hold infrastructure, and win the set-piece battles of an interstellar age by sheer mass. They are not built to dig an idea out of a dozen rebel worlds house by house, and the Yansieve rebellion has spent four years making the difference plain.
 
-|Attribute|Value|
-|---|---|
-|Active personnel|~50 billion|
-|Reserve personnel|~200 billion|
-|Fleet strength|Thousands of capital ships; tens of thousands of support vessels|
-|Character|Professional, hierarchical, politically significant|
+| Attribute | Value |
+|-----------|-------|
+| Active personnel | ~50 billion |
+| Reserve personnel | ~200 billion |
+| Fleet strength | Thousands of capital ships; tens of thousands of support vessels |
+| Character | Professional, hierarchical, politically significant—and better at the last war than this one |
 
 ## Organisation
 
 ### Imperial Navy
 
-Space-based forces: system defence, force projection, blockade/interdiction, orbital bombardment. Primary instrument of power beyond individual planets. Officers disproportionately from citizen military families; subject advancement to senior ranks is difficult.
+The space arm: system defence, force projection, blockade and interdiction, orbital bombardment. It is the Mandate's primary instrument of power beyond any single planet, and the senior service in prestige. Its officer corps is drawn disproportionately from citizen military families, and a subject's advance to flag rank is rare enough to be remarked upon when it happens.
 
 ### Imperial Army
 
-Ground forces: planetary defence, occupation/pacification, security operations, ceremony. Larger than Navy but less prestigious; more subject-heavy—ground combat is where the military citizenship path concentrates.
+The ground arm: planetary defence, occupation and pacification, internal security, ceremony. Larger than the Navy and less glamorous, and more subject-heavy, because ground combat is where the military road to citizenship mostly runs. If the war faction has its way at Yansieve, it is the Army that will pay for the decision.
 
 ### Imperial Guard
 
-Elite forces with dual functions: personal protection of Emperor/Imperial family; special operations. Selection rigorous; service for life.
+Elite forces with two duties that sit oddly together: the personal protection of the Emperor and the Imperial family, and special operations. Selection is brutal and service is for life. In a reign with an open succession, the loyalties of the Guard are a subject no one discusses above a murmur.
 
-### Sector Forces
+### Sector forces
 
-Each sector maintains forces under Sector Governor command: system defence, anti-piracy, emergency response. Subordinate to Imperial command but considerable routine autonomy.
+Each sector maintains its own forces under its governor: system defence, anti-piracy, emergency response. Subordinate to Imperial command in principle, considerably autonomous in daily practice, and a quiet reason the centre watches successful governors as carefully as it watches failing ones.
 
 ## Doctrine
 
-### Strategic Principles
+### Principles
 
-**Mass**: The Mandate can bring more forces than any opponent; attrition favours the larger power.
+**Mass.** The Mandate can bring more to any fight than any opponent, and in a long war attrition favours the larger power. This is the first and last article of Mandate strategy.
 
-**Infrastructure control**: Per FTL doctrine, controlling jump nodes and transit routes matters more than patrolling empty space.
+**Infrastructure control.** Per the realities of FTL travel, holding the jump nodes and transit routes matters more than patrolling the empty space between them. Wars are won at the chokepoints.
 
-**Overwhelming response**: Challenges met with disproportionate force. The message is deterrence.
+**Overwhelming response.** Challenges are met with disproportionate force, the point being less the victory than the message: defiance is not survivable, so do not begin.
 
-**Patience**: The Mandate can sustain operations longer than opponents can sustain resistance.
+**Patience.** The Mandate can sustain an operation longer than any opponent can sustain resistance. It is the strategic expression of the Emperor's own temperament, and at Yansieve it is being tested past the point where patience and paralysis become difficult to tell apart.
 
-### Tactical Practice
+### Practice
 
-Well-equipped (standardised, reliable). Well-trained (professional, extensive drill). Somewhat rigid (doctrine-heavy; initiative discouraged below senior ranks). Effective against conventional opponents; less effective against asymmetric threats. The Yansieve Rebellion has exposed counterinsurgency limitations.
+Well equipped, standardised and reliable; well trained and heavily drilled; and rigid—doctrine-bound, with initiative discouraged below senior rank. Against a conventional opponent the Mandate's forces are formidable to the point of being unfair. Against an asymmetric one they are a sledgehammer hunting for a nail it cannot find. The doctrine that makes them invincible in the battle they were designed for is the same doctrine that leaves them repeating themselves in the war they were not—a military, like the empire it serves, superb at the thing it has always done and slow to learn it is doing a different thing now.
 
-## Current Deployments
+## Current deployments
 
-### Yansieve Suppression
+### Yansieve
 
-The Navy maintains blockades around rebel systems. Ground campaigns declined thus far—would be bloody, expensive, prolonged, politically costly. Strategy is containment: wait for collapse under economic pressure or internal divisions.
+The Navy maintains the blockade; it holds the lanes and isolates the planets, and it does this very well, because it is the kind of thing the Navy is for. The ground campaign that would actually retake the systems has not been authorised—it would be bloody, ruinously expensive, prolonged and politically toxic—and so the largest military in human space waits at the edge of a dozen systems it could devastate and cannot cheaply hold. See [The Yansieve Rebellion](yansieve-rebellion.md).
 
 ### Kepler-442
 
-Forces deployed; purpose and status classified.
+Forces deployed; purpose and status classified. The classification has held longer than such things usually do, which the rest of human space has noticed.
 
 ### High Tiamming
 
-The L4 military complex serves as primary fleet base. Quieter than before Yansieve; personnel drawn to the trailing frontier.
+The L4 military complex remains the primary fleet base, and it is quieter than it was three years ago: ships, crews and matériel drawn off to the trailing frontier, those who remain working longer rotations, and the rotation cycles bringing Yansieve veterans home subtly changed. See [Tiamming Orbital](locations/tiamming/orbital.md).
 
-## The Military Citizenship Path
+## The road to citizenship
 
-Subjects completing 15–20 year enlistments earn citizenship upon honourable discharge. Logic is straightforward for those with limited options. Parvati sends more subjects through this path than any other region. Veterans return with status and often deep ambivalence about the system they earned entry to.
+A subject who completes a fifteen-to-twenty-year enlistment and is honourably discharged earns citizenship—for himself, and by inheritance for every descendant after him. It is the commonest road across the line and, for a subject with few other options, a coldly rational one: two decades of one's life, traded for the legal transformation of one's whole posterity. The industrial continent of Parvati sends more of its subjects down this road than anywhere in the Mandate.
+
+It is also a road the empire needs as badly as the subjects who walk it: the Army's ranks are filled, in no small part, by people buying citizenship with service. The bargain is real, and so is its bitterness. Veterans come home with the status they earned and a clear-eyed ambivalence about the system that made them earn it—people who served the Mandate for twenty years and know, better than any Court official, exactly what it costs to belong to it. They are also, increasingly, the subjects who follow the Yansieve news most closely of all. The Mandate has trained, armed, and disillusioned them itself.
 
 ---
 
@@ -1288,52 +1324,48 @@ Subjects completing 15–20 year enlistments earn citizenship upon honourable di
 
 # The Sapphire Courts
 
-The Mandate's judicial system, distinguished by the blue stone in their architecture.
+Two people stand in the same Sapphire courtroom. The citizen experiences an institution that is available, useful, and recognisably *hers*. The subject experiences a procedure conducted around him, in a language he only half-follows, toward a conclusion he cannot influence. The Sapphire Courts are, with great dignity and nine centuries of practice, both of these at once—and which one you meet depends, like everything else in the Mandate, on which side of a line you were born.
+
+Named for the blue stone worked into their architecture, the Courts are the Mandate's judicial system, and one of its more honest institutions: at the bottom they mostly work, and toward the top they mostly bend, and they have never pretended very hard otherwise.
 
 ## Structure
 
-|Level|Jurisdiction|Judges|
-|---|---|---|
-|Local Courts|Minor civil/criminal, registration violations|Appointed magistrates|
-|Regional Courts|Serious crimes, appeals, commercial disputes|Examination-selected|
-|High Courts|Major crimes, constitutional questions|Imperial appointees|
-|Azure Tribunal|Final appeals, cases involving the Throne|Chief Justice + 12 Tribunes|
+| Level | Jurisdiction | Bench |
+|-------|--------------|-------|
+| Local Courts | Minor civil and criminal matters; registration violations | Appointed magistrates |
+| Regional Courts | Serious crimes, appeals, commercial disputes | Selected by legal examination |
+| High Courts | Major crimes, constitutional questions | Imperial appointees |
+| Azure Tribunal | Final appeals; cases touching the Throne | Chief Justice and twelve Tribunes |
 
-**Local Courts**: First contact for most matters. Quality varies; some efficient, others notorious for delays and corruption.
-
-**Regional Courts**: Handle serious matters and appeals. Judges selected through specialised legal examinations; connections matter practically.
-
-**High Courts**: Each sector has one. Judges are Imperial appointees—political as well as judicial; chosen for reliability.
-
-**Azure Tribunal**: Supreme body. Sits in the Chrysanthemum Court. Decisions final; no appeal beyond the Throne itself (which rarely intervenes).
+**Local Courts** are first contact for most people and most matters; quality runs from the brisk and fair to the notoriously slow and purchasable. **Regional Courts** take the serious cases and the appeals, their judges chosen by specialised examination—and, in practice, by connection. **High Courts**, one to a sector, are staffed by Imperial appointees who are political as much as judicial, chosen for reliability before brilliance. The **Azure Tribunal** sits in the Chrysanthemum Court as the court of last resort; its decisions are final, with no appeal beyond the Throne, which almost never intervenes.
 
 ## The Sapphire Steps
 
-High Court complex in the Chrysanthemum Court. Steps carved from actual sapphire—in continuous use for 900 years. Major trials are spectacles: galleries seat thousands; proceedings broadcast; public attention shapes outcomes.
+The High Court complex in the Chrysanthemum Court, its steps carved from actual sapphire and worn by nine hundred years of continuous use. Major trials here are spectacles: galleries seating thousands, proceedings broadcast across the empire, public attention pressing on the outcome. The grandeur is the point. A justice that ancient and that beautiful invites the citizen to believe in it—and the belief is itself a pillar of the order, worth more to the Throne than the verdict in any single case.
 
-## Reputation
+## What it is like
 
-**Lower levels**: Function adequately. Citizen-over-subject testimony weighting introduces systemic bias, but within those constraints, the system works. Citizens with legitimate grievances can expect resolution; subjects with overwhelming evidence can sometimes prevail.
+**At the lower levels**, the system functions. The weighting of citizen testimony above subject testimony builds a systemic bias into the foundations, but within that bias the machinery does its work: a citizen with a legitimate grievance can expect a hearing and a resolution, and a subject with overwhelming evidence can, sometimes, prevail. For most ordinary disputes among ordinary people, the Sapphire Courts are a genuinely working institution—one of the places the Mandate is at its most defensible.
 
-**Higher levels**: Politics intrudes. Azure Tribunal decisions track Imperial preferences suspiciously. Cases involving aristocrats resolve differently than those involving commoners. The appearance of justice is maintained; the substance is negotiable.
+**At the higher levels**, the politics arrive. Azure Tribunal decisions track Imperial preference with a fidelity that is hard to explain by law alone; cases touching aristocrats resolve differently from cases touching commoners; the appearance of justice is maintained immaculately while its substance becomes a matter for negotiation. The higher a case climbs, the more it stops being about what happened and starts being about who is involved.
 
-**The Subject Experience**: A sensation of _irrelevance_. Procedures happen around them in language partially understood, reaching conclusions they cannot influence. Citizens describe the Courts as available, useful, _theirs_. Same institution, different experience.
+**For a subject**, the dominant sensation is *irrelevance*: a process unfolding around him in a register he cannot fully parse, reaching a conclusion he had no leverage over. Citizens describe the same Courts as useful, available, theirs. Same stone, same procedure, two different institutions—a fair emblem of the empire that built them.
 
 ## Procedure
 
-**Evidence and Testimony**: Inquisitorial model (judges investigate). Testimony weighted by citizenship status, social standing, relationship to case, corroboration. Physical evidence and documentation preferred where available.
+**Evidence and testimony.** An inquisitorial model: the judges investigate. Testimony is weighed by citizenship status, social standing, relationship to the case and corroboration, with documentary and physical evidence preferred where it exists—which quietly advantages those whose lives are well-documented over those whose lives are lived off the books.
 
-**Representation**: Citizens may represent themselves or engage advocates (professional class ranging from local practitioners to elite specialists). Subjects may also engage advocates but often cannot afford them.
+**Representation.** Citizens may represent themselves or engage advocates, a professional class running from the local journeyman to the elite specialist. Subjects may engage advocates too, and frequently cannot afford one, which returns the question of justice to the question of money by a slightly longer road.
 
-**Sentencing**: Fines through imprisonment to execution (for serious offences against the state). Subjects generally receive harsher sentences for equivalent offences—not formal policy but statistical reality.
+**Sentencing.** From fines through imprisonment to execution for the gravest offences against the state. Subjects receive harsher sentences than citizens for equivalent crimes—not as written policy, but as a statistical regularity that everyone in the system knows and no document admits.
 
-**Appeals**: Expensive and time-consuming; most cases end at initial level. The further a case travels, the more political considerations matter.
+**Appeals.** Expensive and slow; most cases end where they begin. The further a case travels upward, the more the political considerations outweigh the legal ones, so that the people least able to afford an appeal are also the people an appeal would least reliably help.
 
-## Relationship with the Bureau
+## The Courts and the Bureau
 
-The Bureau operates parallel to the Courts in state security matters. The Bureau can detain subjects administratively—without charges, trial, or time limit. Citizens have greater protections but can still be held 72 hours without charge; "national security" exceptions permit longer detention with judicial authorisation (rarely refused).
+The Sapphire Courts are the Mandate's visible justice. The Bureau of Internal Harmony is the other kind. It runs parallel to the Courts in matters of state security and answers to a different logic entirely: it may detain a subject administratively—no charge, no trial, no limit—and hold a citizen seventy-two hours, or far longer under the elastic heading of national security, with a judicial authorisation that is rarely refused.
 
-Serious political cases often never reach the Courts. The line between ordinary crime and threats to the state is wherever the Bureau draws it.
+The consequence is that the most serious political cases in the Mandate never reach a courtroom at all. The line between an ordinary crime, which the Sapphire Courts will try in the open, and a threat to the state, which the Bureau will handle in the dark, is not fixed in law. It is wherever the Bureau decides to draw it, case by case—which means the dignity of the Sapphire Steps, real as it is, stops exactly where the Throne's security begins. See [The Bureau](bureau.md).
 
 ---
 
@@ -1342,81 +1374,71 @@ Serious political cases often never reach the Courts. The line between ordinary 
 
 # The Yansieve Rebellion
 
-The most serious challenge to the Mandate in generations.
+The Yansieve systems have done the one thing the Mandate cannot afford to let anyone watch working: they abolished the citizen-subject distinction, and the sky did not fall. Four years on, a dozen trailing frontier worlds govern themselves without the line that the whole Mandate is told it cannot live without—poorer, hungrier, blockaded, and free of the thing. That is the real threat of Yansieve, and it is why the Imperial blockade is not only a military cordon but an attempt to keep an example from being seen.
 
-|Attribute|Value|
-|---|---|
-|Systems affected|12–15 (disputed)|
-|Duration|3858 C – present (4+ years)|
-|Status|Stalemate; containment without suppression|
-|Rebel demands|End citizen-subject distinction; or independence|
+| Attribute | Value |
+|-----------|-------|
+| Systems | 12–15 (the count is disputed, including by the rebels) |
+| Duration | 3858 C – present (4+ years) |
+| Status | Stalemate—containment without conquest |
+| Rebel demand | Abolition of the citizen-subject distinction; failing that, independence |
 
 ## Origins
 
-The Yansieve systems—a trailing frontier cluster—have always been peripheral. Settled late, administered lightly, populated largely by subjects in extractive labour. Grievances accumulated over generations: disproportionate taxation, inadequate infrastructure, administrative neglect punctuated by arbitrary intervention, the sense that the Throne took everything and gave nothing.
+The Yansieve cluster was always peripheral: settled late, administered lightly, worked largely by subjects in extractive labour. The grievances were the ordinary grievances of the far frontier, accumulated over generations—disproportionate taxation, infrastructure that never came, long neglect punctuated by sudden arbitrary attention, the settled conviction that the Throne took everything the systems produced and returned nothing but officials. None of this was unusual. Most of the Mandate's frontier could say the same and does not rebel. What turned grievance into uprising was a single administrative decision.
 
-### The Spark
+### The spark
 
-3858 C: Bureau registration sweep. Stated purpose was updating subject records; methods included mass detentions for irregularities, property seizures, forced relocations, violence against resistance. Local populations found this intolerable. Protests became suppression became uprising. Within months, a dozen systems declared independence.
+In 3858 C the Bureau ran a registration sweep across the cluster, stated purpose the updating of subject records. In practice it meant mass detentions over paperwork irregularities, property seizures, forced relocations, and violence against anyone who resisted being processed. The local population found it intolerable in a way the Bureau had not predicted. Protest became suppression became uprising; within months a dozen systems had declared independence. The Mandate had administered the frontier roughly for centuries without consequence. It miscalculated, once, how much weight a particular set of shoulders would still bear.
 
-### The Bureau's Failure
+### The Bureau's failure
 
-The rebellion's organisation happened beneath Bureau notice—cells, communications networks, weapons stockpiles, all without triggering intervention. Whether this reflects resource constraints, intelligence failures, or something worse is disputed. Heads have rolled; current Yansieve operations are intense, driven by institutional need to demonstrate relevance.
+The organisation that did not happen by accident: cells, couriers, weapons caches, a whole architecture of revolt assembled beneath the notice of the empire's listening apparatus. Whether that reflects resource limits, intelligence failure, or the Bureau's old habit of hearing sedition only when it is spoken in Classical, the Mandate has not decided in public. Heads have rolled regardless. Current Yansieve operations are run with an intensity that owes as much to an institution's need to prove it still works as to any plan for winning. See [The Bureau](bureau.md).
 
-## Current Status
+## The stalemate
 
-### Military Situation
+### The military situation
 
-Imperial blockades around rebel systems. Navy controls space lanes; planets isolated. But isolation is not conquest. Ground campaigns would be bloody (urban warfare against motivated defenders), expensive (interstellar logistics), prolonged (pacification taking years), and politically costly (citizen casualties; inevitable atrocities).
+Imperial blockades ring the rebel systems; the Navy holds the lanes; the planets are isolated. But isolation is not conquest. A ground campaign to retake them would be bloody (urban warfare against motivated defenders), ruinously expensive (the logistics of war at interstellar range), prolonged (pacification measured in years), and politically poisonous (citizen casualties, and the atrocities that no occupation avoids). So the blockade holds, and waits. See [Military](military.md).
 
-Xuanzong XVII has declined to authorise such campaigns. Strategy is containment: wait for collapse under economic pressure, internal divisions, or exhaustion.
+### Rebel governance
 
-### Rebel Governance
+In the territory they hold, the rebels have built:
 
-The rebels have established:
+- elected councils in place of Imperial administration;
+- the abolition of the citizen-subject distinction;
+- an economy reorganised, of necessity, around self-sufficiency;
+- a militia defence.
 
-- Elected councils replacing Imperial administration
-- Abolition of citizen-subject distinction in their territory
-- Economic reorganisation around self-sufficiency
-- Militia-based defence
+How well any of it functions is exactly the thing the blockade exists to keep ambiguous. Mandate sources report chaos, scarcity and incipient collapse; sympathetic accounts describe austere but functioning self-rule. The truth is almost certainly in between and getting harder to verify by the month, which suits the Throne: an example no one can clearly see cannot clearly inspire.
 
-How well these function is disputed. Mandate sources emphasise chaos; sympathetic accounts describe functional if austere governance. Truth is probably between.
+## The argument at the centre
 
-### The Stalemate
+Yansieve did not create the Mandate's divisions; it forced them into the open. The court's response has hardened into three positions, and the Emperor has chosen the third by declining the other two. See [Government](government.md).
 
-Neither side can deliver a decisive blow. The Mandate can blockade but not affordably conquer; rebels can hold their systems but not break the blockade. Neither shows signs of changing strategy.
+- **Crush it.** **Marshal Cael Ombros** and the war faction hold that four years of blockade is four years of advertising—proof to every watching subject that the Throne can be defied and survive. A decisive campaign, whatever its cost, would settle the question and the frontier with it.
+- **Contain it.** The Emperor's line. Wait for hunger, exhaustion, or the rebellion's own factions to do the work that armies would do expensively and visibly. Spend time instead of lives. It has not worked in four years; it has also not lost in four years, which to the patient is the same as winning slowly.
+- **Concede something.** The unspeakable position, murmured by a thin scattering in Colonial Affairs and Justice—**Deputy Minister Vasha Toren** the nearest thing it has to a face—that the rebellion is a symptom, that the registry manufactures rebels faster than the Bureau detains them, and that the only durable end is to change the thing being rebelled against. They do not say *abolition*. The rebels have already said it for them, which is the difficulty.
 
-## Rebel Perspectives
+## What the rebels say
 
-### End the Distinction
+**End the distinction.** The central grievance, framed by the rebels as the root of all the others and as fundamentally unreformable: only structural change—abolition—can address the wrong, because the wrong is structural.
 
-Central grievance. Rebel rhetoric frames the citizen-subject system as inherently unjust, the root of other grievances, and unreformable. Only structural change—abolition—can address the underlying wrong.
+**Or let us go.** If the Mandate will not change, then separation is the only road to dignity. The systems claim resources enough to survive alone, and argue that the Mandate's value to them was always negative—that extraction exceeded investment, and that losing the empire would cost them less than keeping it.
 
-### Or Independence
+**And among themselves, they argue.** The rebellion is not one thing. Its factions divide over whether negotiation is conceivable, how a post-imperial society should be ordered, whether to seek outside support and from whom, and how to fight. These fractures have not yet broken it. Whether they will is, openly, one of the Mandate's central hopes—the containment strategy is in large part a wager on the rebels falling out before the blockade falls apart.
 
-If the Mandate will not change, separation is the only path to dignity. The systems have resources to survive independently (they claim); the Mandate's value to them is negative—extraction exceeds investment.
+## What the Mandate says
 
-### Internal Diversity
+**Criminal sedition.** The official position. The citizen-subject system is the legal foundation of the state; to abolish it is not reform but revolution, and the Throne does not negotiate revolution. The demand is, by definition, the one demand that cannot be met.
 
-The rebellion is not monolithic. Factions disagree about whether negotiation is possible, how to organise post-independence society, whether to seek external support (and from whom), and military strategy. These disagreements have not yet fractured the rebellion; whether they will is one of the Mandate's hopes.
+**Foreign hands.** Imperial rhetoric prefers a rebellion made elsewhere—agitators, outside funding, smuggled arms. The Bureau's own intelligence suggests contacts between rebel leaders and elements of the Union of Frontier Freeholds, and nothing conclusive beyond that; the smuggling is real but commercial, and runs through Sable Cartel subsidiaries that are, with the Cartel's customary left-hand-right-hand incoherence, also lending to the Mandate that prosecutes the blockade. The narrative of foreign subversion serves the Throne regardless of its accuracy: a rebellion of outsiders need not be a verdict on anything at home.
 
-## Imperial Perspectives
+**And, unasked, the real worry.** How many of the Mandate's four hundred billion subjects quietly hope the rebels win? The question is never put officially. The Bureau's estimate, whatever it is, is not one it has chosen to share.
 
-### Criminal Sedition
+## The watching empire
 
-Official position: criminal sedition against legitimate authority. The citizen-subject system is the Mandate's legal foundation; abolishing it would require restructuring everything. The demand is revolution. The Throne will not negotiate revolution.
-
-### Foreign Interference
-
-Imperial rhetoric suggests foreign involvement—agents provocateurs, external funding, smuggled weapons. Evidence is limited; Bureau intelligence suggests contacts between rebel leaders and Union of Frontier Freeholds elements but nothing conclusive. The narrative serves domestic purposes regardless of accuracy.
-
-### Internal Concerns
-
-How many Mandate subjects quietly hope the rebels succeed? The question is not asked officially. The Bureau's answer, whatever it is, is not shared.
-
-## Wider Impact
-
-Across the Mandate, subjects watch with attention that makes the Bureau uncomfortable. Hiveholm workers discuss Yansieve news with specificity suggesting close attention. Parvati's subjects share legal status with the rebels, share grievances with the rebels. Few are ready to rebel themselves. But the interest is there.
+The rebellion's largest effect is the one the blockade cannot contain, because it is happening everywhere at once. Across the Mandate, subjects follow Yansieve news with a specificity that unsettles the people whose job is to notice such things. Hiveholm workers discuss the frontier with the detail of close attention; Parvati's subjects share both legal status and grievance with the rebels; even agricultural Osthavn, weeks of travel away, hosts the occasional refugee and a great deal of pointed silence. Few are ready to rise. But the interest is there, patient and arithmetical, and everyone in the Chrysanthemum Court can feel it: the sense that the whole empire is quietly doing a sum, and waiting to see how it comes out.
 
 ---
 
@@ -1425,36 +1447,35 @@ Across the Mandate, subjects watch with attention that makes the Bureau uncomfor
 
 # The Mandate: Locations
 
-The Mandate spans hundreds of systems. This index is not exhaustive.
+The Mandate spans hundreds of systems, and no index could be exhaustive. What follows is the throne world in detail and a handful of the places that matter most to the present moment—the centre, and the frontier that is testing it.
 
-## Core Systems
+## Core systems
 
-|World|Character|
-|---|---|
-|Tiamming|Throne world, administrative centre|
-|_(Others to be documented)_|—|
+| System | Character |
+|--------|-----------|
+| [Tiamming](tiamming/index.md) | Throne world and administrative heart; the empire's contradictions gathered into one system |
 
-## Frontier Systems
+Hundreds of other core systems—older colonies, sector capitals, industrial and agricultural worlds—remain to be documented.
 
-|Region|Character|
-|---|---|
-|Yansieve systems|Currently in rebellion|
-|Kepler-442|Active military deployment; purpose classified|
-|_(Others to be documented)_|—|
+## Frontier systems
 
-## Tiamming Detail
+| Region | Character |
+|--------|-----------|
+| The Yansieve systems | Trailing frontier cluster in open revolt since 3858 C; self-governing under Imperial blockade. See [The Yansieve Rebellion](../yansieve-rebellion.md) |
+| Kepler-442 | Active military deployment; purpose and status classified |
 
-|Continent|Location|Character|
-|---|---|---|
-|Xuan|Northern hemisphere|Imperial heartland, aristocratic estates|
-|Parvati|Equatorial/southern|Industrial, subject-majority|
-|Osthavn|Southern hemisphere|Agricultural, provincial|
+## Tiamming in detail
 
-| Location            | Character                           |
-| ------------------- | ----------------------------------- |
-| Chrysanthemum Court | Capital complex, seat of government |
-| Hiveholm            | Industrial mega-city, 2.3 billion   |
-| Orbital             | Gates, Jade Belt, High Tiamming     |
+The throne world, continent by continent and up into orbit:
+
+| Location | Character |
+|----------|-----------|
+| [The Chrysanthemum Court](tiamming/chrysanthemum-court.md) | The capital complex; seat of government, aristocracy, and the court's quiet argument with itself |
+| [Xuan](tiamming/xuan.md) | Northern continent; imperial heartland and the aristocratic estates |
+| [Parvati](tiamming/parvati.md) | Equatorial continent; industrial, manufacturing, subject-majority |
+| [Hiveholm](tiamming/hiveholm.md) | Parvati's vertical industrial megacity—2.3 billion, and the Substrate beneath |
+| [Osthavn](tiamming/osthavn.md) | Southern continent; agricultural, provincial, and the Provisional Territories |
+| [Tiamming Orbital](tiamming/orbital.md) | The Ascension Gates, the Jade Belt, and the High Tiamming fleet base |
 
 ---
 
@@ -1463,49 +1484,45 @@ The Mandate spans hundreds of systems. This index is not exhaustive.
 
 # Tiamming
 
-Throne world of the Mandate; seat of the Stellar Throne; administrative centre of humanity's largest polity.
+Tiamming is not the most populous world in the Mandate. It is the most legible. Throne world, seat of the Stellar Throne, administrative heart of humanity's largest polity—and a single planet on which every contradiction the empire contains can be found within a few hours' flight: ancient aristocratic estates and churning industrial warrens, cosmopolitan capitals and isolated rural valleys, citizens secure in a privilege they never think about and subjects navigating a world drawn three sizes too small for them. To understand Tiamming is very nearly to understand the Mandate, which is exactly the impression the Mandate likes Tiamming to give.
 
-|Attribute|Value|
-|---|---|
-|Star|Tiamming Primary (G2V, Sol-like)|
-|Population|~18 billion (planetary); ~340 billion (system)|
-|Gravity|1.02 standard|
-|Capital|Chrysanthemum Court|
-|Languages|Mandate Classical (official), Trade Tongue, 200+ regional|
+| Attribute | Value |
+|-----------|-------|
+| Star | Tiamming Primary (G2V, Sol-like) |
+| Population | ~18 billion planetary; ~340 billion system-wide |
+| Gravity | 1.02 standard |
+| Capital | The Chrysanthemum Court |
+| Languages | Mandate Classical (official), Trade Tongue, 200+ regional |
 
-## Character
+## The three continents
 
-Not the most populous Mandate world but the political, cultural, and symbolic heart. The Empire's contradictions are most visible here: ancient aristocratic estates and churning industrial zones; cosmopolitan cities and isolated rural communities; citizens secure in privilege and subjects navigating a narrower world.
+| Continent | Location | Population | Character |
+|-----------|----------|------------|-----------|
+| [Xuan](xuan.md) | Northern | ~8 billion | Imperial heartland; aristocratic estates |
+| [Parvati](parvati.md) | Equatorial, extending south | ~7 billion | Industrial, manufacturing, subject-majority |
+| [Osthavn](osthavn.md) | Southern | ~3 billion | Agricultural, provincial |
 
-## Geography
+Slightly larger than Earth; three continents and long island chains; sixty-eight per cent ocean. The climate is managed rather than radically terraformed, so the seasons still turn and the north still has real winters—a small thing that has shaped two very different cultures at the two ends of one landmass. Xuan rules, Parvati makes, Osthavn feeds; and each is convinced, in its own idiom, that it is the part of Tiamming that actually matters.
 
-Slightly larger than Earth; three continents; extensive island chains; 68% ocean coverage.
+## Who lives here, and as what
 
-|Continent|Location|Population|Character|
-|---|---|---|---|
-|Xuan|Northern|~8 billion|Imperial heartland, aristocratic estates|
-|Parvati|Equatorial/southern|~7 billion|Industrial, subject-majority|
-|Osthavn|Southern|~3 billion|Agricultural, provincial|
+| Status | Population | Share |
+|--------|------------|-------|
+| Citizens | ~11 billion | ~61% |
+| Subjects | ~7 billion | ~39% |
 
-Moderate axial tilt; familiar seasonal patterns. Climate management stabilises weather but no radical terraforming.
+Tiamming runs citizen-heavy, as befits a core world, and it is *not* representative of the Mandate it governs: out on the industrial and peripheral worlds the ratio inverts. The throne world is, in this as in much else, the empire's flattering self-portrait rather than its honest census—the place where the Mandate most looks the way the Mandate believes it looks. See [The Citizen-Subject System](../../citizen-subject.md).
 
-## Citizen-Subject Distribution
+## Orbital infrastructure
 
-|Status|Population|Percentage|
-|---|---|---|
-|Citizens|~11 billion|~61%|
-|Subjects|~7 billion|~39%|
+A system that rivals any in human space for the density of what circles it:
 
-Tiamming's citizen-heavy ratio reflects core status. _Not_ representative of the Mandate—peripheral and industrial worlds often have subject majorities.
+- twelve space elevators, the Ascension Gates;
+- the Jade Belt, the aristocracy's private stations;
+- High Tiamming, the L4 military complex;
+- and a thick weather of commercial stations, shipyards and defence platforms.
 
-## Orbital Infrastructure
-
-Rivals any system in human space:
-
-- 12 space elevators (the Ascension Gates)
-- The Jade Belt (aristocratic private stations)
-- High Tiamming (military complex at L4)
-- Commercial stations, shipyards, defence platforms
+See [Tiamming Orbital](orbital.md) for the system above the sky—the gates that lift the empire's cargo, the belt where its lords retreat, and the fleet base from which a quieter-than-usual Navy watches the approaches.
 
 ---
 
@@ -1514,66 +1531,62 @@ Rivals any system in human space:
 
 # The Chrysanthemum Court
 
-Capital complex of the Mandate, where the Songjiang River meets the northern sea.
+Where the Songjiang River meets the northern sea sits the capital complex of the Mandate—four hundred square kilometres in which the empire keeps its Throne, its paperwork, its aristocracy and its secrets, arranged in concentric rings of decreasing access and increasing power. The Chrysanthemum Court is the Mandate's idea of itself rendered in stone: orderly, ancient, beautiful, and built so that almost no one ever reaches the centre.
 
-|Attribute|Value|
-|---|---|
-|Location|Northern coast of Xuan|
-|Area|~400 km²|
-|Population|~500 million (metropolitan)|
-|Character|Political centre, administrative hub, aristocratic residence|
+| Attribute | Value |
+|-----------|-------|
+| Location | Northern coast of Xuan |
+| Area | ~400 km² |
+| Population | ~500 million (metropolitan) |
+| Character | Political centre, administrative hub, aristocratic residence |
 
-## Districts
+## The districts
 
 ### The Forbidden Precincts
 
-The Stellar Throne itself: walled compound at the complex's heart. Entry by Imperial invitation; even high officials may serve careers without passing the inner gates.
+The Stellar Throne itself: a walled compound at the complex's heart, entered by Imperial invitation, which most high officials never receive. Within are the throne room, the residential palaces, the most sensitive offices of state, and gardens laid out to represent the diversity of the Mandate—the architecture deliberately blending Classical forms with elements drawn from subject cultures, a visual argument that the empire encompasses all under one roof.
 
-Within: throne room for formal audiences; residential palaces; sensitive administrative offices; gardens representing Mandate diversity. Architecture blends Mandate Classical with elements from subject cultures—visual argument that the Empire encompasses all.
-
-**Xuanzong XVII** has ruled from here 41 years; operates through intermediaries; few outside innermost circles see him directly.
+**Xuanzong XVII** has ruled from inside these walls for forty-one years, through intermediaries, seen directly by very few. The opacity is policy. It is also, lately, a question: an Emperor ninety-six years old and rarely seen, with no named heir, behind a wall no one may pass, is a great deal of the Mandate's most important uncertainty concentrated in one silent compound. What the court cannot see, it reads like weather.
 
 ### The Ministries District
 
-Administrative apparatus south of the Forbidden Precincts. Tens of thousands process the Empire's paperwork: tax assessments, military logistics, infrastructure planning, subject registration, citizenship applications, judicial appeals, diplomatic correspondence.
+South of the Precincts, the administrative apparatus: tens of thousands of civil servants in imposing stone halls, processing the tax assessments, military logistics, infrastructure plans, subject registrations, citizenship applications, judicial appeals and diplomatic correspondence that are, collectively, the empire actually functioning. The facades promise permanence and authority; the interiors are cubicles, holographic ledgers and the low hum of procedure.
 
-Architecture deliberately imposing—massive stone, columned facades, permanence and authority. Interior: cubicles, holographic displays, the quiet hum of bureaucracy.
+It is also where the Mandate's real argument is conducted, in the only register the centre permits—the deniable one. The factions that cannot say *crush*, *wait* and *concede* to the Throne's face say them to one another here, as disputes over budget lines, jurisdictional boundaries and the proper interpretation of precedent. The Ministries District looks like the most boring place in the empire. It is where the empire is quietly deciding whether it can still change. See [Government](../../government.md).
 
 ### The Jade Quarters
 
-Where the powerful live. Aristocratic compounds, ministerial residences, wealthy citizens wanting proximity to power. Clean streets, unobtrusive security, impeccable services. What the Mandate looks like when everything works.
-
-Residents: hereditary nobles; examination graduates risen through merit; officers between postings; the occasional wealthy subject who has purchased entry but not yet citizenship.
+Where the powerful live: aristocratic compounds, ministerial residences, the homes of wealthy citizens who want proximity to power. Clean streets, discreet security, impeccable service—the Mandate as it looks when everything works exactly as designed. Among the hereditary nobles and the risen examination graduates one also finds the occasional wealthy subject who has bought a fine house and not yet bought citizenship, living in the best district of the capital with a band still on his wrist.
 
 ### The Thousand Markets
 
-Commercial district. Trade Tongue heard as often as Classical; foreign merchants maintain permanent establishments; Drift Communities dock shuttles. Loud, crowded, vital. Here the citizen-subject distinction blurs somewhat—commerce cares about money—though registration bands remain visible.
+The commercial district, where Trade Tongue is heard as often as Classical, foreign merchants keep permanent houses, and Drift Communities dock their shuttles to trade. Loud, crowded, indispensable. Here the citizen-subject distinction blurs further than anywhere else in the Court, because commerce cares about money and not status—though the registration bands are still there to be read, by anyone who troubles to look.
 
 ### The Old City
 
-Predating the Modern Mandate, preserving First Dynasty and colonial architecture. Narrow streets; temples to discouraged but tolerated beliefs; festivals forgotten elsewhere; dialects Classical was supposed to replace. The Mandate's complicated relationship with its past embodied: preserved but contained, honoured but circumscribed.
+Older than the Modern Mandate, preserving First Dynasty and colonial architecture, narrow streets, temples to faiths the Mandate discourages and tolerates, festivals forgotten everywhere else, dialects the Classical was meant to bury. It is the Mandate's relationship with its own past, made into a neighbourhood: honoured, preserved, and carefully circumscribed—the empire keeping its history the way it keeps everything, visible and contained.
 
 ## The Sapphire Steps
 
-Judicial complex where High Courts convene. Steps carved from actual sapphire—900 years of continuous use. Trials here are spectacles: galleries seat thousands; proceedings broadcast.
+The judicial complex where the High Courts convene, its steps carved from sapphire and worn smooth by nine hundred years of feet. Major trials are public spectacles, galleries seating thousands, proceedings broadcast across the empire. See [The Sapphire Courts](../../sapphire-courts.md).
 
-## Daily Life
+## Daily life
 
-**For Citizens**: Comfortable. Transit runs; services function. Formal—dress matters, behaviour observed, hierarchies visible—but within constraints, life is good.
+**For citizens**, comfortable: transit runs, services function, and the formality—dress, bearing, the visible hierarchies—is a frame for a good life rather than a cage around it.
 
-**For Subjects**: Work here in service positions, construction, cleaning. Live elsewhere, commuting from surrounding districts or Parvati. The Court is not hostile to subjects. It simply was not built for them.
+**For subjects**, the Court is a place of work, not residence. They staff its service, its construction, its cleaning, and they commute in from the surrounding districts and from Parvati, because the Court was not built to house them. It is not hostile to subjects. It simply, like much of the Mandate's best, was made with someone else in mind.
 
-**For Visitors**: Thousand Markets welcome visitors; Old City tolerates tourists; Ministries process petitioners; Jade Quarters and Forbidden Precincts are inaccessible.
+**For visitors**, the Thousand Markets welcome trade, the Old City tolerates tourists, the Ministries process petitioners, and the Jade Quarters and Forbidden Precincts are, for all practical purposes, another planet.
 
 ## Security
 
-Most secure location in the Mandate. Imperial Guard presence; Bureau surveillance; checkpoints at district boundaries; layered access controls. Mostly invisible—orderly rather than oppressive. The oppression operates beneath the surface.
+The most secure location in the Mandate: Imperial Guard, Bureau surveillance, checkpoints at every district boundary, layered access controls. Most of it is invisible, presenting as orderliness rather than occupation. The oppression here does not march. It files, watches, and waits—which is the Chrysanthemum Court's whole aesthetic, applied to the business of control.
 
-## Characters
+## Figures
 
-**Lady Fen Aravis**: Bureau director maintains offices in Ministries District; residences in Jade Quarters. Presence at Court functions is noted and avoided.
+**Lady Fen Aravis**, chief of the Bureau, keeps offices in the Ministries District and a residence in the Jade Quarters; her presence at Court functions is noted by everyone and sought by no one. See [The Bureau](../../bureau.md).
 
-**Imperial Household**: Emperor's family, staff, circle occupy the Forbidden Precincts. Identities and activities not public.
+**The Imperial Household**—the Emperor's family, staff and inner circle—occupies the Forbidden Precincts, its members' identities and doings largely unpublished. Among them, unnamed and closely watched, are the people any future succession will be fought over.
 
 ---
 
@@ -1582,80 +1595,53 @@ Most secure location in the Mandate. Imperial Guard presence; Bureau surveillanc
 
 # Hiveholm
 
-Largest industrial city on Tiamming: 2.3 billion in a vertical urban complex.
+Hiveholm was planned for five hundred million people. It now holds two and a third billion, stacked into a vertical industrial complex that grew past every projection because the Mandate's appetite for manufacturing grew faster than anyone's optimism. It is the largest city on Tiamming, the beating industrial heart of Parvati, and not, by any measure, a place designed to be lived in. It was designed to produce. The living happens anyway, in the gaps, the way it always does.
 
-|Attribute|Value|
-|---|---|
-|Location|Central Parvati|
-|Population|~2.3 billion|
-|Subject proportion|~70%|
-|Character|Industrial mega-city, vertical construction|
-|Founded|Pre-Modern Mandate; expanded continuously|
+| Attribute | Value |
+|-----------|-------|
+| Location | Central Parvati |
+| Population | ~2.3 billion |
+| Subject share | ~70% |
+| Character | Industrial megacity; vertical construction |
+| Founded | Pre-Modern Mandate; expanded ever since |
 
-## Physical Character
+## The physical city
 
-Exists because the Mandate needed to manufacture at scale. Grew around heavy industry—shipyards, weapons factories, fusion plant construction. Original planned capacity: 500 million. Planning proved optimistic.
+Built around heavy industry—shipyards, weapons works, fusion-plant fabrication—and grown vertical out of necessity. Residential blocks stack dozens of storeys; transit runs in three dimensions; "street level" is a relative term. Natural light reaches the upper tiers and gives out long before the deep warrens, which live by artificial illumination and have for generations.
 
-### Density
-
-_Dense_. Residential blocks stack dozens of storeys; transit runs in three dimensions; "street level" is relative. Natural light reaches upper tiers; deep warrens rely on artificial illumination.
-
-### Air and Water
-
-Air quality managed but imperfect—persistent haze that residents stop noticing and visitors never forget. Water recycled repeatedly.
-
-### Food
-
-Arrives from Osthavn, processed for efficient storage. Fresh produce expensive; preserved and processed food standard.
+The air is managed and imperfect—a persistent haze that residents stop seeing within a week and visitors never quite stop tasting. The water is recycled and recycled again. The food arrives from Osthavn, processed for storage rather than pleasure; fresh produce is a luxury, and preserved and reconstituted fare is simply what one eats. None of this is cruelty. It is throughput, applied to human beings, and it produces a particular kind of person and a particular kind of toughness.
 
 ## Work
 
-Life centres on work. Factories run continuous shifts. Compensation adequate—starving workers produce poorly—but advancement constrained. Subject line workers may become subject supervisors; positions above marked "citizens preferred."
+Life in Hiveholm centres on the shift. The factories run continuously; compensation is adequate, because starving workers produce badly, and advancement is capped, because the better positions are marked *citizens preferred*. A subject line-worker may rise to subject supervisor—**Wen Daoshi** on Factory Complex 7 is exactly that, and exactly as far as that road goes—and no further, whatever the competence. See [Parvati](parvati.md).
 
-### Labour Organisation
+### Labour organisation
 
-Limited, regulated forms. Permitted: collective bargaining on wages, conditions, safety. Prohibited: political activity, criticism of citizen-subject system, coordination outside workplace. A union demanding ventilation is acceptable; one questioning subject status is sedition.
+Permitted in carefully drawn limits. Workers may bargain collectively over wages, conditions and safety; they may not organise politically, criticise the citizen-subject system, or coordinate beyond the workplace. A union that demands better ventilation is doing its lawful job. A union that asks why ventilation is worse on the subject floors is committing sedition. The line between the two is precisely the line the Mandate most needs its workers not to examine, which is precisely the line Hiveholm's workers examine, quietly, all the time.
 
 ## The Substrate
 
-Lower levels beneath official habitation host populations absent from the census: unregistered subjects, refugees, those who've slipped out of the administrative system.
+Beneath the official city, in the levels below habitation, live the people the census does not count: unregistered subjects, refugees, the ones who slipped out of the administrative system and chose the margin over the band. The Substrate is not lawless—it has its own authorities, its own economy, its own social order—but it is outside the Mandate's sight, which is the whole of its appeal and the whole of its danger. People survive off the books, trade in unofficial markets, and provide services the Mandate does not recognise to people the Mandate does not count.
 
-Not lawless—own authorities, economy, social structures—but outside the Mandate's sight. People survive working off the books, trading in unofficial markets, providing unrecognised services.
-
-Bureau makes occasional sweeps: names checked, some registered and returned, others deported, those with warrants arrested. The Substrate absorbs disruptions and continues.
-
-Some Substrate residents connect to Yansieve networks—communication channels, support infrastructure, ideological sympathy. Most are simply people for whom the official system offers nothing.
+The Bureau sweeps it periodically: names checked, some registered and returned, some deported, the warranted taken. The Substrate absorbs each sweep and re-forms, because for the people in it the margin is still better than the alternative the official system offers, which is nothing. Some of its residents are tied into Yansieve networks—communications, support, sympathy. Most are simply people for whom the empire never had a place, living in the one place the empire cannot quite see. See [The Citizen-Subject System](../../citizen-subject.md).
 
 ## Misrule in Hiveholm
 
-The festival has an edge here. Workers say things verging on sedition. Supervisors drink themselves unconscious. Bureau monitors but rarely intervenes—Misrule speech is protected.
+The festival has an edge here that it lacks in the choreographed north. Under Misrule's three-day licence, workers say things that verge hard on sedition, and supervisors drink themselves insensible rather than have to officially remember hearing them. The Bureau watches and rarely intervenes, because Misrule speech is protected and everyone knows the rules of the game. On the fourth morning, everyone recalls precisely what was said, and everyone agrees, without a word, to pretend otherwise. See [Culture](../../culture.md).
 
-On the fourth day, everyone remembers what was said. Everyone pretends otherwise.
+## Notable locations
 
-## Notable Locations
+**Factory Complex 7:** heavy manufacturing—ships, stations, orbital infrastructure—and the shift floor where Wen Daoshi supervises two hundred workers she is not permitted to be acknowledged as supervising.
 
-**Factory Complex 7**: Heavy manufacturing—ships, stations, orbital infrastructure. Where **Wen Daoshi** supervises her shift.
+**The Coalface:** the oldest factory district, its original facilities preserved as working museums, its workers citizens by tradition and union rule—an anomalous citizen enclave marooned in subject-majority Parvati, and proud of it.
 
-**The Coalface**: Oldest factory district; original facilities preserved as working museums. Workers are citizens by tradition and union requirement—anomalous citizen enclave in subject-majority Parvati.
+**The Transit Nexus:** a three-dimensional tangle of platforms and corridors moving millions a day, the one place Hiveholm's population becomes visible to itself as a single vast mass.
 
-**The Transit Nexus**: Three-dimensional tangle of platforms and corridors handling millions daily. Where Hiveholm's population becomes visible as a mass.
+**The Deep Warren Markets:** the Substrate's unofficial markets, trading unregistered technology, restricted substances, off-books labour and information. Located by word of mouth, relocated after every Bureau raid.
 
-**Deep Warren Markets**: Unofficial Substrate markets trading unregistered technology, restricted substances, off-books labour, information. Locations known through word of mouth; move after Bureau raids.
+## The character of the place
 
-## Characters
-
-### Wen Daoshi
-
-**Role**: Shift supervisor, Factory Complex 7  
-**Age**: 53
-
-Three citizenship applications, three denials on procedural grounds—documentation insufficiencies, backlogs, errors. Suspects Bureau involvement; cannot prove it. Manages 200 workers with competence her status prevents anyone from officially recognising.
-
-Has stopped applying. Has not stopped paying attention to Yansieve news.
-
-## The Hiveholm Character
-
-Not pleasant. Not designed to be. Designed to produce. Some hate it and leave when they can. Others find something in the density, the shared labour, the proximity of millions living the same constrained life. The city creates its own culture, solidarity, way of being human under industrial conditions.
+Hiveholm is not pleasant and was never meant to be. Some hate it and leave the moment they can. Others find something real in the density, the shared labour, the proximity of millions living the same constrained life—a culture, a solidarity, a way of being human under industrial conditions that the north has no equivalent for and no real understanding of. The Mandate built Hiveholm to make things. It also, without intending to, made Hiveholm into one of the few places the Mandate's subjects feel, for all the haze and the ceiling, genuinely like a people.
 
 ---
 
@@ -1664,90 +1650,74 @@ Not pleasant. Not designed to be. Designed to produce. Some hate it and leave wh
 
 # Tiamming Orbital Infrastructure
 
-Rivals any system in human space.
+The unevenness of the Mandate does not stop at the atmosphere. It continues straight up: bulk cargo and bonded labour on the great elevators, the aristocracy on private stations literally above it all, the Navy watching from the empty points between. The space around Tiamming rivals any system in human space for the sheer density of what circles it, and like the planet below, it is organised so that where you may go depends on what you are.
 
-|Attribute|Value|
-|---|---|
-|Total orbital population|~320 billion (system-wide)|
-|Major installations|Thousands|
-|Space elevators|12 (the Ascension Gates)|
-|Character|Military, commercial, residential|
+| Attribute | Value |
+|-----------|-------|
+| Orbital population | ~320 billion (system-wide) |
+| Major installations | Thousands |
+| Space elevators | 12 (the Ascension Gates) |
+| Character | Military, commercial, residential |
 
 ## The Ascension Gates
 
-Twelve space elevators connect surface to orbit, handling bulk cargo traffic. Imperial infrastructure operated by Ministry of Transit.
+Twelve space elevators tie the surface to orbit and carry the bulk of Tiamming's cargo traffic—Imperial infrastructure, operated by the Ministry of Transit, and each grown into its own character over the centuries.
 
-|Gate|Location|Character|
-|---|---|---|
-|First Gate|Chrysanthemum Court|Oldest, most prestigious; serves capital|
-|Second–Sixth|Xuan coast|Mixed passenger/cargo|
-|Seventh Gate|Hiveholm|Industrial traffic; never stops|
-|Eighth–Eleventh|Parvati coast|Heavy cargo, industrial supply|
-|Twelfth Gate|Osthavn|Agricultural exports; seasonal rhythm|
+| Gate | Location | Character |
+|------|----------|-----------|
+| First Gate | Chrysanthemum Court | Oldest and most prestigious; serves the capital |
+| Second–Sixth | Xuan coast | Mixed passenger and cargo |
+| Seventh Gate | Hiveholm | Industrial traffic; never stops |
+| Eighth–Eleventh | Parvati coast | Heavy cargo, industrial supply |
+| Twelfth Gate | Osthavn | Agricultural exports; a seasonal rhythm |
 
-Each has developed its own character. First Gate terminals: grand, ceremonial. Seventh Gate: functional, optimised for throughput.
-
-Transit takes ~4 hours surface to synchronous orbit. Accommodations range from luxury cabins to standard seating to cargo pods. Reliable; breakdowns rare and newsworthy.
+The transit takes about four hours from surface to synchronous orbit, in accommodations running from luxury cabins through standard seating down to cargo pods—the citizen-subject hierarchy reproduced, with quiet precision, in the seating plan. The Gates are reliable to the point that a breakdown is genuinely newsworthy. The First Gate's terminals are grand and ceremonial; the Seventh, serving Hiveholm, is functional and optimised for throughput and never once stops moving.
 
 ## The Jade Belt
 
-Private stations at synchronous altitude where aristocratic families maintain residences away from planetary concerns.
-
-### Character
-
-Where the truly powerful retreat: no Imperial protocols, no petitioners, no expectations beyond what they choose. Access by invitation only; security private, discreet, absolute.
-
-Residents: active nobles seeking privacy; retired ministers; the occasional subject wealthy enough to buy proximity without status. Culture rarefied—residents interact with each other, servants, carefully screened visitors. The rest of the Mandate is distant.
+Private stations at synchronous altitude, where aristocratic families keep residences clear of planetary concerns and planetary people. This is where the truly powerful retreat: no Imperial protocols, no petitioners, no expectations beyond the ones they set themselves; access by invitation only, security private and absolute. The residents—active nobles wanting privacy, retired ministers, the occasional subject rich enough to buy proximity without ever buying status—interact with one another, their servants, and a carefully screened few. From the Jade Belt, the rest of the Mandate is a blue curve a long way down.
 
 ### The Floating Gardens
 
-Station maintaining low gravity and extensive hydroponics. Water flows in ribbons; plants grow in improbable directions; deliberately disorienting. Social functions where the powerful meet outside official contexts. Deals made here that appear nowhere in ministerial records.
+A station kept at low gravity and given over to extravagant hydroponics—water flowing in ribbons, plants growing in impossible directions, the disorientation deliberate. It hosts the social functions where the powerful meet outside any official setting, and where a great many arrangements are made that appear in no ministerial record. The Mandate's real business and its visible business are not always the same business, and some of the gap is up here, growing orchids in mid-air.
 
 ## High Tiamming
 
-Military station complex at L4.
+The military station complex at L4.
 
-|Attribute|Value|
-|---|---|
-|Population|~3 million naval personnel|
-|Function|Fleet base, shipyards, sensor arrays|
-|Character|Military society|
+| Attribute | Value |
+|-----------|-------|
+| Population | ~3 million naval personnel |
+| Function | Fleet base, shipyards, sensor arrays |
+| Character | A military society of its own |
 
-Would detect any throne world threat long before arrival. Sensor arrays watch system approaches; fleet stands ready.
+High Tiamming would detect any threat to the throne world long before arrival; its sensor arrays watch every approach and its fleet stands ready. It has also become its own society—multi-year rotations breeding persistent communities, their own traditions and slang, their own relationship with the planet below (protective, a little contemptuous, proud), and career officers who spend more of their lives here than on any surface.
 
-### Culture
+### The Yansieve effect
 
-Its own society. Personnel serve multi-year rotations developing persistent communities. Own traditions, slang, relationship with the planet below (protective, slightly contemptuous, proud). Career officers may spend more life here than on any surface.
+The rebellion has drawn heavily on High Tiamming. The station is markedly quieter than it was three years ago—ships and crews pulled off to the trailing frontier, those who remain standing longer rotations, and the rotation cycles returning Yansieve veterans subtly and permanently changed. The throne world's shield is thinner than it looks, because the largest military in human space is busy holding a blockade it cannot end. See [Military](../../military.md).
 
-### The Yansieve Effect
+## Commercial and defence infrastructure
 
-Yansieve deployment has drawn heavily on High Tiamming's resources. Station quieter than three years ago. Those remaining work longer shifts. Rotation cycles bring Yansieve veterans back changed.
+**Cargo stations** transfer goods between the elevators and interstellar shipping, the largest handling millions of tonnes a day—purely functional, endlessly busy.
 
-## Commercial Infrastructure
+**Passenger terminals** move travellers between elevator and ship; the First Gate's is impressive, the rest adequate.
 
-**Cargo Stations**: Massive facilities handling goods transfer between elevators and interstellar shipping. Largest process millions of tonnes daily. Purely functional.
+**Shipyards** build and repair vessels of every size and account for a significant fraction of the Mandate's naval and commercial fleet. Heavily secured.
 
-**Passenger Terminals**: Transfer between elevator and ship. First Gate impressive; others adequate.
+**Sensor networks** ensure nothing enters the Tiamming system undetected. **Defence platforms**, automated and crewed, could not stop a determined invasion fleet but would extract a terrible price from one. **Patrol forces** maintain a continuous presence, enforcing Imperial authority throughout the system.
 
-**Shipyards**: Construction and repair for all vessel sizes. Significant fraction of Mandate naval and commercial fleet. Heavily secured.
+## Who may go up
 
-## Defence Infrastructure
+**Citizens:** straightforwardly. Book passage, present credentials, travel.
 
-**Sensor Networks**: Distributed arrays monitoring all approaches. Nothing enters Tiamming system undetected.
+**Subjects:** by permit, approval depending on purpose, destination, record, and the temper of the reviewing official.
 
-**Defence Platforms**: Automated and crewed weapons at strategic points. Could not stop determined invasion fleet but would exact terrible price.
+**The Jade Belt:** by invitation, regardless of status—the one place wealth and status alone are not enough.
 
-**Patrol Forces**: Continuous presence throughout system enforcing Imperial authority.
+**High Tiamming:** military personnel and authorised contractors only.
 
-## Access and Control
-
-**For Citizens**: Straightforward. Book passage; present credentials; travel.
-
-**For Subjects**: Permits required. Approval depends on purpose, destination, record, and whim of reviewing official.
-
-**The Jade Belt**: Invitation only, regardless of status.
-
-**High Tiamming**: Military personnel and authorised contractors only.
+Even leaving the planet, in the Mandate, is a privilege sorted by what the registry says you are. See [The Citizen-Subject System](../../citizen-subject.md).
 
 ---
 
@@ -1756,78 +1726,60 @@ Yansieve deployment has drawn heavily on High Tiamming's resources. Station quie
 
 # Osthavn
 
-Southern continent of Tiamming, feeding the planet and exporting food across the Mandate.
+Osthavn feeds the Mandate and is, in every sense the word can carry, far from power. The southern continent of Tiamming grows the food that supplies the throne world and ships the surplus across the empire, and it does so at a remove from the Chrysanthemum Court that is geographic, cultural and temperamental all at once. It is the part of Tiamming that the other two parts forget about until the harvest arrives—which suits a great many people in Osthavn perfectly well.
 
-|Attribute|Value|
-|---|---|
-|Location|Southern hemisphere|
-|Population|~3 billion|
-|Subject proportion|~45%|
-|Character|Agricultural, provincial|
-|Major hub|Port Yelling|
+| Attribute | Value |
+|-----------|-------|
+| Location | Southern hemisphere |
+| Population | ~3 billion |
+| Subject share | ~45% |
+| Character | Agricultural, provincial |
+| Major hub | Port Yelling |
 
 ## Character
 
-Agricultural at scale: engineered plains, climate-controlled growing zones, vertical farms. Population sparse by Tiamming standards—most work automated. Provincial; far from the Chrysanthemum Court in every sense.
+Agriculture at planetary scale: engineered plains, climate-controlled growing zones, vertical farms, most of the work automated and the population sparse by Tiamming's crowded standards. It is provincial in the literal sense and the dismissive one, and it knows the dismissive sense is being used, and it has decided not to mind.
 
 ## The Sandholm Peninsula
 
-Traditional agriculture where human labour persists alongside automation. Sandholm families have farmed this land eight centuries; techniques blend Mandate-standard genetic modification with methods predating the Modern Mandate.
+Where traditional agriculture persists alongside the automation, worked by families who have farmed the same land for eight centuries, blending Mandate-standard genetic engineering with techniques older than the Modern Mandate itself.
 
-### Citizen Heritage
+### A closed door
 
-Citizen-majority and proud. Families earned citizenship through agricultural productivity quotas since discontinued. View Parvati's subjects with mixed pity and suspicion—sympathy for hard circumstances, wariness of resentments.
+The Sandholm families are citizen-majority and proud of it, and the manner of their citizenship is the quiet tragedy folded into their pride: their ancestors *earned* it, through agricultural productivity quotas that converted sustained output into legal status—a real ladder, climbed by real families, within living memory. The quotas were discontinued a generation ago. The Sandholms are citizens because they climbed a ladder that no longer exists, and they regard Parvati's subjects with a mixture of pity and wariness that is, underneath, the discomfort of people who got through a door before it was shut and would rather not examine the fact too closely.
 
-### Seasonal Life
+### Seasonal life
 
-Seasonal in ways industrial/urban Tiamming has forgotten. Planting and harvest structure the year. Gap festivals celebrated with genuine agricultural significance—actual assessment of stores, actual feasting on actual surplus.
+Osthavn is seasonal in a way that industrial and urban Tiamming has forgotten how to be. Planting and harvest still structure the year; the Gap festivals carry genuine agricultural meaning here—an actual reckoning of the stores, an actual feast on an actual surplus—rather than the abstracted ceremony they have become in the cities.
 
 ## The Provisional Territories
 
-Interior regions designated "provisional"—subject to development planning not yet occurred, administered by temporary authorities become permanent.
+The interior regions designated "provisional"—awaiting development planning that never came, administered by temporary authorities that became permanent the way temporary things do.
 
-### Population
+### Who is sent here
 
-Where the Mandate sends people it doesn't want elsewhere: resettled populations from failed colonies; subjects convicted of minor crimes and sentenced to agricultural labour; citizens disgraced enough for exile but not imprisonment. People with nothing in common except the Mandate put them here.
-
-### Character
-
-Some build lives and stay. Others serve time and leave. Still others die before either becomes relevant.
-
-Administrators usually the least competent the civil service offers—assignment is itself soft punishment. Services minimal; oversight distant. Life hard in ways differing from Hiveholm's hardship but no less real.
+The Territories are where the Mandate puts the people it does not want anywhere else: populations resettled from failed colonies, subjects sentenced to agricultural labour for minor crimes, citizens disgraced enough to exile but not enough to imprison. People with nothing in common except that the empire decided they should be here. Some build lives and stay; some serve their time and leave; some die before either becomes relevant. The administrators are usually the least capable the civil service can spare, because the posting is itself a soft punishment, and the services are minimal and the oversight distant. Life here is hard in ways that differ from Hiveholm's hardness and are no less real for being quiet.
 
 ### Tam Orel
 
-**Role**: Registration clerk  
-**Age**: 38
+**Role:** Registration clerk
+**Age:** 38
 
-An exile. Crime was minor corruption—siphoning fees from transactions in the Ministries District—but minor corruption there is intolerable. The Territories were his punishment.
-
-Nine years here. Will likely die here. Has stopped resenting this and started building a life: a role that matters locally; relationships with resettled populations he serves; a small garden behind his quarters.
-
-Not happy. No longer unhappy. Processes registrations and waits for nothing in particular.
+An exile. His crime was minor corruption—siphoning fees from transactions in the Ministries District of the Chrysanthemum Court—and minor corruption *there* is intolerable in a way it never is on the frontier. The Territories were his sentence. Nine years in, he will most likely die here, and somewhere in the ninth year he stopped resenting that and started, almost against his own will, building a life: a role that matters locally, relationships with the resettled people he processes, a small garden behind his quarters. He is not happy. He is no longer unhappy. He stamps registrations and waits for nothing in particular, and he is the human face of the Mandate's vast provincial bureaucracy—neither monster nor martyr, just a man doing a small job adequately at the empire's far edge, which is what most of the empire's government actually consists of. See [Government](../../government.md).
 
 ## Port Yelling
 
-Largest transit hub; agricultural exports packaged for off-world shipment. Named for a colonial administrator whose reputation hasn't survived.
+The largest transit hub, where Osthavn's produce is packed for off-world shipping—and where outside information filters in, because news arrives with the ships and rumour circulates among the crews. The port workers know more about galactic affairs than most of Osthavn, and share it selectively. Named for a colonial administrator whose reputation has not survived him.
 
-### Information Gateway
+## Osthavn and the rebellion
 
-Where Provisional Territories' produce enters the broader economy—and where outside information filters in. Port workers know more about galactic affairs than most Osthavn residents: news arrives with ships; rumours circulate among crews. They share selectively.
+Yansieve is weeks of travel away, and the mood here is not rebellious. But it is *attentive*, in a way that the Mandate's security organs find unsettling precisely because it is so quiet. The Sandholm citizens discuss the rebellion over dinner with the detail of close attention. The Provisional Territories' subjects do not discuss it at all—which suggests something else entirely, and is noted. No one expects Osthavn to rise. The attention is filed anyway. See [The Yansieve Rebellion](../../yansieve-rebellion.md).
 
-## Osthavn and the Rebellion
+## Regional culture
 
-Yansieve is far—weeks of travel. But Osthavn receives transmissions, hosts occasional refugees, and wonders.
+**Food:** seasonal and abundant—harvest feasts with fresh produce in varieties the cities never see, and more on the table than anyone can finish. The bounty is for export; what stays behind is still more than most of Tiamming ever eats.
 
-The mood is not rebellious. But _attentive_ in ways making Imperial Security uncomfortable. Sandholm's citizens discuss the rebellion over dinner with specificity suggesting close attention. The Provisional Territories' subjects don't discuss it at all—which suggests something else entirely.
-
-No one expects Osthavn to rise. But the attention is noted.
-
-## Regional Culture
-
-**Food**: Seasonal, abundant. Harvest feasts with fresh produce and more food than anyone can finish. This bounty is exported; Osthavn residents enjoy what remains—still more than most of Tiamming sees.
-
-**Character**: Considers itself honest, practical, grounded—contrast to Xuan's pretensions and Parvati's grime. Whether accurate or provincial vanity depends on whom you ask. Far from power and knows it—producing both resentment (they take our food, give nothing) and relief (at least we're not in the Court's sight).
+**Character:** Osthavn considers itself honest, practical and grounded, in pointed contrast to Xuan's pretension and Parvati's grime. Whether that is true or merely the vanity of a place far from power depends on whom one asks—and being far from power produces, in roughly equal measure, resentment (*they take our food and give nothing back*) and relief (*at least we are not in the Court's sight*).
 
 ---
 
@@ -1836,72 +1788,60 @@ No one expects Osthavn to rise. But the attention is noted.
 
 # Parvati
 
-Equatorial continent of Tiamming, producing much of what the planet consumes and exports.
+Parvati makes what the Mandate consumes, and the Mandate would rather not think about Parvati. The equatorial continent of Tiamming is where the empire builds its ships, forges its weapons, processes its materials and assembles its goods—the work that keeps a civilisation running and stays, by mutual arrangement, invisible to the aristocrats in the north who enjoy its products. It is also where the citizen-subject line presses hardest, because Parvati is where the Mandate keeps most of its subjects.
 
-|Attribute|Value|
-|---|---|
-|Location|Equatorial, extending southern|
-|Population|~7 billion|
-|Subject proportion|~65% (highest on Tiamming)|
-|Character|Industrial, manufacturing, extraction|
-|Major city|Hiveholm (~2.3 billion)|
+| Attribute | Value |
+|-----------|-------|
+| Location | Equatorial, extending south |
+| Population | ~7 billion |
+| Subject share | ~65% (the highest on Tiamming) |
+| Character | Industrial, manufacturing, extraction |
+| Major city | [Hiveholm](hiveholm.md) (~2.3 billion) |
 
-## Character
+## Who works here
 
-Heavy industry, manufacturing, resource extraction—the work that keeps an empire running, largely invisible to Xuan's aristocrats. Where the Mandate _makes_ things: ships, weapons, consumer goods, processed materials.
+Sixty-five per cent subjects, the highest proportion on the throne world, for reasons that are structural rather than decreed: industrial work does not require citizenship, comfort-seeking citizens do not move to industrial regions, and status passes down the generations along with the jobs. The citizens who *are* in Parvati cluster in the roles that need legal standing or confer authority—managers, administrators, security. Subjects do the work. The pattern is not absolute, and it is not subtle.
 
-## Demographics
+## The Parvati character
 
-65% subjects—highest on Tiamming. Structural reasons: industrial work doesn't require citizenship; industrial regions don't attract comfort-seeking citizens; generations inherit status.
+There is something here the northern aristocrats lack: a practical solidarity across the citizen-subject line, forged by shared conditions. When the atmospheric scrubbers fail, everyone breathes the same bad air; when the transit seizes, everyone walks. The distinction still matters—it always matters—but it is daily and physical rather than abstract and ceremonial, and a real camaraderie grows in the gap between people doing the same hard work side by side.
 
-Citizens in Parvati are disproportionately managers, administrators, security—positions requiring legal standing or conferring authority. Subjects do the actual work. The pattern is clear though not absolute.
+And then there is the limit of that camaraderie, which is the whole truth of Parvati in a single fact: the citizen can leave, and the subject cannot. Solidarity reaches exactly as far as the door, and stops.
 
-## The Parvati Character
+## The road out
 
-Citizens and subjects share something here that northern aristocrats lack: practical solidarity. When atmospheric systems fail, everyone breathes the same bad air. When transit breaks, everyone walks.
+Parvati sends more of its subjects down the military road to citizenship than any region in the Mandate, because limited options make twenty years in uniform look like a reasonable price for transforming a family's legal future. The veterans come home with citizenship, status, and a clear-eyed ambivalence about the empire that made them buy in—and they come home, increasingly, paying close attention to the Yansieve news. See [Military](../../military.md).
 
-The citizen-subject distinction matters—always—but differently here. Daily and visible, not abstract. Camaraderie emerges across the divide. But citizens can leave; subjects cannot.
+## Major locations
 
-## Military Recruitment
+**[Hiveholm](hiveholm.md):** 2.3 billion people in a vertical industrial megacity—the largest city on Tiamming and the fullest expression of what Parvati is.
 
-Sends more subjects through military citizenship than any other region. Limited options make twenty years of service look reasonable. Veterans return with citizenship, status, and often deep ambivalence.
+**The Extraction Zones:** mining and resource processing in the interior, with harsh conditions, transient workforces, and company towns where the operating corporation simply *is* the local authority. Where the raw materials come from; where people leave the moment they can.
 
-## Major Locations
+**The Coastal Manufacturing Belt:** lighter industry along the northern coast, better conditions than the interior and proximity to shipping that makes export efficient—but industrial through and through.
 
-**Hiveholm**: 2.3 billion in a vertical industrial complex. See [[Hiveholm]].
+**Port Avalon:** the largest spaceport, moving bulk cargo for export. Less prestigious than the Ascension Gates, and handling far more tonnage.
 
-**The Extraction Zones**: Mining and resource processing in Parvati's interior. Harsh conditions, transient workforces, company towns where the corporation _is_ local authority. Where raw materials originate. Life is hard; people leave when they can.
+## Regional culture
 
-**The Coastal Manufacturing Belt**: Lighter industry along the northern coast; proximity to shipping makes export efficient. Better conditions than the interior but firmly industrial.
+**Food:** efficient and calorie-dense—bold spices to cut through industrial air, fermented condiments that keep for months, aesthetics frankly secondary. It is the food of people eating fast on a shift, and the rest of the Mandate has lately started ordering it on purpose.
 
-**Port Avalon**: Largest spaceport; bulk cargo for export. Less prestigious than the Ascension Gates but processing more tonnage.
+**Music:** factory rhythm turned to song, the industrial pulse made into a beat; Parvatan music has carried across human space far beyond the continent that made it.
 
-## Regional Culture
+**Art:** the leavings of manufacture repurposed—scrap sculpture, beauty wrung out of industrial form.
 
-**Food**: Efficient, calorie-dense—bold spices cutting through industrial air; fermented condiments lasting indefinitely. Aesthetics secondary.
+**Language:** Parvatan dialects, distinct from Xuanese Classical, with constant code-switching between the tongue of home and the tongue of getting on.
 
-**Music**: Factory rhythms becoming song beats. Parvatan industrial music has influenced styles across human space.
+## The Yansieve factor
 
-**Art**: Manufacturing byproducts—waste repurposed; scrap sculpture; beauty in industrial forms.
+Parvati watches the rebellion with an attention that makes the Bureau uneasy, and for the plainest of reasons: its subjects share both legal status and accumulated grievance with the rebels. Hiveholm's workers discuss the frontier with a specificity that betrays close following; the Bureau monitors, the conversations continue more carefully, and the arithmetic goes on quietly under everything. Few here are ready to rise. But the interest is real, and it is the interest of people who recognise their own situation in someone else's revolt. See [The Yansieve Rebellion](../../yansieve-rebellion.md).
 
-**Language**: Parvatan dialects distinct from Xuanese Classical. Code-switching common.
+## Wen Daoshi
 
-## The Yansieve Factor
+**Role:** Shift supervisor, Hiveholm Factory Complex 7
+**Age:** 53
 
-Parvati watches the rebellion with attention that makes the Bureau uncomfortable. Subjects share legal status with rebels, share grievances. Few ready to rebel. But the interest is there.
-
-Hiveholm workers discuss Yansieve news with specificity suggesting close attention. Bureau monitors; conversations continue, more carefully.
-
-## Characters
-
-### Wen Daoshi
-
-**Role**: Shift supervisor, Hiveholm Factory Complex 7  
-**Age**: 53
-
-Subject who has applied for citizenship three times. Each denied on procedural grounds. Suspects Bureau involvement. Manages 200 workers with competence her status denies recognition.
-
-Has stopped applying. Has not stopped paying attention.
+A subject who has applied for citizenship three times and been denied three times on procedural grounds—documentation insufficiencies, backlogs, errors she suspects the Bureau of arranging and cannot prove. She manages two hundred workers with a competence her status forbids anyone from officially recognising. She has stopped applying. She has not stopped paying attention to the Yansieve news. She is what the Mandate's narrowing ladder looks like from the rung just below the top of it—close enough to see the citizenship she has earned, and held there, on purpose or by indifference, which from where she stands amount to the same thing.
 
 ---
 
@@ -1910,63 +1850,53 @@ Has stopped applying. Has not stopped paying attention.
 
 # Xuan
 
-Northern continent of Tiamming, containing the Mandate's political centre and oldest aristocratic lineages.
+Xuan is certain that it is the Mandate, and the rest of the Mandate is almost as certain that Xuan thinks so. The northern continent of Tiamming holds the empire's political centre, its oldest lineages, and its highest opinion of itself—the place that has supplied the administrative class for centuries and has concluded, not unreasonably and not entirely fairly, that nowhere else quite matters.
 
-|Attribute|Value|
-|---|---|
-|Location|Northern hemisphere|
-|Population|~8 billion|
-|Character|Imperial heartland, aristocratic estates|
-|Major city|Chrysanthemum Court|
+| Attribute | Value |
+|-----------|-------|
+| Location | Northern hemisphere |
+| Population | ~8 billion |
+| Character | Imperial heartland; aristocratic estates |
+| Major city | The Chrysanthemum Court |
 
 ## Geography
 
-Temperate to cool. Ancient forests (some from original terraforming), mountain ranges, broad river valleys where earliest settlements took root. The Songjiang River—flowing from northern highlands to the sea—is the defining feature. The Chrysanthemum Court sits at its mouth.
+Temperate cooling to genuinely cold in the north—one of the few places on a climate-managed world where real winters still come, because the management was deliberately left thin there. Ancient forests, some grown from the original terraforming; mountain ranges; broad river valleys where the earliest settlements took root. The defining feature is the **Songjiang**, flowing from the northern highlands to the sea, with the Chrysanthemum Court at its mouth. See [The Chrysanthemum Court](chrysanthemum-court.md).
 
-## The Provincial Estates
+## The provincial estates
 
-Beyond the capital, Xuan is dominated by aristocratic landholdings. Noble families control territories from modest farms to small-country-sized regions. Not feudal in the medieval sense—Mandate law applies uniformly; subjects have rights—but the practical effect is similar. The local lord shapes life in ways the distant capital cannot.
+Beyond the capital, Xuan belongs to its aristocracy. Noble families hold territories ranging from modest farms to regions the size of small countries, and while Mandate law applies uniformly and subjects retain their rights on paper, the practical reality is that the local lord shapes life in ways the distant capital cannot. The estates are not feudal in the medieval sense. They are something the Mandate finds more useful and more dangerous: a second government, older than the Modern Mandate, whose loyalty was bought long ago with autonomy, and which sits across the Council table from the first government smiling.
 
-### Major Houses
+### The major houses
 
-**House Vervain**: Controls Songjiang headwaters, managing water access for hundreds of downstream communities. Wealth old; loyalty unquestioned across seventeen generations. Conservative, traditional, deeply embedded in Imperial ceremony. When the Throne needs reliable support, Vervain is asked.
+**House Vervain** controls the Songjiang headwaters, and therefore the water of hundreds of downstream communities—an old, quiet, absolute kind of power. Its wealth is ancient and its loyalty has gone unquestioned for seventeen generations; it is conservative, ceremonial, and the house the Throne calls on when it needs reliable support to look spontaneous.
 
-**House Ombros**: Administers the Northern Reaches where climate management breaks down and genuine winters occur. Breeds the cold-weather horses for ceremonial cavalry. Cultivates stern northern virtue—plain speaking, physical toughness, disdain for southern softness.
+**House Ombros** administers the Northern Reaches, where the climate management fails and the winters are real. It breeds the cold-weather horses for the ceremonial cavalry and a stern northern self-image to match—plain speech, physical hardiness, open disdain for southern softness. It has also lately produced the empire's loudest war-hawk: **Marshal Cael Ombros**, Minister of War, who would end the Yansieve rebellion with a campaign rather than a wait, and whose northern bluntness is either a refreshing honesty or a dangerous simplicity, depending on which faction is describing him. See [Government](../../government.md).
 
-**House Kazan**: A cautionary tale and redemption story. Previous generation's coup involvement cost the house half its holdings. Current lord **Mirek Kazan** (84) has spent forty years rebuilding reputation through ostentatious loyalty and strategic marriages. No longer mentioned with knowing glances. What he privately resents is a question no one asks.
+**House Kazan** is the cautionary tale and the redemption story both. The previous generation's involvement in a coup cost it half its holdings; the current lord, **Mirek Kazan**, has spent forty years buying back the family's standing with ostentatious loyalty and well-placed marriages, and has largely succeeded—Kazan is no longer a name spoken with a knowing glance. What he privately feels about the empire that nearly destroyed his house is a question no one asks, possibly including him.
 
-### Estate Life
+### Estate life
 
-For subjects, paternalistic at best. A good lord provides schools, medical care, dispute resolution, opportunity. A bad lord extracts labour, deference, whatever else he wants.
+For subjects, the estates are paternalism at best. A good lord provides schools, medicine, dispute resolution, and a real if circumscribed security; a bad lord extracts labour, deference, and whatever else he can reach. Mandate law theoretically shields subjects from the worst, but the shield depends on someone reporting a violation—and reporting one's own lord to Imperial authorities, across the distance and the deference and the lord's own networks, is not a thing most people attempt twice. On the estates more than anywhere, the question of whether the Mandate is humane or cruel has a single honest answer: *it depends entirely on who your lord is.*
 
-Mandate law theoretically protects subjects from worst abuses, but enforcement depends on reporting violations—and reporting your lord to Imperial authorities is not simple.
+## Regional culture
 
-## Regional Culture
+Xuan considers itself the heart of Mandate civilisation, and the claim is not baseless—the Xuanese dialect is the prestige form of Classical, Xuanese cuisine sets court fashion, and Xuanese traditions are presented, by Xuanese, as simply *the* traditions. The region has earned some of this by genuinely producing the empire's administrators for generations. But the self-regard shades easily into its own kind of provincialism: the serene assumption that the capital's way of seeing is the only one, which is exactly the assumption that left the centre blind to a frontier it had stopped really looking at.
 
-Xuan considers itself the heart of Mandate civilisation. Xuanese is the prestige Classical dialect; Xuanese cuisine defines court fashion; Xuanese traditions are presented as _the_ traditions.
+## Notable locations
 
-This self-regard is not entirely unjustified—the region has produced the Empire's administrative class for centuries. But it can shade into its own provincialism: the assumption that nowhere else quite matters.
+**The Songjiang Valley**, where the river dictates settlement—cities strung along its course, agriculture filling the floodplains, the highlands left sparse.
 
-## Notable Locations
+**The Northern Reaches**, where the climate thins and the Ombros estates keep alive the hunting, horsemanship and cold-hardiness that subtropical Mandaters find frankly incomprehensible.
 
-**The Songjiang Valley**: River course defines settlement patterns. Cities cluster along it; agriculture fills floodplains; highlands remain sparse.
+**The Chrysanthemum Court**, the capital complex at the river's mouth. See [The Chrysanthemum Court](chrysanthemum-court.md).
 
-**The Northern Reaches**: Where climate management thins, winters return. Ombros estates maintain traditions faded elsewhere—hunting, horsemanship, cold tolerance that subtropical Mandaters find incomprehensible.
+## Mirek Kazan
 
-**The Chrysanthemum Court**: Capital complex at Songjiang's mouth. See [[Chrysanthemum Court]].
+**Role:** Lord of House Kazan
+**Age:** 84
 
-## Characters
-
-### Mirek Kazan
-
-**Role**: Lord of House Kazan  
-**Age**: 84
-
-The disgraced house's rehabilitator. Four decades of performed loyalty have restored Kazan's position; the performance may have become the man.
-
-Public statements more orthodox than the Emperor's. Donations to Imperial causes conspicuous. Children married into impeccably loyal families.
-
-Privately, no one knows what Kazan thinks. He has been performing so long the distinction may no longer matter.
+The man who rebuilt a disgraced house by performing loyalty so thoroughly that the performance may have replaced whatever it was performed over. His public statements run more orthodox than the Emperor's; his donations to Imperial causes are conspicuous; his children have married into impeccably loyal families. Privately, no one knows what Mirek Kazan thinks—and he has been the loyal Lord Kazan for so long now that the distinction between the role and the man may no longer exist, even for him. He is what the Mandate does to its aristocrats at its gentlest: not destroyed, but worn into the shape it requires, and left grateful for the wearing.
 
 ---
 
