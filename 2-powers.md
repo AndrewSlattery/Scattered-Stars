@@ -368,58 +368,78 @@ The Haven is not for everyone. Those who love it tend to return. Some never leav
 
 # Elysian Collective
 
-A guild-state of world-builders. Small in population, immense in influence.
+The Elysian Collective is famous for fifteen million people and quietly carried by forty. The fifteen million are the terraformers—the sworn guild whose names enter the world-songs and whose votes choose the Grandmasters. The other twenty-five million keep the first fifteen alive: they run the machines, raise the children, crew the city, breathe the worst of the air, and too often go unnamed when the world is sung. The Collective is a guild of artisans the way a cathedral is a heap of dressed stone—true, and nowhere near the whole of it.
+
+What the whole of it can do is unmatched. Every breathable sky humanity did not find but *made*—every engineered ecosystem, every nudged orbit that keeps soil on a world—came from Collective hands or Collective methods. The guild does not govern worlds; it makes them, and hands them to whoever paid. That single capability buys a forty-million-person guild a seat among powers that count their citizens in the trillions.
 
 | Attribute | Value |
 |-----------|-------|
-| Population | ~15 million active members; ~40 million total including families and support staff |
-| Centre | The Garden (mobile deep-space station) |
-| Government | Guild Council of Grandmasters |
-| Economy | Terraforming contracts, technology licensing, consultation |
-| Character | Specialist technocracy, political neutrality, patient craftsmanship |
+| Population | ~15 million sworn members (the guild proper); ~40 million in all, counting Tenders, families, and the civilian population of the Garden and the project camps |
+| Centre | The Garden—a mobile deep-space station whose location is kept secret |
+| Government | The Guild Council: seven Grandmasters, elected by the guild's Masters |
+| Economy | Terraforming contracts, technology licensing and consultation, sold at monopoly prices |
+| Character | Patient craft; a guild hierarchy beneath a commonwealth's name; a neutrality it has to keep believing in |
 
 ## The Great Work
 
-The Collective exists for one purpose: to make worlds habitable.
+The Collective exists to make worlds habitable, and treats the task as the most important work humanity does. Members speak of a world in transformation as a *becoming*, of the terraformer as a midwife rather than an engineer—language that is half genuine conviction and half the story a monopoly tells to dignify its prices. Both halves are sincerely held. It is entirely possible to believe the work is sacred and to charge ruinously for it, and the Collective manages both without visible strain.
 
-Every terraformed world in human space—every breathable atmosphere, every engineered ecosystem, every gravity adjustment that keeps soil on a planet's surface—was shaped by Collective expertise or by techniques the Collective pioneered. The guild does not govern worlds; it *creates* them. This gives the Collective an influence disproportionate to its modest population: every polity that wants a new habitable world needs the Collective, and every polity wants new habitable worlds.
+The influence this buys runs far past the guild's size. Every polity that wants a new habitable world needs the Collective, and every polity wants new habitable worlds. The guild cannot conquer anyone and has no wish to; it simply owns the one door the future has to pass through.
 
-## Organisation
+## The sworn and the Tenders
 
-The Collective operates as a guild in the medieval sense: a professional association that controls entry to a trade, maintains quality standards, and governs its members' conduct. See [[Governance]] for details.
+The "Collective" is a single body with two classes, and the line between them organises everything else.
 
-### Guild Ranks
+The **sworn** are the guild proper: roughly fifteen million terraformers who pass the Academy, climb the ranks from Apprentice to Master, lead projects, compose the world-songs, hold the right to name a finished world, and elect the Council. When outsiders picture the Collective, they are picturing the sworn.
 
-| Rank | Requirements | Typical Role |
+The **Tenders** are the rest of the working Collective: the associate members who run and mend the machines, hold the seed-lines, walk the hazardous ground, and do the ten thousand practical jobs that turning a planet actually takes. Tenders are Collective—bound by its rules, fed from its treasury, proud, many of them, of the Work—but they hold no guild rank, do not vote in Conclave, rarely earn a berth on the Garden, and have only lately begun to appear in the world-songs at all. The guild's machines do much of the brute labour; the Tenders do the part the machines cannot be trusted with, which is also, often, the part that kills you.
+
+This is not how the Collective describes itself. Its founding charter speaks of a commonwealth of the Great Work, and its members mean the word. But six centuries have sorted a commonwealth into a guild and the guild into ranks, and the distance between the name and the arrangement is the Collective's oldest unhealed argument. See [Culture](culture.md) and [Governance](governance.md).
+
+## Guild ranks
+
+The ladder the sworn climb. The Tenders stand outside it, with grades of their own that carry pay and responsibility but no guild vote.
+
+| Rank | Requirements | Typical role |
 |------|-------------|-------------|
-| Apprentice | Admission to the Academy; 5–10 year training | Learning under Master supervision |
-| Journeyman | Completed training; demonstrated competence | Field assignments, project support |
-| Master | Significant project completion; peer review | Project leadership, specialist consultation |
-| Grandmaster | Exceptional career achievement; Council election | Guild governance, strategic direction |
+| Apprentice | Admission to the Academy; 5–10 years' training | Learning under a Master |
+| Journeyman | Training completed; competence demonstrated | Field assignments, project support |
+| Master | A major project carried; peer review passed | Project leadership, specialist consultation |
+| Grandmaster | Exceptional career; Council election | Guild governance, strategic direction |
 
-## Current Projects
+## Current projects
+
+The Collective keeps 30–50 projects active at once, from century-long terraforming programmes to short assessments and consultations.
 
 | Project | Type | Status |
 |---------|------|--------|
-| Senna-IV | Full terraforming (Suit to Outdoor) | Year 47 of estimated 80-year programme |
-| Brighthollow | Atmospheric restoration (Lazarus Project) | Year 12 of estimated 30-year programme |
-| Veldtgrave | Ecosystem reconstruction (Lazarus Project) | Year 80 of ongoing restoration |
-| Marchetti's Folly | Atmospheric decontamination (Lazarus Project) | Recently reclassified from Suit to Dome |
-| Harren's Reach | Geological stabilisation | Year 3 of estimated 15-year programme |
-
-The Collective typically maintains 30–50 active projects at any time, ranging from decades-long full terraforming programmes to shorter consultation and assessment contracts.
+| Senna-IV | Full terraforming (Suit to Outdoor) | Year 47 of an estimated 80-year programme |
+| Brighthollow | Atmospheric restoration (Lazarus) | Year 12 of an estimated 30-year programme |
+| Veldtgrave | Ecosystem reconstruction (Lazarus) | Year 80, ongoing |
+| Marchetti's Folly | Atmospheric decontamination (Lazarus) | Recently reclassified Suit to Dome |
+| Harren's Reach | Geological stabilisation | Year 3 of an estimated 15-year programme |
 
 ## Relations
 
 | Power | Relationship |
 |-------|-------------|
-| The Mandate | Major client; political complications around Yansieve |
-| Union of Frontier Freeholds | Occasional contracts; mutual respect for independence |
-| Vega Commercial Throne | Luxury world commissions; cultural exchange |
-| The Sable Cartel | Logistics friction; wary transactional relationship |
-| Neo-Solar Republic | Cooperative research; biological and morphological technology exchange |
-| Drift Communities | Technical consultation; habitat maintenance contracts |
-| Arrhenos | Excellent relations; mutual specialisation (finance for terraforming) |
+| The Mandate | Largest client; the Yansieve question strains an otherwise profitable peace |
+| Union of Frontier Freeholds | Occasional contracts; a shared respect for being left alone |
+| Vega Commercial Throne | Commissions for luxury and vanity worlds; cultural traffic |
+| The Sable Cartel | Wary and transactional; logistics friction; neither pries into the other's trade |
+| Neo-Solar Republic | Cooperative research, trading biological and morphological technique |
+| Drift Communities | Habitat-maintenance and consultation contracts |
+| Arrhenos | Warm and old: patient money for patient work, each trusting the other to keep its word |
+
+## Topics
+
+| Topic | Focus |
+|-------|-------|
+| [Culture](culture.md) | The classes and the lives they lead; world-songs, the Naming, and who gets named |
+| [Governance](governance.md) | The Council, the Conclave, the neutrality that is argued over, and the franchise the Tenders lack |
+| [Technology](technology.md) | Genesis Protocols, atmospheric processors, gravity arrays—and the automation that lets forty million move worlds |
+| [The Lazarus Project](lazarus-project.md) | Reviving failed worlds; the Anomalies that resist explanation |
+| [Locations](locations/index.md) | The Garden, and the scattered project sites |
 
 ---
 
@@ -428,75 +448,67 @@ The Collective typically maintains 30–50 active projects at any time, ranging 
 
 # Elysian Collective: Culture
 
-## Identity
+Ask the Collective to describe itself and you will hear about its terraformers—patient, reverent, midwives to worlds. You will not hear about most of the people who live under its charter. Under that charter run at least three different lives: the sworn who design the worlds, the Tenders who build them, and the civilians who keep the Garden and the camps running—and the distance between them is wide enough that a Master and a Tender on the same project may share a sky and almost nothing else.
 
-Members identify as Collective first. National, ethnic, and political origins are acknowledged but subordinated to guild identity. A Collective terraformer born on Tiamming and trained on The Garden will describe herself as a member of the Collective before she describes herself as Mandate-born.
+## One identity, unevenly worn
 
-This is deliberate. The Collective's political neutrality requires that members leave their allegiances at the Academy gates. A project team that includes Mandate citizens, Freehold prospectors, and Drift-born specialists cannot function if political loyalties interfere with professional collaboration.
+Members are taught to be Collective first. National, ethnic and political origins are acknowledged and then set aside at the Academy gate; a terraformer born on Tiamming and trained on the Garden will name herself Collective before she names herself Mandate. This is deliberate and necessary—a project team drawn from a dozen feuding polities cannot work if it carries their quarrels—and among the sworn it runs deep and genuine.
 
-The result is a culture that values competence, patience, and collaborative problem-solving above all else. Guild members share a professional identity as intense as any nationality.
+It sits less evenly on the Tenders. A Tender is Collective on the pay-ledger and in the rules he keeps, but the identity offered to him is thinner: he will not be named in the song, will not vote for the Grandmasters, will likely never see the Garden he is told is home. Many take the pride anyway—the Work is real, and a hand in the making of a world is a thing to carry. Others hold the Collective at the wary distance a guildless labourer has always kept from the guild, and keep their truer loyalties—to a home world, a family line, a god the secular guild does not acknowledge—quietly alive.
 
 ## The Great Work
 
-The Collective's animating idea: that the ongoing project of making worlds habitable is humanity's most important endeavour. Not a religion—the Collective is secular—but a shared conviction that gives members' work meaning beyond the contractual.
-
-Guild members speak of terraforming in terms that mix engineering precision with something approaching reverence. A world in transformation is not just a project; it is a *becoming*. The terraformer is not merely an engineer but a midwife to a living world.
-
-This orientation attracts a particular temperament. Collective members tend toward long-term thinking, comfort with incremental progress, and a willingness to work for outcomes they may not live to see. A terraforming project that spans a century will pass through multiple generations of terraformers; the work is always larger than the individual.
+The animating idea: that making worlds habitable is the most important thing human beings do. Not a religion—the Collective is emphatically secular—but a conviction that gives the work a meaning past the contract. The sworn speak of it in the language of reverence, of a world *becoming*, and they are not performing; they believe it. It is also, conveniently, the language that justifies the prices, and the guild stopped noticing the seam between the faith and the business model centuries ago. Both are load-bearing.
 
 ## Patience
 
-The cardinal virtue. Terraforming cannot be rushed. Atmospheric modification takes decades; ecosystem establishment requires centuries of careful management; geological adjustment operates on timescales that make human lifespans feel brief.
+The cardinal virtue, and a real one. Atmospheres turn over in decades; ecosystems settle across centuries; a terraformer learns to work toward a result she will not live to see, and to find that bearable, even beautiful. Selection for the Academy weighs this temperament as heavily as any technical aptitude—the guild filters hard for people who can wait.
 
-Guild culture reflects this temporal horizon. Decisions are made carefully. Debates proceed until consensus is genuine, not forced. Members accept that their best work will mature after they are dead.
+It is worth noticing who finds patience easiest. For a Master, the long horizon ends in a named world and a berth in paradise; the wait is an investment. For a Tender on a thirty-year hazard posting, the same patience is simply the rest of his life, spent in a dome on a poisoned world, with no naming and no berth at the end of it. The guild praises patience as a virtue held in common. It is not held on common terms.
 
-This patience extends to interpersonal relations. Collective members work in small teams on isolated worlds for years at a stretch. The ability to share confined space with the same colleagues for extended periods, without conflict that degrades professional function, is essential. Selection for the Academy evaluates psychological endurance as heavily as technical aptitude.
+## Three lives under one charter
 
-## World-Songs
+### The sworn
 
-The Collective's oral tradition. Each world the guild has terraformed has a **world-song**: a narrative poem describing the planet's transformation from uninhabitable to living.
+The life the Collective advertises. A terraformer's career is a long apprenticeship, then decades of project work in small expert teams, then—for the gifted and the fortunate—mastery, a world of one's own to lead, and at last a berth on the Garden among the people who shaped the map of human space. The sworn are highly paid, highly trained, and genuinely devoted; their work is intellectually enormous and frequently beautiful. If the Collective were only its sworn, the romantic account would simply be true.
 
-World-songs are composed by the project team during the terraforming process—a collaborative creation that accumulates over decades. They are part technical record (encoding key decisions and turning points), part mythology (dramatising the struggle between inhospitable nature and human ingenuity), and part memorial (naming the terraformers who contributed, including those who died during the project).
+### The Tenders
 
-### Performance
+The life that makes the other one possible. Tenders run the seed-lines and the processor arrays, walk the contaminated ground in suits, operate and repair the machines that do the heaviest work, and improvise the thousand fixes no protocol covers. Theirs is the hazardous Collective: the burns and the lung-rot and the accidents the world-songs used to leave out. They are organised in their own grades—gang to crew to overseer—with pay and pride attached, but the guild ladder is barred to them and the guild's higher rewards mostly are too. A Tender's child who tests brilliant can be taken up into the Academy and made sworn; it happens, and the cases are cherished as proof the door exists. Most Tender children become Tenders.
 
-World-songs are performed at the annual Conclave, during project milestones, and at the Naming Ceremony that marks a world's achievement of Terrene classification. Performance is typically spoken rather than sung, though musical traditions have developed around some world-songs.
+### The civilians
 
-The oldest world-songs—describing the earliest Collective projects—have been performed for centuries. They have evolved through transmission, each generation of performers adding interpretive layers while preserving the core narrative.
+The third Collective, the one nobody counts. The Garden alone is a city of three million, and a city needs more than terraformers: teachers and medics and cooks, station engineers and pilots, archivists and brewers, the keepers who tend the great biodome, the musicians who carry the world-songs, the clerks and negotiators and contract-lawyers without whom a monopoly cannot actually sell anything. Most were born to the Collective and never sat the Academy, or sat it and were turned away. They are the guild's families and its failed apprentices and its quiet majority—people whose entire world is the Collective and whose work in it will never be sung, because keeping a city alive is not the Great Work, only the thing that lets the Great Work happen.
+
+## The failed Academy
+
+The Collective recruits the gifted from everywhere and breeds the gifted besides, and so it is forever producing children who grow up inside the guild and do not make terraformer. The Academy turns away far more than it keeps. What becomes of the turned-away is one of the things the Collective least likes to look at: some become Tenders, some take up the Garden's civilian trades, some leave for the wider galaxy carrying a Collective childhood and no guild standing. A few never forgive it. The guild that prizes merit so highly has no comfortable place for the merely competent person it raised, and the awkwardness of that—the brilliant family's ordinary child—runs through Collective life like a crack too old to mention.
+
+## World-songs
+
+The guild's oral tradition, and its conscience. Every world the Collective has made carries a **world-song**: a long narrative poem, composed by the project team across the decades of the work, at once technical record, mythology, and memorial. It encodes the turning-points of the terraforming; it dramatises the struggle of ingenuity against a dead world; and it names the dead—the people who gave years, and sometimes their lives, to the becoming.
+
+Whose names, exactly, is the question. By old custom the song named the sworn, and only the sworn. The Tenders who died installing the processors the song celebrates went into the ground unsung—a silence the guild explained, when it explained it at all, as a matter of authorship: the song belonged to the team that composed it, and the team was sworn. Within the last two generations that custom has begun, unevenly and against resistance, to break. Some lead terraformers now insist the Tender dead be named in full; some Conclaves have rung with the argument; a handful of recent world-songs carry Tender names beside the Masters', and are pointed to with pride by reformers and with discomfort by traditionalists who will not say aloud what their discomfort is. A people's memorial practices are seldom an accident. The Collective's are arguing, in verse, about who counts.
 
 ### The Archive
 
-All world-songs are recorded in the Archive aboard The Garden. The collection represents the Collective's institutional memory in narrative form—a library of planetary histories told by the people who made those histories.
+Every world-song is held in the Archive aboard the Garden—the guild's institutional memory in narrative form, a library of planetary histories told by the people who made them. The oldest songs have been performed for six centuries, evolving through each generation of performers, who add their interpretive layers while keeping the core intact.
 
-## The Naming Ceremony
+## The Naming
 
-When a world achieves Terrene classification—full biosphere compatibility, breathable atmosphere, sustainable ecosystem—the lead terraformer chooses its permanent name. This is one of the guild's most sacred traditions.
+When a world reaches Terrene classification—breathable air, a self-sustaining ecosystem, no equipment needed to live—the lead terraformer chooses its permanent name, and the world bears it on every chart thereafter. The ceremony is held on the new ground itself: the team assembles, the world-song is performed entire, and the name is spoken. It is the most sacred moment the guild has, and the right to it belongs solely to whoever led the work—always, to date, one of the sworn.
 
-The ceremony is held on the world's surface. The project team assembles; the world-song is performed in full; the lead terraformer speaks the name. From that moment, the world bears that name on all charts and records.
+Names are personal: some descriptive, some memorial, some lifted from Earth's old mythologies, some invented on the spot. The guild neither reviews nor approves them, which has given human space some of its loveliest place-names and a fair number of its strangest. Both are held acceptable. (That a Tender has never yet named a world is not, the reformers note, a law of nature. The traditionalists note that no Tender has ever led a project. The reformers ask why. This is roughly where the conversation always arrives.)
 
-Names are personal choices that reflect the terraformer's experience of the project. Some are descriptive; some are memorial (honouring deceased team members); some are borrowed from Earth mythologies; some are invented. The Collective does not review or approve names; the right to name belongs to whoever led the work.
+## Daily life on a project
 
-This tradition has produced some of the most evocative place-names in human space. It has also produced some rather eccentric ones. Both outcomes are considered acceptable.
+A project site is not the monastery of fifty the brochures imply. It is closer to a frontier town that happens to be making the ground it stands on: a core of sworn terraformers, a far larger body of Tenders, and the camp that grows around any place where thousands of people work for thirty years—cooks and medics and machine-shops, schooling for the children born on-site, a commissary, a grievance or two looking for somewhere to go. The hostile world outside the domes sets the rhythm; suits or sealed structures are the rule; the work is technical, exhausting, and now and then lethal.
 
-## Daily Life on Project
+Evenings, where the shifts allow, are communal—shared meals, talk, skill passed hand to hand, the slow accretion of the world-song. The bonds are real and deep; these are people giving years of one life to a single shared thing. They are also stratified: the sworn mess and the Tender mess are frequently not the same mess, and a project's social weather is set by how gracefully, or not, its lead terraformer carries the distance. Teams run with great autonomy—distance and bandwidth see to that—and the Council steps in only when asked, or when a review smells trouble.
 
-A typical Collective project site:
+## Outsiders
 
-A small team—rarely more than fifty active terraformers, plus support staff—stationed on a world in transformation. Living quarters are functional and modest: prefabricated habitats designed for long-duration occupation. The environment outside is hostile or at best partially terraformed; suits or domes are required.
-
-Days are structured around the project's current phase. Atmospheric engineering means monitoring processor arrays; biological work means managing ecosystem installations; geological modification means operating deep-drilling equipment. The work is technical, demanding, and occasionally dangerous.
-
-Evenings are communal. Shared meals, conversation, skill-sharing, and the gradual composition of the world-song. Social bonds within project teams are intense—these are people who share years of their lives in isolation, working toward a common goal. Relationships (romantic and otherwise) are common; the Collective neither encourages nor discourages them.
-
-Communication with the broader guild and with the outside world is limited by distance and bandwidth. Project teams operate with considerable autonomy; routine decisions are made locally. The Guild Council intervenes only when asked or when project reviews indicate problems.
-
-## Relations with Outsiders
-
-Collective members interact with outsiders primarily through contract negotiations, project coordination, and the Conclave. They are generally welcoming but private about guild methods—a combination that other polities find alternately charming and frustrating.
-
-Visitors to The Garden are treated as honoured guests. Visitors to project sites are tolerated but watched. Visitors who ask too many questions about proprietary techniques are politely redirected.
-
-The Collective's cultural insularity is functional rather than hostile. Members are not unfriendly; they are focused. The Great Work absorbs most of their attention, and outsiders who don't share that focus are, with genuine goodwill, a distraction.
+The Collective meets the rest of human space through contract talks, project liaison, and the Conclave, and it meets them politely and at arm's length. Visitors to the Garden are honoured guests; visitors to project sites are tolerated and watched; visitors who ask too closely after Genesis methods are redirected with a smile. The insularity is not hostility but focus—the Work absorbs them, and someone who does not share it is, with perfect goodwill, a distraction. It helps, too, that a guild with one irreplaceable secret has every reason to be charming and none at all to be open.
 
 ---
 
@@ -505,85 +517,77 @@ The Collective's cultural insularity is functional rather than hostile. Members 
 
 # Elysian Collective: Governance
 
+The Collective governs itself the way it terraforms: slowly, by consensus, with a deep institutional preference for deferring any decision that cannot be made comfortably. This serves it well in the field and less well in everything else, and the difference is beginning to tell.
+
 ## The Guild Council
 
-Seven Grandmasters govern the Collective. Each heads a major discipline; together they set priorities, allocate resources, approve projects, and adjudicate disputes.
+Seven Grandmasters govern the sworn. Each holds a major discipline; together they set priorities, allocate the treasury, accept or refuse projects, and settle what the Conclave cannot.
 
-| Seat | Discipline | Current Grandmaster |
-|------|-----------|-------------------|
+| Seat | Discipline | Grandmaster |
+|------|-----------|-------------|
 | First | Atmospheric Engineering | Lis Valtonen |
 | Second | Biological Systems | Okafor Dembe |
 | Third | Geological Modification | Renn Castellari |
 | Fourth | Hydrological Engineering | Saya Miren-Goh |
 | Fifth | Climatological Management | Torben Axelkraft |
 | Sixth | Gravitational Systems | Prem Danava |
-| Seventh | Reclamation (Lazarus Project) | Maret Solveig |
+| Seventh | Reclamation (the Lazarus Project) | Maret Solveig |
 
 ### Selection
 
-Grandmasters are elected by Masters of their discipline through ranked-choice vote. Candidates must have completed at least three major project cycles and received endorsement from a minimum of twelve sitting Masters. Terms are twenty years; Grandmasters may serve twice.
+Grandmasters are elected by the Masters of their discipline, by ranked-choice vote. A candidate must have carried at least three major project cycles and hold the endorsement of twelve sitting Masters. Terms run twenty years, renewable once. The process rewards institutional memory and proven craft over ambition; most Grandmasters spend decades in the field before they ascend, and arrive at governance reluctantly, treating it as a duty stolen from real work. This is generally counted a strength. It also means the guild is run by people temperamentally inclined to leave things as they are.
 
-The process favours institutional memory and proven capability over ambition or charisma. Most Grandmasters have spent decades in the field before ascending to governance. They are not politicians; they are the guild's best practitioners, reluctantly administrative.
+### How decisions are made, and avoided
 
-### Decision-Making
+The Council works by consensus on anything strategic—accepting a project, moving the treasury, fixing a diplomatic line. Dissent is spoken and recorded; what cannot reach consensus is deferred. The official account is that consensus comes easily because the Grandmasters share the guild's fundamental assumptions, and for most of its history that was simply true.
 
-The Council operates by consensus for strategic decisions—project acceptance, resource allocation, diplomatic positions. Dissent is expressed and recorded; decisions that cannot achieve consensus are deferred. In practice, consensus is usually reached because the Grandmasters share fundamental assumptions about the Collective's mission and methods.
-
-Discipline-specific decisions—technical standards, training curricula, research priorities—are made by each Grandmaster within their domain, subject to Council review on request.
+It is becoming less true. The seven no longer think quite alike, and the cracks run along recognisable lines. Valtonen of the First, senior and cautious, holds the old position: the guild's neutrality and the guild's hierarchy are what have kept it alive for six centuries, and both should be disturbed as little as possible. Solveig of the Seventh, whose Lazarus crews are more than half Tenders and who has buried more of them than anyone else at the table, presses—patiently; she is Collective after all—for reform, of the world-songs first and the franchise in time. The rest fall between, by temperament and by what their disciplines need. Consensus still mostly holds. But "deferred" is doing more work each decade than it used to, and everyone in the chamber knows the difference between a question settled and a question merely postponed.
 
 ## The Conclave
 
-The annual gathering of the full guild membership aboard The Garden. Part governance, part professional conference, part cultural festival.
+Once a year the working guild gathers aboard the Garden: part parliament, part professional congress, part festival. For members scattered across isolated sites it is the one time much of the Collective stands in one place.
 
-### Functions
+Its business:
 
-- **Project reviews**: Active projects present progress reports to the assembled guild. Peer evaluation is rigorous; failure is analysed openly; success is celebrated. The reviews are the guild's primary quality-control mechanism
-- **Resource allocation**: The Council presents proposed budgets and project priorities. The assembled Masters vote on allocation; the Council respects the vote
-- **Dispute resolution**: Inter-project conflicts, resource disagreements, and professional disputes are heard and adjudicated
-- **Knowledge exchange**: Research presentations, technique demonstrations, and cross-discipline workshops
-- **Social bonding**: The Conclave is the only time much of the guild gathers in one place. Members who spend years on isolated project sites reconnect with colleagues, mentors, and the broader guild community
+- **Project reviews.** Active projects report to the assembled guild; peer scrutiny is unsparing, failure dissected in the open, success sung. This is the guild's chief instrument of quality control.
+- **Allocation.** The Council lays out proposed budgets and priorities; the assembled Masters vote; the Council honours the vote.
+- **Disputes.** Conflicts between projects and between members are heard and ruled on.
+- **Exchange.** Research, technique, and argument, traded across disciplines.
+- **Reunion.** The social heart of a guild whose members spend years apart.
 
-### The Opening Ceremony
+Note who is in the room. The Conclave is a gathering of the sworn; Masters vote and Journeymen attend, but the Tenders who make up the larger half of the working Collective send no delegate and cast no vote. A growing number of the sworn find this indefensible. The Council finds it the way the guild has always worked—which is the same thing said in a tone meant to end the conversation.
 
-The Conclave opens with the **Recitation of Worlds**—a spoken list of every planet the Collective has terraformed, from the earliest projects to the most recent reclassification. The list grows longer each year. It currently takes four hours to recite in full.
+### The Recitation of Worlds
 
-## Political Neutrality
+The Conclave opens with the Recitation: a spoken naming of every world the Collective has made habitable, from the first to the most recent reclassification. It lengthens by a little each year. It presently takes four hours to recite in full, and the guild hears every name standing.
 
-The Collective's founding charter establishes political neutrality as an inviolable principle. The Collective terraforms for whoever can pay, without regard to the client's politics, ideology, or moral standing.
+## Neutrality
 
-This neutrality is the guild's most valuable asset. It ensures that no polity fears the Collective as a political threat and that every polity can engage the Collective's services without appearing to endorse a rival. The Collective has terraformed worlds for the Mandate, the Freeholds, Vega houses, and independent polities without discrimination.
+The founding charter makes political neutrality an inviolable principle: the Collective terraforms for whoever can pay, without regard to the client's politics, ideology, or conduct. It has built worlds for the Mandate and for Freeholders, for Vega houses and for independent polities, and asked none of them what the world was for.
 
-### The Neutrality Debate
+Neutrality is the guild's most valuable possession—more valuable, in its way, than any Genesis organism. It means no power need fear the Collective as a rival, and every power can hire it without seeming to bless its enemies. It is also, increasingly, a thing the Collective has to argue itself back into, because three pressures keep testing it:
 
-The principle faces periodic challenges:
+**Yansieve.** The Mandate's rebel systems have asked the Collective to terraform for them. To accept is revenue, and a clean demonstration that the guild truly serves all comers. To refuse is to placate the Mandate, the largest client the Collective has. The Council has deferred the decision so often that the deferral has become the policy, and both Yansieve and Tiamming have learned to read it. Each new delay is a quiet answer that satisfies no one and commits the guild to nothing—the Collective's favourite kind of answer.
 
-**The Yansieve question**: The Mandate's rebel systems have approached the Collective about terraforming projects. Accepting would provide revenue and demonstrate neutrality (the Collective works with everyone). Refusing would avoid angering the Mandate (the Collective's largest client). The Council has deferred the decision repeatedly.
+**Complicity.** Younger members increasingly argue that neutrality is not innocence—that to hand a tyrant a living world is to take a share in whatever he does on it. The Council's reply is the old one: the guild makes worlds habitable; what is done with a habitable world is not the guild's affair. It is philosophically defensible and emotionally hollow, and the members who raise the objection are not, on the whole, being talked out of it.
 
-**The ethics question**: Some younger guild members argue that neutrality enables atrocity—that terraforming a world for a tyrant makes the guild complicit in tyranny. The Council's position: the guild makes worlds habitable; what governments do with habitable worlds is not the guild's concern. This position is philosophically defensible and emotionally unsatisfying.
+**Leverage.** A guild that decides who receives habitable worlds, and in what order, holds enormous unspent power, and a faction has always murmured that some of it should be spent—on environmental standards, on protections for terraformed populations, on conditions of labour. The Council resists on principle: engagement, once begun, has no natural edge to stop at. But "conditions of labour" has lately taken on an awkward second meaning, because the labour most visibly in want of protection is the guild's own Tenders, and the leverage argument has quietly turned to point inward.
 
-**The leverage question**: The Collective's monopoly on the best terraforming techniques gives it enormous potential political power. Some members—quietly—argue that the guild should use this leverage for specific ends: environmental protection standards, treatment of terraformed populations, conditions of labour. The Council resists: political engagement, once begun, has no natural stopping point.
+These are not, the Collective will insist, factions. They are tendencies, conversations, recurring motions at Conclave. The insistence is itself the tell. The guild spent six centuries agreeing with itself, and is now learning, slowly and with great patience, how to disagree.
 
 ## Membership
 
-### Admission
+### The sworn
 
-The Collective recruits from across human space. Candidates apply to the Academy; admission is competitive, based on aptitude in relevant sciences, demonstrated problem-solving ability, and psychological suitability for isolated long-duration work.
+The guild recruits its terraformers from across human space. Candidates apply to the Academy; admission is fierce, weighed on scientific aptitude, problem-solving, and the psychological fitness for isolated, long-duration work. The intake is deliberately drawn from everywhere—mixed perspectives make for better problem-solving, and a guild whose members come from every polity is easier to believe neutral. Those admitted owe the Collective their professional loyalty: they may not practise terraforming independently, may not carry guild technique beyond the guild, and tithe a share of contract earnings to the treasury. In return they receive the finest training and equipment in human space, a community, and a craft. The bargain is a good one, and the Academy has never wanted for applicants.
 
-Guild members come from every polity and background. The Collective deliberately cultivates this diversity—different perspectives improve problem-solving, and members drawn from across human space reinforce the guild's political neutrality.
+### The Tenders
 
-### Obligations
-
-Guild members owe the Collective their professional loyalty. They may not practice terraforming independently or share proprietary techniques with non-members. They contribute a percentage of contract earnings to the guild treasury. They are expected to participate in the Conclave and to accept project assignments within reason.
-
-In exchange: training, equipment, logistical support, professional community, and access to the most advanced terraforming technology in human space. The arrangement is attractive. The Collective has no recruitment difficulties.
+Tenders are enrolled, not sworn. They are taken on as labour—from client populations, from frontier worlds, from the guild's own unraised children—and bound by the Collective's rules and rewarded from its treasury without entering its guild. They hold their own internal grades and rise within them; what they cannot do, short of being lifted into the Academy, is cross into the sworn, vote, or claim the guild's higher privileges. The arrangement is old, functional, and increasingly hard to defend in a body that calls itself a Collective. Which is precisely the argument now being had.
 
 ### Expulsion
 
-Members who violate guild rules—particularly the prohibition on sharing proprietary techniques—face expulsion. The process is formal: charges brought before the Council, defence heard, decision by vote.
-
-Expulsion means loss of guild membership, access to Collective technology, and professional standing. In a field where the Collective is the dominant employer, expulsion effectively ends a terraforming career. The threat is sufficient deterrent for most; actual expulsions are rare.
-
-What happens to expelled members who carry proprietary knowledge in their heads is a subject the Collective does not discuss publicly.
+Members who break guild rules—above all the prohibition on sharing proprietary technique—face expulsion: charges before the Council, a defence heard, a vote. For a sworn terraformer it is ruin, the end of a career in a field the Collective dominates; the threat alone keeps most in line, and actual expulsions are rare. What becomes of an expelled member carrying Genesis secrets in her head is a matter the Collective does not discuss in public, and discusses only carefully in private.
 
 ---
 
@@ -635,6 +639,8 @@ Assessment missions last 6–18 months. Some worlds are deemed unrecoverable—t
 Worlds assessed as recoverable receive full Collective project teams. Restoration follows the same general principles as initial terraforming—atmospheric work, biological introduction, geological stabilisation—but with the added complexity of managing existing damaged systems.
 
 Restoration is often harder than initial terraforming. A virgin world's conditions are inhospitable but stable; a failed world's conditions are inhospitable *and chaotic*. The restoration team must stabilise deteriorating systems while simultaneously introducing new ones—a process compared, within the guild, to rebuilding a ship while it sinks.
+
+It is also the deadliest work the Collective does, and the Tenders do most of it. Stabilising a chaotic, half-poisoned world means crews in the worst air the guild ever asks anyone to breathe, working machines improvised against conditions no protocol anticipated. Maret Solveig, the Seventh Grandmaster, has led Reclamation for most of her career and has buried more Tenders than any Grandmaster alive; that she is also the Council's most insistent voice for naming the Tender dead in the world-songs is not a coincidence her colleagues have failed to notice.
 
 ## Notable Sites
 
@@ -708,82 +714,70 @@ The project operates at a net loss. The Collective considers this acceptable—t
 
 # Elysian Collective: Technology
 
-The Collective's technological advantage is its economic moat. Every polity in human space has access to basic terraforming techniques; only the Collective commands methods that transform worlds within human-relevant timescales.
+The Collective's technology is its moat. Basic terraforming is no secret—any competent polity can thicken an atmosphere or seed an algae bloom and then wait a few centuries. What the Collective alone commands is the art of doing it within a lifetime or two, and the machines that let fifteen million terraformers and their Tenders move thirty to fifty worlds at once. The expertise and the automation are the same advantage seen from two sides: the guild knows what to do, and has built the engines to do it at a scale its modest numbers could never reach by hand.
 
 ## Genesis Protocols
 
-The Collective's flagship technology. Genesis Protocols enable **rapid biosphere establishment**—seeding a world with engineered organisms designed to bootstrap a functioning ecosystem within decades rather than the centuries that unassisted terraforming requires.
+The flagship technology: **rapid biosphere establishment**, seeding a world with engineered organisms that bootstrap a working ecosystem in decades rather than the centuries unassisted nature would take.
 
-### Process
+The sequence:
 
-1. **Assessment**: Comprehensive planetary survey—atmosphere, geology, hydrology, radiation environment, orbital mechanics. Duration: 1–3 years
-2. **Preparation**: Atmospheric modification and geological stabilisation to create conditions suitable for biological introduction. Duration: 5–30 years depending on baseline conditions
-3. **Seeding**: Introduction of engineered pioneer organisms—extremophile bacteria, algae, and fungi designed to survive current conditions and modify them toward habitability. Duration: continuous
-4. **Cascading introduction**: Sequential introduction of increasingly complex organisms as conditions improve. Each wave is engineered to depend on and extend the work of its predecessors. Duration: 20–50 years
-5. **Stabilisation**: Ecosystem management to establish self-sustaining biological cycles. The goal is a biosphere that no longer requires active intervention. Duration: 10–30 years
-6. **Monitoring**: Long-term observation and minor adjustments. Duration: indefinite
+1. **Assessment.** A full planetary survey—atmosphere, geology, hydrology, radiation, orbit. 1–3 years.
+2. **Preparation.** Atmospheric and geological work to make conditions fit for life. 5–30 years, depending on the starting state.
+3. **Seeding.** Introduction of engineered pioneers—extremophile bacteria, algae, fungi—built to survive present conditions and push them toward habitability. Continuous.
+4. **Cascade.** Successive waves of more complex organisms, each engineered to depend on and extend the last. 20–50 years.
+5. **Stabilisation.** Management toward self-sustaining biological cycles—a biosphere that no longer needs the guild's hand. 10–30 years.
+6. **Monitoring.** Long observation and small corrections. Indefinite.
 
-### The Organisms
+### The organisms
 
-Genesis organisms are the Collective's most closely guarded secret. Each is purpose-designed for a specific planetary environment—no two Genesis packages are identical. The organisms are engineered with built-in obsolescence: pioneer species die out as conditions change, replaced by successor organisms better suited to the evolving environment.
+Genesis organisms are the guild's most closely held secret. Each is purpose-built for one world; no two packages are alike. They are engineered to obsolesce—pioneers die back as conditions change and yield to successors better suited to the world they have helped make—and to resist analysis, so that organisms recovered from a project site give up little to a competitor's laboratory. Rivals have tried to reverse-engineer them for centuries, with partial results at best. The biology behind a Genesis package represents accumulated work no single lifetime could reproduce, which is exactly why the guild guards it as it does.
 
-The biological engineering required to create Genesis packages represents centuries of accumulated expertise. Competing organisations have attempted to reverse-engineer Collective organisms recovered from project sites; results have been partial at best. The organisms are designed to resist analysis—another layer of intellectual property protection.
+## Atmospheric processors
 
-## Atmospheric Processors
-
-Industrial-scale atmosphere modification systems superior to all commercially available alternatives.
+Industrial atmosphere-modification plants well beyond any commercial rival.
 
 | Capability | Specification |
 |-----------|--------------|
-| Atmospheric conversion rate | 3–5x commercial standard |
+| Conversion rate | 3–5× commercial standard |
 | Gas selectivity | Parts-per-billion precision |
-| Energy efficiency | ~40% better than nearest competitor |
-| Operational lifespan | 50+ years continuous operation |
+| Energy efficiency | ~40% better than the nearest competitor |
+| Operational lifespan | 50+ years of continuous running |
 
-Collective processors can transform a thin, toxic atmosphere into a breathable one within decades—a process that commercial alternatives would require a century or more to achieve. The efficiency advantage compounds over project duration; for long-term terraforming, the cost savings are enormous.
+A Collective processor can turn a thin, toxic atmosphere breathable in decades where commercial gear would need a century, and the efficiency advantage compounds across a project's length into enormous savings. Processors are built aboard the Garden, deployed to sites, and never sold or licensed; they remain guild property throughout a project and are removed when it ends. The technology never leaves the guild's hands—and running and maintaining these plants, day and night for fifty years in lethal air, is the core of what the Tenders do.
 
-Atmospheric processors are manufactured aboard The Garden and deployed to project sites. They are not sold or licensed; they remain Collective property throughout the project, removed upon completion. This ensures that the technology stays within the guild.
+## Gravity arrays
 
-## Gravity Arrays
+Orbital and field technology for managing a world's physical conditions.
 
-Orbital and field technology for managing planetary conditions.
+**Orbital adjustment.** Arrays can tune a planet's orbital parameters—damping wobble, nudging rotation, fine-tuning axial tilt—by amounts trivial in astronomical terms and decisive for habitability. A few degrees of tilt is the difference between seasons a biosphere can use and extremes that kill it.
 
-### Orbital Adjustment
+**Surface modification.** Field generators that locally adjust gravity, used mostly during construction—opening up environments that would otherwise be unworkable—and for long-term management on worlds of borderline surface gravity. It is energy-hungry and limited: the guild cannot make a small moon feel like Earth, but it can shift conditions by 15–20%, often the margin between viable and not.
 
-Gravity arrays can modify a planet's orbital parameters—stabilising wobble, adjusting rotation speed, fine-tuning axial tilt—to create conditions more favourable for biosphere development. The adjustments are small in astronomical terms but significant for habitability: a few degrees of axial tilt can mean the difference between seasonal variation that supports diverse ecosystems and extreme conditions that preclude them.
+## Keeping the secret
 
-### Surface Gravity Modification
+The whole advantage rests on secrecy, and the guild's rules on proprietary technique are absolute:
 
-Field generators that locally adjust gravitational conditions. Used primarily during construction phases—enabling work in environments that would otherwise be inaccessible—and for long-term gravity management on worlds with borderline surface gravity.
+- Genesis designs are never disclosed.
+- Processor specifications are classified.
+- Gravity-array configurations are project-specific and retained.
+- Findings are shared within the guild at Conclave and never published outside it.
+- Members who disclose face expulsion.
 
-Surface gravity modification is energy-intensive and limited in scope. The Collective cannot make a low-gravity moon feel like Earth; it can adjust conditions within a range of 15–20% to make habitability viable.
-
-## Proprietary Protection
-
-The Collective's technology advantage depends on secrecy. Guild rules regarding proprietary techniques are absolute:
-
-- Genesis organism designs are never disclosed
-- Atmospheric processor specifications are classified
-- Gravity array configurations are project-specific and retained by the guild
-- Research findings are shared internally at Conclave but not published externally
-- Members who disclose proprietary information face expulsion
-
-This secrecy generates friction. Client polities that commission terraforming projects receive habitable worlds but no understanding of how those worlds were made. Industrial interests argue that Collective techniques should be shared for the benefit of humanity; the Collective argues that uncontrolled dissemination would lead to incompetent terraforming—with potentially catastrophic ecological consequences.
-
-The Lazarus Project provides the Collective's strongest argument: the dozens of failed worlds across human space that were terraformed by non-Collective methods and are now ecological disaster zones. See [[The Lazarus Project]].
+The secrecy makes friction. A client receives a habitable world and no idea how it was made; industrial interests argue the techniques should be shared for humanity's benefit; the guild answers that loosed into untrained hands they would breed catastrophe—and points, for proof, at the Lazarus Project's gallery of worlds wrecked by amateurs. See [The Lazarus Project](lazarus-project.md).
 
 ## Research
 
-The Collective maintains active research programmes across all disciplines. Notable current efforts:
+The guild runs active research across every discipline. Current efforts of note:
 
 | Programme | Focus |
 |-----------|-------|
-| Deep Biosphere | Engineering organisms for geological modification from within planetary crusts |
-| Rapid Atmosphere | Reducing atmospheric conversion timescales below current minimums |
-| Ice World Protocols | Terraforming techniques for frozen worlds with subsurface oceans |
-| Collaborative Enhancement | Joint programme with Neo-Solar Republic exploring biological applications of morphological technology |
+| Deep Biosphere | Organisms that drive geological change from inside a planet's crust |
+| Rapid Atmosphere | Pushing conversion times below current floors |
+| Ice World Protocols | Methods for frozen worlds with subsurface oceans |
+| Collaborative Enhancement | A joint programme with the Neo-Solar Republic on biological applications of morphological technology |
 
-Research is funded from contract revenue and conducted primarily aboard The Garden and at dedicated research stations. The Collective's research output is not published; innovations are incorporated into operational practice and protected as proprietary knowledge.
+Research is funded from contract revenue and run mostly aboard the Garden and at dedicated stations. Its output is never published; innovations fold into practice and are protected as proprietary knowledge—another reason the guild's lead, once won, has never been lost.
 
 ---
 
@@ -792,14 +786,16 @@ Research is funded from contract revenue and conducted primarily aboard The Gard
 
 # Elysian Collective: Key Locations
 
+The Collective holds no territory—only a moving capital and a scatter of worksites across human space. Most of the guild's people are not at the famous address. They are out on the projects, in prefab camps under hostile skies, for years or decades at a stretch.
+
 | Location | Character |
 |----------|-----------|
-| [[The Garden]] | Mobile headquarters; training, governance, research, cultural centre |
-| Active project sites | 30–50 worlds under active terraforming at any time |
-| Lazarus sites | Failed worlds under restoration |
+| [The Garden](the-garden.md) | Mobile capital: school, governance, research, archive, and home to the fortunate three million |
+| Active project sites | 30–50 worlds under terraforming at any time—each a long-lived camp of sworn and Tenders, not the tidy team of fifty the guild likes to imply |
+| Lazarus sites | Failed worlds under restoration; the guild's hardest and deadliest postings |
 | Research stations | Dedicated facilities for advanced terraforming research |
 
-The Collective's physical footprint is distributed across human space. Project teams operate wherever there are worlds to transform; The Garden moves between systems on a schedule known only to the Guild Council.
+The Garden moves between systems on a schedule only the Council knows; the project sites stay put for as long as a world takes to make, which is to say for lifetimes. Between the two, the Collective's centre of gravity is not really the Garden at all—it is wherever the work currently is, and the work is mostly somewhere uncomfortable.
 
 ---
 
@@ -808,81 +804,56 @@ The Collective's physical footprint is distributed across human space. Project t
 
 # The Garden
 
-The Elysian Collective's mobile headquarters: a deep-space station that serves as the guild's centre of operations, training facility, research hub, and cultural heart.
+The Collective's mobile headquarters: a deep-space station that is the guild's centre of operations, its only school, its memory, its showcase, and—for the fortunate fraction of the Collective who live there—home. It is also the prize at the top of the guild's ladder, the paradise that a working life on poisoned worlds is meant to earn, and not everyone who is promised it arrives.
 
 ## Overview
 
 | Attribute | Value |
 |-----------|-------|
 | Type | Mobile deep-space station |
-| Location | Variable (current position classified) |
+| Location | Variable; current position classified |
 | Population | ~3 million permanent residents |
 | Classification | Station |
-| Age | ~600 years (continuously expanded) |
-| Character | Biodome showcase, guild headquarters, living archive |
+| Age | ~600 years, continuously expanded |
+| Character | Living biodome, guild capital, archive, and a city in its own right |
 
-## Location
+## Where it is
 
-The Garden has no fixed orbit. It moves between systems on a schedule determined by the Guild Council—positioning itself near active projects, resupply points, or simply in deep space far from any inhabited system. The current location is known only to Council members, senior navigation staff, and the station's pilot cadre.
+The Garden keeps no fixed orbit. It moves between systems on a schedule set by the Council—near active projects, near resupply, or simply into deep space far from anyone—and its position is known only to the Council, the senior navigation staff, and the pilot cadre. To find the Garden uninvited is treated as an act of war: you cannot threaten what you cannot locate. Invited guests are carried in aboard guild ships from designated meeting points and never learn the route.
 
-Finding The Garden without invitation is considered a hostile act. The station's location is the Collective's most basic security measure: you cannot threaten what you cannot find. Invited visitors are transported aboard guild vessels from designated meeting points; they do not learn the route.
+It moves under conventional drives, with periodic gate transit when distance demands. Pushing a station of the Garden's mass through a jump gate is enormously expensive; the Collective pays it without complaint, because being unfindable is the guild's first and best defence.
 
-The station moves under its own power—a series of conventional drives supplemented by periodic gate transit. Moving a station of The Garden's mass through a jump gate is expensive; the Collective considers the cost acceptable for operational security.
+## The biosphere
 
-## The Biosphere
+The Garden's wonder, and its argument: a vast interior biodome under an artificial sky, holding living specimens from every world the Collective has made. Temperate forest runs up against tropical wetland; alpine meadow sits above desert; water threads through all of it. Visitors from other polities, used to the thin biospheres of ordinary stations, tend to describe the experience as overwhelming—the air thick with scent and birdsong, every surface carrying life. The sheer density of it is the point: a single enclosed proof of what the guild can do.
 
-The Garden's most striking feature. The station contains a vast interior biodome—a fully functioning ecosystem under artificial sky, housing specimens from every world the Collective has terraformed.
+It does not run itself. A standing body of biologists and keepers manages the species balance, watches for collapse, and folds in new specimens as projects finish—much of the daily labour done by Tenders and civilian staff whose names will never be sung, on the guild's oldest and proudest continuous project. Six centuries, members will tell you with quiet satisfaction, without a single biosphere failure.
 
-The biosphere is simultaneously a botanical and zoological archive, a demonstration of Collective capability, and a living environment for the station's residents. Species from hundreds of worlds coexist in carefully managed zones: temperate forests beside tropical wetlands, alpine meadows above desert formations, aquatic systems threaded throughout.
-
-The sheer density and diversity of life aboard The Garden is its own argument. Visitors from other polities—accustomed to the relatively sparse biospheres of space stations—describe the experience as overwhelming. The air is thick with scent and sound; every surface supports life; the visual complexity dwarfs any artificial environment in human space.
-
-Maintaining this biosphere requires constant attention. A dedicated team of Collective biologists manages species interactions, monitors ecosystem health, and introduces new specimens as projects complete. The Garden is the guild's most complex ongoing project—and, members will note with quiet pride, it has been running for six centuries without failure.
-
-## Major Sections
+## The sections
 
 ### The Conservatory
 
-The formal collection: catalogued specimens from every Collective-terraformed world, maintained in controlled environments that replicate their planets of origin. Part museum, part gene bank, part insurance policy. If a terraformed world's ecosystem fails, the Conservatory holds the biological material needed for restoration.
-
-The Conservatory is open to guild members and invited researchers. Its collections are among the most comprehensive biological archives in human space.
+The formal collection: catalogued specimens from every Collective world, kept in controlled environments that reproduce their home conditions. Part museum, part gene bank, part insurance—if a terraformed world's ecosystem fails, the Conservatory holds the material to rebuild it. It is open to guild members and invited researchers, and ranks among the most complete biological archives in human space.
 
 ### The Academy
 
-The Collective's training facility. Apprentices spend their formative years here, learning terraforming theory, practical technique, and guild culture. The Academy's curriculum spans 5–10 years depending on specialisation; it combines academic instruction with hands-on work in the station's biosphere and simulated project environments.
-
-Academy life is rigorous. Apprentices are expected to master multiple disciplines before specialising—an atmospheric engineer who doesn't understand biological systems cannot properly plan atmospheric conversion. The cross-disciplinary approach produces versatile terraformers; the rigour filters out those who lack the patience for the work.
-
-Instructors are senior Masters who rotate through Academy duty between project assignments. Teaching is considered a professional obligation rather than a career; most instructors return to field work after a few years.
+The guild's only school, and the gate every sworn terraformer passes through. Apprentices spend five to ten years here in theory, technique, and guild culture, learning across disciplines before they specialise—an atmospheric engineer who cannot read a biosphere is no use to anyone. The rigour is the filter; it weeds out those without the patience for the work. Instructors are senior Masters rotating through between projects, who mostly regard teaching as a duty and return to the field as soon as they decently can. It is also, less officially, where the Collective's class line is drawn each year: the children admitted become sworn, and the far larger number turned away become Tenders, civilians, or émigrés.
 
 ### The Archive
 
-The Collective's institutional memory. Records of every terraforming project in human space—Collective and otherwise—maintained in physical and digital formats. Project reports, environmental data, Genesis organism specifications, world-songs, and the documentation of failed projects that informs the Lazarus Project.
-
-The Archive is the most restricted section of The Garden. Access requires Council authorisation; even senior Masters cannot browse freely. The Archive contains the Collective's proprietary knowledge in its most concentrated form; its security is absolute.
+The guild's memory, and its most guarded room. Records of every terraforming project in human space, Collective or otherwise—reports, environmental data, Genesis specifications, the world-songs, the documentation of failures that feeds the Lazarus Project. Access requires Council authorisation; even senior Masters cannot wander it freely. Here the proprietary knowledge sits in its most concentrated and most dangerous form, and its security is total.
 
 ### The Council Chamber
 
-Where the Guild Council meets and where the annual Conclave convenes. A circular space at the station's core, designed for acoustics—the spoken word carries clearly to every seat. No amplification is used; the tradition predates the station's current form and is maintained deliberately.
+A circular space at the station's core where the Council sits and, once a year, the full Conclave convenes. It is built for the unaided voice—no amplification, by a tradition older than the station's current form—so that the spoken word, the guild's chosen medium, carries to every seat. During Conclave it holds thousands; the rest of the year, smaller gatherings. It is deliberately bare: no ornament, no display of rank, the authority of the room resting—as the guild likes to imagine all its authority resting—on competence alone.
 
-During Conclave, the Chamber accommodates thousands of guild members. During normal operations, it hosts Council sessions and smaller gatherings. The Chamber's simplicity is deliberate: no decoration, no ornamentation, no display of rank. The guild's authority rests on competence, and its meeting space reflects this.
+### The residential districts
 
-### Residential Districts
-
-The Garden's ~3 million permanent residents live in districts that blend the station's engineering with its biosphere. Residences open onto green spaces; pathways wind through vegetation; natural light (simulated) and natural air (filtered through the biosphere) create living conditions that feel planetary rather than orbital.
-
-Living aboard The Garden is a privilege extended to guild members, their families, and essential support staff. The waiting list is long. Many guild members spend years or decades on project sites before earning a Garden berth.
+Where the three million live, in districts that fold the station's engineering into its greenery—homes opening onto green space, paths winding through planting, simulated light and biosphere-filtered air that make the place feel like ground rather than orbit. A berth on the Garden is the guild's highest material reward, extended to members, their families, and the civilian staff the city cannot do without. The waiting list is long and the arithmetic quietly brutal: many of the sworn spend their best decades on project sites before a berth comes free, and many Tenders are promised the Garden their whole lives and die having seen it only in the world-songs. The paradise is real. So is the queue.
 
 ## Defence
 
-The Garden is not a warship, but it is not defenceless. The station maintains:
-
-- Long-range sensor arrays for early warning
-- A small escort fleet of armed vessels
-- Point-defence systems against incoming threats
-- The ultimate defence: mobility. A station that cannot be found cannot be attacked
-
-The Collective's political neutrality is its primary protection. No power has reason to attack the guild that makes their worlds habitable. But the Council is not naive; the escort fleet exists because neutrality is a principle, not a guarantee.
+The Garden is no warship, but it is not soft. It carries long-range sensors for early warning, a small escort fleet of armed ships, and point defences against anything that reaches it. Its surest protection is the simplest: a station no one can find is a station no one can hit. After that comes neutrality—no power has an obvious reason to attack the guild that makes its worlds habitable—but the Council is not so naive as to trust a principle, which is why the escorts exist.
 
 ---
 
@@ -5106,7 +5077,7 @@ Studios compete for talent, audiences, and distribution. The competition is genu
 
 Vega content reaches audiences through:
 
-- **Direct broadcast** (quantum-linked relays to major population centres)
+- **Syndicated feeds** (priority couriers carry master feeds to hubs in major systems for local rebroadcast)
 - **Licensed distribution** (local partners in other polities)
 - **Physical media** (for regions with limited connectivity)
 - **Touring productions** (live performances, especially in premium markets)
@@ -5844,7 +5815,7 @@ Content reaches audiences through:
 
 |Channel|Character|
 |---|---|
-|Quantum-linked broadcast|Real-time transmission to major systems|
+|Syndicated feeds|Master feeds carried by priority courier to partner hubs in major systems; rebroadcast locally on arrival, days fresh from Vega|
 |Licensed relay|Local partners retransmit to regional audiences|
 |Physical distribution|Media packages for connectivity-limited regions|
 |Touring|Live performances in external markets|
@@ -8115,7 +8086,7 @@ Most content passes through these centres. A production shot elsewhere still req
 
 Where content leaves for audiences:
 
-- Broadcast facilities (quantum-linked transmission)
+- Broadcast and feed-syndication facilities (system transmission; master-feed uplink to courier relays)
 - Media preparation (formatting for various markets)
 - Archival (master copies preserved)
 - Rights management (tracking licences and usage)

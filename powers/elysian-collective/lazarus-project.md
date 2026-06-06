@@ -44,6 +44,8 @@ Worlds assessed as recoverable receive full Collective project teams. Restoratio
 
 Restoration is often harder than initial terraforming. A virgin world's conditions are inhospitable but stable; a failed world's conditions are inhospitable *and chaotic*. The restoration team must stabilise deteriorating systems while simultaneously introducing new ones—a process compared, within the guild, to rebuilding a ship while it sinks.
 
+It is also the deadliest work the Collective does, and the Tenders do most of it. Stabilising a chaotic, half-poisoned world means crews in the worst air the guild ever asks anyone to breathe, working machines improvised against conditions no protocol anticipated. Maret Solveig, the Seventh Grandmaster, has led Reclamation for most of her career and has buried more Tenders than any Grandmaster alive; that she is also the Council's most insistent voice for naming the Tender dead in the world-songs is not a coincidence her colleagues have failed to notice.
+
 ## Notable Sites
 
 ### Veldtgrave
