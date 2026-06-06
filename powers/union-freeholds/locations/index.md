@@ -11,6 +11,7 @@ The Freeholds span hundreds of systems, and the map is never finished—settleme
 | [Dustmote](dustmote.md) | The Freehold whose people remade themselves unable to leave |
 | [Roughneck](roughneck.md) | The boom grown into a working industrial world, owning class and all |
 | [Three Falls](three-falls.md) | The frontier at peak rush—an aurite strike, corporations closing in |
+| [The Sefkir Reach](sefkir-reach.md) | A dozen Freeholds that expelled the Cartel in 3829 C and chose poorer-but-free |
 
 ## Regional groupings
 
@@ -22,7 +23,7 @@ The Freeholds span hundreds of systems, and the map is never finished—settleme
 
 **The Deep Frontier.** The furthest settlements—minimal infrastructure, high risk and reward, effectively ungoverned even by Freehold standards. Notable: New Providence (a failed terraforming reclamation), Ultima Station (the furthest permanent human settlement in this direction).
 
-**The Sefkir Reach.** A cluster of Freeholds with a singular distinction: in 3829 C it expelled every identifiable Sable Cartel subsidiary from its systems and never let them back. It is poorer than it would otherwise be, slower, harder to live in—and the one part of the frontier that is demonstrably, deliberately *not* for sale. Its neighbours study it with a discomfort that has lately turned thoughtful. See [Economy](../economy.md).
+**The Sefkir Reach.** A cluster of Freeholds with a singular distinction: in 3829 C it expelled every identifiable Sable Cartel subsidiary from its systems and never let them back. It is poorer than it would otherwise be, slower, harder to live in—and the one part of the frontier that is demonstrably, deliberately *not* for sale. Its neighbours study it with a discomfort that has lately turned thoughtful. See [the Sefkir Reach](sefkir-reach.md) for the full account.
 
 ## Settlement types
 

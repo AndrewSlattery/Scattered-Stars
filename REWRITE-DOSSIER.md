@@ -80,7 +80,5 @@ All seven great powers have been rewritten. Thesis and register for each, for qu
 
 This dossier stays the canon record: keep any future edits consistent with **Cross-power canon** above. What's left is touch-ups and consistency, not new rewrites — and the **method** and **house style** above are preserved for whenever the setting wants this treatment again.
 
-**Optional future polish (all noticed in passing, none blocking):**
-- `powers/index.md`'s power-table links are pre-existing and partly broken (e.g. the Mandate row points to `powers/mandate/index.md` from inside `powers/`; the Union/Drift rows are off too).
-- Setting-wide character names repeat — several **Vance** / **Mira** / **Cassia** across powers (mostly pre-existing; the rewrites avoided adding more).
-- The **Sefkir Reach** is currently woven through the Union (index, economy, locations) rather than given its own file; it could earn `locations/sefkir-reach.md` if ever wanted.
+**Polish pass (post-completion).** Two of the three loose ends are closed: the broken `powers/index.md` power-table links are fixed (commit `7da2e18`), and the **Sefkir Reach** now has its own file, `union-freeholds/locations/sefkir-reach.md` (Edda Voss and the 3829 C **Sefkir Compact**; the price paid in prosperity; the Cartel's keep-it-unglamorous patience). One item is left, deliberately deferred because it is not a safe unilateral change:
+- Setting-wide character-name repetition — several **Vance** / **Mira** / **Cassia** across powers (e.g. Mira Vance/Korsen/Thane; Callum/Cassian/Kaela Vance; Cassius Dray, Cassia Morn/Norn), mostly pre-existing. Worth a focused rename pass *with the owner's steer* on which to change and to what; renaming established canon blind is the kind of thing that breaks more than it fixes.

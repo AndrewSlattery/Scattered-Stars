@@ -40,8 +40,9 @@ That it can be resisted, the **Sefkir Reach** proved: in 3829 C it expelled ever
 | [Dustmote](locations/dustmote.md) | The Freehold whose people remade themselves unable to leave—roots bought with freedom |
 | [Roughneck](locations/roughneck.md) | The boom that grew up: a working industrial world, complete with an owning class |
 | [Three Falls](locations/three-falls.md) | The frontier at peak rush—an aurite strike, and corporations closing on the prospectors |
+| [The Sefkir Reach](locations/sefkir-reach.md) | The dozen Freeholds that expelled the Cartel in 3829 C and chose poorer-but-free |
 
-The Sefkir Reach—the Freehold that bought its way out of the Cartel's reach—is documented with the [Sable Cartel](../sable-cartel/index.md), where its expulsion was first felt.
+The [Sefkir Reach](locations/sefkir-reach.md)—the cluster that bought its way out of the Cartel's reach in 3829 C—is the frontier's proof that the capture can be refused, at a price; its expulsion was first felt in the [Sable Cartel](../sable-cartel/index.md) files.
 
 ## Relations
 
