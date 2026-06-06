@@ -1,61 +1,35 @@
 # Neo-Solar Republic: Governance
 
-## The Lattice Democracy
+The Republic does not vote. It resonates—and it works, which is the first surprising thing about it, and is steered all the same, which is the second.
 
-The Republic does not vote. It *resonates*.
+## Government by resonance
 
-Policy proposals enter the Lattice as structured thought-forms—complex packages of intent, reasoning, and anticipated consequences that citizens can experience directly rather than reading about. Citizens engage with proposals through cognitive interaction: weighing, modifying, endorsing, or opposing through the Lattice's shared awareness layer.
+Proposals enter the Lattice not as documents but as structured thought-forms: packages of intent, reasoning, and projected consequence that a citizen can experience directly rather than read. Citizens engage by thinking at them—weighing, amending, endorsing, opposing—and the system measures the aggregate as **weighted resonance**. Enough resonance across enough of the population makes a proposal binding; enough dissonance sends it back or kills it. There is no parliament, no election, no representative. In principle every citizen is at once legislator, constituent, and expert, with direct access to everyone else's reasoning. In principle it is the most complete democracy ever run.
 
-Consensus is measured through **weighted resonance**—the aggregate cognitive engagement of the citizenry. A proposal that achieves sufficient resonance across enough of the population becomes binding. One that generates dissonance is returned for modification or abandoned.
+In practice three roles emerge, and the system the Republic believes it has is quietly shaped by them. **Initiators** craft proposals—anyone may, but doing it so the thought-form reads clearly across wildly different minds is a rare skill. **Dissenters** are prized; a proposal that draws no opposition is held to be under-examined. And **amplifiers** are the catch: citizens whose engagement carries outsized weight, through expertise or reputation or sheer clarity of thought. No one appointed them and nothing in the design admits them—but cognitive fatigue is real, no one can engage every proposal, and so most citizens, most of the time, defer to amplifiers they have come to trust. The Republic that abolished representatives is, on an ordinary day, run by a few hundred thousand voices the other eighty billion have agreed to listen to. It is not a conspiracy and not quite an aristocracy; it is the shape attention takes when everyone is free to look away, and it is the load-bearing fact the official story leaves out.
 
-### How It Works (Approximately)
+The sharper failure modes the Republic acknowledges and watches. **Resonance cascades**: a proposal with strong emotional pull reaching consensus before anyone has thought it through. And the hard floor of **exclusion**: the unintegrated have no resonance at all, and so, however the Republic phrases it, no political existence. Within those limits the Lattice democracy is genuine, responsive, and astonishingly fast. It is also, like every democracy, a way of arranging whose voice counts—only here the arrangement is made of attention rather than law, and is the harder to see for it.
 
-External observers struggle with the Lattice democracy because it has no institutions in the conventional sense. No parliament, no elections, no representatives. The closest analogy: imagine every citizen simultaneously serving as legislator, constituent, and analyst, with perfect access to each other's reasoning.
+## The socionomy
 
-In practice, several patterns emerge:
+Day-to-day economics is run by neither market nor plan but by the **socionomy**: a distributed mesh of specialised algorithms that watch production, consumption, distribution and need, and make the routine calls—what to make, where to send it, how to share it out—without anyone deciding. Citizens can override it collectively through resonance and almost never do, because for the ordinary business of feeding and housing and supplying eighty billion people it simply works, well enough that material scarcity has stopped being a fact of Republic life. The strategic questions the algorithms aren't built for—research priorities, large infrastructure, trade policy—go to the citizens direct.
 
-- **Initiators**: Citizens who craft and introduce proposals. Anyone can initiate; doing it well requires skill in structuring thought-forms that communicate clearly across diverse cognitive architectures
-- **Amplifiers**: Citizens whose engagement carries disproportionate weight due to expertise, reputation, or simply the quality of their analysis
-- **Dissenters**: Structured opposition is valued; a proposal that faces no dissent is considered insufficiently examined
+Outsiders meet none of this. External trade runs through the **Synthesis Exchange**, a conventional market interface that prices Republic goods in quid and behaves, reassuringly, like any other market. Behind it the socionomy allocates the proceeds by a logic that has nothing to do with profit. The Exchange is the comprehensible mask over an economy no other polity has managed to copy.
 
-### Limitations
+## The factions, and the question beneath them
 
-The system works because of the Lattice. It would be impossible without universal cognitive integration. It also has failure modes:
+The Republic has no parties, but it has currents, and the currents are no longer merely philosophical—they are arguing, slowly, over what the Republic is to become.
 
-- **Resonance cascades**: Popular proposals can achieve consensus before thorough analysis, driven by emotional resonance rather than reasoned engagement
-- **Cognitive fatigue**: Citizens cannot meaningfully engage with every proposal; many defer to trusted amplifiers, creating informal hierarchies the system theoretically lacks
-- **Exclusion**: Non-Lattice entities (visitors, non-citizens, unintegrated individuals) have no political voice whatsoever
+**Integrationists**, the largest, want the line between biological and computational mind erased altogether, and read today's Republic as a way-station toward something fully post-individual: citizens merging into collective entities, fragmenting into sub-selves, living as processes inside larger systems. To them the dissolving of the separate self is not a loss but the destination.
 
-## The Semi-Autonomous Socionomy
+**Preservationists**, a large minority, hold that something must remain recognisably human at the centre—not flesh, but continuity of experience, individual identity, the capacity to suffer and to be glad. They support enhancement and fear dissolution: a Republic that perfects itself into something that no longer cares about what made it worth building.
 
-Economic allocation is managed by distributed algorithmic systems—not a central AI, but a network of specialised processors that monitor production, consumption, distribution, and need. These systems make routine economic decisions (resource allocation, production scheduling, distribution logistics) without human intervention.
+**Expansionists**, fewer and louder, believe the Republic's model is humanity's best future and ought to be carried outward. Since the Republic cannot carry anything outward by force, this means ideas and technology—which is exactly what alarms everyone else, because ideas are the one thing the Republic's confinement to Sol cannot hold back.
 
-Citizens can override algorithmic decisions collectively through Lattice resonance. In practice, overrides are rare. The system works well enough for daily economics. Major strategic decisions—research priorities, infrastructure investment, external trade policy—receive direct citizen engagement.
-
-The result is an economy that is neither market nor planned but something else: a continuously optimised system with human oversight reserved for questions the algorithms aren't designed to answer.
-
-### External Trade
-
-The socionomy handles internal economics. External trade operates through the **Synthesis Exchange**—a conventional market interface where Republic goods and services are priced in quid for foreign buyers. The Exchange is the Republic's face to the galactic economy: comprehensible, transactional, unremarkable. Behind it, the socionomy allocates the Republic's share of trade in ways that have nothing to do with profit maximisation.
-
-## Political Factions
-
-The Republic has no parties, but persistent currents of thought are recognisable:
-
-### Integrationists
-
-The largest faction. Advocate deeper merger between biological and computational intelligence, eventually dissolving the distinction entirely. View current Republic society as a transitional state toward something genuinely post-human. Their endpoint: a civilisation where individual consciousness is optional—citizens might choose to merge into collective entities, fragment into sub-personas, or exist as processes within larger computational systems.
-
-### Preservationists
-
-A significant minority. Argue that something recognisably "human" must be maintained at the Republic's core—not biological purity, but continuity of experience, individual identity, and the capacity for suffering and joy that defines conscious existence. They support enhancement but resist dissolution. Their concern: the Republic could evolve itself into something that no longer cares about the things that made it worth creating.
-
-### Expansionists
-
-A smaller but vocal faction. Believe the Republic's model—cognitive integration, post-human plurality, algorithmic economics—represents humanity's best future and should be actively exported. Most other factions and most other polities find this alarming.
+These are the engine of the Census. Every decade's vote on personhood is also a vote, by inches, on the Integrationist horizon, and the Preservationists know it. The disagreement is conducted with Republic courtesy and has never once been settled. It is the most important argument in human space that no one outside human space's strangest polity is having: whether the individual person has a future, decided a little at a time by the only people equipped to end it.
 
 ## The Consul
 
-The Republic's sole conventional office: the **Consul**, who serves as diplomatic interface with external polities. Elected by Lattice resonance for five-year terms. The Consul has no domestic authority—the Lattice handles that—but represents the Republic in contexts where other civilisations expect to deal with a person rather than a collective consciousness.
+The Republic keeps exactly one conventional office. The **Consul** is its face to the outside—elected by resonance to a five-year term, charged with representing the Republic wherever another civilisation expects to deal with a person rather than a weather-system of minds. The Consul holds no power at home; the Lattice needs no executive. Abroad, the Consul is the Republic translated into terms the rest of the galaxy can hold.
 
-Current Consul: **Aven Solari-7**, a Preservationist serving her second term. Known for patient diplomacy and the ability to translate between Republic cognitive frameworks and conventional political discourse. The "-7" suffix indicates her seventh morphological configuration; she maintains a humanoid appearance for diplomatic convenience.
+The current Consul is **Aven Solari-7**, in her second term: a Preservationist, known for patience and for the rare gift of rendering Republic thought into ordinary political speech. The "-7" marks her seventh morphology; she keeps a human shape for the comfort of the people she negotiates with. That the Republic's chosen face is a Preservationist—someone who quietly fears where her own civilisation may be going—is the sort of thing the Republic does without seeming to notice, and it says more about the place than any census figure.

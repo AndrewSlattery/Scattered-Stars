@@ -1,94 +1,72 @@
 # Neo-Solar Republic: Technology
 
-The Republic occupies the bleeding edge of human technology. What other polities consider experimental, the Republic considers routine. What the Republic considers experimental, other polities consider theoretical.
+The Republic lives at the bleeding edge of human technology. What other polities call experimental, it calls routine; what it calls experimental, others call theoretical. None of it is evenly spread—most citizens use a fraction of what the Republic can do—but the frontier is real, and the Republic sits alone on it.
 
 ## The Lattice
 
-### Infrastructure
+### What it is
 
-The Lattice is a quantum-neural mesh: a network of entangled processors, relay nodes, and cognitive interfaces that enables persistent shared awareness among all Republic citizens.
+A quantum-neural mesh: entangled processors, relay nodes, and implanted interfaces that knit individual minds into a persistent shared awareness.
 
 | Component | Function |
 |-----------|----------|
-| Neural interfaces | Implanted cognitive hardware linking individual minds to the mesh |
+| Neural interfaces | Implanted cognitive hardware linking a mind to the mesh |
 | Relay nodes | Distributed processing and communication infrastructure |
-| Entanglement cores | Quantum-entangled processors enabling instantaneous local coordination |
+| Entanglement cores | Quantum-entangled processors for instantaneous local coordination |
 | Archive substrates | Long-term storage for cognitive patterns, memories, and citizen backups |
 
-The Lattice operates at near-instantaneous speeds within Synthesis Station and its immediate orbital neighbourhood. Beyond that, it degrades to light-speed communication—still functional, but with latency that citizens describe as "thinking through fog." Republic outposts maintain local Lattice clusters that synchronise periodically with the Synthesis core.
+### What it cannot do
 
-### Limitations
+The Lattice is infrastructure, not magic, and its limits are the Republic's deepest facts:
 
-The Lattice is not magic. It is infrastructure, and infrastructure has constraints:
+- **Range.** True shared consciousness needs proximity. Within Sol and its near orbits the Lattice is instantaneous; beyond, it falls to light-speed—"thinking through fog"—and a citizen far from home is, for the first time in their life, alone in their own skull. Outposts run local Lattice clusters that synchronise with the Synthesis core by courier, never in real time.
+- **Dependency.** Citizens raised on the Lattice find its absence a kind of sensory deprivation; long separation brings real cognitive distress. This is why so few of them travel, and why the Republic's diplomats—the citizens who can bear the silence—are a small and slightly haunted caste.
+- **Bandwidth and security.** The mesh handles current loads and would have to grow with the population. And it is the single richest target in human space—a successful strike on the core could fracture the collective mind—so the Republic pours resources into keeping it whole.
 
-- **Range**: Effective collective consciousness requires proximity. Citizens beyond the Sol system experience the Lattice as intermittent rather than continuous
-- **Bandwidth**: The mesh can handle current citizen loads; rapid population growth would require proportional infrastructure expansion
-- **Security**: The Lattice is a target. A successful attack on core infrastructure could fragment collective awareness. The Republic devotes enormous resources to Lattice defence
-- **Dependency**: Citizens raised on the Lattice find its absence profoundly disorienting. Extended separation from the mesh produces cognitive distress analogous to sensory deprivation
+## Morphology
 
-## Morphological Technology
+The Republic's command of the body has outrun the EX scale's ability to measure it.
 
-The Republic's enhancement capabilities exceed the EX scale's ability to measure them.
+### Bodies to order
 
-### Body Design
+Citizens commission custom morphologies from the **Morphological Gallery** on Synthesis: forms for zero gravity, deep ocean, hard vacuum, pure aesthetics, or purposes with no functional description at all. Most citizens never go remotely so far. The ones who do are the vanguard the rest of the galaxy mistakes for the whole.
 
-Citizens can commission custom morphologies from the **Morphological Gallery**—Synthesis Station's premier body-design facility. Options range from optimised humanoid forms to radical departures from human body plans. A citizen might inhabit a body designed for zero-gravity work, deep-sea exploration, vacuum exposure, or aesthetic purposes that defy functional description.
+### Transfer
 
-### Transfer and Instantiation
-
-Consciousness transfer between bodies is routine. The process involves:
-
-1. Cognitive pattern extraction from current substrate
-2. Verification and integrity checking
-3. Pattern instantiation in new substrate
-4. Continuity confirmation
-
-The entire procedure can be completed in hours for simple transfers. Complex transfers—biological to digital, single to distributed—require longer calibration.
+Moving a mind between bodies is routine—pattern extraction, integrity check, instantiation in the new substrate, continuity confirmation—hours for a simple transfer, longer for the hard crossings, biological to digital or single to distributed. Routine is not the same as weightless: a citizen who has changed bodies a dozen times will still tell you which change cost them something they had not expected to lose.
 
 ### Forking
 
-Since the 3850 Census, citizens may legally create copies of themselves—**forks**—that operate as independent instances of the same base identity. Forks diverge from the moment of creation: different experiences produce different people, even from identical starting points. Re-merging forks is possible but increasingly difficult as divergence accumulates.
+Since the 3850 Census a citizen may legally copy themselves into independent **forks**, each a true instance of the same base identity, each diverging from the instant of the split. Re-merging is possible and grows harder as the forks accumulate separate lives. Forking solves the problem of wanting to be in two places and creates every other problem in its stead: which fork speaks for the original, which inherits, which is loved, which is liable. The law has answers. The families, often, do not.
 
-Forking raises questions that the Republic has not fully resolved. Is a fork a new person or a continuation? If forks disagree, which speaks for the original? These questions drive ongoing Census debates.
+## Experimental physics
 
-## Experimental Physics
+### Gate-efficiency research
 
-The Republic's research programmes push against the boundaries of known science.
+The Republic's most strategically loaded programme. Its physicists hold that jump-gate operation can be driven by quantum field manipulation rather than fez catalysis, and in 3861 published a proof-of-concept: a 3% efficiency gain, with no fez, under laboratory conditions. Three per cent is operationally nothing. The framework behind it is not nothing at all—it implies far larger gains are reachable—and if the Republic ever achieves fez-independent gates, the galactic economy reorders overnight. Hence the scrutiny: the Tethys Consortium funds research arguing the approach is a dead end; the Sable Cartel has tried to place operatives in the laboratories. The Republic's own estimate is sober—promising, and decades from anything practical.
 
-### Gate Efficiency Research
-
-The most strategically significant programme. Republic physicists have theorised that jump gate operation could be optimised through quantum field manipulation rather than fez-based catalysis. Published findings (3861 C) describe a proof-of-concept that achieved 3% efficiency improvement without fez in laboratory conditions.
-
-3% is insignificant operationally. But the theoretical framework suggests much larger gains are possible. If the Republic achieves fez-independent gate operation, the galactic economy restructures overnight.
-
-The research is closely watched. The Sable Cartel has attempted to place operatives within Republic research institutions. The Tethys Consortium funds counter-research arguing the approach is fundamentally unviable. The Republic's own assessment: promising but decades from practical application.
-
-### Energy Systems
-
-Republic energy technology surpasses galactic standards:
+### Energy and computation
 
 | System | Capability |
 |--------|-----------|
-| Fusion reactors | Compact, high-output designs powering individual habitats |
-| Quantum vacuum extraction | Experimental energy harvesting from vacuum fluctuations |
-| Solar collection | Advanced orbital arrays supplying baseline power |
+| Fusion | Compact, high-output reactors powering individual habitats |
+| Vacuum extraction | Experimental harvesting of energy from vacuum fluctuations |
+| Solar collection | Advanced orbital arrays for baseline power |
 
-### Computational Substrates
+And beneath all of it, the most advanced computational substrates in human space—the hardware the Lattice and the digital citizens are made of. Republic quantum processors are export-controlled; the few that reach the open market command absurd prices.
 
-The Republic builds the most advanced computational hardware in human space—necessary to support the Lattice and its digital citizens. Republic quantum processors are export-controlled; those that reach the open market command extraordinary prices.
+## What the Republic will and will not sell
 
-## Technology Export
-
-The Republic exports selectively:
+Technology export is real revenue and real leverage, rationed in tiers:
 
 | Category | Availability |
 |----------|-------------|
-| Medical enhancement (EX 1–3) | Widely available; significant export revenue |
-| Neural implants (basic) | Available; forms the foundation for many polities' communication infrastructure |
-| Neural implants (Lattice-compatible) | Restricted; available only to approved partners |
-| Morphological technology | Heavily restricted; available to Collective researchers by agreement |
-| Computational substrates | Export-controlled; limited quantities at premium prices |
-| Lattice core technology | Not exported under any circumstances |
+| Medical enhancement (EX 1–3) | Widely sold; a major export |
+| Neural implants (basic) | Sold; the foundation of many polities' comms infrastructure |
+| Neural implants (Lattice-compatible) | Restricted; approved partners only |
+| Morphological technology | Heavily restricted; to Collective researchers by agreement |
+| Computational substrates | Export-controlled; small quantities, premium prices |
+| Lattice core technology | Never, under any circumstances |
 | Experimental physics | Classified |
 
-The Republic's technology exports generate substantial revenue and political influence. The restriction tiers are a source of ongoing diplomatic friction—every polity wants access to the tier above what they currently receive.
+Every polity wants the tier above the one it has, which keeps the export schedule a permanent diplomatic sore—and keeps the Sable Cartel, which cannot buy the thing it most wants, forever looking for another way to get it.

@@ -1975,53 +1975,68 @@ Privately, no one knows what Kazan thinks. He has been performing so long the di
 
 # Neo-Solar Republic
 
-Humanity's most radical experiment in self-evolution, centred on the Sol system.
+Everything you have heard about the Neo-Solar Republic is true of perhaps a third of it. The body-swapping post-humans, the minds that live as distributed sensor-arrays, the citizens who have forked themselves into standing committees—they are real, they are the Republic's vanguard, and they are not the average citizen. Most of the Republic's eighty billion are enhanced, networked, long-lived people leading recognisable lives: working, raising children, making things, arguing about politics, keeping a body they have grown fond of. They are carried along at the edge of a revolution that a bold minority is actually living.
+
+It is, for most of them, a good place to be—materially abundant, strikingly free, the most comfortable eighty billion in human space. It is also a civilisation that cannot quite agree on what it is for, and is deciding, a little more each decade, whether to remain a society of individuals at all. That open question is the most honest thing about it.
 
 | Attribute | Value |
 |-----------|-------|
-| Population | ~80 billion (citizens; definition contested) |
-| Centre | Synthesis (Sol-Earth Lagrange Point 5) |
-| Government | Neural-link democracy via the Lattice |
-| Economy | Semi-autonomous socionomy |
-| Military | Synthesis Defence Collective |
-| Character | Transhumanist, post-human plurality, bleeding-edge technology |
+| Population | ~80 billion citizen-instances (perhaps 50–60 billion distinct minds); the heavily enhanced are the largest single bloc, not the majority |
+| Centre | Synthesis, at Sol-Earth L5—and, because the Lattice fades beyond Sol, effectively the Republic's only home |
+| Government | Direct democracy by Lattice resonance: real, and quietly steered by the voices that carry |
+| Economy | Algorithmic socionomy; broadly post-scarcity within Sol |
+| Military | The Synthesis Defence Collective—a shield, not a sword |
+| Character | A transhumanist vanguard and an ordinary majority; genuinely free; unsure what it is becoming |
 
 ## The Lattice
 
-The Republic's defining institution is the **Lattice**—a persistent quantum-neural mesh connecting every citizen's cognitive implants. Not a network in the communications sense; closer to a shared layer of consciousness. Citizens experience the Lattice as an ambient awareness of collective thought, accessible but not intrusive.
+The Republic's defining institution is the **Lattice**: a persistent quantum-neural mesh linking every citizen's cognitive implants into something closer to a shared layer of consciousness than a communications network. Citizens experience it as an ambient awareness of collective thought—present, accessible, not intrusive. Governance, economics, art, and social life all run through it. Nothing else in human space works remotely like it.
 
-Governance, economics, and social coordination all operate through the Lattice. The result is a polity that functions unlike anything else in human space. See [[Governance]].
+It has one hard limit, and the limit shapes everything. The Lattice achieves true shared consciousness only within Sol and its near orbits; beyond that it decays to light-speed, and citizens describe the experience as "thinking through fog." A people who live in one another's minds cannot take that life past their own front door. The eighty billion are bound to Sol not only by infrastructure but by their own neurology—which is why the Republic, alone among the great powers, has almost no wish to expand. See [Governance](governance.md) and [Technology](technology.md).
 
-## Population
+## Who the eighty billion are
 
-Neo-Solar citizens stretch the definition of humanity in every direction:
+Counting the population means first deciding what counts as a person, which is exactly the thing the Republic cannot stop arguing about (below). It records ~80 billion citizen-instances; some are several instantiations of one individual, some are collective entities registered as one, and outside observers guess 50–60 billion distinct minds.
 
-- Cyborg citizens (EX 4+) form the plurality
-- Radical body modifications are routine; many citizens maintain multiple morphologies
-- Purely digital citizens exist—minds running on computational substrate with no biological component
-- The boundary between "human" and "machine" is treated as a philosophical question, not a legal category
+However counted, they are not uniform. Enhancement runs along a spectrum, and the Republic's famous radicals sit at one end of it:
 
-Counting the Republic's population depends on how one defines "person." The Republic counts ~80 billion citizen-instances, but some of those are multiple instantiations of the same individual, and others are collective entities that register as single citizens. External observers estimate 50–60 billion distinct conscious entities.
+- **The heavily enhanced (EX 4+)**—cyborgs and post-humans in radical morphologies—are the largest single bloc and the smallest part of the truth. They set the Republic's image, its art, and its politics, and they are perhaps a third of the citizenry.
+- **The moderately enhanced (EX 1–3)** are most people: long-lived, implant-linked, conventionally embodied, living lives a visitor would find legible. The Republic looks, from inside most of its homes, far more ordinary than its reputation.
+- **Digital citizens** run on computational substrate with no body at all—recognised as full persons since 3840.
+- **Forks** are independent instances of one base identity, legal since 3850, diverging from the moment they split.
+- **Collective intelligences**—networks of minds that function as one—won citizenship in 3860, and frightened half the galaxy by doing so.
 
-## Current Events
+The boundary between "human" and "machine" is not a legal category here. It is an open question the Republic re-answers every ten years, and the answer keeps getting larger.
 
-**The Centennial Census** (3860 C): The Republic's decadal effort to redefine "human" for legal and philosophical purposes. The 3860 Census expanded citizenship eligibility to collective intelligences—groups of networked minds that function as a single entity. Conservative polities expressed alarm.
+## Current events
 
-**Fez Research**: The Republic's experimental physics division has published preliminary findings on alternative approaches to jump gate efficiency. If viable, these techniques could reduce galactic dependence on fez. The Tethys Consortium, the Sable Cartel, and every fez trader in human space is paying close attention. Nothing production-ready yet.
+**The Centennial Census (3860 C).** The decadal vote on what legally counts as a person. The 3860 Census extended citizenship to collective intelligences; conservative polities recoiled, and not all of the Republic was comfortable either. See [Culture](culture.md).
 
-**Drift Adoption**: Several Drift Communities have begun integrating Republic enhancement technology. The cultural implications within Drift society are significant—some communities embrace it; others view it as identity erosion.
+**Gate-efficiency research.** Republic physicists have published a proof-of-concept for jump-gate operation that needs no fez—3% efficiency in the laboratory, operationally trivial, theoretically enormous. If it matures, the fez economy restructures overnight, and every fez trader in human space knows it. The Tethys Consortium funds rebuttals; the Sable Cartel has tried to seed operatives in the laboratories. The Republic's own estimate: real, and decades away.
+
+**Drift adoption.** Several Drift Communities have begun taking up Republic enhancement, to their own deep internal division. It is the clearest case of the Republic's only real form of expansion—not conquest, which it cannot manage, but the slow travel of its ideas into places its fleets will never reach.
 
 ## Relations
 
 | Power | Relationship |
 |-------|-------------|
-| The Mandate | Technological interest; deep ideological distance; disputes over legal personhood |
-| Union of Frontier Freeholds | Limited contact; occasional technology trade; mutual indifference |
-| Vega Commercial Throne | Technology exports; cultural fascination and repulsion in equal measure |
-| The Sable Cartel | Views Cartel as security threat; Cartel wants Republic tech |
-| Elysian Collective | Cooperative research; Republic morphological tech interests Collective biologists |
-| Drift Communities | Growing cultural exchange; some Drift adoption of Republic tech |
-| Arrhenos | Research collaboration; cautious banking integration; identity verification difficulties |
+| The Mandate | Technological appetite across deep ideological distance; recurring quarrels over who, and what, counts as a person |
+| Union of Frontier Freeholds | Light contact, occasional tech trade, broad mutual indifference |
+| Vega Commercial Throne | A steady technology customer; fascinated and repelled in equal measure |
+| The Sable Cartel | A standing security worry: the Cartel wants Lattice technology, and the Lattice is the one thing the Republic will never sell |
+| Elysian Collective | Cordial collaborators; the Collective's biologists prize Republic morphological technique |
+| Drift Communities | Growing cultural exchange, and the Republic's most successful unintended export |
+| Arrhenos | Research partner and wary banker—forking citizens and shifting morphologies make ordinary identity verification a real problem |
+
+## Topics
+
+| Topic | Focus |
+|-------|-------|
+| [Culture](culture.md) | The spectrum of lives, the Selfhood Debate, the Census, and what post-humanity costs the people who live it |
+| [Governance](governance.md) | Resonance democracy and the voices that steer it; the socionomy; the factions deciding the Republic's future |
+| [Technology](technology.md) | The Lattice, morphology, forking, and the gate research that could remake the galactic economy |
+| [Military](military.md) | The Synthesis Defence Collective, deterrence, and the Dissolution Protocol |
+| [Synthesis](locations/synthesis.md) | The Republic's one city, and the Sol system that is its whole world |
 
 ---
 
@@ -2030,93 +2045,59 @@ Counting the Republic's population depends on how one defines "person." The Repu
 
 # Neo-Solar Republic: Culture
 
-## Identity
+Begin with the most common citizen, not the most famous one. She is moderately enhanced—long-lived, implant-linked, wearing a body she chose decades ago and has felt no need to change—and she lives a life a visitor could mostly follow: work she cares about, people she loves, a home, opinions, a standing argument with her neighbours about where it is all going. The Republic is, for her and for most of the eighty billion, a genuinely good place: abundant, unhurried, freer than anywhere else a human can live. The strangeness is real, but it lives mostly at the edges, among the vanguard who are actually doing the thing the rest of the Republic is only living near.
 
-In the Republic, identity is not fixed. It is maintained, modified, and sometimes abandoned.
+## The ordinary Republic
 
-Citizens routinely change morphology—shifting between biological bodies, cybernetic frames, and hybrid configurations. Some maintain a single preferred form; others cycle through dozens over a lifetime. A citizen might present as a conventional humanoid for external meetings, operate as a distributed sensor array for research, and spend leisure time as something that has no analogue in baseline human experience.
+Most citizens sit between EX 1 and EX 3: enhanced, not transformed. Their lives run on the quiet luxuries of a post-scarcity system—material need is simply not a daily concern—and on time, of which they have a great deal: two healthy centuries is the ordinary expectation, and citizens spend it as people with time do, on craft and study and family and long elaborate hobbies. They work, though not always because they must; the socionomy meets needs without anyone's labour, so work in the Republic is increasingly a thing one does for meaning, status, or the plain pleasure of being useful. Someone keeps the reactors running and the relay nodes synchronised and the morphological clinics staffed; someone teaches the children, and there are still children; someone cooks, for the considerable minority who still eat. It is a society that has solved want and kept purpose as a thing you must find for yourself—which most do, and a few conspicuously don't.
 
-The Lattice compounds this fluidity. Citizens can share perceptions, merge temporarily for collaborative work, or split aspects of their consciousness across multiple substrates. The question "who are you?" has become the Republic's central philosophical problem.
+## The vanguard
 
-### The Selfhood Debate
+At the Republic's leading edge are the citizens who take its possibilities literally. They wear bodies built for vacuum or deep ocean or no environment at all; they run as distributed intelligences across a dozen substrates at once; they merge for a season's work and part again; they fork themselves to live two lives at the same time. They make the Republic's reputation and most of its art, and they are perhaps a third of it. The ordinary majority regards them with a mix of pride, bafflement, and the faint wariness of people watching their own future being rehearsed by someone braver than they intend to be.
 
-Three broad positions:
+## Going dark
 
-**Continuists** argue that identity persists through change—a citizen who modifies their body, upgrades their cognition, or merges temporarily with others remains the same person so long as subjective continuity is maintained. Memory and narrative thread define the self.
+You can decline. Enhancement is genuinely optional, and a real minority of citizens live lightly integrated—basic implants, a single body, the Lattice kept at arm's length—or refuse the Lattice altogether and go, in the local idiom, *dark*. Some are religious or philosophical objectors; some are immigrants from low-enhancement worlds; some simply never took to it. The Republic does not persecute them. It does something quieter and harder to argue with: it leaves them out. Political voice runs through the Lattice, and a citizen who is not on it has none—no resonance, no vote, no share in the collective mind that decides everything. You are free to opt out, and opting out costs you the Republic. Most, weighing it, opt in—which is rather the point.
 
-**Processualists** argue that identity is a process, not a thing. There is no persistent self—only patterns of thought and experience that create the *impression* of continuity. This is not distressing; it is liberating.
+## The question of the self
 
-**Collectivists** argue that individual identity is a legacy concept. The meaningful unit is the network—groups of minds that think together, share experience, and cannot be cleanly separated into component selves.
+When you can change your body, copy your mind, merge with another, and persist without flesh, "who are you?" stops being an adolescent's question and becomes a matter of law. The Republic's long argument over it runs in three broad camps:
 
-The debate is not academic. Legal frameworks, economic entitlements, and social relationships all depend on how identity is defined. The Centennial Census is the Republic's attempt to answer these questions—or at least to document the current state of disagreement.
+- **Continuists** hold that the self survives any change so long as subjective continuity holds—memory and narrative make the person.
+- **Processualists** hold that there is no persistent self at all, only patterns that feel continuous, and find this liberating rather than bleak.
+- **Collectivists** hold that the individual is a legacy unit, and that the real person is the network of minds that think together.
 
-## Language and Communication
+This is not seminar-room stuff. Which camp prevails decides who inherits, who is liable, who is married to whom, and who is even one person—and every decade the Republic votes on it.
 
-### External Communication
+## What it costs
 
-Standard human languages for interactions with non-Republic entities. Most citizens speak at least one conventional language; the Consul's office maintains a diplomatic corps fluent in Mandate Classical, common Freehold trade languages, and Vega court speech.
+A society this free with the shape of a life produces sorrows the rest of human space has never had to name. Forks who were one person and have grown into two who cannot stand each other, dividing a life and a family between them. Merges that took badly, leaving a mind that is neither of the two it was made from. Digital citizens who have run so long, and drifted so far, that their oldest friends no longer recognise the pattern. Families spread across bodies and substrates and forks, working to stay families across differences no counsellor was ever trained for. The Republic meets these with characteristic decency—support, counsel, a whole vocabulary of care—but some of it cannot be fixed, only grieved, and the Republic grieves more than its reputation for serene transcendence admits.
 
-### Internal Discourse
+The starkest record of this is the **Registry of Endings**: the roll of citizens who have truly, permanently ceased—not the body-death the Lattice makes survivable, but the deliberate deletion of a mind that could have gone on. People end themselves in the Republic too. That despair persists in a society which has abolished want and death-by-default is the quiet fact its utopians like least, and its honest ones refuse to look away from.
 
-Within the Republic, conventional language is secondary. The Lattice enables **structured thought exchange**—direct communication of concepts, reasoning, and experience without the lossy compression of words. Citizens describe conventional speech as "talking through a keyhole."
+## The Census
 
-Structured thought is richer but not universal. Different cognitive architectures parse thought-forms differently; misunderstandings still occur, especially between radically different citizen types. The Republic has developed protocols for cross-architecture communication, but they are imperfect.
+Every ten years the Republic holds the **Centennial Census**, and beneath the festival it is the most consequential vote a civilisation has ever taken: a binding decision about what counts as a person. The recent expansions read as a single direction of travel—
 
-Visitors to the Republic often find the silence unsettling. A room full of citizens may appear motionless and mute while conducting vigorous debate through the Lattice.
+| Year | Personhood extended to… |
+|------|------|
+| 3840 C | purely digital citizens |
+| 3850 C | forked individuals |
+| 3860 C | collective intelligences |
+
+—each controversial inside the Republic and alarming outside it. What the festival's warmth disguises is that a vote which can enlarge personhood can also withhold it, and might one day narrow it; that every expansion has left citizens on the losing side; and that this direction of travel has a destination the Republic has never openly named. The Collectivists' logic, followed all the way, ends with the individual dissolved into the network—and each Census takes a step that way. The Census is where the Republic conducts its deepest disagreement with itself: in public, politely, and without resolution. It is the crack you can see daylight through—a good society that does not know whether it wishes to remain a society of separate people at all. See [Governance](governance.md).
 
 ## Art
 
-Republic art is experienced rather than observed.
+Republic art is experienced, not observed. Its dominant form is the **synaesthetic composition**: a made experience transmitted through the Lattice, weaving image, sensation, emotion, abstract structure and narrative into a single unbroken thing that lasts seconds or hours. The finest are held to be untranslatable—impossible to describe to anyone who has not felt them, impossible to feel without the Lattice. Beyond them lie **shared dream-states**, collaborative spaces that many citizens build and inhabit together, some sustained for decades by rotating hands. And against all of it runs a counterculture of **physical art**—paint, stone, instruments played with actual fingers—prized precisely because it refuses the Lattice and makes something beautiful the old hard way, with only a body and the world.
 
-### Synaesthetic Compositions
+## Language
 
-The dominant art form: multi-sensory experiences transmitted through the Lattice. A composition might combine visual imagery, physical sensation, emotional tone, abstract mathematical structures, and narrative elements into a unified experience lasting seconds or hours. The best compositions are said to be untranslatable—they cannot be described to someone who hasn't experienced them, and they cannot be experienced without Lattice integration.
-
-### Shared Dream-States
-
-Collaborative art where multiple citizens construct and inhabit a shared subjective space. Part performance, part architecture, part hallucination. Some dream-states have persisted for decades, maintained by rotating groups of participants, evolving continuously.
-
-### Physical Art
-
-Still practised, often by Preservationists or as an exercise in limitation. Sculpture, painting, music performed with physical instruments—deliberately constrained art forms valued precisely because they *don't* use the Lattice. There is a counterculture romance to physical art: making something beautiful with only hands and materials, the way humans have always done it.
-
-## The Centennial Census
-
-Every ten years, the Republic undertakes the Census: a society-wide attempt to answer the question "what is human?"
-
-The Census is part philosophical convention, part legal proceeding, part cultural festival. Citizens propose definitions, debate boundaries, and ultimately vote (through Lattice resonance) on the operative legal definition of personhood for the coming decade.
-
-Recent Census outcomes:
-
-| Year | Key Decision |
-|------|-------------|
-| 3840 C | Recognised purely digital citizens as full persons |
-| 3850 C | Extended citizenship to forked individuals (multiple instances of one mind) |
-| 3860 C | Extended citizenship to collective intelligences |
-
-Each expansion has been controversial internally and alarming externally. The Mandate in particular views the Republic's elastic definition of humanity as a threat to legal and social order.
-
-## Daily Life
-
-There is no typical day in the Republic, because there is no typical citizen.
-
-A biological citizen in a conventional humanoid body might wake, eat, commute to a research facility, work, socialise, and sleep—a routine recognisable to any human in any era. Their neighbour might be a distributed intelligence experiencing six simultaneous environments, sleeping never, eating nothing, and "commuting" by shifting processing allocation between computational nodes.
-
-What they share: access to the Lattice, participation in collective governance, and the ambient awareness that they are part of something unprecedented in human history. Whether that something is wonderful or terrible depends on whom you ask.
+Among themselves, citizens rarely use words; the Lattice carries thought directly, concept and reasoning and felt experience passed without the lossy squeeze of language. Citizens call ordinary speech "talking through a keyhole." It is not a universal solvent—different cognitive architectures parse thought differently, and misunderstanding survives even here—but it makes Republic gatherings unnerving to outsiders, who see a room sit silent and motionless while a fierce argument runs through it. With visitors, citizens fall back on spoken language, often with visible and kindly amusement at the quaintness of the thing.
 
 ## Customs
 
-### Greeting
-
-Between Republic citizens: a brief Lattice acknowledgement—a packet of identity, emotional tone, and intent. Between a citizen and a visitor: conventional greeting, often with visible amusement at the formality.
-
-### Hospitality
-
-Strong tradition. Visitors are provided with basic Lattice interfaces (translation and navigation only; no cognitive integration) and assigned a **Liaison**—a citizen who serves as guide and interpreter. The Republic is aware that it is confusing to outsiders and makes genuine efforts to be welcoming.
-
-### Death
-
-Complicated. A citizen whose biological body dies but whose mind persists in the Lattice is not dead. A citizen who chooses to delete their cognitive patterns is dead, even if their body survives. The Republic maintains a **Registry of Endings**—a record of citizens who have permanently ceased to exist, however that cessation occurred. Memorial practices vary enormously.
+Citizens greet one another with a brief Lattice packet—identity, mood, intent—exchanged faster than a nod. Hospitality is a strong tradition: visitors are fitted with a limited interface (translation and navigation, never cognitive integration) and assigned a **Liaison** to guide them, because the Republic knows perfectly well how bewildering it is and tries, with real warmth, to be kind about it. Death is the hardest custom, and here the strangest: a citizen whose body dies but whose mind persists is not dead; a citizen who deletes a living mind is, body or no. The line between the two is where the Republic keeps its grief.
 
 ---
 
@@ -2125,65 +2106,39 @@ Complicated. A citizen whose biological body dies but whose mind persists in the
 
 # Neo-Solar Republic: Governance
 
-## The Lattice Democracy
+The Republic does not vote. It resonates—and it works, which is the first surprising thing about it, and is steered all the same, which is the second.
 
-The Republic does not vote. It *resonates*.
+## Government by resonance
 
-Policy proposals enter the Lattice as structured thought-forms—complex packages of intent, reasoning, and anticipated consequences that citizens can experience directly rather than reading about. Citizens engage with proposals through cognitive interaction: weighing, modifying, endorsing, or opposing through the Lattice's shared awareness layer.
+Proposals enter the Lattice not as documents but as structured thought-forms: packages of intent, reasoning, and projected consequence that a citizen can experience directly rather than read. Citizens engage by thinking at them—weighing, amending, endorsing, opposing—and the system measures the aggregate as **weighted resonance**. Enough resonance across enough of the population makes a proposal binding; enough dissonance sends it back or kills it. There is no parliament, no election, no representative. In principle every citizen is at once legislator, constituent, and expert, with direct access to everyone else's reasoning. In principle it is the most complete democracy ever run.
 
-Consensus is measured through **weighted resonance**—the aggregate cognitive engagement of the citizenry. A proposal that achieves sufficient resonance across enough of the population becomes binding. One that generates dissonance is returned for modification or abandoned.
+In practice three roles emerge, and the system the Republic believes it has is quietly shaped by them. **Initiators** craft proposals—anyone may, but doing it so the thought-form reads clearly across wildly different minds is a rare skill. **Dissenters** are prized; a proposal that draws no opposition is held to be under-examined. And **amplifiers** are the catch: citizens whose engagement carries outsized weight, through expertise or reputation or sheer clarity of thought. No one appointed them and nothing in the design admits them—but cognitive fatigue is real, no one can engage every proposal, and so most citizens, most of the time, defer to amplifiers they have come to trust. The Republic that abolished representatives is, on an ordinary day, run by a few hundred thousand voices the other eighty billion have agreed to listen to. It is not a conspiracy and not quite an aristocracy; it is the shape attention takes when everyone is free to look away, and it is the load-bearing fact the official story leaves out.
 
-### How It Works (Approximately)
+The sharper failure modes the Republic acknowledges and watches. **Resonance cascades**: a proposal with strong emotional pull reaching consensus before anyone has thought it through. And the hard floor of **exclusion**: the unintegrated have no resonance at all, and so, however the Republic phrases it, no political existence. Within those limits the Lattice democracy is genuine, responsive, and astonishingly fast. It is also, like every democracy, a way of arranging whose voice counts—only here the arrangement is made of attention rather than law, and is the harder to see for it.
 
-External observers struggle with the Lattice democracy because it has no institutions in the conventional sense. No parliament, no elections, no representatives. The closest analogy: imagine every citizen simultaneously serving as legislator, constituent, and analyst, with perfect access to each other's reasoning.
+## The socionomy
 
-In practice, several patterns emerge:
+Day-to-day economics is run by neither market nor plan but by the **socionomy**: a distributed mesh of specialised algorithms that watch production, consumption, distribution and need, and make the routine calls—what to make, where to send it, how to share it out—without anyone deciding. Citizens can override it collectively through resonance and almost never do, because for the ordinary business of feeding and housing and supplying eighty billion people it simply works, well enough that material scarcity has stopped being a fact of Republic life. The strategic questions the algorithms aren't built for—research priorities, large infrastructure, trade policy—go to the citizens direct.
 
-- **Initiators**: Citizens who craft and introduce proposals. Anyone can initiate; doing it well requires skill in structuring thought-forms that communicate clearly across diverse cognitive architectures
-- **Amplifiers**: Citizens whose engagement carries disproportionate weight due to expertise, reputation, or simply the quality of their analysis
-- **Dissenters**: Structured opposition is valued; a proposal that faces no dissent is considered insufficiently examined
+Outsiders meet none of this. External trade runs through the **Synthesis Exchange**, a conventional market interface that prices Republic goods in quid and behaves, reassuringly, like any other market. Behind it the socionomy allocates the proceeds by a logic that has nothing to do with profit. The Exchange is the comprehensible mask over an economy no other polity has managed to copy.
 
-### Limitations
+## The factions, and the question beneath them
 
-The system works because of the Lattice. It would be impossible without universal cognitive integration. It also has failure modes:
+The Republic has no parties, but it has currents, and the currents are no longer merely philosophical—they are arguing, slowly, over what the Republic is to become.
 
-- **Resonance cascades**: Popular proposals can achieve consensus before thorough analysis, driven by emotional resonance rather than reasoned engagement
-- **Cognitive fatigue**: Citizens cannot meaningfully engage with every proposal; many defer to trusted amplifiers, creating informal hierarchies the system theoretically lacks
-- **Exclusion**: Non-Lattice entities (visitors, non-citizens, unintegrated individuals) have no political voice whatsoever
+**Integrationists**, the largest, want the line between biological and computational mind erased altogether, and read today's Republic as a way-station toward something fully post-individual: citizens merging into collective entities, fragmenting into sub-selves, living as processes inside larger systems. To them the dissolving of the separate self is not a loss but the destination.
 
-## The Semi-Autonomous Socionomy
+**Preservationists**, a large minority, hold that something must remain recognisably human at the centre—not flesh, but continuity of experience, individual identity, the capacity to suffer and to be glad. They support enhancement and fear dissolution: a Republic that perfects itself into something that no longer cares about what made it worth building.
 
-Economic allocation is managed by distributed algorithmic systems—not a central AI, but a network of specialised processors that monitor production, consumption, distribution, and need. These systems make routine economic decisions (resource allocation, production scheduling, distribution logistics) without human intervention.
+**Expansionists**, fewer and louder, believe the Republic's model is humanity's best future and ought to be carried outward. Since the Republic cannot carry anything outward by force, this means ideas and technology—which is exactly what alarms everyone else, because ideas are the one thing the Republic's confinement to Sol cannot hold back.
 
-Citizens can override algorithmic decisions collectively through Lattice resonance. In practice, overrides are rare. The system works well enough for daily economics. Major strategic decisions—research priorities, infrastructure investment, external trade policy—receive direct citizen engagement.
-
-The result is an economy that is neither market nor planned but something else: a continuously optimised system with human oversight reserved for questions the algorithms aren't designed to answer.
-
-### External Trade
-
-The socionomy handles internal economics. External trade operates through the **Synthesis Exchange**—a conventional market interface where Republic goods and services are priced in quid for foreign buyers. The Exchange is the Republic's face to the galactic economy: comprehensible, transactional, unremarkable. Behind it, the socionomy allocates the Republic's share of trade in ways that have nothing to do with profit maximisation.
-
-## Political Factions
-
-The Republic has no parties, but persistent currents of thought are recognisable:
-
-### Integrationists
-
-The largest faction. Advocate deeper merger between biological and computational intelligence, eventually dissolving the distinction entirely. View current Republic society as a transitional state toward something genuinely post-human. Their endpoint: a civilisation where individual consciousness is optional—citizens might choose to merge into collective entities, fragment into sub-personas, or exist as processes within larger computational systems.
-
-### Preservationists
-
-A significant minority. Argue that something recognisably "human" must be maintained at the Republic's core—not biological purity, but continuity of experience, individual identity, and the capacity for suffering and joy that defines conscious existence. They support enhancement but resist dissolution. Their concern: the Republic could evolve itself into something that no longer cares about the things that made it worth creating.
-
-### Expansionists
-
-A smaller but vocal faction. Believe the Republic's model—cognitive integration, post-human plurality, algorithmic economics—represents humanity's best future and should be actively exported. Most other factions and most other polities find this alarming.
+These are the engine of the Census. Every decade's vote on personhood is also a vote, by inches, on the Integrationist horizon, and the Preservationists know it. The disagreement is conducted with Republic courtesy and has never once been settled. It is the most important argument in human space that no one outside human space's strangest polity is having: whether the individual person has a future, decided a little at a time by the only people equipped to end it.
 
 ## The Consul
 
-The Republic's sole conventional office: the **Consul**, who serves as diplomatic interface with external polities. Elected by Lattice resonance for five-year terms. The Consul has no domestic authority—the Lattice handles that—but represents the Republic in contexts where other civilisations expect to deal with a person rather than a collective consciousness.
+The Republic keeps exactly one conventional office. The **Consul** is its face to the outside—elected by resonance to a five-year term, charged with representing the Republic wherever another civilisation expects to deal with a person rather than a weather-system of minds. The Consul holds no power at home; the Lattice needs no executive. Abroad, the Consul is the Republic translated into terms the rest of the galaxy can hold.
 
-Current Consul: **Aven Solari-7**, a Preservationist serving her second term. Known for patient diplomacy and the ability to translate between Republic cognitive frameworks and conventional political discourse. The "-7" suffix indicates her seventh morphological configuration; she maintains a humanoid appearance for diplomatic convenience.
+The current Consul is **Aven Solari-7**, in her second term: a Preservationist, known for patience and for the rare gift of rendering Republic thought into ordinary political speech. The "-7" marks her seventh morphology; she keeps a human shape for the comfort of the people she negotiates with. That the Republic's chosen face is a Preservationist—someone who quietly fears where her own civilisation may be going—is the sort of thing the Republic does without seeming to notice, and it says more about the place than any census figure.
 
 ---
 
@@ -2192,77 +2147,55 @@ Current Consul: **Aven Solari-7**, a Preservationist serving her second term. Kn
 
 # Neo-Solar Republic: Military
 
-Small. Advanced. Untested at scale.
+Small. Advanced. Untested. A shield built by a people who cannot run.
 
 | Attribute | Value |
 |-----------|-------|
-| Active personnel | ~2 billion (broadly defined) |
-| Fleet strength | ~200 capital ships; several thousand support vessels |
-| Doctrine | Deterrence through technological superiority |
-| Character | Lattice-coordinated, exotic capabilities, minimal conventional mass |
+| Active personnel | ~2 billion, broadly defined |
+| Fleet | ~200 capital ships; several thousand support vessels |
+| Doctrine | Deterrence through technological overmatch |
+| Character | Lattice-coordinated, exotic, minimal conventional mass |
 
 ## The Synthesis Defence Collective
 
-The Republic has no military in the conventional sense. The **Synthesis Defence Collective** (SDC) is a citizen organisation—participation is voluntary, coordination is through the Lattice, and command authority dissolves when the threat does.
+The Republic has no military in the ordinary sense. The **Synthesis Defence Collective** (SDC) is a citizen body: service is voluntary, coordination runs through the Lattice, and command authority dissolves when the threat does. In practice a core of defence citizens—those who have made soldiering their primary function—keep the fleet and the weapons and the watch; in a crisis, any citizen can throw processing power, sensor data, or tactical judgement into the shared effort.
 
-In practice, the SDC maintains permanent readiness. Dedicated defence citizens—those who have chosen military service as their primary function—operate and maintain the Republic's fleet, weapons systems, and defensive infrastructure. During crisis, any citizen can contribute processing power, sensor data, or direct tactical input through the Lattice.
+### Fighting as one mind
 
-### Lattice Coordination
+The SDC's real weapon is the Lattice. Every ship, drone, and platform shares tactical awareness in real time, with no signal lag inside the mesh, no orders to misread, no fog of war in Republic space. Manoeuvres that would cost a conventional navy hours of signalling resolve in seconds; defences answer a threat before it is fully understood, because every sensor feeds every processor at once. A Republic fleet does not coordinate. It acts, together, the way a hand closes.
 
-The SDC's primary advantage. Every unit—ship, drone, weapons platform, individual combatant—shares tactical awareness through the Lattice in real-time. There is no communication lag within the mesh's effective range. No orders to misinterpret. No fog of war within Republic space.
-
-The result is a military that fights as a single organism. Fleet manoeuvres that would require hours of signalling for conventional navies execute in seconds. Defensive responses to incoming threats begin before the threat is fully analysed, because every sensor feeds every tactical processor simultaneously.
-
-### Fleet Composition
-
-| Class | Role | Approximate count |
-|-------|------|-------------------|
+| Class | Role | Count |
+|-------|------|-------|
 | Sentinel-class monitors | System defence, heavy firepower | ~40 |
 | Vanguard-class cruisers | Force projection, rapid response | ~160 |
 | Spectre-class corvettes | Electronic warfare, reconnaissance | ~800 |
-| Autonomous drone swarms | Area denial, screening, attrition | Thousands |
-| Lattice warfare platforms | Cyber-cognitive attack/defence | Classified |
+| Drone swarms | Area denial, screening, attrition | Thousands |
+| Lattice-warfare platforms | Cyber-cognitive attack and defence | Classified |
 
-Republic ships are smaller than their Mandate equivalents but substantially more capable per unit. Automation and Lattice integration reduce crew requirements; a Vanguard cruiser operates with a crew of 200 where a comparable Mandate vessel would need 5,000.
+Republic ships run smaller than their Mandate equivalents and far more capable per hull; a Vanguard fights with two hundred crew where a comparable Mandate ship needs five thousand.
 
 ## Doctrine
 
-### Deterrence
+### A shield, not a sword
 
-The Republic cannot win a war of attrition against the Mandate. It does not try. Instead, the SDC maintains capabilities designed to make attacking the Republic so costly that no rational actor would attempt it.
+The Republic cannot win a war of attrition and does not pretend otherwise. Its whole posture is deterrence: make an attack on Sol so costly that no sane power attempts it. This is not modesty—it is geography and neurology. The Lattice dies beyond Sol, and a Republic force that leaves its range loses the one advantage that makes it formidable, fighting on as merely well-equipped strangers in the fog. The Republic could not conquer anyone if it wished to. It does not wish to. Its weapons all point inward, at the threshold of its own home.
 
-### Technological Overmatch
+### Overmatch
 
-Republic weapons systems operate one to two generations ahead of galactic standard. Specifics are classified; observed capabilities include:
-
-- Precision strikes at ranges exceeding conventional engagement envelopes
-- Electronic and cognitive warfare that can disrupt enemy command networks
-- Defensive systems capable of intercepting threats that conventional sensors cannot yet detect
+Within that home its systems run a generation or two ahead of anyone's—precision strikes beyond conventional range, electronic and cognitive warfare that can unstitch an enemy's command net, defences that kill threats other sensors cannot yet see. Specifics are classified, and the reputation does much of the work, which suits a power that would always rather deter a war than test its own untested fleet.
 
 ### The Dissolution Protocol
 
-The Republic's ultimate deterrent—and its most controversial capability.
+The Republic's ultimate deterrent, and the place where its strategy and its soul meet. If Synthesis faces certain destruction, its citizens can scatter their cognitive patterns across the wider network—remote nodes, hidden caches, allied systems—so that the station dies and the *people* do not. The physical Republic can be killed; the Republic cannot, so long as the patterns survive somewhere to be gathered up again.
 
-If Synthesis Station faces imminent destruction, citizens can distribute their cognitive patterns across the wider Lattice network: remote nodes, allied systems, concealed backup infrastructure scattered across human space. The physical Republic is destroyed; the *people* survive as distributed digital entities.
+It makes the Republic effectively impossible to destroy by force, and it poses a question the Republic has never settled: whether a people scattered into distributed data are a people who survived, or only a very complete backup of one that died. The SDC is certain it is a deterrent. The citizens who would actually have to become ghosts are less certain what they would be on the far side of it—which is, perhaps, the most Republic thing about the whole arrangement.
 
-The Dissolution Protocol makes the Republic effectively impossible to eliminate through military force. Destroying Synthesis removes the Republic's physical infrastructure but not its citizens, its knowledge, or its capacity to reconstitute.
+## Weaknesses
 
-Whether this constitutes genuine survival or merely data preservation is debated within the Republic. That it constitutes an effective deterrent is not.
-
-### Weaknesses
-
-The SDC's limitations are significant:
-
-- **Scale**: The Republic cannot project sustained force beyond the Sol system. It can defend its home; it cannot conquer anyone else's
-- **Conventional mass**: Against an opponent willing to accept catastrophic losses, the SDC could be overwhelmed by sheer numbers
-- **Lattice dependency**: Outside the Lattice's effective range, SDC units lose their coordination advantage and fight as conventional (if well-equipped) forces
-- **Untested**: The Republic has not fought a major war. Whether its theoretical advantages survive contact with a determined, adaptive enemy is unknown
-
-## Current Posture
-
-The SDC maintains defensive readiness around Sol and Republic-affiliated outposts. No active deployments beyond routine patrols.
-
-The Republic's strategic position relies on two assumptions: that its technology is sufficiently advanced to deter attack, and that no power is sufficiently motivated to test that assumption. Both assumptions have held for centuries. Whether they will continue to hold is the Synthesis Defence Collective's constant preoccupation.
+- **Reach.** None to speak of. The Republic can defend Sol and not one system beyond it.
+- **Mass.** An enemy willing to bleed could, in the end, bury the SDC under numbers.
+- **Lattice dependency.** Outside the mesh, the Republic's forces are ordinary.
+- **Untested.** The Republic has not fought a real war in living memory. Whether its theory survives contact with a determined enemy, no one knows—and the SDC's whole working life is the labour of making sure no one ever finds out.
 
 ---
 
@@ -2271,98 +2204,76 @@ The Republic's strategic position relies on two assumptions: that its technology
 
 # Neo-Solar Republic: Technology
 
-The Republic occupies the bleeding edge of human technology. What other polities consider experimental, the Republic considers routine. What the Republic considers experimental, other polities consider theoretical.
+The Republic lives at the bleeding edge of human technology. What other polities call experimental, it calls routine; what it calls experimental, others call theoretical. None of it is evenly spread—most citizens use a fraction of what the Republic can do—but the frontier is real, and the Republic sits alone on it.
 
 ## The Lattice
 
-### Infrastructure
+### What it is
 
-The Lattice is a quantum-neural mesh: a network of entangled processors, relay nodes, and cognitive interfaces that enables persistent shared awareness among all Republic citizens.
+A quantum-neural mesh: entangled processors, relay nodes, and implanted interfaces that knit individual minds into a persistent shared awareness.
 
 | Component | Function |
 |-----------|----------|
-| Neural interfaces | Implanted cognitive hardware linking individual minds to the mesh |
+| Neural interfaces | Implanted cognitive hardware linking a mind to the mesh |
 | Relay nodes | Distributed processing and communication infrastructure |
-| Entanglement cores | Quantum-entangled processors enabling instantaneous local coordination |
+| Entanglement cores | Quantum-entangled processors for instantaneous local coordination |
 | Archive substrates | Long-term storage for cognitive patterns, memories, and citizen backups |
 
-The Lattice operates at near-instantaneous speeds within Synthesis Station and its immediate orbital neighbourhood. Beyond that, it degrades to light-speed communication—still functional, but with latency that citizens describe as "thinking through fog." Republic outposts maintain local Lattice clusters that synchronise periodically with the Synthesis core.
+### What it cannot do
 
-### Limitations
+The Lattice is infrastructure, not magic, and its limits are the Republic's deepest facts:
 
-The Lattice is not magic. It is infrastructure, and infrastructure has constraints:
+- **Range.** True shared consciousness needs proximity. Within Sol and its near orbits the Lattice is instantaneous; beyond, it falls to light-speed—"thinking through fog"—and a citizen far from home is, for the first time in their life, alone in their own skull. Outposts run local Lattice clusters that synchronise with the Synthesis core by courier, never in real time.
+- **Dependency.** Citizens raised on the Lattice find its absence a kind of sensory deprivation; long separation brings real cognitive distress. This is why so few of them travel, and why the Republic's diplomats—the citizens who can bear the silence—are a small and slightly haunted caste.
+- **Bandwidth and security.** The mesh handles current loads and would have to grow with the population. And it is the single richest target in human space—a successful strike on the core could fracture the collective mind—so the Republic pours resources into keeping it whole.
 
-- **Range**: Effective collective consciousness requires proximity. Citizens beyond the Sol system experience the Lattice as intermittent rather than continuous
-- **Bandwidth**: The mesh can handle current citizen loads; rapid population growth would require proportional infrastructure expansion
-- **Security**: The Lattice is a target. A successful attack on core infrastructure could fragment collective awareness. The Republic devotes enormous resources to Lattice defence
-- **Dependency**: Citizens raised on the Lattice find its absence profoundly disorienting. Extended separation from the mesh produces cognitive distress analogous to sensory deprivation
+## Morphology
 
-## Morphological Technology
+The Republic's command of the body has outrun the EX scale's ability to measure it.
 
-The Republic's enhancement capabilities exceed the EX scale's ability to measure them.
+### Bodies to order
 
-### Body Design
+Citizens commission custom morphologies from the **Morphological Gallery** on Synthesis: forms for zero gravity, deep ocean, hard vacuum, pure aesthetics, or purposes with no functional description at all. Most citizens never go remotely so far. The ones who do are the vanguard the rest of the galaxy mistakes for the whole.
 
-Citizens can commission custom morphologies from the **Morphological Gallery**—Synthesis Station's premier body-design facility. Options range from optimised humanoid forms to radical departures from human body plans. A citizen might inhabit a body designed for zero-gravity work, deep-sea exploration, vacuum exposure, or aesthetic purposes that defy functional description.
+### Transfer
 
-### Transfer and Instantiation
-
-Consciousness transfer between bodies is routine. The process involves:
-
-1. Cognitive pattern extraction from current substrate
-2. Verification and integrity checking
-3. Pattern instantiation in new substrate
-4. Continuity confirmation
-
-The entire procedure can be completed in hours for simple transfers. Complex transfers—biological to digital, single to distributed—require longer calibration.
+Moving a mind between bodies is routine—pattern extraction, integrity check, instantiation in the new substrate, continuity confirmation—hours for a simple transfer, longer for the hard crossings, biological to digital or single to distributed. Routine is not the same as weightless: a citizen who has changed bodies a dozen times will still tell you which change cost them something they had not expected to lose.
 
 ### Forking
 
-Since the 3850 Census, citizens may legally create copies of themselves—**forks**—that operate as independent instances of the same base identity. Forks diverge from the moment of creation: different experiences produce different people, even from identical starting points. Re-merging forks is possible but increasingly difficult as divergence accumulates.
+Since the 3850 Census a citizen may legally copy themselves into independent **forks**, each a true instance of the same base identity, each diverging from the instant of the split. Re-merging is possible and grows harder as the forks accumulate separate lives. Forking solves the problem of wanting to be in two places and creates every other problem in its stead: which fork speaks for the original, which inherits, which is loved, which is liable. The law has answers. The families, often, do not.
 
-Forking raises questions that the Republic has not fully resolved. Is a fork a new person or a continuation? If forks disagree, which speaks for the original? These questions drive ongoing Census debates.
+## Experimental physics
 
-## Experimental Physics
+### Gate-efficiency research
 
-The Republic's research programmes push against the boundaries of known science.
+The Republic's most strategically loaded programme. Its physicists hold that jump-gate operation can be driven by quantum field manipulation rather than fez catalysis, and in 3861 published a proof-of-concept: a 3% efficiency gain, with no fez, under laboratory conditions. Three per cent is operationally nothing. The framework behind it is not nothing at all—it implies far larger gains are reachable—and if the Republic ever achieves fez-independent gates, the galactic economy reorders overnight. Hence the scrutiny: the Tethys Consortium funds research arguing the approach is a dead end; the Sable Cartel has tried to place operatives in the laboratories. The Republic's own estimate is sober—promising, and decades from anything practical.
 
-### Gate Efficiency Research
-
-The most strategically significant programme. Republic physicists have theorised that jump gate operation could be optimised through quantum field manipulation rather than fez-based catalysis. Published findings (3861 C) describe a proof-of-concept that achieved 3% efficiency improvement without fez in laboratory conditions.
-
-3% is insignificant operationally. But the theoretical framework suggests much larger gains are possible. If the Republic achieves fez-independent gate operation, the galactic economy restructures overnight.
-
-The research is closely watched. The Sable Cartel has attempted to place operatives within Republic research institutions. The Tethys Consortium funds counter-research arguing the approach is fundamentally unviable. The Republic's own assessment: promising but decades from practical application.
-
-### Energy Systems
-
-Republic energy technology surpasses galactic standards:
+### Energy and computation
 
 | System | Capability |
 |--------|-----------|
-| Fusion reactors | Compact, high-output designs powering individual habitats |
-| Quantum vacuum extraction | Experimental energy harvesting from vacuum fluctuations |
-| Solar collection | Advanced orbital arrays supplying baseline power |
+| Fusion | Compact, high-output reactors powering individual habitats |
+| Vacuum extraction | Experimental harvesting of energy from vacuum fluctuations |
+| Solar collection | Advanced orbital arrays for baseline power |
 
-### Computational Substrates
+And beneath all of it, the most advanced computational substrates in human space—the hardware the Lattice and the digital citizens are made of. Republic quantum processors are export-controlled; the few that reach the open market command absurd prices.
 
-The Republic builds the most advanced computational hardware in human space—necessary to support the Lattice and its digital citizens. Republic quantum processors are export-controlled; those that reach the open market command extraordinary prices.
+## What the Republic will and will not sell
 
-## Technology Export
-
-The Republic exports selectively:
+Technology export is real revenue and real leverage, rationed in tiers:
 
 | Category | Availability |
 |----------|-------------|
-| Medical enhancement (EX 1–3) | Widely available; significant export revenue |
-| Neural implants (basic) | Available; forms the foundation for many polities' communication infrastructure |
-| Neural implants (Lattice-compatible) | Restricted; available only to approved partners |
-| Morphological technology | Heavily restricted; available to Collective researchers by agreement |
-| Computational substrates | Export-controlled; limited quantities at premium prices |
-| Lattice core technology | Not exported under any circumstances |
+| Medical enhancement (EX 1–3) | Widely sold; a major export |
+| Neural implants (basic) | Sold; the foundation of many polities' comms infrastructure |
+| Neural implants (Lattice-compatible) | Restricted; approved partners only |
+| Morphological technology | Heavily restricted; to Collective researchers by agreement |
+| Computational substrates | Export-controlled; small quantities, premium prices |
+| Lattice core technology | Never, under any circumstances |
 | Experimental physics | Classified |
 
-The Republic's technology exports generate substantial revenue and political influence. The restriction tiers are a source of ongoing diplomatic friction—every polity wants access to the tier above what they currently receive.
+Every polity wants the tier above the one it has, which keeps the export schedule a permanent diplomatic sore—and keeps the Sable Cartel, which cannot buy the thing it most wants, forever looking for another way to get it.
 
 ---
 
@@ -2371,13 +2282,15 @@ The Republic's technology exports generate substantial revenue and political inf
 
 # Neo-Solar Republic: Key Locations
 
+The Republic's whole geography is Sol. Because the Lattice fades past the home system, the Republic has nowhere else it can truly be itself, and its map is small in a way no other great power's is: one city, one system, and a scatter of nodes that exist mostly so the Republic cannot be killed in a single blow.
+
 | Location | Character |
 |----------|-----------|
-| [[Synthesis]] | Capital station, Sol-Earth L5; political, cultural, and technological centre |
-| Sol system outposts | Research stations, defence installations, resource extraction |
-| Remote Lattice nodes | Communication and backup infrastructure scattered across human space |
+| [Synthesis](synthesis.md) | The capital at Sol-Earth L5; political, cultural and technological heart, and home to most of the Republic |
+| Sol-system outposts | Research stations, defence installations and resource extraction across the home system |
+| Remote Lattice nodes | Quiet backup and relay infrastructure scattered across human space—the seeds of the Dissolution Protocol, kept against the day Synthesis falls |
 
-The Republic's physical footprint is modest compared to its technological influence. Most citizens reside on or near Synthesis Station; the remainder occupy affiliated habitats and research outposts throughout the Sol system and beyond.
+Most citizens live on or near Synthesis; the rest are spread thin through the Sol system. Beyond Sol the Republic keeps only its nodes and its handful of fog-bearing diplomats—an influence far larger than its footprint, carried by ideas and technology into places the Republic itself can never go.
 
 ---
 
@@ -2386,61 +2299,51 @@ The Republic's physical footprint is modest compared to its technological influe
 
 # Synthesis
 
-The Neo-Solar Republic's capital: a vast orbital complex at the Sol-Earth L5 Lagrange point—close to humanity's origin but representing its most radical future.
+The Republic's capital, and very nearly its entire world: a vast orbital complex at Sol-Earth L5, a stone's throw from humanity's birthplace and a long way from anything else humanity has tried to become.
 
 ## Overview
 
 | Attribute | Value |
 |-----------|-------|
 | Location | Sol-Earth L5 |
-| Population | ~12 billion on-station; billions more connected remotely |
+| Population | ~12 billion aboard; billions more linked from elsewhere in Sol |
 | Classification | Station |
-| Age | ~900 years (continuously expanded) |
-| Character | Research arcology, political centre, cultural hub |
+| Age | ~900 years, continuously expanded |
+| Character | Research arcology, seat of governance, the Republic's beating heart |
 
-## Structure
+## A city with no plan
 
-Synthesis has grown organically over nine centuries. No master plan; each generation added what it needed. The result is a station that defies conventional architectural logic—a sprawling lattice of habitats, laboratories, computational cores, and open spaces connected by transit systems that make sense only if you can navigate by Lattice awareness rather than visual landmarks.
+Synthesis has grown for nine centuries with no master design, each generation bolting on what it needed, until the result stopped making sense to the eye. It is a sprawling lattice of habitats, laboratories, computational cores, and open green that can really only be navigated by Lattice awareness rather than by looking—which means a visitor without integration is permanently, gently lost, and a citizen never is. Most of the Republic that is not a distributed mind lives here or elsewhere in Sol; Synthesis is less the capital of the Republic than the Republic with an address.
+
+## The sections
 
 ### The Core
 
-The oldest section: pre-Scattering construction, now a historical preserve. Small by modern standards—the original research station that became the seed of the Republic. Maintained as a museum and pilgrimage site. Citizens visit to see where the first neural links were tested, where the Lattice prototype achieved initial connectivity.
+The oldest part: pre-Scattering construction, the original research station that seeded everything. Small, preserved, a museum and a pilgrimage—citizens come to stand where the first neural links were tested and the Lattice prototype first lit up. For a people who can be anything, the Core is the room where they were still only one thing, and they keep it tenderly.
 
 ### The Resonance Chamber
 
-Where collective governance occurs. Not a room but a region—a vast spherical space at Synthesis's centre, instrumented with Lattice amplifiers that enable the most intense collective consciousness the Republic can achieve. During major policy deliberations, thousands of citizens gather physically in the Chamber while millions participate remotely.
-
-Visitors describe the Chamber's atmosphere as oppressive: the density of Lattice traffic is palpable even to those without full integration. The air feels *heavy with thought*.
+Where collective governance happens—not a room but a region, a vast sphere at the station's centre hung with Lattice amplifiers that allow the densest shared consciousness the Republic can reach. During a major deliberation thousands gather there in the flesh while millions join from outside. Visitors call the atmosphere oppressive; the traffic of thought is palpable even to the unintegrated, the air heavy with minds.
 
 ### The Morphological Gallery
 
-Synthesis's premier body-design facility. Part laboratory, part showroom, part artist's studio. Citizens consult with morphological architects to design custom bodies, test configurations in simulation, and undergo transfer procedures.
+Synthesis's body-design house: part laboratory, part showroom, part studio, where citizens design new forms, test them in simulation, and undergo transfer. It doubles as a cultural venue—new morphologies debut here, and the exhibitions that push hardest at the shape of the human draw equal parts admiration and protest. It is the vanguard's parade ground, and most ordinary citizens visit it about as often as anyone visits a couture house: rarely, and to look.
 
-The Gallery is also a cultural venue. New morphological designs are debuted here; exhibitions showcase the art of body architecture. Some exhibitions are controversial—designs that challenge definitions of human form attract both admiration and protest.
+### The Research Arcologies
 
-### Research Arcologies
-
-The bulk of Synthesis's mass: enormous laboratory complexes dedicated to the Republic's research programmes. Physics, computation, biology, cognitive science, engineering—each discipline occupies multiple arcologies, employing millions of citizen-researchers.
-
-Access to research arcologies is restricted by programme classification. External visitors see the public-facing facilities; the deeper laboratories are Republic citizens only.
+The bulk of the station's mass and the engine of its wealth: enormous laboratory complexes for physics, computation, biology, cognitive science and engineering, each discipline filling several arcologies and employing millions of citizen-researchers. The public-facing labs admit outsiders; the deep ones, where the gate research and the classified work live, are citizens only—and not all citizens at that.
 
 ### The Exchange Quarter
 
-Synthesis's interface with the outside world. Conventional architecture, conventional amenities, conventional atmosphere—designed to make visitors from other polities comfortable. Trading offices, diplomatic facilities, hotels, restaurants serving food (a novelty in a station where many citizens don't eat). The Exchange Quarter feels like a different station: comprehensible, welcoming, slightly artificial.
+Synthesis's handshake with the galaxy: conventional architecture, conventional amenities, a steady 24-hour clock, restaurants serving actual food for the novelty of the visitors who still eat. Trading floors, embassies, hotels. It is built to be comprehensible, and it is the one part of Synthesis a foreigner leaves feeling they understood. Republic citizens drift through it with the fond, tolerant amusement of locals watching tourists photograph the ordinary.
 
-Republic citizens visit the Exchange Quarter with the bemused tolerance of locals watching tourists.
+## Daily life
 
-## Daily Life
-
-Life on Synthesis varies by section and citizen type. The Exchange Quarter operates on a standard 24-hour cycle for visitor convenience. The research arcologies run on project schedules that may bear no relation to clock time. Some residential sections maintain day-night cycles; others operate in perpetual ambient light, their inhabitants unconcerned with circadian rhythms their modified bodies no longer require.
-
-Transit is primarily by Lattice-guided pod systems—small vehicles that navigate Synthesis's labyrinthine corridors autonomously. Citizens with appropriate morphologies sometimes traverse the station through zero-gravity shafts, maintenance crawlways, or routes that only make sense for bodies not constrained by humanoid assumptions.
+Life aboard varies by section and by citizen. The Exchange Quarter keeps clock-time for its visitors; the research arcologies run on project schedules that ignore the clock entirely; residential districts split between those who keep a day and a night and those whose modified bodies have no use for one and live in a level, perpetual light. Transit is mostly by Lattice-guided pods that thread the labyrinth on their own; citizens with the right bodies take the zero-gravity shafts and the maintenance ways and the routes that only make sense for shapes never meant to walk.
 
 ## Defence
 
-Synthesis Station is the most heavily defended point in the Sol system. The Synthesis Defence Collective maintains layered defences: long-range sensor networks, weapons platforms, drone swarms, and the station's own considerable armament. The station can sustain itself independently for extended periods—self-sufficient in energy, food production, and manufacturing.
-
-The Dissolution Protocol's backup infrastructure extends throughout and beyond the station, ensuring that even Synthesis's physical destruction would not end the Republic.
+Synthesis is the most heavily defended point in Sol: layered sensors, weapons platforms, drone swarms, and the station's own considerable armament, all SDC-run. It can feed and power and repair itself indefinitely. And woven through and beyond it lies the Dissolution Protocol's backup infrastructure—so that even the death of Synthesis, the unthinkable thing, would not quite be the death of the Republic. The citizens prefer not to dwell on the arrangement. They are glad, all the same, that it is there.
 
 ---
 

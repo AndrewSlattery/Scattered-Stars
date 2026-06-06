@@ -1,89 +1,55 @@
 # Neo-Solar Republic: Culture
 
-## Identity
+Begin with the most common citizen, not the most famous one. She is moderately enhanced—long-lived, implant-linked, wearing a body she chose decades ago and has felt no need to change—and she lives a life a visitor could mostly follow: work she cares about, people she loves, a home, opinions, a standing argument with her neighbours about where it is all going. The Republic is, for her and for most of the eighty billion, a genuinely good place: abundant, unhurried, freer than anywhere else a human can live. The strangeness is real, but it lives mostly at the edges, among the vanguard who are actually doing the thing the rest of the Republic is only living near.
 
-In the Republic, identity is not fixed. It is maintained, modified, and sometimes abandoned.
+## The ordinary Republic
 
-Citizens routinely change morphology—shifting between biological bodies, cybernetic frames, and hybrid configurations. Some maintain a single preferred form; others cycle through dozens over a lifetime. A citizen might present as a conventional humanoid for external meetings, operate as a distributed sensor array for research, and spend leisure time as something that has no analogue in baseline human experience.
+Most citizens sit between EX 1 and EX 3: enhanced, not transformed. Their lives run on the quiet luxuries of a post-scarcity system—material need is simply not a daily concern—and on time, of which they have a great deal: two healthy centuries is the ordinary expectation, and citizens spend it as people with time do, on craft and study and family and long elaborate hobbies. They work, though not always because they must; the socionomy meets needs without anyone's labour, so work in the Republic is increasingly a thing one does for meaning, status, or the plain pleasure of being useful. Someone keeps the reactors running and the relay nodes synchronised and the morphological clinics staffed; someone teaches the children, and there are still children; someone cooks, for the considerable minority who still eat. It is a society that has solved want and kept purpose as a thing you must find for yourself—which most do, and a few conspicuously don't.
 
-The Lattice compounds this fluidity. Citizens can share perceptions, merge temporarily for collaborative work, or split aspects of their consciousness across multiple substrates. The question "who are you?" has become the Republic's central philosophical problem.
+## The vanguard
 
-### The Selfhood Debate
+At the Republic's leading edge are the citizens who take its possibilities literally. They wear bodies built for vacuum or deep ocean or no environment at all; they run as distributed intelligences across a dozen substrates at once; they merge for a season's work and part again; they fork themselves to live two lives at the same time. They make the Republic's reputation and most of its art, and they are perhaps a third of it. The ordinary majority regards them with a mix of pride, bafflement, and the faint wariness of people watching their own future being rehearsed by someone braver than they intend to be.
 
-Three broad positions:
+## Going dark
 
-**Continuists** argue that identity persists through change—a citizen who modifies their body, upgrades their cognition, or merges temporarily with others remains the same person so long as subjective continuity is maintained. Memory and narrative thread define the self.
+You can decline. Enhancement is genuinely optional, and a real minority of citizens live lightly integrated—basic implants, a single body, the Lattice kept at arm's length—or refuse the Lattice altogether and go, in the local idiom, *dark*. Some are religious or philosophical objectors; some are immigrants from low-enhancement worlds; some simply never took to it. The Republic does not persecute them. It does something quieter and harder to argue with: it leaves them out. Political voice runs through the Lattice, and a citizen who is not on it has none—no resonance, no vote, no share in the collective mind that decides everything. You are free to opt out, and opting out costs you the Republic. Most, weighing it, opt in—which is rather the point.
 
-**Processualists** argue that identity is a process, not a thing. There is no persistent self—only patterns of thought and experience that create the *impression* of continuity. This is not distressing; it is liberating.
+## The question of the self
 
-**Collectivists** argue that individual identity is a legacy concept. The meaningful unit is the network—groups of minds that think together, share experience, and cannot be cleanly separated into component selves.
+When you can change your body, copy your mind, merge with another, and persist without flesh, "who are you?" stops being an adolescent's question and becomes a matter of law. The Republic's long argument over it runs in three broad camps:
 
-The debate is not academic. Legal frameworks, economic entitlements, and social relationships all depend on how identity is defined. The Centennial Census is the Republic's attempt to answer these questions—or at least to document the current state of disagreement.
+- **Continuists** hold that the self survives any change so long as subjective continuity holds—memory and narrative make the person.
+- **Processualists** hold that there is no persistent self at all, only patterns that feel continuous, and find this liberating rather than bleak.
+- **Collectivists** hold that the individual is a legacy unit, and that the real person is the network of minds that think together.
 
-## Language and Communication
+This is not seminar-room stuff. Which camp prevails decides who inherits, who is liable, who is married to whom, and who is even one person—and every decade the Republic votes on it.
 
-### External Communication
+## What it costs
 
-Standard human languages for interactions with non-Republic entities. Most citizens speak at least one conventional language; the Consul's office maintains a diplomatic corps fluent in Mandate Classical, common Freehold trade languages, and Vega court speech.
+A society this free with the shape of a life produces sorrows the rest of human space has never had to name. Forks who were one person and have grown into two who cannot stand each other, dividing a life and a family between them. Merges that took badly, leaving a mind that is neither of the two it was made from. Digital citizens who have run so long, and drifted so far, that their oldest friends no longer recognise the pattern. Families spread across bodies and substrates and forks, working to stay families across differences no counsellor was ever trained for. The Republic meets these with characteristic decency—support, counsel, a whole vocabulary of care—but some of it cannot be fixed, only grieved, and the Republic grieves more than its reputation for serene transcendence admits.
 
-### Internal Discourse
+The starkest record of this is the **Registry of Endings**: the roll of citizens who have truly, permanently ceased—not the body-death the Lattice makes survivable, but the deliberate deletion of a mind that could have gone on. People end themselves in the Republic too. That despair persists in a society which has abolished want and death-by-default is the quiet fact its utopians like least, and its honest ones refuse to look away from.
 
-Within the Republic, conventional language is secondary. The Lattice enables **structured thought exchange**—direct communication of concepts, reasoning, and experience without the lossy compression of words. Citizens describe conventional speech as "talking through a keyhole."
+## The Census
 
-Structured thought is richer but not universal. Different cognitive architectures parse thought-forms differently; misunderstandings still occur, especially between radically different citizen types. The Republic has developed protocols for cross-architecture communication, but they are imperfect.
+Every ten years the Republic holds the **Centennial Census**, and beneath the festival it is the most consequential vote a civilisation has ever taken: a binding decision about what counts as a person. The recent expansions read as a single direction of travel—
 
-Visitors to the Republic often find the silence unsettling. A room full of citizens may appear motionless and mute while conducting vigorous debate through the Lattice.
+| Year | Personhood extended to… |
+|------|------|
+| 3840 C | purely digital citizens |
+| 3850 C | forked individuals |
+| 3860 C | collective intelligences |
+
+—each controversial inside the Republic and alarming outside it. What the festival's warmth disguises is that a vote which can enlarge personhood can also withhold it, and might one day narrow it; that every expansion has left citizens on the losing side; and that this direction of travel has a destination the Republic has never openly named. The Collectivists' logic, followed all the way, ends with the individual dissolved into the network—and each Census takes a step that way. The Census is where the Republic conducts its deepest disagreement with itself: in public, politely, and without resolution. It is the crack you can see daylight through—a good society that does not know whether it wishes to remain a society of separate people at all. See [Governance](governance.md).
 
 ## Art
 
-Republic art is experienced rather than observed.
+Republic art is experienced, not observed. Its dominant form is the **synaesthetic composition**: a made experience transmitted through the Lattice, weaving image, sensation, emotion, abstract structure and narrative into a single unbroken thing that lasts seconds or hours. The finest are held to be untranslatable—impossible to describe to anyone who has not felt them, impossible to feel without the Lattice. Beyond them lie **shared dream-states**, collaborative spaces that many citizens build and inhabit together, some sustained for decades by rotating hands. And against all of it runs a counterculture of **physical art**—paint, stone, instruments played with actual fingers—prized precisely because it refuses the Lattice and makes something beautiful the old hard way, with only a body and the world.
 
-### Synaesthetic Compositions
+## Language
 
-The dominant art form: multi-sensory experiences transmitted through the Lattice. A composition might combine visual imagery, physical sensation, emotional tone, abstract mathematical structures, and narrative elements into a unified experience lasting seconds or hours. The best compositions are said to be untranslatable—they cannot be described to someone who hasn't experienced them, and they cannot be experienced without Lattice integration.
-
-### Shared Dream-States
-
-Collaborative art where multiple citizens construct and inhabit a shared subjective space. Part performance, part architecture, part hallucination. Some dream-states have persisted for decades, maintained by rotating groups of participants, evolving continuously.
-
-### Physical Art
-
-Still practised, often by Preservationists or as an exercise in limitation. Sculpture, painting, music performed with physical instruments—deliberately constrained art forms valued precisely because they *don't* use the Lattice. There is a counterculture romance to physical art: making something beautiful with only hands and materials, the way humans have always done it.
-
-## The Centennial Census
-
-Every ten years, the Republic undertakes the Census: a society-wide attempt to answer the question "what is human?"
-
-The Census is part philosophical convention, part legal proceeding, part cultural festival. Citizens propose definitions, debate boundaries, and ultimately vote (through Lattice resonance) on the operative legal definition of personhood for the coming decade.
-
-Recent Census outcomes:
-
-| Year | Key Decision |
-|------|-------------|
-| 3840 C | Recognised purely digital citizens as full persons |
-| 3850 C | Extended citizenship to forked individuals (multiple instances of one mind) |
-| 3860 C | Extended citizenship to collective intelligences |
-
-Each expansion has been controversial internally and alarming externally. The Mandate in particular views the Republic's elastic definition of humanity as a threat to legal and social order.
-
-## Daily Life
-
-There is no typical day in the Republic, because there is no typical citizen.
-
-A biological citizen in a conventional humanoid body might wake, eat, commute to a research facility, work, socialise, and sleep—a routine recognisable to any human in any era. Their neighbour might be a distributed intelligence experiencing six simultaneous environments, sleeping never, eating nothing, and "commuting" by shifting processing allocation between computational nodes.
-
-What they share: access to the Lattice, participation in collective governance, and the ambient awareness that they are part of something unprecedented in human history. Whether that something is wonderful or terrible depends on whom you ask.
+Among themselves, citizens rarely use words; the Lattice carries thought directly, concept and reasoning and felt experience passed without the lossy squeeze of language. Citizens call ordinary speech "talking through a keyhole." It is not a universal solvent—different cognitive architectures parse thought differently, and misunderstanding survives even here—but it makes Republic gatherings unnerving to outsiders, who see a room sit silent and motionless while a fierce argument runs through it. With visitors, citizens fall back on spoken language, often with visible and kindly amusement at the quaintness of the thing.
 
 ## Customs
 
-### Greeting
-
-Between Republic citizens: a brief Lattice acknowledgement—a packet of identity, emotional tone, and intent. Between a citizen and a visitor: conventional greeting, often with visible amusement at the formality.
-
-### Hospitality
-
-Strong tradition. Visitors are provided with basic Lattice interfaces (translation and navigation only; no cognitive integration) and assigned a **Liaison**—a citizen who serves as guide and interpreter. The Republic is aware that it is confusing to outsiders and makes genuine efforts to be welcoming.
-
-### Death
-
-Complicated. A citizen whose biological body dies but whose mind persists in the Lattice is not dead. A citizen who chooses to delete their cognitive patterns is dead, even if their body survives. The Republic maintains a **Registry of Endings**—a record of citizens who have permanently ceased to exist, however that cessation occurred. Memorial practices vary enormously.
+Citizens greet one another with a brief Lattice packet—identity, mood, intent—exchanged faster than a nod. Hospitality is a strong tradition: visitors are fitted with a limited interface (translation and navigation, never cognitive integration) and assigned a **Liaison** to guide them, because the Republic knows perfectly well how bewildering it is and tries, with real warmth, to be kind about it. Death is the hardest custom, and here the strangest: a citizen whose body dies but whose mind persists is not dead; a citizen who deletes a living mind is, body or no. The line between the two is where the Republic keeps its grief.

@@ -1,57 +1,47 @@
 # Synthesis
 
-The Neo-Solar Republic's capital: a vast orbital complex at the Sol-Earth L5 Lagrange point—close to humanity's origin but representing its most radical future.
+The Republic's capital, and very nearly its entire world: a vast orbital complex at Sol-Earth L5, a stone's throw from humanity's birthplace and a long way from anything else humanity has tried to become.
 
 ## Overview
 
 | Attribute | Value |
 |-----------|-------|
 | Location | Sol-Earth L5 |
-| Population | ~12 billion on-station; billions more connected remotely |
+| Population | ~12 billion aboard; billions more linked from elsewhere in Sol |
 | Classification | Station |
-| Age | ~900 years (continuously expanded) |
-| Character | Research arcology, political centre, cultural hub |
+| Age | ~900 years, continuously expanded |
+| Character | Research arcology, seat of governance, the Republic's beating heart |
 
-## Structure
+## A city with no plan
 
-Synthesis has grown organically over nine centuries. No master plan; each generation added what it needed. The result is a station that defies conventional architectural logic—a sprawling lattice of habitats, laboratories, computational cores, and open spaces connected by transit systems that make sense only if you can navigate by Lattice awareness rather than visual landmarks.
+Synthesis has grown for nine centuries with no master design, each generation bolting on what it needed, until the result stopped making sense to the eye. It is a sprawling lattice of habitats, laboratories, computational cores, and open green that can really only be navigated by Lattice awareness rather than by looking—which means a visitor without integration is permanently, gently lost, and a citizen never is. Most of the Republic that is not a distributed mind lives here or elsewhere in Sol; Synthesis is less the capital of the Republic than the Republic with an address.
+
+## The sections
 
 ### The Core
 
-The oldest section: pre-Scattering construction, now a historical preserve. Small by modern standards—the original research station that became the seed of the Republic. Maintained as a museum and pilgrimage site. Citizens visit to see where the first neural links were tested, where the Lattice prototype achieved initial connectivity.
+The oldest part: pre-Scattering construction, the original research station that seeded everything. Small, preserved, a museum and a pilgrimage—citizens come to stand where the first neural links were tested and the Lattice prototype first lit up. For a people who can be anything, the Core is the room where they were still only one thing, and they keep it tenderly.
 
 ### The Resonance Chamber
 
-Where collective governance occurs. Not a room but a region—a vast spherical space at Synthesis's centre, instrumented with Lattice amplifiers that enable the most intense collective consciousness the Republic can achieve. During major policy deliberations, thousands of citizens gather physically in the Chamber while millions participate remotely.
-
-Visitors describe the Chamber's atmosphere as oppressive: the density of Lattice traffic is palpable even to those without full integration. The air feels *heavy with thought*.
+Where collective governance happens—not a room but a region, a vast sphere at the station's centre hung with Lattice amplifiers that allow the densest shared consciousness the Republic can reach. During a major deliberation thousands gather there in the flesh while millions join from outside. Visitors call the atmosphere oppressive; the traffic of thought is palpable even to the unintegrated, the air heavy with minds.
 
 ### The Morphological Gallery
 
-Synthesis's premier body-design facility. Part laboratory, part showroom, part artist's studio. Citizens consult with morphological architects to design custom bodies, test configurations in simulation, and undergo transfer procedures.
+Synthesis's body-design house: part laboratory, part showroom, part studio, where citizens design new forms, test them in simulation, and undergo transfer. It doubles as a cultural venue—new morphologies debut here, and the exhibitions that push hardest at the shape of the human draw equal parts admiration and protest. It is the vanguard's parade ground, and most ordinary citizens visit it about as often as anyone visits a couture house: rarely, and to look.
 
-The Gallery is also a cultural venue. New morphological designs are debuted here; exhibitions showcase the art of body architecture. Some exhibitions are controversial—designs that challenge definitions of human form attract both admiration and protest.
+### The Research Arcologies
 
-### Research Arcologies
-
-The bulk of Synthesis's mass: enormous laboratory complexes dedicated to the Republic's research programmes. Physics, computation, biology, cognitive science, engineering—each discipline occupies multiple arcologies, employing millions of citizen-researchers.
-
-Access to research arcologies is restricted by programme classification. External visitors see the public-facing facilities; the deeper laboratories are Republic citizens only.
+The bulk of the station's mass and the engine of its wealth: enormous laboratory complexes for physics, computation, biology, cognitive science and engineering, each discipline filling several arcologies and employing millions of citizen-researchers. The public-facing labs admit outsiders; the deep ones, where the gate research and the classified work live, are citizens only—and not all citizens at that.
 
 ### The Exchange Quarter
 
-Synthesis's interface with the outside world. Conventional architecture, conventional amenities, conventional atmosphere—designed to make visitors from other polities comfortable. Trading offices, diplomatic facilities, hotels, restaurants serving food (a novelty in a station where many citizens don't eat). The Exchange Quarter feels like a different station: comprehensible, welcoming, slightly artificial.
+Synthesis's handshake with the galaxy: conventional architecture, conventional amenities, a steady 24-hour clock, restaurants serving actual food for the novelty of the visitors who still eat. Trading floors, embassies, hotels. It is built to be comprehensible, and it is the one part of Synthesis a foreigner leaves feeling they understood. Republic citizens drift through it with the fond, tolerant amusement of locals watching tourists photograph the ordinary.
 
-Republic citizens visit the Exchange Quarter with the bemused tolerance of locals watching tourists.
+## Daily life
 
-## Daily Life
-
-Life on Synthesis varies by section and citizen type. The Exchange Quarter operates on a standard 24-hour cycle for visitor convenience. The research arcologies run on project schedules that may bear no relation to clock time. Some residential sections maintain day-night cycles; others operate in perpetual ambient light, their inhabitants unconcerned with circadian rhythms their modified bodies no longer require.
-
-Transit is primarily by Lattice-guided pod systems—small vehicles that navigate Synthesis's labyrinthine corridors autonomously. Citizens with appropriate morphologies sometimes traverse the station through zero-gravity shafts, maintenance crawlways, or routes that only make sense for bodies not constrained by humanoid assumptions.
+Life aboard varies by section and by citizen. The Exchange Quarter keeps clock-time for its visitors; the research arcologies run on project schedules that ignore the clock entirely; residential districts split between those who keep a day and a night and those whose modified bodies have no use for one and live in a level, perpetual light. Transit is mostly by Lattice-guided pods that thread the labyrinth on their own; citizens with the right bodies take the zero-gravity shafts and the maintenance ways and the routes that only make sense for shapes never meant to walk.
 
 ## Defence
 
-Synthesis Station is the most heavily defended point in the Sol system. The Synthesis Defence Collective maintains layered defences: long-range sensor networks, weapons platforms, drone swarms, and the station's own considerable armament. The station can sustain itself independently for extended periods—self-sufficient in energy, food production, and manufacturing.
-
-The Dissolution Protocol's backup infrastructure extends throughout and beyond the station, ensuring that even Synthesis's physical destruction would not end the Republic.
+Synthesis is the most heavily defended point in Sol: layered sensors, weapons platforms, drone swarms, and the station's own considerable armament, all SDC-run. It can feed and power and repair itself indefinitely. And woven through and beyond it lies the Dissolution Protocol's backup infrastructure—so that even the death of Synthesis, the unthinkable thing, would not quite be the death of the Republic. The citizens prefer not to dwell on the arrangement. They are glad, all the same, that it is there.
