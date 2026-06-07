@@ -2961,7 +2961,7 @@ The Chair rotates annually, by lottery, among Freeholds that have not held it in
 
 The history of the office is a history of doing very little, mostly on purpose.
 
-- **Mira Vance** of Korsen's Anchorage (3341 C) ended the cascading disputes of the Resolution of Seventeen by shuttle diplomacy, and is remembered for it.
+- **Joss Renn** of Korsen's Anchorage (3341 C) ended the cascading disputes of the Resolution of Seventeen by shuttle diplomacy, and is remembered for it.
 - **Caden Rourke** of Veritas Station (3567 C) answered the Mandate's Grey Incursion by assembling a volunteer fleet of four hundred ships from eighty Freeholds and making the occupation uneconomical—the proof that decentralised defence can work at scale.
 - **Thessaly Morn** of Dustmote (3789 C) did almost nothing, and is cited ever since as the ideal: proof the Union runs without a hand on the tiller.
 
@@ -3016,7 +3016,7 @@ The companies sort, roughly, by how much their reputation is worth to them: **el
 
 ## The major companies
 
-**Iron Vanguard** is the largest and most prestigious—founded 3412 C, some 180,000 active, headquartered at Veritas Station, built on combined-arms professionalism and the selling point of refusing certain work (no operations against civilians, no clients who fail due diligence, nothing that stains the brand). Its director, **Kaela Vance**, sets the industry's tone. Its current contracts include a significant Yansieve presence—on which side, it does not say.
+**Iron Vanguard** is the largest and most prestigious—founded 3412 C, some 180,000 active, headquartered at Veritas Station, built on combined-arms professionalism and the selling point of refusing certain work (no operations against civilians, no clients who fail due diligence, nothing that stains the brand). Its director, **Kaela Sarn**, sets the industry's tone. Its current contracts include a significant Yansieve presence—on which side, it does not say.
 
 **Void Reapers** (founded 3567 C, ~95,000, headquartered at the Roughneck orbital) are the aggressive end of respectable—ship seizure, boarding, hostile recovery, "aggressive negotiations"—effective, ruthless, trailing wrongful-death settlements and an Arrhenos contract ban, and **rumoured Cartel connections** that they neither confirm nor trouble to deny.
 
@@ -3285,11 +3285,11 @@ A heavy, rugged world—thick air, hard terrain, survivable without suits in mos
 
 ## Figures
 
-**Governor Mira Thane** (58), elected head of the planetary council, is the career moderate both sides distrust—which she takes as proof she is doing it right: *"This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything."*
+**Governor Bryn Thane** (58), elected head of the planetary council, is the career moderate both sides distrust—which she takes as proof she is doing it right: *"This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything."*
 
 **Jace Holloway Sr.** (64) has organised Roughneck's workers for forty years and thinks the old settlements have rotted: *"The owners need us more than we need them. They've forgotten that. Time to remind them."* He is planning something larger—coordination across facilities, perhaps a general strike—pending negotiations now underway.
 
-**Director Cassian Vance** (71), descendant of the original prospector, controls more of Roughneck's extraction than anyone, and controls it rigidly: *"My family built this world. We've earned what we have. The workers earn what they're paid, nothing more."* He is old, hardening, and pressed now from two sides—by the workers below and by younger owners who think his refusal to bend is what will finally break the peace.
+**Director Darrow Vance** (71), descendant of the original prospector, controls more of Roughneck's extraction than anyone, and controls it rigidly: *"My family built this world. We've earned what we have. The workers earn what they're paid, nothing more."* He is old, hardening, and pressed now from two sides—by the workers below and by younger owners who think his refusal to bend is what will finally break the peace.
 
 ## Notes
 
@@ -3374,7 +3374,7 @@ Governance is minimal—Three Falls declared itself a Freehold in 3860 C on the 
 
 **Kellen Marsh** (47), the original prospector, is now one of the wealthiest people on the frontier and visibly uneasy about it: *"I got lucky. I'd rather be lucky than smart, but luck doesn't last. Ask me again in ten years whether this was worth it."* She runs the Foundation and tries to stay the person she was before the strike.
 
-**Mayor Tessaly Vane** (52) ran a trading post until the boom made her responsible for 2.3 million people: *"I didn't sign up for this. Nobody signed up for this. We're all improvising."* Overwhelmed, under-resourced, doing what little the office can.
+**Mayor Della Kade** (52) ran a trading post until the boom made her responsible for 2.3 million people: *"I didn't sign up for this. Nobody signed up for this. We're all improvising."* Overwhelmed, under-resourced, doing what little the office can.
 
 **Jace Holloway Jr.** (28) came from Roughneck—his father organises miners there—to organise the processing workers: *"My father taught me that workers have power when they act together. These workers haven't learned that yet. They will."* Management calls him a troublemaker; the workers are still deciding.
 
@@ -3413,7 +3413,7 @@ Founded in 3401 C by a consortium of mercenary companies wanting neutral ground 
 
 ## The asset among the independents
 
-The **Veritas Compact** binds the signatory companies into a workable order—neutrality among themselves, contract registration and arbitration, shared intelligence on non-payers, no poaching of active personnel—and it works because everyone benefits from its working; defy a Veritas ruling and future business dries up. Iron Vanguard's permanent presence sets the tone, and its director, **Kaela Vance**, is the most powerful individual routinely on the station; when she speaks on standards, the industry listens.
+The **Veritas Compact** binds the signatory companies into a workable order—neutrality among themselves, contract registration and arbitration, shared intelligence on non-payers, no poaching of active personnel—and it works because everyone benefits from its working; defy a Veritas ruling and future business dries up. Iron Vanguard's permanent presence sets the tone, and its director, **Kaela Sarn**, is the most powerful individual routinely on the station; when she speaks on standards, the industry listens.
 
 What the Compact does not list among its members is the one that matters most for the frontier's future. The Cartel's security subsidiary, **Aegis**, is headquartered at Veritas—among the independent companies, renting quarters, registering contracts, looking exactly like one more firm—and from that seat the line between an "independent" frontier company and a Cartel instrument becomes precisely as blurry as the Cartel wants it. The Void Reapers' rumoured Cartel connections, the Crimson Lance's studied silence, the contracts that route through intermediaries to ends no one quite traces: this is the texture of a mercenary economy with the buyer's own arm sitting at the centre of it, quietly able to hire, out-bid, or simply absorb. Veritas sells violence and discretion to whoever pays, and is too professional to notice aloud how much of both is now answering, one retainer at a time, to a single house. See the [Sable Cartel](../../sable-cartel/index.md).
 
@@ -3423,11 +3423,11 @@ The station's ethos is studiously professional: business is business, personal m
 
 ## Figures
 
-**Director Kaela Vance** commands Iron Vanguard and, by presence and reputation, the station's professional tone.
+**Director Kaela Sarn** commands Iron Vanguard and, by presence and reputation, the station's professional tone.
 
 **Broker Thresh**—no full name, identity protected, appearing in person rarely and through intermediaries usually—is among the most successful information brokers on the station: *"I sell truth. Sometimes the truth is uncomfortable. That's not my problem—that's the product."*
 
-**Archive Director Cassia Morn** (71) keeps the Archive and its integrity with a ferocity that has met every attempt at tampering with permanent exclusion: *"Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision."*
+**Archive Director Edra Vire** (71) keeps the Archive and its integrity with a ferocity that has met every attempt at tampering with permanent exclusion: *"Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision."*
 
 ## Notes
 
@@ -3951,7 +3951,7 @@ The Banking War struck Cassiline disproportionately: facilities damaged in conte
 | Style | Determined; sometimes inflexible |
 | Reputation | Capable but embattled |
 
-Isadora inherited a struggling house from a father who died without resolving the war's aftermath, and has held the line against further decline by betting everything on traditional quality—rejecting the compromises that might raise volume, defending the brand against dilution, refusing Valdorian's repeated approaches, and waiting for excellence to be rewarded as she believes it must be. Her critics call her rigid, in love with a past the market has left behind. Her supporters call brand identity the one asset worth protecting. Both may be right; that is the trap. Her brother and heir, **Lord Cassian Cassiline**, who runs the house's fashion-content arm (Phoenix Studios), wants the opposite—volume, accessibility, branded content—and the siblings' disagreement about whether to chase the market or outlast it is the house's real, unresolved argument, conducted in private and known to the whole industry.
+Isadora inherited a struggling house from a father who died without resolving the war's aftermath, and has held the line against further decline by betting everything on traditional quality—rejecting the compromises that might raise volume, defending the brand against dilution, refusing Valdorian's repeated approaches, and waiting for excellence to be rewarded as she believes it must be. Her critics call her rigid, in love with a past the market has left behind. Her supporters call brand identity the one asset worth protecting. Both may be right; that is the trap. Her brother and heir, **Lord Lucan Cassiline**, who runs the house's fashion-content arm (Phoenix Studios), wants the opposite—volume, accessibility, branded content—and the siblings' disagreement about whether to chase the market or outlast it is the house's real, unresolved argument, conducted in private and known to the whole industry.
 
 ## The slow vice
 
@@ -4326,8 +4326,8 @@ Young hopefuls arrive constantly, from across Vega space and beyond, carrying tr
 ## The people of the station
 
 - **Vex Calder**, a former star two decades past his fame, now taking supporting parts and teaching master classes, managing a smaller apartment with care and no visible bitterness. *"The industry takes what it needs and discards the rest. I gave good years; I received good payment. Complaining would be unseemly."* He is the seen, after the seeing stops—the proof that the discarding reaches even the top.
-- **Mira Thrace**, an aspirant from Deneb Reach three years in, savings nearly gone, sharing a dormitory with three others, still auditioning. *"Ask me again next year. Either I'll have broken through, or I'll have gone home. Either way, I'll know."* She is the unseen, hoping to be seen, and statistically she will go home.
-- **Director Cassia Norn**, one of Radiant's senior directors, thirty years of prestige productions, recognisable style, uninterested in celebrity and modest by Stellavista standards, reinvesting her earnings into work she believes in. *"The work is the point. The rest is noise."* She is the rare third thing—seen for the work rather than the face, which in Vega is the only kind of being seen that lasts.
+- **Liora Thrace**, an aspirant from Deneb Reach three years in, savings nearly gone, sharing a dormitory with three others, still auditioning. *"Ask me again next year. Either I'll have broken through, or I'll have gone home. Either way, I'll know."* She is the unseen, hoping to be seen, and statistically she will go home.
+- **Director Drusa Verro**, one of Radiant's senior directors, thirty years of prestige productions, recognisable style, uninterested in celebrity and modest by Stellavista standards, reinvesting her earnings into work she believes in. *"The work is the point. The rest is noise."* She is the rare third thing—seen for the work rather than the face, which in Vega is the only kind of being seen that lasts.
 
 ## Where they meet
 

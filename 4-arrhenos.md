@@ -1235,7 +1235,7 @@ Knows the provenance of everything he sells and will lecture customers who seem 
 
 Three chairs, no appointments. Remembers every regular's usual cut and their last three conversations. The shop functions as low-grade information exchange—nothing illegal, just gossip and connection. Venn himself is unremarkable-looking, which seems intentional for someone who hears so much.
 
-### Cassia Drummond
+### Bram Drummond
 
 **Trade:** Experimental chef, six-stool counter  
 **Age:** 29

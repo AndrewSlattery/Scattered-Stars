@@ -42,11 +42,11 @@ A heavy, rugged world—thick air, hard terrain, survivable without suits in mos
 
 ## Figures
 
-**Governor Mira Thane** (58), elected head of the planetary council, is the career moderate both sides distrust—which she takes as proof she is doing it right: *"This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything."*
+**Governor Bryn Thane** (58), elected head of the planetary council, is the career moderate both sides distrust—which she takes as proof she is doing it right: *"This world works because everyone gets something. Owners get profits, workers get wages, the council gets stability. My job is making sure nobody tries to take everything."*
 
 **Jace Holloway Sr.** (64) has organised Roughneck's workers for forty years and thinks the old settlements have rotted: *"The owners need us more than we need them. They've forgotten that. Time to remind them."* He is planning something larger—coordination across facilities, perhaps a general strike—pending negotiations now underway.
 
-**Director Cassian Vance** (71), descendant of the original prospector, controls more of Roughneck's extraction than anyone, and controls it rigidly: *"My family built this world. We've earned what we have. The workers earn what they're paid, nothing more."* He is old, hardening, and pressed now from two sides—by the workers below and by younger owners who think his refusal to bend is what will finally break the peace.
+**Director Darrow Vance** (71), descendant of the original prospector, controls more of Roughneck's extraction than anyone, and controls it rigidly: *"My family built this world. We've earned what we have. The workers earn what they're paid, nothing more."* He is old, hardening, and pressed now from two sides—by the workers below and by younger owners who think his refusal to bend is what will finally break the peace.
 
 ## Notes
 

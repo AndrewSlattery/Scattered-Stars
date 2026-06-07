@@ -32,8 +32,8 @@ Young hopefuls arrive constantly, from across Vega space and beyond, carrying tr
 ## The people of the station
 
 - **Vex Calder**, a former star two decades past his fame, now taking supporting parts and teaching master classes, managing a smaller apartment with care and no visible bitterness. *"The industry takes what it needs and discards the rest. I gave good years; I received good payment. Complaining would be unseemly."* He is the seen, after the seeing stops—the proof that the discarding reaches even the top.
-- **Mira Thrace**, an aspirant from Deneb Reach three years in, savings nearly gone, sharing a dormitory with three others, still auditioning. *"Ask me again next year. Either I'll have broken through, or I'll have gone home. Either way, I'll know."* She is the unseen, hoping to be seen, and statistically she will go home.
-- **Director Cassia Norn**, one of Radiant's senior directors, thirty years of prestige productions, recognisable style, uninterested in celebrity and modest by Stellavista standards, reinvesting her earnings into work she believes in. *"The work is the point. The rest is noise."* She is the rare third thing—seen for the work rather than the face, which in Vega is the only kind of being seen that lasts.
+- **Liora Thrace**, an aspirant from Deneb Reach three years in, savings nearly gone, sharing a dormitory with three others, still auditioning. *"Ask me again next year. Either I'll have broken through, or I'll have gone home. Either way, I'll know."* She is the unseen, hoping to be seen, and statistically she will go home.
+- **Director Drusa Verro**, one of Radiant's senior directors, thirty years of prestige productions, recognisable style, uninterested in celebrity and modest by Stellavista standards, reinvesting her earnings into work she believes in. *"The work is the point. The rest is noise."* She is the rare third thing—seen for the work rather than the face, which in Vega is the only kind of being seen that lasts.
 
 ## Where they meet
 

@@ -26,7 +26,7 @@ Governance is minimal—Three Falls declared itself a Freehold in 3860 C on the 
 
 **Kellen Marsh** (47), the original prospector, is now one of the wealthiest people on the frontier and visibly uneasy about it: *"I got lucky. I'd rather be lucky than smart, but luck doesn't last. Ask me again in ten years whether this was worth it."* She runs the Foundation and tries to stay the person she was before the strike.
 
-**Mayor Tessaly Vane** (52) ran a trading post until the boom made her responsible for 2.3 million people: *"I didn't sign up for this. Nobody signed up for this. We're all improvising."* Overwhelmed, under-resourced, doing what little the office can.
+**Mayor Della Kade** (52) ran a trading post until the boom made her responsible for 2.3 million people: *"I didn't sign up for this. Nobody signed up for this. We're all improvising."* Overwhelmed, under-resourced, doing what little the office can.
 
 **Jace Holloway Jr.** (28) came from Roughneck—his father organises miners there—to organise the processing workers: *"My father taught me that workers have power when they act together. These workers haven't learned that yet. They will."* Management calls him a troublemaker; the workers are still deciding.
 

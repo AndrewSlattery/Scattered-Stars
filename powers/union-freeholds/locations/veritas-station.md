@@ -20,7 +20,7 @@ Founded in 3401 C by a consortium of mercenary companies wanting neutral ground 
 
 ## The asset among the independents
 
-The **Veritas Compact** binds the signatory companies into a workable order—neutrality among themselves, contract registration and arbitration, shared intelligence on non-payers, no poaching of active personnel—and it works because everyone benefits from its working; defy a Veritas ruling and future business dries up. Iron Vanguard's permanent presence sets the tone, and its director, **Kaela Vance**, is the most powerful individual routinely on the station; when she speaks on standards, the industry listens.
+The **Veritas Compact** binds the signatory companies into a workable order—neutrality among themselves, contract registration and arbitration, shared intelligence on non-payers, no poaching of active personnel—and it works because everyone benefits from its working; defy a Veritas ruling and future business dries up. Iron Vanguard's permanent presence sets the tone, and its director, **Kaela Sarn**, is the most powerful individual routinely on the station; when she speaks on standards, the industry listens.
 
 What the Compact does not list among its members is the one that matters most for the frontier's future. The Cartel's security subsidiary, **Aegis**, is headquartered at Veritas—among the independent companies, renting quarters, registering contracts, looking exactly like one more firm—and from that seat the line between an "independent" frontier company and a Cartel instrument becomes precisely as blurry as the Cartel wants it. The Void Reapers' rumoured Cartel connections, the Crimson Lance's studied silence, the contracts that route through intermediaries to ends no one quite traces: this is the texture of a mercenary economy with the buyer's own arm sitting at the centre of it, quietly able to hire, out-bid, or simply absorb. Veritas sells violence and discretion to whoever pays, and is too professional to notice aloud how much of both is now answering, one retainer at a time, to a single house. See the [Sable Cartel](../../sable-cartel/index.md).
 
@@ -30,11 +30,11 @@ The station's ethos is studiously professional: business is business, personal m
 
 ## Figures
 
-**Director Kaela Vance** commands Iron Vanguard and, by presence and reputation, the station's professional tone.
+**Director Kaela Sarn** commands Iron Vanguard and, by presence and reputation, the station's professional tone.
 
 **Broker Thresh**—no full name, identity protected, appearing in person rarely and through intermediaries usually—is among the most successful information brokers on the station: *"I sell truth. Sometimes the truth is uncomfortable. That's not my problem—that's the product."*
 
-**Archive Director Cassia Morn** (71) keeps the Archive and its integrity with a ferocity that has met every attempt at tampering with permanent exclusion: *"Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision."*
+**Archive Director Edra Vire** (71) keeps the Archive and its integrity with a ferocity that has met every attempt at tampering with permanent exclusion: *"Everything we have was given to us by someone who thought it mattered. Whether it still matters is someone else's decision."*
 
 ## Notes
 

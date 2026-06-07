@@ -20,7 +20,7 @@ The companies sort, roughly, by how much their reputation is worth to them: **el
 
 ## The major companies
 
-**Iron Vanguard** is the largest and most prestigious—founded 3412 C, some 180,000 active, headquartered at Veritas Station, built on combined-arms professionalism and the selling point of refusing certain work (no operations against civilians, no clients who fail due diligence, nothing that stains the brand). Its director, **Kaela Vance**, sets the industry's tone. Its current contracts include a significant Yansieve presence—on which side, it does not say.
+**Iron Vanguard** is the largest and most prestigious—founded 3412 C, some 180,000 active, headquartered at Veritas Station, built on combined-arms professionalism and the selling point of refusing certain work (no operations against civilians, no clients who fail due diligence, nothing that stains the brand). Its director, **Kaela Sarn**, sets the industry's tone. Its current contracts include a significant Yansieve presence—on which side, it does not say.
 
 **Void Reapers** (founded 3567 C, ~95,000, headquartered at the Roughneck orbital) are the aggressive end of respectable—ship seizure, boarding, hostile recovery, "aggressive negotiations"—effective, ruthless, trailing wrongful-death settlements and an Arrhenos contract ban, and **rumoured Cartel connections** that they neither confirm nor trouble to deny.
 

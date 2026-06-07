@@ -31,7 +31,7 @@ The Chair rotates annually, by lottery, among Freeholds that have not held it in
 
 The history of the office is a history of doing very little, mostly on purpose.
 
-- **Mira Vance** of Korsen's Anchorage (3341 C) ended the cascading disputes of the Resolution of Seventeen by shuttle diplomacy, and is remembered for it.
+- **Joss Renn** of Korsen's Anchorage (3341 C) ended the cascading disputes of the Resolution of Seventeen by shuttle diplomacy, and is remembered for it.
 - **Caden Rourke** of Veritas Station (3567 C) answered the Mandate's Grey Incursion by assembling a volunteer fleet of four hundred ships from eighty Freeholds and making the occupation uneconomical—the proof that decentralised defence can work at scale.
 - **Thessaly Morn** of Dustmote (3789 C) did almost nothing, and is cited ever since as the ideal: proof the Union runs without a hand on the tiller.
 

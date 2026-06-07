@@ -80,5 +80,8 @@ All seven great powers have been rewritten. Thesis and register for each, for qu
 
 This dossier stays the canon record: keep any future edits consistent with **Cross-power canon** above. What's left is touch-ups and consistency, not new rewrites — and the **method** and **house style** above are preserved for whenever the setting wants this treatment again.
 
-**Polish pass (post-completion).** Two of the three loose ends are closed: the broken `powers/index.md` power-table links are fixed (commit `7da2e18`), and the **Sefkir Reach** now has its own file, `union-freeholds/locations/sefkir-reach.md` (Edda Voss and the 3829 C **Sefkir Compact**; the price paid in prosperity; the Cartel's keep-it-unglamorous patience). One item is left, deliberately deferred because it is not a safe unilateral change:
-- Setting-wide character-name repetition — several **Vance** / **Mira** / **Cassia** across powers (e.g. Mira Vance/Korsen/Thane; Callum/Cassian/Kaela Vance; Cassius Dray, Cassia Morn/Norn), mostly pre-existing. Worth a focused rename pass *with the owner's steer* on which to change and to what; renaming established canon blind is the kind of thing that breaks more than it fixes.
+**Polish pass (post-completion).** All three loose ends are closed. The broken `powers/index.md` power-table links are fixed (`7da2e18`); the **Sefkir Reach** got its own file, `union-freeholds/locations/sefkir-reach.md` (`c279399`); and the colliding character names were deduplicated with the owner's sign-off (ten renames, keeping the load-bearing instances and the Roughneck **Vance** family):
+- Union: **Mira Vance→Joss Renn**, **Kaela Vance→Kaela Sarn**, **Cassia Morn→Edra Vire**, **Cassian Vance→Darrow Vance**, **Mira Thane→Bryn Thane**, **Tessaly Vane→Della Kade**.
+- Vega: **Mira Thrace→Liora Thrace**, **Cassia Norn→Drusa Verro**, **Cassian Cassiline→Lucan Cassiline**.
+- Arrhenos: **Cassia Drummond→Bram Drummond** (also fixing a female-coded name on a male character in an all-male society).
+- Kept: Mira Korsen, Cassius Dray, Thessaly Morn, Lyric Vane, the Cassiline house, the Vance family/city. Left as fine (owner's call): the within-Vega Marcus / Aurel- echoes.
