@@ -36,7 +36,7 @@ In the territory they hold, the rebels have built:
 - an economy reorganised, of necessity, around self-sufficiency;
 - a militia defence.
 
-How well any of it functions is exactly the thing the blockade exists to keep ambiguous. Mandate sources report chaos, scarcity and incipient collapse; sympathetic accounts describe austere but functioning self-rule. The truth is almost certainly in between and getting harder to verify by the month, which suits the Throne: an example no one can clearly see cannot clearly inspire.
+How well any of it functions is exactly the thing the blockade exists to keep ambiguous. Mandate sources report chaos, scarcity and incipient collapse; sympathetic accounts describe austere but functioning self-rule. The truth is almost certainly in between and getting harder to verify by the month, which suits the Throne: an example no one can clearly see cannot clearly inspire. (For what does come through the shell—contradicting itself at every point—see [Yansieve: Voices](yansieve-voices.md).)
 
 ## The argument at the centre
 

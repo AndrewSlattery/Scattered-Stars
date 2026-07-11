@@ -50,7 +50,7 @@ The one argument running fleet-wide is about the future of the body itself. **Ne
 
 ## In depth: Haven Ascendant
 
-One haven, documented closely—the famous, fortunate, archive-keeping Grand Haven—offered here as a detailed example and emphatically *not* as the template for nine hundred billion people.
+One haven, documented closely—the famous, fortunate, archive-keeping Grand Haven—offered here as a detailed example and emphatically *not* as the template for nine hundred billion people. For the other end of the fleet, see [The Lesser Havens](lesser-havens.md): a working Trade Haven on a rimward circuit, and a Refugee Haven that changes its name.
 
 | Topic | Focus |
 |-------|-------|

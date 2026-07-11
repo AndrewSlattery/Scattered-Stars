@@ -1,6 +1,6 @@
 # Little Arrhenos: the Aurelius City Enclave
 
-Every Little Arrhenos is different, and the one in Aurelius City is the biggest, the richest, and the most argued-about—the capital, insofar as the diaspora has one, of the Arrhene abroad. It sits in eleven blocks of Vega's great unglamorous working city on the Meridine continent, where the [reconstruction](../external-relations.md) has been administered for twenty-three years, and it is what happens when the galaxy's most home-tethered diaspora stays anywhere long enough to stop calling it a posting.
+Every Little Arrhenos is different, and the one in Aurelius City is the biggest, the richest, and the most argued-about—the capital, insofar as the diaspora has one, of the Arrhene abroad. It sits in eleven blocks of a great unglamorous working city on the Meridine continent of a Vega planet, where the [reconstruction](../external-relations.md) has been administered for twenty-three years, and it is what happens when the galaxy's most home-tethered diaspora stays anywhere long enough to stop calling it a posting.
 
 | Attribute | Value |
 |-----------|-------|
@@ -22,15 +22,15 @@ The working spine: the [Consortium](../economy.md) house and its satellite firms
 
 ## The children
 
-This is the part the homeworld has no form for. The enclave holds, at last count nobody official made, some hundreds of children with an Arrhene father—the daughters and sons of Vegan marriages, the adopted, the wards—raised half in the bath-house manner and half in Vega's, keeping the single pronoun at home and the gendered ones at school, and fluent past their fathers in both. The Steamworks runs a children's hour on rest-day mornings that would be unremarkable on Arrhenos and is, in Vega, a small standing scandal that everyone involved has agreed not to notice. The enclave's standing argument—held in the pools, at wedding feasts, in the long threads home—is what these children *are*: the diaspora's future, or its dissolving edge, or simply children, sublimely indifferent to the question. The [Ministry's](../society.md) position, requested annually, remains polite, glacial, and quietly evolving.
+The enclave holds, at last count nobody official made, some hundreds of children with an Arrhene father—the daughters and sons of Vegan marriages, the adopted, the wards—raised half in the bath-house manner and half in Vega's, keeping the single pronoun at home and the gendered ones at school, and fluent past their fathers in both. The Steamworks runs a children's hour on rest-day mornings that would be unremarkable on Arrhenos and is, in Vega, a small standing scandal that everyone involved has agreed not to notice.
 
 ## People
 
-**Orsandher Vell** (61) has run the Consortium house for eleven years—a posting that was the making of his career, exactly as the senior men promise, and that he has twice declined to leave. He chairs the Steamworks trust, hosts the Foundation Day feast, and files, every year, the same gentle, immovable memorandum to the Ministry of Continuity about the registry status of the enclave's children. He is patient the way the [tribunals](../banking-war.md) are patient. He expects to win around 3880.
+**Orsandher Vell** (61) has run the Consortium house for eleven years—a posting that was the making of his career, exactly as the senior men promise, and that he has twice declined to leave. He chairs the Steamworks trust and hosts the Foundation Day feast.
 
-**Maru** (14) is what the argument looks like from inside: daughter of a Fleet-agent father and a Vegan mother who manages an Exchange floor, raised in two grammars, unbeatable at the Steamworks children's hour and bored of being asked what she is. She has never seen Arrhenos. She can name the nine months faster than her father, in an accent that makes him laugh: Vega vowels on Campottonì words. Whether the planet will ever have a door for her is a question she has heard adults discuss over her head her whole life, in the tone of people discussing weather on a world she may one day want to visit.
+**Maru** (14) is the daughter of a Fleet-agent father and a Vegan mother who manages an Exchange floor, raised in two grammars, unbeatable at the Steamworks children's hour. She has never seen Arrhenos. She can name the nine months faster than her father, in an accent that makes him laugh: Vega vowels on Campottonì words.
 
-**Tekemi Osthard** (44) came out with the arbitration tribunals, fell—against all his upbringing, exactly as the [warnings](../diaspora.md) warn—for a Vegan woman, and stayed. He is the enclave's worked example, cited in both directions: proof that the leaving happens, and proof that the leavers do not stop being Arrhene—he still keeps Foundation Day, still argues Axiomatic ethics in the steam, and is teaching his daughter to swim in the Steamworks pool with the grim thoroughness of a man who learned in the Nemora's lakes.
+**Tekemi Osthard** (44) came out with the arbitration tribunals, fell for a Vegan woman, and stayed. He is the enclave's worked example, cited in both directions: proof that the leaving happens, and proof that the leavers do not stop being Arrhene—he still keeps Foundation Day, still argues Axiomatic ethics in the steam, and is teaching his daughter to swim in the Steamworks pool with the grim thoroughness of a man who learned in the Nemora's lakes.
 
 ## The texture of it
 

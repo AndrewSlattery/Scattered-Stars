@@ -73,4 +73,5 @@ See [Locations](locations/index.md) for Tiamming in detail—the Chrysanthemum C
 | [Military](military.md) | The largest fleet in human space, the doctrine of mass and patience, and the war it cannot finish |
 | [Culture](culture.md) | Language, faith, food and Misrule—the many lives under one official story |
 | [The Yansieve Rebellion](yansieve-rebellion.md) | The frontier in revolt, the stalemate, and the question it forces on the centre |
+| [Yansieve: Voices](yansieve-voices.md) | Through the blockade—smugglers' logs, rebel broadcasts, refugee testimony, and the Bureau's own paper, none of it verifiable |
 | [Locations](locations/index.md) | Tiamming and beyond |
