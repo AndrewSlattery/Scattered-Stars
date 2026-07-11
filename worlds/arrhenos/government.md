@@ -1,5 +1,7 @@
 # Arrhenos: Government
 
+The republic's government is designed to be boring, and counts that its finest achievement. A planet whose product is trust cannot afford drama at the top: power is split, terms are long, recall is real, and the great offices attract the kind of man who reads actuarial tables for pleasure. Two republics fell before this one; the Third has run for nearly four centuries on the theory that a state, like a bank, is best judged by how little its customers ever need to think about it.
+
 ## The Symposiarch
 
 An elected executive serving seven-year terms.

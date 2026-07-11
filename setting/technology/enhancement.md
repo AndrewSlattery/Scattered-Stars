@@ -4,7 +4,7 @@ Medical and cybernetic advancements have fundamentally altered the baseline huma
 
 ## Lifespan and Aging
 
-Advances in medical therapies have considerably extended the human lifespan. Barring accidents, violence, or catastrophic illness, the average life expectancy is approximately 200 years. Crucially, the aging process has been dramatically slowed; most humans (even those who are non-augmented) barely age visibly past their fortieth year.
+Advances in medical therapies have considerably extended the human lifespan—where the medicine reaches. On the great powers' worlds, the corridor hubs, and anywhere with a modern clinic, life expectancy runs to approximately 200 years barring accidents, violence, or catastrophic illness, and the aging process has been dramatically slowed: even the non-augmented barely age visibly past their fortieth year. The reach is not universal. On poor and isolated worlds, in refugee havens and company towns and provisional territories, lifespans run decades shorter, and the gap between a corridor lifetime and a frontier one is among the quietest and largest inequalities in human space.
 
 ## Enhancement eXtent (EX) Scale
 

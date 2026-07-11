@@ -7,7 +7,7 @@ Worlds with distinctive characteristics that shape their societies in unusual wa
 
 A low-gravity world with a dense atmosphere, allowing for human flight with minimal clothing and equipment.
 
-The combination of reduced gravity and thick air means that with simple wing-suits or even less, humans can achieve sustained flight. This fundamentally shapes Awyr's architecture, transportation, social customs, and sense of space.
+The combination of reduced gravity and thick air means that with simple wing-suits or even less, humans can achieve sustained flight. This shapes Awyr's architecture, transportation, customs, and sense of space—differently in each of its societies: flight means one thing to a fishing archipelago, another to a mountain city, and a third to the lowland communities that, to everyone else's bafflement, mostly walk.
 ## Periapt
 
 **System:** Ptica

@@ -6,7 +6,7 @@ The contest itself is the surprising part. Strip off the costumes and Vega is a 
 
 | Attribute | Value |
 |-----------|-------|
-| Population | ~1.4 trillion—of whom the famous aristocracy is a few thousand families; the rest are the workforce that builds the spectacle and the audience it is staged for |
+| Population | ~1.5 trillion—of whom the famous aristocracy is a few thousand families; the rest are the workforce that builds the spectacle and the audience it is staged for |
 | Centre | The Vega system; the throne world **Lyra**, where the seen live and the unseen serve |
 | Government | Hereditary aristocracy under permanent market discipline—a real meritocracy with only a few thousand seats |
 | Sovereign | **Queen Lysandra IV**, 67 years on the Commercial Throne; sovereign and chief executive in one person |

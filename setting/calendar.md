@@ -14,7 +14,7 @@ The C Calendar serves as the standard timekeeping system across human space, pro
 
 ## Daily Rhythm
 
-The 20-hour day significantly shifts the numerical designation of familiar times compared to historical systems. Dawn typically occurs around the 5th hour, midday at the 10th hour, evening approaches near the 15th hour, and midnight strikes at the 20th hour.
+The 20-hour day significantly shifts the numerical designation of familiar times compared to historical systems. On worlds and stations synchronised to the standard day, dawn typically occurs around the 5th hour, midday at the 10th hour, evening approaches near the 15th hour, and midnight strikes at the 20th hour. On worlds whose rotation cannot be made to match, the standard day is bookkeeping, and local life runs on local light.
 
 ## Date Format
 

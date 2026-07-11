@@ -31,9 +31,10 @@ This list is radically non-exhaustive. There is considerably more geography, bot
 | [Gamma](verenstad-gamma/gamma.md) | Geostationary complex above Verenstad |
 | The Argantorate | Orbital financial stations |
 
-### Off-World Holdings
+### Off-World Holdings and Enclaves
 
 | Location | Character |
 |----------|-----------|
 | Oryx | Mining |
 | Outrase | Research |
+| [Little Arrhenos (Aurelius City)](little-arrhenos.md) | The diaspora's largest enclave, in Vega |

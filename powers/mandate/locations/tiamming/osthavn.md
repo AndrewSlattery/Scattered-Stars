@@ -1,6 +1,6 @@
 # Osthavn
 
-Osthavn feeds the Mandate and is, in every sense the word can carry, far from power. The southern continent of Tiamming grows the food that supplies the throne world and ships the surplus across the empire, and it does so at a remove from the Chrysanthemum Court that is geographic, cultural and temperamental all at once. It is the part of Tiamming that the other two parts forget about until the harvest arrives—which suits a great many people in Osthavn perfectly well.
+Osthavn feeds the throne world and is, in every sense the word can carry, far from power. The southern continent of Tiamming grows the food that supplies the planet, and ships the famous fraction—the ceremonial vintages, the court fruits, the delicacies worth flying between stars—to core worlds that could feed themselves but not like this. It does all of it at a remove from the Chrysanthemum Court that is geographic, cultural and temperamental all at once. It is the part of Tiamming that the other two parts forget about until the harvest arrives—which suits a great many people in Osthavn perfectly well.
 
 | Attribute | Value |
 |-----------|-------|

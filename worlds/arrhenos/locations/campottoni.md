@@ -24,7 +24,7 @@ Dominating the financial district. The Arrhenos Financial Consortium's headquart
 
 ## Character
 
-Campottonì combines the weight of history—this is where humanity's most successful intentional society began—with the bustle of a working capital. Government, finance, and culture concentrate here, drawing ambitious men from across the planet.
+Campottonì combines the weight of history—this is where, by its own confident account, humanity's most successful intentional society began—with the bustle of a working capital. Government, finance, and culture concentrate here, drawing ambitious men from across the planet.
 
 The city's language serves as a planetary common tongue, though Campottonì natives are often bemused by the simplified version spoken elsewhere.
 

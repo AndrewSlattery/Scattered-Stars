@@ -30,7 +30,7 @@ Dray has declined bribes from every major power and holds the neutrality like a 
 
 ## Culture
 
-Most of the Anchorage is passing through—traders between contracts, crews between jobs, prospectors between strikes, Drift people during a haven's connection—and the transience sets the tone: relationships form fast and dissolve faster, nobody asks about your past, nobody expects you to stay. The twelve million **permanents** who made it home—service providers, multi-generational families, people who simply stopped moving—occupy the same corridors and a different world. Everything is available: bars from the refined to the disreputable, gambling, sex work at every price, combat sports, Vega serials. The **Long Descent**, a bar old enough to appear in route documentation as a navigation landmark ("three days past the Long Descent connection"), is an institution for no better reason than that it has simply always been there.
+Most of the Anchorage is passing through—traders between contracts, crews between jobs, prospectors between strikes, Drift people during a haven's connection—and the transience sets the tone: relationships form fast and dissolve faster, nobody asks about your past, nobody expects you to stay. The twelve million **permanents** who made it home—service providers, multi-generational families, people who simply stopped moving—occupy the same corridors and a different world. Everything is available: bars from the refined to the disreputable, gambling, sex work at every price, combat sports, Vega serials. The **Tumbledown**, a bar old enough to appear in route documentation as a navigation landmark ("three days past the Tumbledown connection"), is an institution for no better reason than that it has simply always been there.
 
 ## Figures
 

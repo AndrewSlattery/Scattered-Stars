@@ -46,7 +46,7 @@ Learned for off-world engagement.
 
 ### Pronouns
 
-All Arrhene languages have only one set of animate pronouns, used regardless of gender.
+Arrhene languages have only one set of animate pronouns, used regardless of gender. The convergence is so nearly total that the exceptions are famous: a pair of upland dialects near Zespol keep a vestigial gendered form—heard now only in old verse and, mischievously, applied to off-worlders—and the linguists have argued about why for two centuries.
 
 ## Literature
 

@@ -9,7 +9,7 @@ A world where over two billion men have built a civilisation entirely without wo
 | System | Mas |
 | Population | 2.1+ billion |
 | Government | Meritocratic republic (Third Republic, since 3487 C) |
-| Economy | Premier banking centre |
+| Economy | Neutral banking and arbitration—a niche trade in which Arrhenos is the first name |
 | Character | Single-gender society, financial services, neutrality |
 
 Orbital visitors seek financial services, quantum computing expertise, and architectural innovations.

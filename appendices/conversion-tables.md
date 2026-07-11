@@ -25,7 +25,7 @@
 
 ## Currency
 
-Exchange rates fluctuate. The quid (ϟ) is the universal standard; local currencies trade against it at variable rates.
+Exchange rates fluctuate. The quid (ϟ) is the corridor standard; the thousands of local currencies trade against it at variable rates, where they trade against it at all.
 
 ## Enhancement eXtent (EX)
 

@@ -1,6 +1,6 @@
 # Parvati
 
-Parvati makes what the Mandate consumes, and the Mandate would rather not think about Parvati. The equatorial continent of Tiamming is where the empire builds its ships, forges its weapons, processes its materials and assembles its goods—the work that keeps a civilisation running and stays, by mutual arrangement, invisible to the aristocrats in the north who enjoy its products. It is also where the citizen-subject line presses hardest, because Parvati is where the Mandate keeps most of its subjects.
+Parvati makes what the throne world consumes, and the throne world would rather not think about Parvati. An empire of hundreds of worlds builds almost everything locally—no continent could supply two point four trillion people—but the equatorial continent of Tiamming is where the core's industry lives and where the empire keeps its prestige tier: the fleet's honour-yards, the pattern-forges whose designs the provincial worlds copy, the works that set the standard the rest of the Mandate is measured against. It is the work that keeps the centre running and stays, by mutual arrangement, invisible to the aristocrats in the north who enjoy its products. It is also where the citizen-subject line presses hardest, because Parvati is where Tiamming keeps most of its subjects.
 
 | Attribute | Value |
 |-----------|-------|

@@ -1,112 +1,43 @@
 # The Lazarus Project
 
-The Collective's ongoing initiative to revive formerly failed terraforming projects across human space.
+Terraforming has a graveyard, and the Collective has appointed itself the keeper. Hundreds of worlds across human space bear the scars of terraforming that failed—abandoned by bankrupt corporations, botched by confident amateurs, outrun by colonial governments whose ambitions exceeded their ecology. The Lazarus Project is the guild's standing programme to revive them, and it is three things at once, in proportions the Collective prefers not to audit: its most genuine act of conscience, its most effective advertisement, and the deadliest work it asks anyone to do.
 
-## Background
+## What a dead world is
 
-Hundreds of worlds bear the scars of abandoned or botched terraforming. The Collective did not create all of these disasters—many predate the guild's founding or were attempted by independent operators, colonial governments, or corporate ventures that lacked the Collective's expertise. But the failures exist, and they represent both a problem and an opportunity.
+A failed terraforming project does not return a world to its natural state. It leaves something worse—conditions that are neither the stable hostility the planet started with nor the stable habitability it was promised, but an unstable ruin that goes on deteriorating without anyone's help.
 
-### The Problem
-
-Failed terraforming leaves worlds in conditions worse than their natural state:
-
-| Failure Type | Consequence |
+| Failure type | What it leaves |
 |-------------|-------------|
-| Atmospheric contamination | Toxic atmospheres that are neither naturally stable nor breathable |
-| Ecosystem collapse | Introduced organisms that died out or became invasive, destroying native chemistry |
-| Geological destabilisation | Drilling, mining, or gravitational modification that triggered tectonic instability |
-| Hydrological disruption | Water systems redirected or contaminated beyond natural recovery |
-| Cascading failure | Multiple systems interacting to produce conditions more hostile than the original planet |
+| Atmospheric contamination | Air that is neither breathable nor naturally stable |
+| Ecosystem collapse | Introduced organisms dead, or invasive, or both in sequence |
+| Geological destabilisation | Drilling, mining, or gravitational work that woke the tectonics |
+| Hydrological disruption | Water systems redirected or poisoned past natural recovery |
+| Cascading failure | Several of the above, feeding one another, producing conditions more hostile than the original rock |
 
-These worlds are not merely uninhabitable—they are actively dangerous, their environments unstable and unpredictable. Some continue to deteriorate without intervention.
+The Collective did not make most of these ruins—many predate the guild, and the rest were mostly the work of operators without its expertise, which is exactly the point the guild does not tire of making. A restored world is a better argument than any brochure, and a gallery of amateur catastrophes is a better argument still for why the Genesis Protocols stay locked in the [Archive](locations/the-garden.md). The Project is sincere. It is also the marketing department, and both things are load-bearing.
 
-### The Opportunity
+## How it works
 
-Reclaiming failed worlds demonstrates the Collective's capabilities more effectively than any marketing campaign. A world restored from ecological disaster to habitability is a compelling advertisement for the guild's expertise—and a powerful argument against allowing non-Collective operators to attempt terraforming.
+**Assessment** comes first: a small team of five to ten specialists, six to eighteen months on a dead world, establishing what failed, how far the failure has run, and whether the place can be saved at all. Some cannot—damage too extensive, conditions too unstable, cost past any justification—and the Collective, whose whole craft is knowing what a world will bear, does not attempt the impossible. The unrecoverable are documented, monitored, and left to their long decay, each one an entry in the Archive's most sobering catalogue.
 
-## Operations
+**Restoration** follows for the worlds that qualify, and it is harder than virgin terraforming by a margin the guild teaches its apprentices early. An untouched world is hostile and *stable*; a failed one is hostile and *chaotic*, its broken systems still moving, so that the crews must stabilise a collapse while building its replacement—rebuilding the ship, as the guild says, while it sinks.
 
-### Assessment Teams
+It is also the work that kills. The [Tenders](culture.md) do most of it: the worst air the Collective ever asks anyone to breathe, machines improvised against conditions no protocol anticipated, decades-long postings on worlds that were someone else's mistake. **Maret Solveig**, the Seventh Grandmaster, has led Reclamation for most of her career and has buried more Tenders than any Grandmaster alive—and it has escaped none of her colleagues that the Council's most insistent voice for naming the Tender dead in the [world-songs](culture.md) is the woman who signs the letters home. The Project is where the guild's class line and its conscience meet, and the meeting is not comfortable.
 
-The Lazarus Project begins with assessment. Small teams of specialists—typically 5–10 members—survey failed worlds to evaluate:
+## The showpieces
 
-- Current environmental conditions
-- Nature and extent of the failure
-- Likelihood of successful restoration
-- Estimated timeline and resource requirements
-- Whether the world is recoverable at all
+**Veldtgrave** — *ecosystem collapse; corporate.* An agricultural venture of the 3720s whose ecosystem was engineered for maximum yield rather than stability; it ran for thirty years, collapsed in cascading species failures, and was abandoned when its owner went bankrupt. The Collective took it up in 3782 C, and eighty years of painstaking work have re-established a functioning soil biome and basic vegetation cover, with animal reintroduction due within the decade and another thirty to fifty years still to run. Veldtgrave is the Project's parable of corporate negligence, and the guild cites it the way other cultures cite scripture.
 
-Assessment missions last 6–18 months. Some worlds are deemed unrecoverable—the damage too extensive, the conditions too unstable, the cost too high. These worlds are documented and monitored; the Collective does not attempt the impossible.
+**Marchetti's Folly** — *atmospheric contamination; independent.* Named for Giuliana Marchetti, an independent terraformer of the 3650s whose non-standard atmospheric conversion produced air that was technically breathable and progressively neurologically ruinous. The guild's atmospheric engineers have spent thirty years since 3831 C scrubbing her signature out of the sky; the recent reclassification from Suit to Dome is real progress, with full restoration estimated at another twenty to forty years. The Folly is the parable of the gifted amateur—what one clever, unsupervised person can do to a world, offered to every client who asks why the Genesis methods cannot simply be licensed.
 
-### Restoration Crews
+**Brighthollow** — *hydrological disruption; governmental.* A colonial government's ambitious irrigation scheme redirected the water systems and soured the soil chemistry beneath a nascent biosphere; three decades of failed self-remediation later, the same government hired the guild (3850 C). The restoration is twelve years into an estimated thirty, and is complicated less by the hydrology than by the client, who wants rapid agricultural recovery where the guild wants systematic restoration, and who has learned that commissioning the Collective means accepting its pace. Brighthollow is the parable the guild tells more quietly: even the customers who can afford the best will, given the chance, make the same mistakes again.
 
-Worlds assessed as recoverable receive full Collective project teams. Restoration follows the same general principles as initial terraforming—atmospheric work, biological introduction, geological stabilisation—but with the added complexity of managing existing damaged systems.
+## The Anomalies
 
-Restoration is often harder than initial terraforming. A virgin world's conditions are inhospitable but stable; a failed world's conditions are inhospitable *and chaotic*. The restoration team must stabilise deteriorating systems while simultaneously introducing new ones—a process compared, within the guild, to rebuilding a ship while it sinks.
+Three times—on three worlds catalogued as **Lazarus Anomaly sites**—assessment teams have found the remains of terraforming the Collective does not recognise. The atmospheric chemistry is wrong for every known method; the geological modifications follow no logic in the Archive; the biological remnants descend from no lineage the Conservatory holds. All three sites predate reliable records.
 
-It is also the deadliest work the Collective does, and the Tenders do most of it. Stabilising a chaotic, half-poisoned world means crews in the worst air the guild ever asks anyone to breathe, working machines improvised against conditions no protocol anticipated. Maret Solveig, the Seventh Grandmaster, has led Reclamation for most of her career and has buried more Tenders than any Grandmaster alive; that she is also the Council's most insistent voice for naming the Tender dead in the world-songs is not a coincidence her colleagues have failed to notice.
+The official position is cautious interest: the sites are monitored, studied, and pointedly *not* restored until the original techniques are understood, since erasing them would erase the only copy of whatever they were. Within the guild the speculation runs less cautiously. A lost school of planetary engineering—pre-Cascade, pre-Collective, perhaps pre-Scattering—would be the largest discovery in the craft's history, and a standing insult to the guild's belief that it holds the whole art; failures so catastrophic that even the evidence stopped making sense would be almost as instructive. Solveig has made the Anomalies a personal priority, and her assessment teams now carry instrumentation designed to detect anomalous signatures wherever they go. Whatever the three sites are, the guild that knows more about making worlds than anyone alive has looked at them closely and does not know—and there are members of the Seventh's own staff who find that fact more interesting than anything else the Project has ever produced. (See [Appendix E: Open Questions](../../appendices/mysteries.md).)
 
-## Notable Sites
+## The ledger
 
-### Veldtgrave
-
-| Attribute | Value |
-|-----------|-------|
-| Original project | Corporate venture, 3720s C |
-| Failure type | Ecosystem collapse |
-| Restoration begun | 3782 C |
-| Current status | Ongoing (year 80) |
-
-A agricultural world where the original terraforming corporation introduced an ecosystem designed for maximum food production rather than stability. The system functioned for thirty years before cascading species failures collapsed the biosphere. The corporation went bankrupt; the world was abandoned.
-
-The Collective's restoration has been painstaking. Eighty years of work have reestablished a functioning soil biome and basic vegetation cover. Animal reintroduction is scheduled to begin within the decade. The project is expected to continue for another 30–50 years.
-
-Veldtgrave is the Lazarus Project's most prominent example of corporate terraforming negligence. The Collective cites it frequently.
-
-### Marchetti's Folly
-
-| Attribute | Value |
-|-----------|-------|
-| Original project | Independent operator, 3650s C |
-| Failure type | Atmospheric contamination |
-| Restoration begun | 3831 C |
-| Current status | Recently reclassified from Suit to Dome |
-
-Named for Giuliana Marchetti, an independent terraformer who attempted atmospheric conversion using non-standard techniques. The result: an atmosphere that was technically breathable for short periods but contained trace compounds that caused progressive neurological damage.
-
-The Collective's atmospheric engineers have spent thirty years scrubbing Marchetti's contamination. The recent reclassification to Dome—survivable atmosphere within enclosed structures—represents significant progress. Full atmospheric restoration is estimated at another 20–40 years.
-
-### Brighthollow
-
-| Attribute | Value |
-|-----------|-------|
-| Original project | Colonial government, 3790s C |
-| Failure type | Hydrological disruption |
-| Restoration begun | 3850 C |
-| Current status | Year 12 of estimated 30-year programme |
-
-A world where ambitious irrigation projects redirected natural water systems, triggering soil chemistry changes that poisoned the nascent biosphere. The colonial government requested Collective assistance after three decades of failed independent remediation.
-
-Brighthollow's restoration is complicated by political sensitivities—the colonial government wants to remain involved in decision-making, and their priorities (rapid agricultural recovery) sometimes conflict with the Collective's methodology (systematic environmental restoration).
-
-## Anomalies
-
-Lazarus assessment teams have occasionally encountered failed terraforming projects that resist analysis.
-
-On three documented occasions—worlds catalogued as Lazarus Anomaly sites—assessment teams found evidence of terraforming techniques the Collective does not recognise. The atmospheric chemistry, geological modifications, or biological remnants suggest approaches fundamentally different from any known terraforming methodology.
-
-These sites predate reliable records. Whether they represent pre-Collective human experiments, lost techniques from the early Scattering, or something else entirely is unknown. The Collective's official position is cautious interest; the anomaly sites are monitored and studied but not subjected to restoration until the original techniques are better understood.
-
-Within the guild, the anomalies generate considerable speculation. A lost school of planetary engineering—techniques that might complement or even surpass the Collective's own methods—would be a discovery of immense significance. Or the anomalies might represent failures so catastrophic that even the evidence of the attempt is difficult to interpret.
-
-The Seventh Grandmaster, Maret Solveig, has made the anomalies a personal priority. Her assessment teams now carry instrumentation specifically designed to detect anomalous terraforming signatures.
-
-## Funding
-
-The Lazarus Project is funded from the Collective's general treasury, supplemented by:
-
-- Fees from polities that commission specific restorations (Brighthollow's colonial government, for example)
-- Research grants from institutions interested in planetary science
-- Donations from worlds that credit the Collective with their habitability and feel obligated to support the guild's charitable work
-
-The project operates at a net loss. The Collective considers this acceptable—the reputational value, the research opportunities, and the moral obligation justify the expenditure.
+The Project runs at a net loss, funded from the general treasury and topped up by commissioning polities (Brighthollow's government among them), research grants, and the donations of worlds that owe the guild their sky and feel it. The Council counts the loss acceptable—reputation, research, and obligation each justify a share of it—and renews the budget without much argument, which for this Council is itself a statement. Whatever else the Collective is unsure of, it is sure the graveyard should be tended, and sure it should be the one holding the keys.

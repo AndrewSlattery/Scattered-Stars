@@ -31,14 +31,14 @@ A reconstruction is not an exhibit but an *environment*: a volume of the station
 
 | Name | Source | Era | Scale |
 |------|--------|-----|-------|
-| Meridian District | São Paulo, Earth | 22nd century | 0.8 km² urban streetscape |
+| The Paulista District | São Paulo, Earth | 22nd century | 0.8 km² urban streetscape |
 | The Hanging Market | Covenant Station (destroyed 2891 C) | Pre-destruction | 0.3 km² market complex |
 | Firstfall | The Cascade declaration site | 2756 C | A single plaza, a single moment |
 | The Yennara Coast | Yennara (failed colony) | 2845–2847 C | 1.2 km coastline, seasonal cycles |
 | The Jade Emperor's Court | A reconstruction of a reconstruction | Tang Dynasty aesthetic | 0.4 km² palace complex |
 | Memorial Corridor | Composite | Various | A processional of destroyed places |
 
-**Firstfall** holds eighteen minutes of the morning of 3.2/1, 2756 C: the crowd gathering in Covenant Station's plaza, the rising tension, the reading of the Vandemeyer Declaration that triggered the Cascade, the first cheers—and then the loop resets, the dead about to become history once more. **The Meridian District**, the oldest, recreates an ordinary São Paulo neighbourhood no one important ever came from—documented only because one Foundation researcher grew up there and recorded every detail before he left—and unlike Firstfall it *lives*: weather, day and night, seasons, performers who age in their roles and are replaced and age again. **The Hanging Market** is a memorial rather than an entertainment, rebuilding a Trade Haven destroyed in 2891 C in a piracy incident that ran past anyone's intent; its performers are descendants of the survivors, its admission free, and a visit there is understood not as a diversion but as an act of witness. See [Characters](characters.md) for Dace Velorum, who works it.
+**Firstfall** holds eighteen minutes of the morning of 3.2/1, 2756 C: the crowd gathering in Covenant Station's plaza, the rising tension, the reading of the Vandemeyer Declaration that triggered the Cascade, the first cheers—and then the loop resets, the dead about to become history once more. **The Paulista District**, the oldest, recreates an ordinary São Paulo neighbourhood no one important ever came from—documented only because one Foundation researcher grew up there and recorded every detail before he left—and unlike Firstfall it *lives*: weather, day and night, seasons, performers who age in their roles and are replaced and age again. **The Hanging Market** is a memorial rather than an entertainment, rebuilding a Trade Haven destroyed in 2891 C in a piracy incident that ran past anyone's intent; its performers are descendants of the survivors, its admission free, and a visit there is understood not as a diversion but as an act of witness. See [Characters](characters.md) for Dace Velorum, who works it.
 
 ### Confidence ratings, and the discipline behind them
 

@@ -20,7 +20,7 @@ The Bureau monitors both and cares about only one. Sedition in Classical is sedi
 
 The Mandate promotes no religion and tolerates most, for a reason it remembers precisely: the First Dynasty fell partly to religious war, and the Modern Mandate was built by people determined never to repeat it. Faith is therefore *managed*, not crushed. Religious bodies register; they accept Bureau monitoring, limits on proselytising, ceilings on property; in return they are left alone to do what they do.
 
-Most citizens and subjects carry no strong religious commitment. Those who worship tend to follow traditions older than the Mandate, adapted over generations to attract as little official notice as possible—a faith that has learnt to keep its voice down. The **Ministry of Rites** oversees all of this alongside Imperial ceremony, and its true doctrine is administrative: keep movements visible, fragmented and politically quiet, and they may believe whatever they like.
+No census of the soul is possible across an empire this size; the Ministry's own figures say most citizens and subjects carry no strong religious commitment, and the figures count exactly what people are willing to tell the Ministry of Rites. The worship that shows itself tends to follow traditions older than the Mandate, adapted over generations to attract as little official notice as possible—a faith that has learnt to keep its voice down—and whole provincial worlds are quietly, thoroughly devout in ways the registries record as folklore. The **Ministry of Rites** oversees all of this alongside Imperial ceremony, and its true doctrine is administrative: keep movements visible, fragmented and politically quiet, and they may believe whatever they like.
 
 ## Art and entertainment
 
@@ -34,17 +34,17 @@ Hiveholm and the manufacturing worlds grow their own: music built on factory rhy
 
 ### Imported entertainment
 
-Vega Commercial Throne productions are devoured across the Mandate despite—or because of—their foreign origin. The Bureau screens them for subversion and bans the occasional title; the penetration is far too deep to reverse, and everyone involved knows it. The Mandate condescends to Vega's glittering frivolity in public and watches it in private.
+Vega Commercial Throne productions are devoured across the connected Mandate—the core, the hubs, anywhere the couriers call—despite, or because of, their foreign origin; out in the slow provinces the same serials arrive years old and are devoured anyway, alongside local productions the core has never heard of. The Bureau screens the imports for subversion and bans the occasional title; the penetration is far too deep to reverse, and everyone involved knows it. The Mandate condescends to Vega's glittering frivolity in public and watches it in private.
 
 ## Cuisine
 
-Three traditions, three philosophies of what food is for.
+An empire of two hundred languages cooks in at least as many kitchens, and the Court has tasted almost none of them. What it has tasted—and canonised—are the throne world's three traditions: the ones Classical poetry has words for, elevated by proximity to power into *the* Mandate cuisines the way Xuanese speech became *the* Classical. They are three philosophies of what food is for.
 
 **Xuanese (northern).** Refinement: subtle flavours, exact presentation, ingredients chosen as much for symbol as for taste. A formal Xuanese meal tells a story, and eating it is a performance with rules. Court cuisine; the highest prices and the longest training.
 
 **Parvatan (industrial).** Fuel: efficient, calorie-dense, built for workers eating fast—bold spices to cut through industrial air, fermented condiments that keep for months. Aesthetics are beside the point, which is itself an aesthetic, and one the rest of the Mandate has started ordering.
 
-**Osthavn (agricultural).** Abundance: seasonal feasts impossible to stage anywhere else, fresh produce in varieties the cities never see, more food than the table can finish. The bounty is exported; what stays behind is still more than most of the Mandate eats.
+**Osthavn (agricultural).** Abundance: seasonal feasts impossible to stage anywhere else, fresh produce in varieties the cities never see, more food than the table can finish. The famous fraction is exported; what stays behind is still more than most of Tiamming ever eats.
 
 ## Misrule
 
@@ -67,6 +67,7 @@ The Mandate's rulers have always understood that pressure wants a valve. Misrule
 - **Chrysanthemum Court:** elaborate, choreographed, documented—an inversion so aestheticised it inverts nothing.
 - **Hiveholm:** raw. Workers say things that verge on sedition; supervisors drink themselves insensible rather than have to remember hearing them. The Bureau watches and rarely moves. On the fourth day everyone recalls exactly what was said, and everyone pretends otherwise.
 - **The provincial estates:** as the lord prefers. Some embrace it; some endure it; none has managed to abolish it.
+- **The far worlds:** kept fervently on some, perfunctorily on others, and on many fused past recognising with older local festivals—the Ministry of Rites counts them all as Misrule and is wise enough not to look closer.
 - **The unregistered:** Misrule protects only those the system recognises. In the Substrate the festival is just three days the sweeps are less likely to come.
 
 ## Social customs
@@ -81,4 +82,4 @@ Position is meant to be seen. Dress signals profession and rank; subject registr
 
 ### Hospitality
 
-The traditions of the guest run deep and cross every other line. A guest is sacred; enemies may share a table under hospitality's protection; to violate it is a serious transgression that even hard men are slow to commit. It is the one relation in the Mandate that the citizen-subject distinction does not touch—which is exactly why it matters so much to the people the distinction touches most.
+The traditions of the guest run deep across most of the empire, in forms as various as its kitchens—here a formal code, there a habit of the table—but converging on the same core: a guest is sacred; enemies may share a table under hospitality's protection; to violate it is a serious transgression that even hard men are slow to commit. It is the one relation in the Mandate that the citizen-subject distinction is not supposed to touch—an ideal kept with real fervour in some regions and as mere manners in others, which is exactly why it matters so much to the people the distinction touches most, and why its violations are remembered for generations.

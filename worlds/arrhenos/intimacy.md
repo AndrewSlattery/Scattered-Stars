@@ -16,7 +16,7 @@ Arrhene men take this separation for granted, and are mildly puzzled when off-wo
 
 Privacy, where it exists, rests on manners rather than locks. The etiquette of the private bath chamber—a door but no lock, a double knock and then a wait—runs through the culture at large. A man's solitude is respected because intruding on it is rude, not because it is barred.
 
-Sex carries little shame and no necessary connection to romance: it may express love, or friendship, or appetite, or nothing much at all. [Commercial intimacy](locations/brovdingonai/nightlife.md) is legal and regulated without great fuss, clustering where transients and off-worlders pass through—the [Transient Quarter](locations/verenstad-gamma/transient-quarter.md), the livelier reaches of [Gamma](locations/verenstad-gamma/gamma.md), a quarter of every spaceport city. Romance and erotica are mainstream in [literature](culture.md), neither hidden nor sniggered at.
+Sex carries little shame and no necessary connection to romance: it may express love, or friendship, or appetite, or nothing much at all. [Commercial intimacy](locations/brovdingonai/nightlife.md) is legal and regulated without great fuss, clustering where transients and off-worlders pass through—the [Transient Quarter](locations/verenstad-gamma/transient-quarter.md), the livelier reaches of [Gamma](locations/verenstad-gamma/gamma.md), a quarter of most spaceport cities. Romance and erotica are mainstream in [literature](culture.md), neither hidden nor sniggered at.
 
 ## Courtship
 

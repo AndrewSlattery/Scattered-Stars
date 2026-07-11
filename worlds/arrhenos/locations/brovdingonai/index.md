@@ -17,12 +17,12 @@ Genuinely temperate—proper seasons, autumn colour in genetically adapted trees
 
 Brovdingonai sits where the Hesperine Plateau's gentle elevation gives way to broader lowlands.
 
-Residences run four to seven storeys, public spaces and commerce twice that—dense in the good way, mixed-use, interconnected by translucent walkways that glow after dark. Rooftop gardens are universal.
+Residences run four to seven storeys, public spaces and commerce twice that—dense in the good way, mixed-use, interconnected by translucent walkways that glow after dark. Rooftop gardens are everywhere—by ordinance in some districts, by competitive pride in the rest.
 ## Locations
 
 - [Westslope Gardens](westslope-gardens.md) — Residential, including the Makris-Webb family
 - [Fountain Plazas](fountain-plazas.md)
-- [The Marketplace](marketplace.md) — Bohemian multi-level
+- [The Shambles](shambles.md) — Multi-level market district, the city's commercial and social heart
 - [The Stadium](stadium.md) — Jockey, the Brovdingonai Titans
 - [Industrial District](industrial-district.md) — Agritech towers
 - [Transit Hub](transit-hub.md) — Tram and intercity bullet interchange

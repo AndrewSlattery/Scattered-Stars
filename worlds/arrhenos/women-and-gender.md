@@ -1,6 +1,6 @@
 # Arrhenos: Women and Gender
 
-The standing assumption off-world is that a man from a world without women must be naive about them—sheltered, fascinated, easily startled. Arrhenes find the assumption tiresome, because it is almost exactly wrong. They have never lived alongside women, but they have grown up *surrounded by them* all the same: in [Vega's](../../powers/vega-throne/index.md) entertainments, which saturate human space; in the news that arrives with every ship; in history, literature, and the testimony of the [diaspora](diaspora.md). The average Arrhene has seen more women on screen than he could ever count and met a fair number in person, at [Gamma](locations/verenstad-gamma/gamma.md) or abroad. Awe is not the reflex. Mild impatience at being *expected* to feel awe is closer.
+How the gendered galaxy receives an Arrhene depends on where he lands. In the ports that see Arrhene clerks every week, he is furniture; in regions that know Arrhenos only as a bank, the gender arrangements come as trivia, learned late and shrugged at; and there are worlds that have never heard of the place at all and simply meet a banker with a strange accent. But where the planet is known mainly as a curiosity—which is a great deal of the galaxy—one assumption recurs often enough that the diaspora has a tired joke for it: that a man from a world without women must be naive about them—sheltered, fascinated, easily startled. Arrhenes find the assumption tiresome, because it is almost exactly wrong. They have never lived alongside women, but they have grown up *surrounded by them* all the same: in [Vega's](../../powers/vega-throne/index.md) entertainments, which travel nearly everywhere ships do; in the news that arrives with every ship; in history, literature, and the testimony of the [diaspora](diaspora.md). The average Arrhene has seen more women on screen than he could ever count and met a fair number in person, at [Gamma](locations/verenstad-gamma/gamma.md) or abroad. Awe is not the reflex. Mild impatience at being *expected* to feel awe is closer.
 
 ## What They Know, and What They Don't
 
@@ -14,7 +14,7 @@ The second is harder, and it is not *women* at all but the *dance*: the gendered
 
 [Arrhene languages](culture.md) carry a single set of animate pronouns, used for everyone. Gender is not a thing one marks, because at home there is nothing to mark it against; it is simply not a category the mind reaches for. An Arrhene recounting his day does not register the gender of anyone in it, any more than a speaker of another tongue registers the case-endings he uses without thought.
 
-This surfaces, oddly, in [Trade Tongue](culture.md), which does carry gender. An Arrhene speaking it must handle a distinction he does not feel, and the handling has a tell—a flatness, an over-correction, a gender marked a beat late or not at all. To people who know the accent, it is as good as a passport. Gendered insults and idioms from other languages, meanwhile, tend to land on him inert; the machinery that makes them sting was never installed.
+This surfaces, oddly, in [Trade Tongue](culture.md), which does carry gender. An Arrhene speaking it must handle a distinction he does not feel, and the handling has a tell—a flatness, an over-correction, a gender marked a beat late or not at all. To people who know the accent, it is as good as a passport—though a diaspora man thirty years abroad may have sanded the tell away entirely, and enjoys being mistaken for whatever they mistake him for. Gendered insults and idioms from other languages, meanwhile, tend to land on him inert; the machinery that makes them sting was never installed.
 
 ## The Range of Feeling
 
@@ -35,8 +35,11 @@ The traffic runs both ways. If outsiders misread Arrhenos, it is partly because 
 | A gimmick—bankers with a conceit | The dismissive, who have seen only the orbital |
 | A prurient curiosity—*how does it even work* | The crude, of whom there are always plenty |
 | A refuge—a life without the frictions of gender | Those who would not mind living as Arrhenos lives |
-| An offence against nature or scripture | The few worlds that still hold strong religion |
+| A planet of misogynists—a wall built to keep women out | Those who read the founding as a rejection rather than an experiment; to eyes looking for contempt, indifference will do. The cranky reactionary fringe, on the rare occasions it travels, keeps the notion in business |
+| An offence against nature or scripture | The worlds where scripture governs—more of them than the corridors remember |
 | An indispensable nuisance | Everyone whose money depends on Arrhene neutrality |
+
+The table is missing its least impressed entry. In ten thousand settled worlds, Arrhenos is not the only society to have rearranged gender—merely the largest, the richest, and the one with a bank attached. There are single-sex colonies that stayed small or failed, post-gender collectives, worlds that count five genders and worlds that stopped counting; their inhabitants regard Arrhenos without wonder, the way one old experiment regards another, and Arrhene scholars keep up a quiet, cousinly correspondence with several. The galaxy's fascination is a provincialism of the majority, and both parties to that correspondence know it.
 
 Women who visit meet the sharpest form of the gap. A woman arriving at Gamma often braces to be a sensation—to be stared at, flustered over, made strange. What she meets instead is courteous, cosmopolitan disinterest: men too well-acquainted with the idea of her to gawk, conducting their business as though she were any other traveller. To be unremarkable in the one place she expected to be remarkable is its own uncanny experience, and a common note in off-world accounts of the planet.
 

@@ -1,5 +1,7 @@
 # Arrhenos: Military
 
+Arrhenos keeps a military the way it keeps a vault door: expensive, visible, and intended never to be interesting. Nothing about the armed forces is glamorous by design—no expeditions, no alliances, no history of victories to celebrate—because the whole strategic proposition of the planet is that attacking it must be costly, pointless, and bad for the attacker's own accounts. The services attract men who like difficult engineering and long quiet watches, and the republic pays them well to be, ideally, never needed.
+
 ## Doctrine
 
 The Arrhene military emphasises **defence over projection**—ensuring no external power can seize the planet or hold the financial systems hostage.
@@ -35,6 +37,6 @@ Arrhenos's neutrality extends to military matters:
 
 ## Strategic Position
 
-The planet's value as a neutral financial centre provides significant protection. No major power can afford to see Arrhenos destabilised—military action would trigger economic consequences across human space.
+The planet's value as a neutral financial centre provides significant protection. No great power moves against Arrhenos cheaply—an attacker would put at hazard the reserves, stakes, and settlements it keeps there itself, like every other great power.
 
 This doesn't make Arrhenos invulnerable, but it raises the cost of aggression considerably.

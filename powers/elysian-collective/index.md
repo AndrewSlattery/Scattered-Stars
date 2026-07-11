@@ -2,21 +2,22 @@
 
 The Elysian Collective is famous for fifteen million people and quietly carried by forty. The fifteen million are the terraformers—the sworn guild whose names enter the world-songs and whose votes choose the Grandmasters. The other twenty-five million keep the first fifteen alive: they run the machines, raise the children, crew the city, breathe the worst of the air, and too often go unnamed when the world is sung. The Collective is a guild of artisans the way a cathedral is a heap of dressed stone—true, and nowhere near the whole of it.
 
-What the whole of it can do is unmatched. Every breathable sky humanity did not find but *made*—every engineered ecosystem, every nudged orbit that keeps soil on a world—came from Collective hands or Collective methods. The guild does not govern worlds; it makes them, and hands them to whoever paid. That single capability buys a forty-million-person guild a seat among powers that count their citizens in the trillions.
+What the whole of it can do is unmatched at the top of the craft. Terraforming itself is older than the guild—Mars breathed before the Collective existed, and human space is dotted with sealed domes, thickened atmospheres, and half-tamed worlds worked by local outfits, licensed journeymen, and methods that leaked out of the Academy generations ago. What no one else can do is the whole art: take a dead world all the way to open sky, and have it stay taken. Nearly every world in that class—every full *becoming*, every Lazarus revival—came from Collective hands, and the handful of exceptions are studied at the Academy as cautionary tales. The guild does not govern worlds; it makes the finest of them, and hands them to whoever paid. That single capability buys a forty-million-person guild a seat among powers that count their citizens in the trillions.
 
 | Attribute | Value |
 |-----------|-------|
 | Population | ~15 million sworn members (the guild proper); ~40 million in all, counting Tenders, families, and the civilian population of the Garden and the project camps |
+| Founded | 3089 C, as the loose Terraforming Collective; the guild Charter—the founding the guild actually dates itself from—was adopted in 3261 C |
 | Centre | The Garden—a mobile deep-space station whose location is kept secret |
 | Government | The Guild Council: seven Grandmasters, elected by the guild's Masters |
-| Economy | Terraforming contracts, technology licensing and consultation, sold at monopoly prices |
+| Economy | Terraforming contracts, technology licensing and consultation, priced as only the top of the craft can price |
 | Character | Patient craft; a guild hierarchy beneath a commonwealth's name; a neutrality it has to keep believing in |
 
 ## The Great Work
 
 The Collective exists to make worlds habitable, and treats the task as the most important work humanity does. Members speak of a world in transformation as a *becoming*, of the terraformer as a midwife rather than an engineer—language that is half genuine conviction and half the story a monopoly tells to dignify its prices. Both halves are sincerely held. It is entirely possible to believe the work is sacred and to charge ruinously for it, and the Collective manages both without visible strain.
 
-The influence this buys runs far past the guild's size. Every polity that wants a new habitable world needs the Collective, and every polity wants new habitable worlds. The guild cannot conquer anyone and has no wish to; it simply owns the one door the future has to pass through.
+The influence this buys runs far past the guild's size. A polity that wants a dome or a breathable valley has options; a polity that wants a new *garden* world needs the Collective, and every polity wants garden worlds. The guild cannot conquer anyone and has no wish to; it simply owns the highest door the future has to pass through, and lets the lesser doors make its prices look reasonable.
 
 ## The sworn and the Tenders
 

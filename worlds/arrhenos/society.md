@@ -60,7 +60,7 @@ Coloured insignia may indicate expertise fields, though most men don't wear them
 
 ## Torcs
 
-Metal neck bands, ubiquitous across Arrhenos. They serve both traditional aesthetic purposes and practical functions:
+Metal neck bands, worn by very nearly everyone on Arrhenos—the bare-necked exist, a scattering of ascetics, contrarians, and men who simply dislike the weight, and they manage, with some daily friction, to live. Torcs serve both traditional aesthetic purposes and practical functions:
 
 - Identity verification
 - Secure communication

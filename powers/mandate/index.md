@@ -55,7 +55,7 @@ See [Locations](locations/index.md) for Tiamming in detail—the Chrysanthemum C
 | Power | Relationship |
 |-------|-------------|
 | Union of Frontier Freeholds | Territorial friction and steady trade; the Bureau insists Freehold elements arm the Yansieve rebels and has never proven it |
-| Vega Commercial Throne | Cultural condescension over a real dependence—Vega entertainment saturates the Mandate faster than the Bureau can ban it |
+| Vega Commercial Throne | Cultural condescension over a real dependence—Vega entertainment saturates the Mandate's connected worlds faster than the Bureau can ban it, and seeps into the slow provinces years late |
 | The Sable Cartel | Necessary commerce and settled distrust; the Bureau maps a Cartel it has never penetrated above subsidiary level, while Cartel subsidiaries both run and lend against the Yansieve blockade |
 | Neo-Solar Republic | Technological appetite across deep ideological distance—the Mandate covets the enhancement and refuses the philosophy; the two quarrel, decade upon decade, over who and what counts as a person |
 | Elysian Collective | Distant and correct; the Mandate buys terraforming expertise and finds the guild's commonwealth airs faintly absurd from a fellow two-class society |

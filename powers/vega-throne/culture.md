@@ -16,7 +16,7 @@ Every interaction is assessed. Other nobles observe and judge; servants observe 
 
 ## The audience
 
-For the overwhelming majority of Vegans, aristocratic culture is something consumed rather than lived. Everyone watches Vega media; everyone has opinions on the current serials; celebrity gossip is the universal second language; a person who cannot converse about this season's drama is at a real social disadvantage. The industry manufactures a shared world, and a trillion people live in it together—as spectators.
+For the overwhelming majority of Vegans, aristocratic culture is something consumed rather than lived. Nearly everyone watches *something* of it—the court serials are the closest thing the Throne's worlds have to shared weather, and in the cities of Lyra a person who cannot converse about this season's drama is at a real social disadvantage. But the audience is not one audience. The agricultural worlds run their own serials, with their own stars and their own gossip, that the court has never heard of and would not recognise as Vegan; the outer-system traders follow the freight-drama circuits; whole districts of the Manufactories watch nothing noble at all and follow the works leagues instead. The industry manufactures a shared world, and a trillion people live near it together—most as spectators, some as neighbours who keep different channels on.
 
 They relate to the ideal above them in three broad ways:
 
@@ -38,7 +38,7 @@ The prestige tongue is **Vegan Standard**, evolved from Old Earth Romance langua
 
 ## Religion
 
-Religious observance is minimal, as across most of human space. The Throne does not suppress belief but regards organised religion with the same wariness it regards any independent power centre; congregations exist and stay quiet and stay out of politics. The nearest thing Vega has to a faith is the **cult of excellence**—not literally worshipped, but functioning as the society's organising value: quality, achievement, and competitive success treated as something close to sacred. It is a religion perfectly suited to a market, which is what Vega, underneath the velvet, is.
+Religious observance is minimal, as across most of the corridor cultures Vega belongs to. The Throne does not suppress belief but regards organised religion with the same wariness it regards any independent power centre; congregations exist and stay quiet and stay out of politics. The nearest thing Vega has to a faith is the **cult of excellence**—not literally worshipped, but functioning as the society's organising value: quality, achievement, and competitive success treated as something close to sacred. It is a religion perfectly suited to a market, which is what Vega, underneath the velvet, is.
 
 ## Art and aesthetics
 
@@ -60,4 +60,4 @@ The media reports noble scandal with delicacy, by mutual interest—today's targ
 
 ## Outsider perspectives
 
-Visitors tend to find Vega exhausting, impressive, superficial, refined, and alienating, in proportions that say as much about the visitor as the place. Arrhene visitors, from a society with no hereditary status at all, struggle with the basic premise; Mandate visitors recognise hierarchy but not its fusion with the market; Drift travellers, used to intimate fleets, find the scale and formality overwhelming. The Throne does not much care. External opinion is commercially relevant and culturally beside the point—the performance was never being staged for outsiders. It was being staged for the trillion at home, who applaud, and buy, and are not invited up.
+Visitors tend to find Vega exhausting, impressive, superficial, refined, and alienating, in proportions that say as much about the visitor as the place. An Arrhene fresh from a society with no hereditary status often trips over the basic premise—though the Arrhene clerks who have worked the reconstruction for twenty years navigate the houses better than some barons; a first-time Mandate visitor recognises hierarchy but not its fusion with the market, while the Mandate's resident factors long ago stopped noticing the seam; a Drift performer used to intimate fleets may find the scale and formality overwhelming, or take to the audience of a trillion like a fish returned to water. The stay changes the visitor more reliably than the origin predicts the visit. The Throne does not much care. External opinion is commercially relevant and culturally beside the point—the performance was never being staged for outsiders. It was being staged for the trillion at home, who applaud, and buy, and are not invited up.

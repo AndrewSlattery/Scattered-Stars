@@ -9,7 +9,7 @@ The freedom is real. This must be said plainly, because the rest of this entry c
 | Population | ~1.7 trillion across ~4,000 recognised Freeholds—no two alike, one vote each regardless of size, the freedom distributed as unevenly as everything else |
 | Centre | None, by deepest principle: no capital, no standing authority, only a Chair that rotates yearly by lottery and is designed to be powerless |
 | Government | A confederation that is barely one—the Charter forbids any body to tax, conscript, regulate, or command a Freehold against its will |
-| Economy | Volatile by design: extraction, salvage, mercenary services—and a deep dependence on Arrhenos banking and Cartel logistics that disciplines without a single soldier |
+| Economy | Volatile by design: extraction, salvage, mercenary services—and a deep dependence on outside banking and logistics, under many flags, that disciplines without a single soldier |
 | Military | No standing forces; militias and mercenary companies that make conquest pointless—and capture, by purchase, very easy |
 | Character | Frontier liberty, real and privately owned; impossible to conquer, and for exactly that reason impossible to save |
 
@@ -27,7 +27,7 @@ Any settlement that declares itself one, is recognised by three others, governs 
 
 The Freeholds cannot be conquered—the Mandate proved that in the Grey Incursion of 3567 C, occupying three systems and discovering there was no one to make the rest surrender. But what cannot be conquered can be *bought*, and the buyer needs no border.
 
-The frontier's two great neutral institutions are already the Sable Cartel's, hiding in plain sight as the helpful local fixtures everyone relies on: the indispensable bank at **Korsen's Anchorage** is the Cartel subsidiary **Nexus**, and the mercenary clearing-house at **Veritas Station** houses the Cartel's security arm, **Aegis**. The debt that funds every boom is Arrhenos's and, increasingly and unprovably, the Cartel's, and a defaulting Freehold finds its options narrowing without anyone raising a hand. The Mandate's border creeps system by system; the shared beacons and relays decay because a commons no one is obliged to fund is a commons slowly abandoned. None of this is conquest. All of it is capture, and the very statelessness that makes the Freeholds impervious to armies leaves them with no one empowered to say *no* on behalf of all.
+The frontier's two great neutral institutions are already the Sable Cartel's, hiding in plain sight as the helpful local fixtures everyone relies on: the indispensable bank at **Korsen's Anchorage** is the Cartel subsidiary **Nexus**, and the mercenary clearing-house at **Veritas Station** houses the Cartel's security arm, **Aegis**. The debt that funds every boom is outside debt—Arrhene houses at the reputable end, money of every flag beneath them, and, increasingly and unprovably, the Cartel's—and a defaulting Freehold finds its options narrowing without anyone raising a hand. The Mandate's border creeps system by system; the shared beacons and relays decay because a commons no one is obliged to fund is a commons slowly abandoned. None of this is conquest. All of it is capture, and the very statelessness that makes the Freeholds impervious to armies leaves them with no one empowered to say *no* on behalf of all.
 
 That it can be resisted, the **Sefkir Reach** proved: in 3829 C it expelled every identifiable Cartel subsidiary and survived, poorer and slower and entirely its own. It also proved the price, and that a Freehold pays it alone—because there is no Union to pay it for them. See [Economy](economy.md).
 
@@ -50,7 +50,7 @@ The [Sefkir Reach](locations/sefkir-reach.md)—the cluster that bought its way 
 |-------|-------------|
 | The Sable Cartel | The conqueror that needs no army: it owns the commons (Nexus at Korsen's, Aegis at Veritas) and disciplines by debt what no fleet could hold. The Sefkir Reach is the one that threw it out, and paid |
 | The Mandate | Ideological enemy and creeping neighbour; the border eats Freehold systems by inches, the Grey Incursion proved occupation futile, and fleeing subjects find a door here that the Bureau cannot close. Yansieve sympathy is widespread; Freehold guns quietly run the blockade |
-| Arrhenos | The indispensable banker—venture capital, insurance, enforceable arbitration, no political strings; trusted exactly as far as a bank is trusted, and depended on rather further |
+| Arrhenos | The most reputable of the frontier's many outside bankers—venture capital, insurance, enforceable arbitration, no political strings; trusted exactly as far as a bank is trusted, and depended on rather further |
 | Vega Commercial Throne | A consumer market and a punchline; Vega serials arrive years late and are watched anyway, and a few houses run frontier operations the frontier tolerates |
 | Drift Communities | Natural kin—both stateless, both free, both meeting at Korsen's; the difference, a Drift captain once said, is that the Drift is still looking for a fixed place and the frontier has given up wanting one |
 | Neo-Solar Republic | Distant; occasional technology trade across a wide gulf of temperament |

@@ -34,7 +34,7 @@ Women exist here too—not residents mostly, but passengers and tourists who fin
 
 Many visitors experience Arrhenos only through Gamma's polished corridors and conclude the planet is merely a service economy with pretensions.
 
-Arrhene men are aware of this reputation; most don't think about it much.
+Arrhene men are aware of the reputations that attach to them off-world—this one among several; most don't think about any of them much.
 
 ## Culture
 

@@ -27,7 +27,7 @@ While thousands of independent nations exist, the geopolitical landscape is domi
 
 1. The Mandate — A sprawling, imperial hegemony centered on the Tiamming system.
 2. Union of Frontier Freeholds — A fiercely decentralized coalition of border territories.
-3. Elysian Collective — Unrivalled terraforming specialists who command high prices for habitable real estate.
+3. Elysian Collective — Masters of terraforming's highest tier, who command ruinous prices for habitable real estate.
 4. The Sable Cartel — A ruthless corporate oligarchy controlling vital finance and FTL infrastructure.
 5. Neo-Solar Republic — Transhumanist technologists holding the ancestral territory of Sol.
 6. Vega Commercial Throne — A unique feudal society built on media, culture, and luxury goods.
