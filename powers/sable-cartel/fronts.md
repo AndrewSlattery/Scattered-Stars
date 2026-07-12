@@ -64,7 +64,7 @@ What the fence-line guard does not see is that the contract is also a key: to th
 
 A patchwork of farms, exchanges and extraction firms stitched together across a century of acquisitions, and the least conspiratorial-feeling company on this list, because most of what it does is grow food. Verdant feeds billions. Its company worlds carry three generations in the same valley towns, keeping harvest calendars and local shrines, naming Verdant as their employer with no sense that the word reaches any further.
 
-The strategic value is not the grain; it is the knowledge of the grain. Verdant's operations report, continuously, on what is grown and mined and shipped across hundreds of systems—a live map of supply that feeds the Intelligence Division and, not coincidentally, the fez desk's uncanny timing (see [Operations](operations.md)). Verdant rarely touches fez directly. It sells the harvesters their equipment and their provisions, and it watches, and it remembers.
+The strategic value is not the grain; it is the knowledge of the grain. Verdant's operations report, continuously, on what is grown and mined and shipped across hundreds of systems—a live map of supply that feeds the Intelligence Division and, not coincidentally, the fez desk's uncanny timing (see [Operations](operations.md)). Verdant rarely touches fez directly. It sells the harvesters their equipment and their provisions, and it watches, and it remembers. For what a Verdant world looks like from underneath—which is to say, like a farm—see [Solano](solano.md).
 
 ## Blackwell Media
 

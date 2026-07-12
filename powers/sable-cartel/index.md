@@ -74,4 +74,5 @@ Every Great Power deals with the Cartel; none is comfortable about it. See [Rela
 | [Culture](culture.md) | Life inside the Cartel: what its people know, when they learn it, and what it costs to leave |
 | [Operations](operations.md) | The legitimate businesses, the illicit ones, and the deliberately unmappable seam between them |
 | [Known Subsidiaries](fronts.md) | The handful of fronts identified with any confidence—and why the true number is unknowable |
+| [Solano](solano.md) | One Verdant company world from ground level: the Cartel as its tens of billions actually live it, which is to say, not at all |
 | [Relations](relations.md) | How each Great Power manages an entity it cannot afford to exclude |

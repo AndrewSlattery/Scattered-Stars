@@ -8,7 +8,13 @@ The Mandate spans hundreds of systems, and no index could be exhaustive. What fo
 |--------|-----------|
 | [Tiamming](tiamming/index.md) | Throne world and administrative heart; the empire's contradictions gathered into one system |
 
-Hundreds of other core systems—older colonies, sector capitals, industrial and agricultural worlds—remain to be documented.
+## Provincial systems
+
+| World | Character |
+|-------|-----------|
+| [Marag](marag.md) | A middling agricultural province, weeks off the trunks—the empire at its median, documented as an example of the hundreds like it |
+
+Hundreds of other systems—older colonies, sector capitals, industrial and agricultural worlds—remain undocumented, and Marag stands in for what most of them are like.
 
 ## Frontier systems
 

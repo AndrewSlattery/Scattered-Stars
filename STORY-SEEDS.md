@@ -17,8 +17,8 @@
 
 ## Arrhenos: abroad
 
-- **Maru's question.** The diaspora's second generation — children the homeworld has no registry line for; the Ministry's handling "polite, glacial, and quietly evolving"; Orsandher Vell expects to win around 3880. What happens when one of these children shows up at the First Fathers wanting to swear the oath — [diaspora.md](worlds/arrhenos/diaspora.md), [little-arrhenos.md](worlds/arrhenos/locations/little-arrhenos.md)
-- **Coming home with a daughter.** "The planet will take him back in a breath, and has no door sized for a daughter." — [diaspora.md](worlds/arrhenos/diaspora.md)
+- **Maru at twenty.** The diaspora's second generation is welcome in law and celebrated in principle; the practice is a girl raised in two grammars deciding whether to visit a planet where she'd be, for most purposes, the only woman in the province — or a port-born son standing with a Foundation Day cohort that has never met anyone like him — [diaspora.md](worlds/arrhenos/diaspora.md), [little-arrhenos.md](worlds/arrhenos/locations/little-arrhenos.md)
+- **Coming home with a family.** Wives and daughters are as welcome as any woman on Arrhenos — the doors are open; the demographics are the wall. A household weighing return against the reality of so few other women around, long-term — [diaspora.md](worlds/arrhenos/diaspora.md)
 - **The arbitration tribunals sit until 3890** — a whole career spent settling other people's war, in Vega, among an aristocracy that cannot forgive being rescued — [banking-war.md](worlds/arrhenos/banking-war.md), [little-arrhenos.md](worlds/arrhenos/locations/little-arrhenos.md)
 - **The cousinly correspondence.** Arrhene scholars and Resheph's have exchanged letters for two centuries. Send someone — [women-and-gender.md](worlds/arrhenos/women-and-gender.md), [minor-powers.md](powers/minor-powers.md)
 - **Vethallen.** Roughly a third of a crew stays aboard with the homeworld right there below. The *Polletio* is ninety-seven years old and full of men who never quite land — [polletio.md](worlds/arrhenos/vessels/polletio.md), [diaspora.md](worlds/arrhenos/diaspora.md)
@@ -43,6 +43,9 @@
 - **Three Falls will bust.** Wren Aldis is free to leave and cannot go; the corporations are already winning; "in two years it will be booming still, or declining, or a ghost" — [three-falls.md](powers/union-freeholds/locations/three-falls.md)
 - **Dustmote's reversal research.** "Staying should be a choice, not a sentence" — liberation or betrayal, decades out, if possible at all — [dustmote.md](powers/union-freeholds/locations/dustmote.md)
 - **The enhancement schism in the Drift.** Settled haven by haven, because no authority exists; hardest aboard the archive that keeps what humans *were* — [drift-communities/overview.md](powers/drift-communities/overview.md), [preservation.md](powers/drift-communities/haven-ascendant/preservation.md)
+- **The veterans' arithmetic on Marag.** The lodges follow the Yansieve dispatches "with the specific attention of someone checking a sum"; the empire trained, armed, and disillusioned them itself — [marag.md](powers/mandate/locations/marag.md), [mandate/military.md](powers/mandate/military.md)
+- **Tomas Ru's annotations.** A Solano schoolteacher quietly correcting the company textbook against the archive box in the cellar; a filing far above has noted the requisition, without alarm, in the way such systems note everything. "Almost certainly, nothing will come of it." — [solano.md](powers/sable-cartel/solano.md)
+- **A bloom on Tethys-Var.** Five million workers arriving on no notice, wildcats racing a decay curve on unlicensed ground, an Arrhene crew on enforced downtime in the roughest port in settled space — and every fortune on the moon a bet that fez stays necessary — [tethys-var.md](worlds/tethys-var.md), [polletio.md](worlds/arrhenos/vessels/polletio.md)
 - **The Abrantine Terraces.** Ascendant reconstructing a Mandate pleasure complex destroyed at Yansieve, over objections, while the rebellion burns; Vell Kiruna's answer is three words — [characters.md](powers/drift-communities/haven-ascendant/characters.md)
 
 ## The mysteries (keep unsolved)
