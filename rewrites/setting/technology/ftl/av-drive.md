@@ -1,21 +1,17 @@
 # The Alcubierre-Vishwanathan Drive
 
-## Fundamental Physics
+AV drives distort local spacetime. A ship with such a drive travels within a moving pocket of flat space.
 
-The AV drive creates a localised distortion of spacetime: contracted ahead, expanded behind. The ship rides this wave, effectively stationary within a moving bubble of flat space. No local superluminal motion occurs; the bubble itself moves faster than light relative to distant observers.
+## The Curvature Limit
 
-### The Curvature Limit
+The field equations governing the formation of warp pockets undergo a phase transition as spacetime curvature increases, and stable pocket formation is impossible above a critical curvature threshold. Around the Sun, this threshold occurs at approximately 30 AU; warp cannot function closer than this.
 
-Warp bubbles require flat spacetime. Gravitational fields introduce curvature that destabilises the Vishwanathan field configuration. Above a critical curvature threshold, stable bubble formation becomes impossible—the field equations simply have no solutions.
+The radius of the so-called "jump shell" scales with the cube root of the stellar mass. The jump shells of star systems with multiple stars or very large gas giants can have complex exclusion geometries.
 
-For a Sun-like star, this threshold occurs at approximately 30 AU. Closer than this, warp cannot function. The exclusion zone scales as M^⅓ with stellar mass—a star ten times more massive only roughly doubles the exclusion zone. Binary and multiple star systems have complex exclusion geometries where contributions from multiple masses combine, especially when the stars orbit each other at great distances.
+## Pocket Characteristics
 
-## Bubble Characteristics
+The time spent within a warp pocket depends on the relative velocities of the endpoints of the trajectory; this is on the order of hours within a typical stellar neighbourhood.
 
-### Causal Disconnection
+A warp pocket is causally disconnected from its interior. The ship cannot steer or communicate, and so navigation is predictive: the destination system's position and intervening gravitational influences must be accounted for before departure.
 
-A warp bubble is causally disconnected from its interior. The ship cannot steer; the bubble geometry must be established before departure and propagates along a predetermined geodesic. Navigation is therefore predictive: the destination system's position, intervening gravitational influences, and precise bubble geometry must all be calculated before departure.
-
-### Stability
-
-The Vishwanathan field configuration is metastable—a local minimum, not a global one. Perturbations can trigger decay. Early bubbles collapsed catastrophically; the resulting energy release destroyed three research stations before adequate containment protocols emerged. Modern drives incorporate multiple redundant stability systems. Catastrophic failure is rare but not unknown.
+The Vishwanathan field configuration is only metastable. Early pockets collapsed catastrophically, destroying three research stations before adequate stabilisaton protocols emerged. Failure of modern systems is rare (but not unknown) and should leave the ship temporarily stranded rather than destroyed.
