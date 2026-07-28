@@ -1,61 +1,29 @@
 # Arrhenos: Government
 
-The republic's government is designed to be boring, and counts that its finest achievement. A planet whose product is trust cannot afford drama at the top: power is split, terms are long, recall is real, and the great offices attract the kind of man who reads actuarial tables for pleasure. Two republics fell before this one; the Third has run for nearly four centuries on the theory that a state, like a bank, is best judged by how little its customers ever need to think about it.
+The republic's government is designed to be boring. Power is split, terms are long, recall is real, and the great offices attract the kind of man who reads actuarial tables for pleasure. Two republics fell before this one; the Third has run for nearly four centuries.
 
 ## The Symposiarch
 
-An elected executive serving seven-year terms.
+An elected executive serving seven-year terms. Candidates must demonstrate expertise in relevant fields and a public service record.
 
-### Requirements
-
-Candidates must demonstrate:
-
-- Expertise in relevant fields
-- Public service record
-
-### Powers
-
-Constitutionally limited:
-
-- Cannot override the Founding Accords
-- Subject to recall by referendum
-- Executive authority within defined bounds
-
-The current Symposiarch, **Sarzin Dawkinholm**, is serving his third term.
+The office is constitutionally limited: it cannot override the Founding Accords, it is subject to recall by referendum, and its executive authority runs within defined bounds. The current Symposiarch, Sarzin Dawkinholm, is serving his third term.
 
 ## Legislature
 
-Bicameral, balancing merit and popular sovereignty.
+The legislature is bicameral, balancing merit against popular sovereignty.
 
-### The Guildhall
+The Guildhall holds 447 members representing the professional guilds, selected through merit examination and peer review on staggered long terms.
 
-447 members representing professional guilds.
-
-- Selection through merit examination and peer review
-- Staggered long terms
-- Represents expertise and professional competence
-
-### The Demos
-
-2,847 members elected from geographic regions.
-
-- Seven-year terms
-- Proposes most legislation
-- Controls the budget
-- Represents popular will
+The Demos holds 2,847 members elected from geographic regions on seven-year terms. It proposes most legislation and controls the budget.
 
 ## Judiciary
 
-### Tribunal of Review
+The Tribunal of Review seats 21 Arbiters, handling judicial matters, constitutional interpretation, and disputes between branches.
 
-21 Arbiters handling judicial matters, constitutional interpretation, and disputes between branches.
+## Ministries
 
-## Key Ministries
-
-| Ministry | Portfolio |
-|----------|-----------|
-| Continuity | Reproduction, the Continuity Programme |
-| Financial Stability | Banking regulation, sovereign wealth fund |
-| Culture | Education, research, festivals |
-| External Affairs | Diplomacy, arbitration services |
-| Defence | Military, security |
+| Continuity          | reproduction and the Continuity Programme    |
+| Financial Stability | banking regulation, the sovereign wealth fund|
+| Culture             | education, research, festivals               |
+| External Affairs    | diplomacy and arbitration services           |
+| Defence             | military and security                        |

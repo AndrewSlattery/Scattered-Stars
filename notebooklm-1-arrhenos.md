@@ -1,6 +1,6 @@
 # Scattered Stars -- Arrhenos
 
-_Curated for NotebookLM. Auto-generated from 29 source files. Do not edit directly._
+_Curated for NotebookLM. Auto-generated from 19 source files. Do not edit directly._
 
 ---
 
@@ -9,92 +9,44 @@ _Curated for NotebookLM. Auto-generated from 29 source files. Do not edit direct
 
 # Arrhenos
 
-A world where over two billion men have built a civilisation entirely without women—not through exile or loss, but through deliberate choice and technological mastery.
+A world in the Mas system where over two billion men have built a civilisation entirely without women—not through exile or loss, but through deliberate choice and technological mastery. It is a meritocratic republic, the Third Republic since 3487 C, and one of the several thousand single-system polities that make up most of human space. Its trade is neutral banking and arbitration—a small, old, well-regarded business that a handful of other houses work in their own regions.
 
-## Overview
+Orbital visitors come for financial services, quantum computing expertise, and architectural innovations.
 
-| Attribute | Value |
-|-----------|-------|
-| System | Mas |
-| Population | 2.1+ billion |
-| Government | Meritocratic republic (Third Republic, since 3487 C) |
-| Economy | Neutral banking and arbitration—a niche trade in which Arrhenos is the first name |
-| Character | Single-gender society, financial services, neutrality |
+## The founding
 
-Orbital visitors seek financial services, quantum computing expertise, and architectural innovations.
+In 2893 C many outer system mining colonies collapsed, leaving millions of workers stranded. Several years into the crisis the Endeavour Fleet emerged: generation ships carrying nearly five million male colonists—engineers from the Promethean Society, industrial workers from the Mining Guilds of Titan, scholars from the Krishna Station Collective, agricultural specialists from the Boreal League, and refugees from the failed Neptune colonies.
 
-## Topics
+During the three-year voyage the colonists hammered out the Founding Accords through collaborative debate. Three principles emerged: complete reproductive independence through biotechnology; social structures allowed to develop naturally for a single-gender population; and governance combining merit-based advancement with liberal democracy.
 
-| Topic | Focus |
-|-------|-------|
-| [Society](society.md) | Reproduction, the Continuity Programme, status, torcs, names |
-| [Intimacy and Kinship](intimacy.md) | Desire, courtship, marriage, weddings, the household |
-| [Fatherhood and Brotherhood](fatherhood-and-brotherhood.md) | Deciding to father, the milestones of a boyhood, bonds between brothers |
-| [Culture](culture.md) | Schools of thought, language, literature |
-| [Women and Gender](women-and-gender.md) | How Arrhenes regard women, and how the galaxy regards Arrhenos |
-| [Government](government.md) | The Symposiarch, the Guildhall and Demos, the ministries |
-| [Economy](economy.md) | The Financial Consortium, neutral banking, trade |
-| [Military](military.md) | Defensive doctrine, the branches, armed neutrality |
-| [External Relations](external-relations.md) | Diplomacy and dealings with the great powers |
-| [The Banking War](banking-war.md) | Arrhenos in the Andromedan Banking War: neutrality, arbitration, supremacy |
-| [Diaspora](diaspora.md) | Arrhenes abroad—who leaves, how they live, coming home |
-| [Locations](locations/index.md) | Cities, regions, orbitals, and off-world holdings |
-| [Vessels](vessels/polletio.md) | The Merchant Fleet, beginning with the *Polletio* |
+Planetfall came in 2901 C at what would become Campottonì. The Continuity Programme consumed enormous resources before achieving the first viable all-male reproductive system, through artificial gestation chambers and chromosomal recombination protocols.
 
-## The Founding
+In 2919 C the first generation born entirely on Arrhenos proved the experiment could perpetuate itself. That date, Gap 4, remains Foundation Day.
 
-The story begins with catastrophe. In 2893 C, many outer system mining colonies collapsed, leaving millions of workers stranded. Several years into this crisis, the **Endeavour Fleet** emerged—generation ships carrying nearly five million male colonists:
+## Political history
 
-- Engineers from the Promethean Society
-- Industrial workers from the Mining Guilds of Titan
-- Scholars from the Krishna Station Collective
-- Agricultural specialists from the Boreal League
-- Refugees from the failed Neptune colonies
-
-During the three-year voyage, the colonists hammered out the **Founding Accords** through collaborative debate. Three core principles emerged:
-
-1. Complete reproductive independence through biotechnology
-2. Social structures allowed to develop naturally for a single-gender population
-3. Governance combining merit-based advancement with liberal democracy
-
-**Planetfall** came in 2901 C at what would become Campottonì. The **Continuity Programme** consumed enormous resources before achieving the first viable all-male reproductive system—artificial gestation chambers and chromosomal recombination protocols.
-
-In 2919 C, the first generation born entirely on Arrhenos proved the social experiment could perpetuate itself. This date, **Gap 4**, remains **Foundation Day**.
-
-## Political History
-
-| Period | Dates | Notes |
-|--------|-------|-------|
-| First Republic | 2947–3156 | Established neutral banking traditions; collapsed |
-| Interregnum | 3156–3203 | Splintered period |
-| Second Republic | 3203–3486 | Introduced Symposiarch system |
-| Third Republic | 3487–present | Continuous stable governance |
-
-The current Symposiarch, **Sarzin Dawkinholm**, is serving his third seven-year term.
+| First Republic  | 2947–3156    | established the neutral banking traditions; collapsed |
+| Interregnum     | 3156–3203    | splintered                                            |
+| Second Republic | 3203–3486    | introduced the Symposiarch system                     |
+| Third Republic  | 3487–present | continuous stable governance                          |
 
 ## Calendar
 
-Arrhenos's orbit was adjusted to align with the C calendar. Local names for the nine months:
+Arrhenos's orbit was adjusted to align with the C calendar. The local names for the nine months are:
 
-| # | Month | Etymology |
-|---|-------|-----------|
-| 1 | Daw | Obsolete English "morning" |
-| 2 | Thall | — |
-| 3 | Kerannym | — |
-| 4 | Acros | Greek ἄκρος "highest" |
-| 5 | Nivir | — |
-| 6 | Dimanate | Latin dīmānō "I flow down" |
-| 7 | Vorago | Latin vorāgō "chasm" |
-| 8 | Oscur | Latin obscūrus "dark" |
-| 9 | Edrise | Old English edrīsan "rise again" |
+| 1 | Daw       | obsolete English "morning"     |
+| 2 | Thall     | —                              |
+| 3 | Kerannym  | —                              |
+| 4 | Acros     | Greek ἄκρος, "highest"         |
+| 5 | Nivir     | —                              |
+| 6 | Dimanate  | Latin *dīmānō*, "I flow down"  |
+| 7 | Vorago    | Latin *vorāgō*, "chasm"        |
+| 8 | Oscur     | Latin *obscūrus*, "dark"       |
+| 9 | Edrise    | Old English *edrīsan*, "rise again" |
 
 The first day of the year, Daw 1/1, is the spring equinox in the southern hemisphere.
 
-### Key Celebrations
-
-- **Agone competitions** — Acros
-- **Prometheon** (technology festival) — Vorago 3/10
-- **Foundation Day** — Gap 4
+The Agone competitions run in Acros, the Prometheon technology festival falls on Vorago 3/10, and Foundation Day is Gap 4.
 
 ---
 
@@ -103,61 +55,49 @@ The first day of the year, Daw 1/1, is the spring equinox in the southern hemisp
 
 # Arrhenos: The Andromedan Banking War
 
-Arrhenos never declared war, never fired on a Vegan hull, never sent a soldier to the Andromedan frontier. And yet the Andromedan Banking War (3834–3839 C) is the most consequential thing that has happened to the planet in three centuries. It cost Arrhene lives and Arrhene ships; it tested the one principle the republic holds sacred; and it ended with Arrhenos pre-eminent in its narrow trade—the neutral keeping of the great powers' money—a position nine hundred years in the approaching, which the war delivered in five. Arrhene men remember it with a complicated pride that does not entirely sit still.
+Arrhenos never declared war, never fired on a Vegan hull, and never sent a soldier to the Andromedan frontier. The Andromedan Banking War of 3834–3839 C is nonetheless the most consequential thing to happen to the planet in three centuries. It cost Arrhene lives and Arrhene ships, tested the one principle the republic holds sacred, and ended with Arrhenos pre-eminent in its narrow trade.
 
-What follows is, necessarily, an Arrhene account. The war reads differently from [Lyra](../../powers/vega-throne/index.md), and differently again from wherever the [Sable Cartel](../../powers/sable-cartel/index.md) keeps its books.
+What follows is an Arrhene account. The war reads differently from Lyra, and differently again from wherever the Sable Cartel keeps its books.
 
-## What Happened
+## What happened
 
-The war began as a Vegan quarrel that should have stayed one: competing claims on assets in the [Andromedan frontier](../../powers/vega-throne/locations/index.md), a tangle of honour-debts among the great houses, and—above all—the over-clever financial instruments of [House Kraeven](../../powers/vega-throne/houses/house-kraeven.md), whose Cascade Notes and arbitrage bonds had wound every house's fortunes into every other's. It was the sort of dispute Vega had survived a hundred times.
+The war began as a Vegan quarrel: competing claims on assets in the Andromedan frontier, a tangle of honour-debts among the great houses, and above all the over-clever financial instruments of House Kraeven, whose Cascade Notes and arbitrage bonds had wound every house's fortunes into every other's. It was the sort of dispute Vega had survived a hundred times.
 
-What made this one different, in the Arrhene reading, is that someone wanted it to grow. A faction within the [Sable Cartel](../../powers/sable-cartel/operations.md)—the insurers and the quiet operators, the men who profit from a fire and not a peace—saw a containable feud and moved quickly to feed it. They insured assets on every side; they extended credit to houses that ought to have been let fail; they loosed deniable proxies into the disputed systems; they sold each house the intelligence that kept it mistrusting its neighbours. A Vegan argument that might have burned out in a season became a five-year war.
+What made this one different, in the Arrhene reading, is that someone wanted it to grow. A faction within the Sable Cartel—the insurers and the quiet operators—saw a containable feud and moved to feed it. They insured assets on every side, extended credit to houses that ought to have been let fail, loosed deniable proxies into the disputed systems, and sold each house the intelligence that kept it mistrusting its neighbours.
 
-None of which the Cartel has ever admitted, and none of which can be proved—the [Veil Protocol](../../powers/sable-cartel/structure.md) sees to that. But the Arrhenos Financial Consortium watches Cartel money more closely than any institution alive, and it formed its conclusion early and has never revised it. (Whether that conclusion is sound, or merely the comfortable belief of a planet that needed a villain who was not itself, depends on who you ask.)
+None of this the Cartel has ever admitted, and none of it can be proved. The Consortium watches Cartel money more closely than any institution alive, formed its conclusion early, and has never revised it.
 
-By the time it ended in 3839, the war had passed through every register: asset seizures and credit attacks, then deniable proxies, then commerce raiding, then open fleet actions in the frontier systems. [House Kraeven](../../powers/vega-throne/houses/house-kraeven.md) collapsed entirely—the first archducal house attainted in two centuries, formally stripped the following year. Several lesser houses were destroyed outright; greater ones, like the once-pre-eminent [Cassiline](../../powers/vega-throne/houses/house-cassiline.md), survived only badly diminished. Vega's treasury was emptied and its credit ruined. The Throne itself survived, humiliated.
+By 3839 the war had passed through every register: asset seizures and credit attacks, then deniable proxies, then commerce raiding, then open fleet actions in the frontier systems. House Kraeven collapsed entirely. Several lesser houses were destroyed outright, and greater ones like the once-pre-eminent Cassiline survived badly diminished. Vega's treasury was emptied and its credit ruined, and the Throne survived humiliated.
 
-## The Neutrality Test
+## The neutrality test
 
-Here is the thing Arrhene men are proudest of, and least comfortable with.
+Every party to the war banked with Arrhenos. The Vegan houses did, the Throne did, and so did the Cartel, through accounts the Consortium restricts and monitors more tightly than any other client's and services all the same. For five years Arrhenos held the money of men actively trying to destroy one another, and held it neutrally: confidentiality kept, neutral accounts open regardless of the holder's politics, no asset frozen and no secret sold to any belligerent who asked.
 
-Every party to the war banked with Arrhenos. The Vegan houses did. The Throne did. And so did the Cartel—the arsonist itself—through accounts the Consortium [restricts and monitors](external-relations.md) more tightly than any other client's, but services all the same. For five years, Arrhenos held the money of men actively trying to destroy one another, and held it neutrally: confidentiality absolute, neutral accounts open regardless of the holder's politics, no asset frozen and no secret sold to any belligerent who asked.
+The pressure came from every side—from Vegan houses begging the Consortium to freeze a rival's accounts or expose the Cartel's flows, and from a faction at home that thought neutrality toward an arsonist was complicity in a good suit. The hardest thing the republic did in those years was to extend to the Cartel precisely the neutrality it extended to the Cartel's victims.
 
-The pressure to break was enormous and came from every side—from Vegan houses begging the Consortium to freeze a rival's accounts or expose the Cartel's flows; from a faction at home that thought neutrality toward an arsonist was complicity in a good suit. The hardest thing the republic did in those years was to extend to the Cartel precisely the neutrality it extended to the Cartel's victims: to keep the arsonist's money safe and his secrets kept, because the alternative—a Consortium that picks sides when sufficiently provoked—would have been worth nothing to anyone, ever again.
+It mostly held. There were breaks: a handful of Arrhene officers who leaked, or froze, or warned, out of conscience or out of a bribe, and whose names are still spoken with contempt or with quiet sympathy depending on the speaker. The Consortium survived them and made examples of some.
 
-It mostly held. There were breaks: a handful of Arrhene officers who leaked, or froze, or warned, out of conscience or out of a bribe, and whose names are still spoken with contempt or with quiet sympathy depending on the speaker. The Consortium survived them, made examples of some, and emerged with the one asset it cannot manufacture and cannot replace—the absolute trust that its neutrality is not for sale. That trust is the whole of what Arrhenos sells. It was poured, and set, in those five years.
+## A war without soldiers
 
-## A War Without Soldiers
+Commerce raiding turned the trade routes lethal, and the Merchant Fleet kept flying through it—holds full, transponders broadcasting neutrality, trusting that even the men burning Vega needed Arrhene banking too badly to fire on an Arrhene hull. Mostly the trust held. Ships were lost, to raiders who could not read a transponder or did not care, and the Merchant Protection escorts that rode the worst legs are the nearest thing Arrhenos has to combat veterans. The oldest hands aboard a ship like the *Polletio* came up in those years, and asked about the war will talk about cargo, and risk, and which stations went dark.
 
-Arrhenos fielded no army, yet it had a war generation all the same—men who came home changed, with stories that are not about battles.
+The war did not end in surrender but in arbitration, before a mixed tribunal seated at Khiva because Khiva was acceptable to everyone and convenient to nobody. Arrhene arbiters were a third of the bench and did most of the unglamorous work—untangling whose assets were whose across a dozen contested frontier systems, and drafting the schedules everyone could be made to live with—which is the kind of contribution that earns a profession its reputation and never gets its name on the settlement. The tribunals are still sitting: some frontier claims will not be closed until 3890, and a whole cohort of Arrhene arbiters has built careers on the war's unfinished arithmetic.
 
-**The Fleet ran the gauntlet.** Commerce raiding turned the trade routes lethal, and the [Merchant Fleet](vessels/polletio.md) kept flying through it—holds full, transponders broadcasting neutrality, trusting that even the men burning Vega needed Arrhene banking too badly to fire on an Arrhene hull. Mostly the trust held. Not always. Ships were lost, to raiders who could not read a transponder or did not care, and the [Merchant Protection](military.md) escorts that rode the worst legs are the nearest thing Arrhenos has to combat veterans. The oldest hands aboard a ship like the [*Polletio*](vessels/polletio.md) came up in those years; ask them about the war and they will talk about cargo, and risk, and which stations went dark, and a particular run they would rather not have made.
+Behind both stood the risk modellers, the neutrality-insurance adjusters who walked bombed-out installations to settle claims, and the clerks who kept the neutral accounts balanced while one of the great powers came apart.
 
-**The arbiters brokered the peace.** The war did not end in surrender; it ended in arbitration, and the arbitration was Arrhene. When both sides had exhausted themselves, it was the Consortium and [External Affairs](external-relations.md) that untangled whose assets were whose across a dozen contested frontier systems and drafted the settlement everyone could be made to live with. It was the [neutral arbitration](external-relations.md) Arrhenos sells as a service, performed at the scale of a war, and it remains the republic's proudest diplomatic achievement. The tribunals it spawned are *still sitting*: some frontier claims will not be closed until 3890, and a whole cohort of Arrhene arbiters has built careers on the war's unfinished arithmetic.
+## The profit
 
-**The analysts priced the ruin.** Behind both stood the quieter army—the risk modellers, the [neutrality-insurance](economy.md) adjusters who walked bombed-out installations to settle claims, the clerks who kept the neutral accounts balanced while one of the great powers came apart at the seams. They were not in danger, mostly. They simply spent five years doing sums on other men's catastrophes, and a certain kind of Arrhene banker has never quite stopped.
+Arrhenos grew rich. Neutrality Insurance paid out enormously and earned more, neutral accounts swelled with money fleeing every front, and the communication lag that Arrhene time-arbitrage is built to exploit had never been so profitable. When the shooting stopped, Arrhenos financed the reconstruction below market, flexibly, and structured to rebuild Vega rather than ensnare it—the real difference between Arrhene lending and the Cartel's, whose reconstruction capital arrived with dependencies sewn into the terms.
 
-## The Profit, and the Unease
+The largest prize was not money. Before the war, Vega—through Kraeven—had been a genuine rival in the one trade Arrhenos actually contests: the neutral keeping of money that must survive its own politics. After Kraeven that rivalry ended, and Vega became a client where it had been a competitor.
 
-Arrhenos grew rich. There is no graceful way to say it.
+It should not be overstated, and on Arrhenos it is overstated constantly. The regional houses of ten thousand worlds do the galaxy's actual banking, most interstellar commerce settles without ever touching an Arrhene ledger, a frontier outfit like Nexus thrives on custom Arrhenos would not cross the street for, and the Reyes Trust and the Khivan families work the same discreet seam in volumes where the Mas system is a name on a chart. What the war bought was a reputation, in one small trade, among the few clients who need it—and a generation of Arrhene men who have never known the planet to be anything less.
 
-[Neutrality Insurance](economy.md)—coverage for conflict-zone assets, a product the Consortium might as well have designed for exactly this—paid out enormously and earned more. Neutral accounts swelled with money fleeing every front. The communication lag that Arrhene [time-arbitrage](../../setting/trade-and-currency.md) is built to exploit had never been so profitable. And when the shooting stopped, Arrhenos financed the [reconstruction](external-relations.md)—below market, flexibly, structured to rebuild Vega rather than ensnare it, which is the Arrhene boast and the real difference between Arrhene lending and the [Cartel's](../../powers/sable-cartel/operations.md), whose reconstruction capital arrived with dependencies sewn into the terms. Arrhenos rebuilt the house it had banked while it burned, and was paid handsomely twice.
+The men who lived it defend the fortune without flinching: we held neutral, we brokered the peace, we rebuilt what others broke, and we were paid for honest work honestly done. The younger generation is less certain. And beneath it runs a question nobody cares to ask aloud. The Consortium's risk models are the finest in human space and had surely flagged Kraeven's instruments as doomed years before they failed, and Arrhenos reduced its exposure in good time. Whether anyone went further—whether Arrhene houses positioned to profit from a collapse they saw coming and said nothing about—there is no evidence either way.
 
-The largest prize was not money. Before the war, Vega—through Kraeven—had been a genuine rival in the one trade Arrhenos actually contests: the neutral keeping of money that must survive its own politics. After Kraeven, that rivalry simply ended, and Vega became a client where it had been a competitor. What Arrhenos won should not be overstated, and Arrhene men overstate it. The planet remains a niche concern: the regional houses of ten thousand worlds do the galaxy's actual banking, most interstellar commerce settles without ever touching an Arrhene ledger, a frontier outfit like Nexus thrives on custom Arrhenos would not cross the street for, and smaller neutral houses work the same discreet seam in their own regions. But within the narrow trade the great powers care about—the war chest, the dynastic reserve, the settlement that must sit beyond every party's reach—Arrhenos is now the first name, the default, the one that comes up before anyone has said it. Nine centuries of patient neutrality, and the matter was settled in five years by a war Arrhenos neither started nor fought.
+## The long aftermath
 
-This is the part that will not sit still. The men who lived it defend it without flinching: we held neutral, we brokered the peace, we rebuilt what others broke, and we were paid for honest work honestly done. The younger generation is less certain—there is a distaste, never quite resolved, for a fortune made on the wholesale ruin of others, however clean the hands. And beneath it runs a question no one cares to ask aloud. The Consortium's risk-models are the finest in human space; they had surely flagged Kraeven's instruments as doomed years before they failed, and Arrhenos reduced its exposure in good time. Did anyone go further? Did Arrhene houses position to profit from a collapse they saw coming and said nothing about? There is no evidence that they did. There is no evidence that they did not. Depends, as ever, on who you ask.
-
-## The Long Aftermath
-
-Twenty-three years on, the war is everywhere and nowhere in Arrhene life.
-
-It is in [Vega](../../powers/vega-throne/index.md), where Arrhene money and Arrhene clerks still oversee a reconstruction two decades old—the [diaspora](diaspora.md)'s largest single posting, careers made and still being made on it, among an aristocracy that cannot forgive owing its recovery to a planet of bankers who find hereditary rank quaint. It is in the arbitration tribunals still grinding toward 3890. It is in the [Consortium](economy.md)'s permanent, unsmiling vigilance toward the Cartel—a client it banks and does not trust, and privately holds responsible for a war it can never publicly accuse it of starting. And it is in the quiet supremacy within its trade that the planet now takes for granted, so settled that most Arrhene men no longer think of it as a thing that was won.
-
-They might do well to. The war that made Arrhenos the banker of human space also showed exactly what human space will do to itself, given sufficiently clever instruments and sufficiently patient malice—and it left the planet that profited most holding the great powers' most guarded money: trusted by all of them, loved by none, and aware, on its honest days, of how strange a thing that is to be.
-
----
-
-*See also: [Economy](economy.md) — the Consortium and its instruments; [External Relations](external-relations.md) — neutrality and arbitration as Arrhene products; [Diaspora](diaspora.md) — the Arrhenes who rebuilt Vega. For other vantages: [House Kraeven](../../powers/vega-throne/houses/house-kraeven.md) and the [Sable Cartel](../../powers/sable-cartel/index.md).*
+Twenty-three years on, Arrhene money and Arrhene clerks still oversee a reconstruction two decades old on Vega, the diaspora's largest single posting, among an aristocracy that cannot forgive owing its recovery to a planet of bankers who find hereditary rank quaint. The arbitration tribunals grind on toward 3890. The Consortium maintains a permanent, unsmiling vigilance toward the Cartel: a client it banks and does not trust, and privately holds responsible for a war it can never publicly accuse it of starting.
 
 ---
 
@@ -166,63 +106,28 @@ They might do well to. The war that made Arrhenos the banker of human space also
 
 # Arrhenos: Culture
 
-## Schools of Thought
+## Schools of thought
 
-Most Arrhene men don't actively adhere to any ideology, but several traditions shape academic study and public debate:
+Most Arrhene men do not actively adhere to any ideology, but several traditions shape academic study and public debate.
 
-### Axiomatics
-
-Logical analysis, practical efficiency, evidence-based solutions. Dominates government policy-making.
-
-### The Krishna Path
-
-Contemplative traditions preserved from the founding fleet. Argues internal understanding must balance external achievement.
-
-### Empirics
-
-Rigorous scientific method applied to all questions. Works primarily in research.
-
-### The Concordance
-
-Focus on community cohesion and collective benefit. Influences social policy.
-
-### Agonists
-
-Celebration of personal excellence and competitive striving.
-
-### Archivists
-
-Maintaining cultural continuity with Earth. Preserves historical documents and endangered languages.
+| Axiomatics      | Logical analysis, practical efficiency, evidence-based solutions. Dominates government policy-making |
+| The Krishna Path| Contemplative traditions preserved from the founding fleet; argues that internal understanding must balance external achievement |
+| Empirics        | Rigorous scientific method applied to all questions; works primarily in research |
+| The Concordance | Community cohesion and collective benefit; influences social policy |
+| Agonists        | Personal excellence and competitive striving |
+| Archivists      | Cultural continuity with Earth; preserves historical documents and endangered languages |
 
 ## Language
 
-Arrhenos is deeply multilingual.
+Arrhenos is deeply multilingual. Local languages evolved from Earth languages with continual influence from Trade Tongue, and most men speak their local language primarily. Campottonì Standard, the capital's language, serves as a planetary common tongue. Trade Tongue is learned for off-world engagement.
 
-### Local Languages
-
-Evolved from Earth languages with continual influence from Trade Tongue. Most men speak their local language primarily.
-
-### Campottonì Standard
-
-The capital's language serves as a planetary common tongue.
-
-### Trade Tongue
-
-Learned for off-world engagement.
-
-### Pronouns
-
-Arrhene languages have only one set of animate pronouns, used regardless of gender. The convergence is so nearly total that the exceptions are famous: a pair of upland dialects near Zespol keep a vestigial gendered form—heard now only in old verse and, mischievously, applied to off-worlders—and the linguists have argued about why for two centuries.
+Arrhene languages have only one set of animate pronouns, used regardless of gender. The convergence is so nearly total that the exceptions are famous: a pair of upland dialects near Zespol keep a vestigial gendered form, heard now only in old verse and, mischievously, applied to off-worlders, and the linguists have argued about why for two centuries.
 
 ## Literature
 
-Literary traditions include:
+Epic narratives exploring legacy and continuity. Technical manuals valued as literature in their own right. Pulp shlock full of action setpieces, entertaining masses and sophisticates alike. Romance exploring relationships with full emotional range. Poetry in traditional and experimental forms.
 
-- **Epic narratives** exploring legacy and continuity
-- **Technical manuals** valued as literature in their own right
-- **Pulp shlock** full of action setpieces, entertaining masses and sophisticates alike
-- **Romance** exploring relationships with full emotional range
-- **Poetry** in traditional and experimental forms
+That is the planetary account of itself, assembled largely in Landwick, which makes most of what Arrhenos watches and reviews the rest. What a given city actually reads is a narrower and stranger thing: Zespol's long tradition of wilderness journals, the verse novels of the Marchpane that nobody on the coast has heard of, the Carmanto workshop ballads, and the enormous quantity of untranslated writing in local languages that never reaches the Folio and is not the worse for it.
 
 ---
 
@@ -231,53 +136,45 @@ Literary traditions include:
 
 # Arrhenos: The Diaspora
 
-There are Arrhenes scattered across human space—in counting-houses and courtrooms, on research stations and mining moons, aboard ships that may not touch the homeworld for years. What the diaspora cannot usually do is make more Arrhenes *the homeworld's way*. Nonetheless, Arrhene men are men, and the older doors were never closed: some father children with local partners; some adopt, the way spacers and expatriates always have—the dock orphan, a husband's daughter, the apprentice who stopped leaving. So alongside the first-generation men from the planet there runs a thin, real second generation: children who have never seen Arrhenos, who keep the single pronoun at home and the gendered ones at school, and who are debated at every enclave table—too Arrhene for the port, too much the port's for the planet, and, being children, sublimely indifferent to the debate. Whether the diaspora is a thing that can root or only a thing that can spread depends on which enclave you ask, and how long it has been where it is.
+There are Arrhenes scattered across human space—in counting-houses and courtrooms, on research stations and mining moons, aboard ships that may not touch the homeworld for years. What the diaspora cannot usually do is make more Arrhenes the homeworld's way.
 
-## Who Goes Out, and Why
+Arrhene men are men, though, and the older doors were never closed. Some father children with local partners; some adopt, the way spacers and expatriates always have. So alongside the first-generation men from the planet runs a thin, real second generation: children who have never seen Arrhenos, who keep the single pronoun at home and the gendered ones at school, and who are debated at every enclave table.
 
-| Going out | Who they are |
-|---|---|
-| The posted | Bankers and clerks of the [Financial Consortium](economy.md), sent to run a branch among clients who want neutral money close at hand |
-| The arbiters | [External Affairs](external-relations.md) men and neutral arbitrators, hired into other people's disputes precisely because they belong to no side |
-| The spacers | Crews of the [Merchant Fleet](vessels/polletio.md), whose lives are lived in transit, and who are of all Arrhenes the least at home and the least away |
-| The specialists | Researchers and technicians at off-world stations—[Outrase](locations/other.md) and the like—where the work is and the homeworld is not |
-| The hands | Labourers at holdings such as [Oryx](locations/other.md): the unglamorous diaspora that digs and hauls |
-| The leavers | Men who wanted something the planet does not hold—a life with women, or simply more sky—and did not come back |
-| The drifted | Those who washed out of something at home and kept going, carrying a past they describe loosely |
+## Who goes out
 
-The largest concentration in living memory is in [Vega](../../powers/vega-throne/index.md), where Arrhene money and Arrhene clerks have spent two decades financing the [reconstruction](external-relations.md) after the [Banking War](banking-war.md)—a posting that the senior men remember as the making of their careers. Its heart, the [Aurelius City enclave](locations/little-arrhenos.md), has grown from a counting-house district into the nearest thing the diaspora has to a capital.
+| The posted     | Bankers and clerks of the Financial Consortium, sent to run a branch among clients who want neutral money close at hand |
+| The arbiters   | External Affairs men and neutral arbitrators, hired into other people's disputes precisely because they belong to no side |
+| The spacers    | Crews of the Merchant Fleet, whose lives are lived in transit                          |
+| The specialists| Researchers and technicians at off-world stations                                      |
+| The hands      | Labourers at holdings such as Oryx: the unglamorous diaspora that digs and hauls        |
+| The leavers    | Men who wanted something the planet does not hold—a life with women, or simply more sky |
+| The drifted    | Those who washed out of something at home and kept going                                |
+
+The largest concentration in living memory is in Vega, where Arrhene money and Arrhene clerks have spent two decades financing the reconstruction after the Banking War. Its heart, the Aurelius City enclave, has grown from a counting-house district into the nearest thing the diaspora has to a capital.
 
 ## Little Arrhenos
 
-Where Arrhenes gather in numbers, the same institution appears first, nearly every time: a bathhouse. (The Outrase enclave built its counting-house first, and has not been allowed to forget it.) Long before a hall or a meeting-room, an enclave builds somewhere warm to sit in water, because that is where Arrhene life is conducted—business, gossip, argument, comfort. The [bath](locations/landwick/the-tep.md) is the embassy, the club, and the hearth of any Little Arrhenos, and the locals who are invited in remember it, one way or another.
+Where Arrhenes gather in numbers, the same institution appears first, nearly every time: a bathhouse. The Outrase enclave built its counting-house first and has not been allowed to forget it. Long before a hall or a meeting-room, an enclave builds somewhere warm to sit in water, because that is where Arrhene life is conducted. The bath is the embassy, the club and the hearth, and the locals who are invited in remember it, one way or another.
 
-The other thread is the [Fleet](vessels/polletio.md). Ships are mobile pieces of home, and they are the circulatory system that keeps the scattered communities alive: news, mail, money, and men move along the trade circuits, so that a docking Arrhene vessel is, briefly, a piece of the homeworld arrived in port. In a galaxy where word travels with hulls, the Fleet is how an enclave on one frontier learns that an enclave on another still exists.
+The other thread is the Fleet. Ships are mobile pieces of home and the circulatory system that keeps the scattered communities alive, carrying news, mail, money and men along the trade circuits.
 
-Wherever they cluster, Arrhenes carry their reputation with them—discreet, neutral, useful, and therefore, inevitably, suspected. A people known for keeping secrets and taking no side will always be asked, behind the hand, what they are *really* doing. The suspicion is mostly unfounded and entirely unshakeable, and the diaspora has long since learned to live inside it.
+Wherever they cluster, Arrhenes carry their reputation with them: discreet, neutral, useful, and therefore suspected. A people known for keeping secrets and taking no side will always be asked, behind the hand, what they are really doing.
 
-## The Expat Condition
+## The expatriate condition
 
-To live abroad as an Arrhene is to live, daily, in the gap set out in [Women and Gender](women-and-gender.md): the distance between what the gendered galaxy expects of him and what he actually is.
+How wide the gap yawns depends on the posting. In Vega, where Arrhene clerks have been fixtures for a generation, the questions wore out years ago. On a frontier station that has never berthed an Arrhene hull, a man can spend his first season as a nine days' wonder. And in the reaches where Arrhenos is only a name on a letter of credit, nobody expects anything of him at all, which some men find restful and others oddly lonely.
 
-How wide that gap yawns depends on the posting. In [Vega](../../powers/vega-throne/index.md), where Arrhene clerks have been fixtures for a generation, the questions wore out years ago and the work is simply work; on a frontier station that has never berthed an Arrhene hull, a man can spend his first season as a nine days' wonder; and in the reaches where Arrhenos is only a name on a letter of credit, no one expects anything of him at all, which some men find restful and others find oddly lonely.
+Where the expectations do run, he navigates them competently, with a running effort no native makes: marking in speech a distinction he does not feel, performing manners whose point eludes him, fielding the question of what life without women is like—or, from a hostile table, the insinuation that a world without women must despise them, which is harder to answer, since the honest disproof is a shrug. Many learn to let the underestimation stand and use it.
 
-Where the expectations do run, he navigates them competently—he was never the naif they assumed—but with a running effort no native makes: marking in speech a distinction he does not feel, performing manners whose point eludes him, fielding for the hundredth time the question of *what life without women is like*—or, from a hostile table, the insinuation that a world without women must despise them, an accusation he finds harder to answer, since the honest disproof is a shrug. Many learn to let the underestimation stand and use it; a man assumed to be sheltered is a man whose competence lands as a pleasant surprise across a negotiating table.
+Three frictions recur. Arrhene ease with nakedness and touch meets societies that read both quite differently: the colleague brought along to the enclave bathhouse, the shared cabin that means nothing to one man and everything to the watching other. Arrhene assumptions about love—that it is not rivalrous, that what one builds is a household—collide with worlds that hold romance exclusive and the couple sacred; he offers a place in a network, and his lover wanted to be the only one.
 
-Three frictions recur:
+And a man who wants a son of the homeworld's kind must go home for it, because the Continuity does not travel. The spacer's version is the ache of the absent father, a son raised by the household back home while he runs the circuit, known across years of lagging messages, remittances, and a fortnight ashore. But the diaspora also fathers where it stands: the child of a Vegan marriage, the ward signed for on a dock at eleven, the co-fathering arrangement improvised with a local household that had never heard of such a thing and took to it. Home has no category for these children, and the network back home, told of a granddaughter, sends gifts, and a torc sized small.
 
-- **The body.** Arrhene ease with [nakedness and touch](intimacy.md) meets societies that read both quite differently. The colleague brought along to the enclave bathhouse; the shared cabin that means nothing to one man and everything to the watching other—these are the small disasters of diaspora life, and its small intimacies.
-- **Love.** An Arrhene's assumptions—that love is [not rivalrous](intimacy.md), that what one builds is a *household*—collide with worlds that hold romance exclusive and the couple sacred. He offers a place in a network; his lover wanted to be the only one. Or he falls, against all his upbringing, for a woman, and finds he has no script at all for what comes next.
-- **Fathering.** A man who wants a son of the homeworld's kind—decanted, raised in a household, sworn in with his cohort at twenty—must, in the end, go home for it; the Continuity does not travel. The spacer's version is the ache of the [absent father](fatherhood-and-brotherhood.md)—a son raised by the household back home while he runs the circuit, known across years of lagging messages, remittances, and a fortnight ashore. But the diaspora also fathers where it stands: the child of a Vegan marriage; the ward signed for on a dock at eleven; the co-fathering arrangement improvised with a local household that had never heard of such a thing and took to it. Home has no category for these children, which the men raising them find they mind less each year—and the network back home, told of a granddaughter, sends gifts, and a torc sized small.
+## Coming home
 
-## Coming Home
+Most go home eventually, and home is never quite as they left it. Some find the planet shrunk—provincial, hermetic, too small after the noise of Vega. Others feel the relief of stepping off the ship into the steam and the single pronoun, of no longer having to perform a gender or explain a household. The man who built a family abroad faces the return differently again: wives and daughters are as welcome as any woman on Arrhenos, and the reality of so few other women around may be too much to cope with long-term.
 
-Most go home eventually, and home is never quite as they left it. Some find the planet shrunk—provincial, hermetic, too small after the noise of [Vega](../../powers/vega-throne/index.md) and the breadth of the wider sky. Others feel the opposite: the immense relief of stepping off the ship into the steam and the single pronoun, of no longer having to perform a gender or explain a household, of being—after years of translation—simply legible again. And the man who built a family abroad faces the return differently again: wives and daughters are as welcome as any woman on Arrhenos but the reality of so few other women around may be too much to cope with long-term.
-
-And some never resolve it. The Fleet is full of men for whom neither the planet nor any port is quite the answer; roughly a third of a ship's crew will choose to stay aboard rather than go down when the homeworld is right there below them. There is a [Hesperine word](vessels/polletio.md) for it, *vethallen*: the place that holds you, neither home nor trap, the space you return to because returning has become what you do. For much of the diaspora, that place is not a world at all. It is the passage between them.
-
----
-
-*See also: [Women and Gender](women-and-gender.md) — the attitudes and reputation an Arrhene carries abroad; [External Relations](external-relations.md) — the institutional face of Arrhene neutrality; [Intimacy and Kinship](intimacy.md) and [Fatherhood and Brotherhood](fatherhood-and-brotherhood.md) — the home customs that travel awkwardly.*
+Some never resolve it. The Fleet is full of men for whom neither the planet nor any port is quite the answer, and roughly a third of a ship's crew will choose to stay aboard rather than go down when the homeworld is right there below them. *Vethallen*, the Hesperine word, means the place that holds you. For much of the diaspora that place is not a world at all but the passage between them.
 
 ---
 
@@ -286,59 +183,35 @@ And some never resolve it. The Fleet is full of men for whom neither the planet 
 
 # Arrhenos: Economy
 
-## Currency
-
-Arrhenos uses the standard **quid (ϟ)** for almost all purposes.
+Arrhenos uses the standard quid for almost all purposes.
 
 ## The Arrhenos Financial Consortium
 
-Synonymous with secure, neutral banking. The Consortium dominates the planetary economy and shapes Arrhenos's role in human space.
+The Consortium dominates the planetary economy and shapes Arrhenos's role in human space.
 
-Its writ should be understood precisely. The Consortium does not do most of the galaxy's banking—no institution could, across the lag; the ordinary lending, saving, and clearing of ten thousand worlds is done by regional houses beyond counting, most of which have never routed a transaction through Arrhenos, and most interstellar commerce settles perfectly well through letters of credit, regional exchanges, and bankers closer to home. The Consortium's trade is a niche: the neutral keeping of money that must survive its own politics—war chests, dynastic reserves, arbitration stakes, secrets. Even in that seam it is not alone; smaller neutral houses work it in their own regions, and most of the galaxy will never need the service at all. Arrhenos is simply the oldest and most trusted name in the trade, and the one the great powers reach for first.
+Its writ should be understood precisely. The Consortium does not do most of the galaxy's banking—no institution could, across the lag. The ordinary lending, saving and clearing of ten thousand worlds is done by regional houses beyond counting, most of which have never routed a transaction through Arrhenos, and most interstellar commerce settles perfectly well through letters of credit, regional exchanges, and bankers closer to home.
 
-### Specialities
+The Consortium's trade is a niche: the neutral keeping of money that must survive its own politics—war chests, dynastic reserves, arbitration stakes, secrets. It is not alone in that seam either. The Reyes Trust works it for three hundred rimward systems, the Khivan trade families for the coreward Circuit, and a scattering of smaller houses for their own regions, none of which has any reason to route a client through the Mas system. What Arrhenos has is age, an unbroken record, and the habit of being suggested when a client asks who else does this.
 
-- **Quantum-enhanced risk assessment**
-- **Quantum-encrypted transactions**
-- **Neutral accounts** accessible regardless of political upheaval
+Its specialities are quantum-enhanced risk assessment, quantum-encrypted transactions, and neutral accounts accessible regardless of political upheaval.
 
-### Financial Innovations
+| Merit Bonds                | returns tied to skill development                   |
+| Neutrality Insurance       | coverage for conflict-zone assets                   |
+| Time-Arbitrage Derivatives | exploiting inter-system communication lag           |
 
-| Product | Description |
-|---------|-------------|
-| Merit Bonds | Returns tied to skill development |
-| Neutrality Insurance | Coverage for conflict-zone assets |
-| Time-Arbitrage Derivatives | Exploiting inter-system communication lag |
+What passes through the planet is a thin slice of human space's money and a strange one: the settlement nobody will sign unless a third party holds it, the reserve that must survive a change of regime, the stake in an arbitration two parties have agreed to lose gracefully. Large sums by any single world's standards. A rounding error against what the corridors move in a day.
 
-### Scale
+## Self-sufficiency
 
-Quadrillions of quid pass through the planet daily—a thin slice of human space's money, and a potent one: the settlements between powers, the reserves no one dares hold at home, the contracts that only bind because Arrhenos holds the stakes.
-
-## Self-Sufficiency
-
-Arrhenos maintains remarkable independence:
-
-| Sector | Status |
-|--------|--------|
-| Food | Vertical farming exceeds domestic needs |
-| Energy | Fusion and solar provide abundant supply |
-| Manufacturing | Advanced capacity for most goods |
+Vertical farming exceeds domestic food needs. Fusion and solar provide abundant energy. Manufacturing capacity covers most goods.
 
 ## Trade
 
-### Exports
+Exports are financial services, quantum processors and architectural designs. The planet trades with all seven great powers, on the modest scale a two-billion-person world trades with anyone, and the parties who do keep stakes on Arrhenos would rather they stayed where they are. The Consortium is careful not to mistake that for protection.
 
-- Financial services
-- Quantum processors
-- Architectural designs
+## Client confidentiality
 
-### Relationships
-
-Trade relationships extend to all major powers. The planet's neutrality provides political protection—no great power is eager to see Arrhenos destabilised while its own reserves, stakes, and settlements sit in Arrhene vaults.
-
-## Client Confidentiality
-
-Sold as absolute, and very nearly so in practice—the handful of breaches in nine centuries are remembered precisely because they can be counted (see [The Banking War](banking-war.md)). The principle underpins Arrhenos's value as a neutral financial centre.
+Sold as absolute, and very nearly so in practice. The handful of breaches in nine centuries are remembered precisely because they can be counted.
 
 ---
 
@@ -347,48 +220,15 @@ Sold as absolute, and very nearly so in practice—the handful of breaches in ni
 
 # Arrhenos: External Relations
 
-## Diplomatic Principles
+Arrhene diplomacy rests on profitable neutrality, banking services without favour, unbiased arbitration, and client confidentiality.
 
-Arrhene diplomacy rests on:
-
-- **Profitable neutrality**
-- **Banking services without favour**
-- **Unbiased arbitration**
-- **Absolute client confidentiality**
-
-## Relations by Power
-
-### The Mandate
-
-Extensive but carefully calibrated trade. The Mandate's scale makes it an essential partner, but Arrhenos maintains careful distance from Imperial politics.
-
-### Union of Frontier Freeholds
-
-Informal venture capital connections. Arrhenos provides financing for Freehold enterprises; the relationship is commercial rather than political.
-
-### Elysian Collective
-
-Excellent relations built on mutual specialisation. Financial services in exchange for terraforming expertise. The Collective's focus on environmental transformation complements Arrhenos's economic strengths.
-
-### Sable Cartel
-
-Heavily restricted and monitored services. The Cartel's economic weight requires engagement, but Arrhenos limits exposure to an organisation of questionable practices and unknown leadership.
-
-### Neo-Solar Republic
-
-Research collaboration and cautious banking integration. The Republic's radical approach to human modification creates some cultural friction, but technological and financial ties benefit both.
-
-### Vega Commercial Throne
-
-Reconstruction financing following the [Banking War](banking-war.md) (ended 3839 C). The Throne's recovery represents both humanitarian concern and investment opportunity.
-
-### Drift Communities
-
-Specially designed neutral services for stateless populations. Drift assets receive protected status regardless of their physical location—a recognition that the Communities' lack of territory shouldn't mean lack of financial security.
-
----
-
-*See also: [Diaspora](diaspora.md) — the lived counterpart to these institutional relationships: Arrhenes living and working across the powers.*
+| The Mandate           | Extensive but carefully calibrated trade. The Mandate's scale makes it an essential partner, and Arrhenos keeps its distance from imperial politics |
+| Frontier Freeholds    | Informal venture capital connections; financing for Freehold enterprises. Commercial rather than political |
+| Elysian Collective    | Financial services in exchange for terraforming expertise; mutual specialisation, and excellent relations |
+| Sable Cartel          | Heavily restricted and monitored services. The Cartel's economic weight requires engagement, and Arrhenos limits its exposure |
+| Neo-Solar Republic    | Research collaboration and cautious banking integration. The Republic's approach to human modification creates some cultural friction |
+| Vega Commercial Throne| Reconstruction financing since the Banking War, treated as both humanitarian concern and investment opportunity |
+| Drift Communities     | Neutral services designed for stateless populations; Drift assets receive protected status regardless of physical location |
 
 ---
 
@@ -399,72 +239,63 @@ Specially designed neutral services for stateless populations. Drift assets rece
 
 Two bonds frame an Arrhene life. The vertical one is fatherhood: every man on the planet was deliberately chosen and raised by someone, and most will, in time, choose and raise in their turn. The horizontal one is brotherhood: the boys brought up alongside you, related or not, who came through the same household and the same milestones a step ahead or behind.
 
-This is the lived experience of both—the deciding, the raising, the growing up, and the ties between brothers. For the machinery of reproduction and the bare schedule of childhood, see [Society](society.md); for the household arrangements a boy is raised within, see [Intimacy and Kinship](intimacy.md).
+## Deciding to father
 
-## Deciding to Father
+There are no accidents. Every Arrhene child is the result of a decision, often years in the making. *Have you decided to father?* is among the largest questions one man asks another—larger, in some lives, than marriage.
 
-There are no accidents. Every Arrhene child is the result of a decision, often years in the making, and the weight of that fact sits at the centre of adult life. *Have you decided to father?* is among the largest questions one man asks another—larger, in some lives, than marriage.
+The choice can be taken alone, with a co-father, or by a whole household, and made at thirty or deferred past a hundred, since the long life imposes no hurry. A man weighs his work, his household's readiness, and his own appetite for the twenty years of close attention a son will ask. Many never father at all and find no shame in it; there are uncles enough to be.
 
-The choice can be taken alone, with a [co-father](intimacy.md), or by a whole household; it can be made at thirty or deferred past a hundred, since the [long life](../../setting/technology/enhancement.md) imposes no hurry. A man weighs his work, his household's readiness, and his own appetite for the twenty years of close attention a son will ask. Many never father at all, and find no shame in it—there are uncles enough to be, and [men whose calling is to raise others' sons](society.md).
+When a man does decide, he goes to the Continuity Programme, which records the choice rather than granting it. The one place the liberal republic gently steers is here: the diversity guidelines nudge the recombination away from too much sameness, so a father hoping for a son like him finds the system politely resistant.
 
-When a man does decide, he goes to the [Continuity Programme](society.md), which records the choice rather than granting it. The one place the liberal republic gently steers is here: the diversity guidelines, maintained algorithmically, nudge the recombination away from too much sameness. A father hoping for a son "like him" finds the system politely resistant, and the quiet negotiation between what a man would choose and what he is encouraged to accept is the nearest thing fatherhood keeps to a leap of faith.
+## Gestation and the decanting
 
-## Gestation and the Decanting
+Gestation happens outside the body, in chambers held at facilities ranging from grand civic halls in the cities to modest neighbourhood clinics. Because nobody carries the child, every father expects equally. In a couple, a triad or a network, the months of waiting are shared from the first day with none of the asymmetry other worlds take for granted.
 
-Gestation happens outside the body, in chambers held at facilities ranging from grand civic halls in the cities to modest neighbourhood clinics. Because no one carries the child, every father expects equally. In a couple, a triad, or a network, the months of waiting are shared from the first day with none of the asymmetry other worlds take for granted—every father counts the same weeks, and every one of them may visit.
+The bringing-out—the decanting—is what a birth is elsewhere: the household gathers, the uncles crowd in, and the son is lifted out and named, the surname acknowledging whoever will raise him. The event itself is, by the standards of the technology behind it, strikingly homely.
 
-The bringing-out—the **decanting**—is what a birth is elsewhere: the moment the household gathers, the uncles crowd in, and the son is lifted out and **named**. [Names](society.md) are drawn from the old Earth cultures, and the surname acknowledges whoever will raise him. The event itself is, by the standards of the technology behind it, strikingly homely. Whatever solemnity it carries, the family supplies.
+## The milestones of a boyhood
 
-## The Milestones of a Boyhood
+Two rungs are fixed by law, the first and the last. Everything between them is what a city, a guild or a household makes of the years, and the schedule below is best read as the version the Ministry prints rather than one any particular boy climbs.
 
-An Arrhene boyhood runs on a recognised ladder—the same in outline across the planet, however differently each city dresses it:
+| 0     | Decanting and naming | the son is brought from the chamber, named, and recorded with the Ministry |
+| ~2    | First torc           | a child's torc, light and limited, reissued and upgraded as he grows       |
+| ~4    | First school         | the first daily leaving of the household                                   |
+| 4–10  | Primary years        | general schooling, first sports and clubs, and whatever the locality holds a child ought to be able to do: wilderness competence around Zespol, the Shambles' vertical traffic in Brovdingonai, a second and third language on the Marchpane |
+| 11–15 | Secondary years      | subjects narrow, mostly by the boy's own choosing; the first examinations that count for anything |
+| 16–19 | Advanced study       | for those who take it, and often the first living away from home           |
+| 20    | Citizenship          | the oath to the Founding Accords; the vote, the right to father, and the adult torc |
 
-| Age | Milestone | What it entails |
-|---|---|---|
-| 0 | Decanting and naming | The son is brought from the chamber, named, and recorded with the Ministry |
-| ~2 | First torc | A child's [torc](society.md)—light, limited, reissued and upgraded as he grows |
-| ~4 | First school | The first daily leaving of the household; primary education begins |
-| 4–10 | Primary years | General schooling, first sports and clubs, and local competencies—wilderness skills in [Zespol](locations/nemora-zespol/zespol.md), the three-dimensional cities of the [Shambles](locations/brovdingonai/shambles.md) |
-| ~11 | Placement | An assessment of aptitude and inclination points the boy toward a specialisation; he takes up the white insignia of a student |
-| 11–15 | Secondary training | Specialisation deepens; the first serious examinations; boys sorted by what they prove good at |
-| 16–19 | Advanced study | Often the first living away from home; the [university bonds](intimacy.md) that may last a life |
-| 20 | Citizenship | The oath to the [Founding Accords](index.md); full adulthood, the vote, the right to father, and the adult torc |
+## The placement, and the end of it
 
-Two of these rungs matter more than the rest.
+There is no placement, and there has not been for three hundred years. The Second Republic ran one: an assessment at eleven, part examination and part the accumulated opinion of a boy's teachers, which read his aptitudes and pointed him at a field. The Third dismantled it in the 3520s, after four decades of studies—begun under the old republic, and among the things that discredited it—established that what the assessment chiefly measured was the household a boy came from. A meritocracy that sorts at eleven, the argument ran, launders an advantage into a verdict and then makes the boy carry it for a hundred and eighty years. A republic that had just replaced one of its own found the reasoning difficult to duck.
 
-**Placement**, at around eleven, is the first time the meritocracy touches a boy directly. An assessment—part examination, part long observation by teachers—reads his aptitudes and inclinations and steers him toward a field of training. It is not the iron sorting that the later [guild boards](government.md) will be; a placement can be argued, revisited, and overturned by a determined boy or a stubborn talent. But it is the first moment a child feels the gentle, total assumption of his society: that he will be *good at something*, and that finding out what is the serious business of growing up. Eleven-year-old [Nikias Makris-Webb](locations/brovdingonai/westslope-gardens.md), who at present intends to be a jockey, sits exactly at this threshold—his coaches see a runner, Nikias sees a jockey, and the assessment will have its own opinion.
+The word outlived the institution, as words do. Men still speak of a boy being placed, meaning only that he has settled on something, and fathers still ask each other at the fourth drink whether the middle son has placed yet. Several cities kept the ceremony after gutting the machinery behind it: Carmanto walks its eleven-year-olds through the guild halls on a fixed day in Nivir and hands out white cord at the end of it, though nothing whatever is decided. There are households that sit a boy down at eleven and conduct their own version, badly and with enormous seriousness.
 
-**Citizenship**, at twenty, is the capstone. New citizens are commonly recognised together, in an annual cohort gathered on or near [Foundation Day](index.md), and they take the oath to the Founding Accords as one—the secular republic's closest equivalent to a sacrament, alongside the [wedding](intimacy.md) vow that borrows the same founding language. With the oath comes everything at once: legal adulthood, the franchise, the replacement of the student's torc with a full adult [torc](society.md), and—not least—the opening of the Continuity to him. The boy who was decanted and raised becomes, on a single day, a man permitted to decant and raise in his turn. Cohorts keep the tie for life; *year-mates* count for something, the way schoolfellows and shipmates do. [Alexios Makris-Webb](locations/brovdingonai/westslope-gardens.md), nineteen and testing the patience of everyone around him, is a year short of all of it.
+What replaced it is not a system but the absence of one, which each place has filled differently. Brovdingonai's guilds run trial weeks and take on far more eleven-year-olds than they can use, on the theory that the ones who come back are the answer. Landwick auditions. Zespol's children have been in the woods since ten, and what a boy is good at has usually declared itself outdoors. The Marchpane apprentices boys to the farms at whatever age they start being useful and sees nothing there to formalise. Campottonì's schools produce a written assessment, because Campottonì's schools produce a written assessment about everything, and sensible households read it with the scepticism it has earned. And in a great many houses nothing happens at eleven at all: a boy drifts pleasantly through his teens until something catches him, which the planet's teachers will tell you is the commonest route to a good guildsman and the hardest one to explain to an anxious father.
 
-Puberty, in an all-male world, arrives without much ceremony—handled plainly, like the [bodies](intimacy.md) it belongs to, as a thing that happens rather than a thing to be marked. The rites Arrhenos keeps are about *capability and belonging*, not the body.
+Eleven-year-old Nikias Makris-Webb intends to be a jockey. His coaches see a runner. Darien Foss, who takes him to practice, sees a boy who likes being taken to practice. Nothing exists to arbitrate between them, and the question will be settled the way such questions are settled now: slowly, at dinner, by whoever outlasts the others.
+
+The meritocracy's teeth come later and are none the gentler for the wait. The guild boards sit for any man who presents himself, at whatever age he presents himself, and they are the iron sorting the placement never quite managed to be. What the reform changed is not that Arrhenos stopped sorting men. It stopped sorting children, and left the sorting to an age at which a man can argue back.
+
+Citizenship, at twenty, is the capstone and the one rung nobody varies. New citizens are commonly recognised together, in an annual cohort gathered on or near Foundation Day, and take the oath to the Founding Accords as one. With it comes legal adulthood, the franchise, the replacement of the child's torc with a full adult torc, and the opening of the Continuity. Cohorts keep the tie for life, and year-mates count for something, the way schoolfellows and shipmates do. Not everyone swears in company—men abroad take the oath at an enclave or aboard ship, and a certain kind of man declines the ceremony, signs the register alone and goes back to work—but the date is the date, and almost everybody marks it somehow. Alexios Makris-Webb, nineteen and testing the patience of everyone around him, is a year short of all of it.
+
+Puberty, in an all-male world, arrives without much ceremony, handled plainly as a thing that happens rather than a thing to be marked. The rites Arrhenos keeps are about capability and belonging.
 
 ## Brotherhood
 
-Blood does almost nothing here, and rearing does almost everything. The boys raised in one house are brothers for life whether or not they share a recombination donor; the network's children, the friendship-household's sons, the uncle's boys down the hall—these are brothers too, by the only measure that counts. Half-brothers by donor, meanwhile, are nothing to one another and frequently never meet.
+The boys raised in one house are brothers for life whether or not they share a recombination donor, and so are the network's children, the friendship-household's sons, and the uncle's boys down the hall. Half-brothers by donor are nothing to one another and frequently never meet.
 
-Because fathering is deliberate and spaced to a household's readiness, brothers are often years apart. Wide gaps are ordinary, and they shape how brothers hold one another:
+Because fathering is deliberate and spaced to a household's readiness, brothers are often years apart, and the gaps shape how they hold one another. When the gap is large the eldest helps raise the youngest, and the bond carries a parental weight the fathers themselves may envy. An older brother reaches each threshold first—the first examinations, the first leaving, the oath—and the younger watches his own future rehearsed a few years ahead. Close in age, with a meritocracy underfoot, brothers compete over examinations, over who is left alone to get on with it, and over a father's evident pride; though plenty never compete at all, having landed early on trades too far apart to be measured against each other. The brother who is not a father can be told what the fathers cannot. And when the eldest turns twenty and leaves, the household reshapes around the gap.
 
-- **The second father.** When the gap is large, the eldest helps raise the youngest, and the bond carries a parental weight the fathers themselves may envy.
-- **The pathfinder.** An older brother reaches each milestone first—placed, examined, sent away to study, sworn in as a citizen—and the younger watches his own future rehearsed a few years ahead. Much of what a boy expects of growing up, he learns by watching a brother do it.
-- **The rival.** Close in age, with a meritocracy underfoot, brothers compete—over placements, over examinations, over a father's evident pride. The [Agonist](culture.md) temper dignifies the rivalry as devotion; the brothers living it would call it ordinary.
-- **The confidant.** The brother who is not a father can be told what the fathers cannot—the first attraction, the failed examination, the trouble down in the [Shambles](locations/brovdingonai/shambles.md). He covers, he warns, he translates the household's rules.
-- **The departed.** When the eldest turns twenty and leaves—for study, for work, for the wider sky—the household reshapes around the gap, and the younger brothers feel the first edge of the same door.
+The Makris-Webb household holds the whole spread in three sons: Alexios at nineteen, building something secret in the workshop and already half gone into adulthood; Corin at sixteen, quiet and watchful, the likeliest confidant; Nikias at eleven, who has opinions about everything and two older brothers to measure himself against.
 
-The [Makris-Webb](locations/brovdingonai/westslope-gardens.md) household holds the whole spread in three sons: Alexios at nineteen, building something secret in the workshop and already half gone into adulthood; Corin at sixteen, quiet and watchful, the likeliest confidant; Nikias at eleven, who has opinions about everything and two older brothers to measure himself against. To Nikias, Alexios is nearly a third father and Corin an ally; to Alexios, the younger two are a responsibility he has not yet noticed he accepts.
+The word stretches past the household, too, to cover the cohort sworn in together, the schoolfellows of the long training years, the guild-brothers who came up in the same craft, and, off-world, the shipmates who learn one another's breathing in a cot two men wide.
 
-Brotherhood reaches past the household, too. The word stretches to cover the cohort sworn in together, the schoolfellows of the long training years, the guild-brothers who came up in the same craft, and—off-world—the [shipmates](vessels/polletio.md) who learn one another's breathing in a cot two men wide. The household brothers come first. The rest are how a man stays brothered once the household has scattered.
+## Fatherhood across a long life
 
-## Fatherhood Across a Long Life
+A father does not stop being one when his sons reach twenty, but the shape changes. Two centuries of life turn the fierce, exhausting decades of a boyhood into a long prologue, and what follows is a hundred years and more of fathers and grown sons as something nearer to peers.
 
-A father does not stop being one when his sons reach twenty, but the shape changes. Two centuries of life turn the fierce, exhausting decades of a boyhood into a long prologue; what follows is a hundred years and more of fathers and grown sons as something nearer to peers—old friends with an unrepayable debt running one way and an unbreakable claim running the other.
-
-The long life rearranges the rest as well. A man may father once in his thirties and again past a hundred, and so produce brothers seventy years apart who share a household only in name. When a father dies before his work is done—accident or violence, the only things that still kill on schedule—the [household, the network, or a guild](intimacy.md) closes over the gap and the son is raised regardless; the [ward](intimacy.md) taken up by an institution is no rarer, and no less loved for the colder start, than any other boy. And some men make the raising itself their life's work, fathering many in turn or at once, by calling or by contract, so that the planet never wants for someone willing to do the oldest thing it does.
-
-Which bond a man holds dearest in the end—the fathers who made him or the brothers who came up beside him—depends, as ever, on who you ask.
-
----
-
-*See also: [Society](society.md) — reproduction, development stages, torcs, and names; [Intimacy and Kinship](intimacy.md) — courtship, marriage, and the household forms a boy is raised within.*
+The long life rearranges the rest as well. A man may father once in his thirties and again past a hundred, producing brothers seventy years apart who share a household only in name. When a father dies before his work is done—accident or violence, the only things that still kill on schedule—the household, the network or a guild closes over the gap and the son is raised regardless. And some men make the raising itself their life's work, fathering many in turn or at once, by calling or by contract.
 
 ---
 
@@ -473,65 +304,33 @@ Which bond a man holds dearest in the end—the fathers who made him or the brot
 
 # Arrhenos: Government
 
-The republic's government is designed to be boring, and counts that its finest achievement. A planet whose product is trust cannot afford drama at the top: power is split, terms are long, recall is real, and the great offices attract the kind of man who reads actuarial tables for pleasure. Two republics fell before this one; the Third has run for nearly four centuries on the theory that a state, like a bank, is best judged by how little its customers ever need to think about it.
+The republic's government is designed to be boring. Power is split, terms are long, recall is real, and the great offices attract the kind of man who reads actuarial tables for pleasure. Two republics fell before this one; the Third has run for nearly four centuries.
 
 ## The Symposiarch
 
-An elected executive serving seven-year terms.
+An elected executive serving seven-year terms. Candidates must demonstrate expertise in relevant fields and a public service record.
 
-### Requirements
-
-Candidates must demonstrate:
-
-- Expertise in relevant fields
-- Public service record
-
-### Powers
-
-Constitutionally limited:
-
-- Cannot override the Founding Accords
-- Subject to recall by referendum
-- Executive authority within defined bounds
-
-The current Symposiarch, **Sarzin Dawkinholm**, is serving his third term.
+The office is constitutionally limited: it cannot override the Founding Accords, it is subject to recall by referendum, and its executive authority runs within defined bounds. The current Symposiarch, Sarzin Dawkinholm, is serving his third term.
 
 ## Legislature
 
-Bicameral, balancing merit and popular sovereignty.
+The legislature is bicameral, balancing merit against popular sovereignty.
 
-### The Guildhall
+The Guildhall holds 447 members representing the professional guilds, selected through merit examination and peer review on staggered long terms.
 
-447 members representing professional guilds.
-
-- Selection through merit examination and peer review
-- Staggered long terms
-- Represents expertise and professional competence
-
-### The Demos
-
-2,847 members elected from geographic regions.
-
-- Seven-year terms
-- Proposes most legislation
-- Controls the budget
-- Represents popular will
+The Demos holds 2,847 members elected from geographic regions on seven-year terms. It proposes most legislation and controls the budget.
 
 ## Judiciary
 
-### Tribunal of Review
+The Tribunal of Review seats 21 Arbiters, handling judicial matters, constitutional interpretation, and disputes between branches.
 
-21 Arbiters handling judicial matters, constitutional interpretation, and disputes between branches.
+## Ministries
 
-## Key Ministries
-
-| Ministry | Portfolio |
-|----------|-----------|
-| Continuity | Reproduction, the Continuity Programme |
-| Financial Stability | Banking regulation, sovereign wealth fund |
-| Culture | Education, research, festivals |
-| External Affairs | Diplomacy, arbitration services |
-| Defence | Military, security |
+| Continuity          | reproduction and the Continuity Programme    |
+| Financial Stability | banking regulation, the sovereign wealth fund|
+| Culture             | education, research, festivals               |
+| External Affairs    | diplomacy and arbitration services           |
+| Defence             | military and security                        |
 
 ---
 
@@ -540,85 +339,61 @@ Bicameral, balancing merit and popular sovereignty.
 
 # Arrhenos: Intimacy and Kinship
 
-On Arrhenos, sex produces no children and children require no sex. Reproduction runs through the [Continuity Programme](society.md)—artificial gestation, chromosomal recombination, a civic service a man elects when he chooses. Desire, romance, and the long entwining of lives run alongside it on an entirely separate track. The two may be braided together, kept wholly apart, or taken up and set down in different combinations across a life that now runs past two centuries.
+On Arrhenos, sex produces no children and children require no sex. Reproduction runs through the Continuity Programme; desire, romance and the long entwining of lives run alongside it on a separate track. The two may be braided together, kept wholly apart, or taken up and set down in different combinations across a life that runs past two centuries.
 
-The result is that Arrhenos has no single shape for a partnership and no single shape for a childhood. What follows describes tendencies, not rules. For nearly every pattern below, a man can name a household he knows that does it differently.
+What follows describes tendencies rather than rules. For nearly every pattern below, a man can name a household he knows that does it differently.
 
-## Love and Parenthood as Separate Arts
+## Love and parenthood as separate arts
 
-Elsewhere, the people who raise a child are usually the ones who desired one another. On Arrhenos the link is optional. A man may father with someone he loves, with a friend he merely trusts, with several partners at once, or with a co-father he is fond of but not in love with. He may spend forty years in a passionate household and never father at all. [Professional fatherhood](society.md)—individuals, firms, and whole communities who raise others' sons—means a child can be wanted and reared by men who feel no romance for one another whatsoever.
+A man may father with someone he loves, with a friend he merely trusts, with several partners at once, or with a co-father he is fond of but not in love with. He may spend forty years in a passionate household and never father at all. Professional fatherhood means a child can be wanted and reared by men who feel no romance for one another whatsoever.
 
-Arrhene men take this separation for granted, and are mildly puzzled when off-worlders assume that bedfellows and co-fathers must be the same men. Often they are. Just as often they are not.
+Arrhene men take the separation for granted, and are mildly puzzled when off-worlders assume that bedfellows and co-fathers must be the same men.
 
-## The Body
+## The body
 
-[Bath culture](locations/landwick/the-tep.md) sets the baseline. Nakedness is ordinary, touch is ordinary, and a great deal of life is conducted in warm water among men in every stage of undress. Sharing a pool, a steam room, or—[aboard ship](vessels/polletio.md)—a cot two men wide carries no automatic romantic meaning; the housing officer lets preferences sort themselves out.
+Bath culture sets the baseline. Nakedness is ordinary, touch is ordinary, and a great deal of life is conducted in warm water among men in every stage of undress. Sharing a pool, a steam room, or aboard ship a cot two men wide, carries no automatic romantic meaning.
 
-Privacy, where it exists, rests on manners rather than locks. The etiquette of the private bath chamber—a door but no lock, a double knock and then a wait—runs through the culture at large. A man's solitude is respected because intruding on it is rude, not because it is barred.
+The baseline is not uniform. Zespol's cold-country bathing is a brisker and more private business than the open pools of the Tep, the capital's civic baths are conducted with a formality the provinces find funny, and there are trades and households that keep more clothing on than the planet's reputation would suggest. What holds everywhere is only the negative: nowhere on Arrhenos is an undressed man news.
 
-Sex carries little shame and no necessary connection to romance: it may express love, or friendship, or appetite, or nothing much at all. [Commercial intimacy](locations/brovdingonai/nightlife.md) is legal and regulated without great fuss, clustering where transients and off-worlders pass through—the [Transient Quarter](locations/verenstad-gamma/transient-quarter.md), the livelier reaches of [Gamma](locations/verenstad-gamma/gamma.md), a quarter of most spaceport cities. Romance and erotica are mainstream in [literature](culture.md), neither hidden nor sniggered at.
+Privacy rests on manners rather than locks. The etiquette of the private bath chamber—a door but no lock, a double knock and then a wait—runs through the culture at large. A man's solitude is respected because intruding on it is rude, not because it is barred.
+
+Sex carries little shame and no necessary connection to romance. Commercial intimacy is legal and regulated without great fuss, clustering where transients and off-worlders pass through, and romance and erotica are mainstream in literature.
 
 ## Courtship
 
-There is no single script, but several well-worn paths:
+There is no single script, but several well-worn paths: the university years, whose bonds sometimes harden into lifelong networks; co-fathering, where two men matched to raise a son grow close in the work of it and find the household has become a marriage; the baths, body-first and unceremonious; the guilds, and the romance of shared competence; and the torc-mediated brokerages promising compatibility by algorithm, thought sensible by some and faintly absurd by others.
 
-| Path | Character |
-|---|---|
-| University | Bonds formed during the years of [advanced study](society.md), some hardening into lifelong networks even after careers scatter the men across the planet and beyond |
-| Co-fathering | Two men match to raise a son, grow close in the work of it, and find the household has become a marriage—common enough that everyone claims to have seen it coming |
-| The baths | Body-first and unceremonious; an acquaintance of the steam room becomes something more |
-| Guild and craft | Men who make their names together; the romance of shared competence |
-| Brokerage | Torc-mediated matching services promising compatibility by algorithm—thought sensible by some and faintly absurd by others, given who else on this planet is sorted by algorithm |
+Interest is signalled quietly—in the capital's register, at any rate, where grand gestures read as provincial or as imported affectation. Landwick, which stages its weddings as opera, regards capital restraint as a form of display in its own right and courts accordingly.
 
-Interest is signalled quietly. Grand gestures read as provincial, or as imported affectation; the confident move is understatement.
+## Exclusivity, and its absence
 
-## Exclusivity, and Its Absence
+The unmarked default is that love is not rivalrous. A partner with other lovers is, to most men, neither scandal nor wound: the Makris-Webbs keep Darien openly and think nothing of it, and Elio sustains a network of old university partners across half the planet whom his sons know as uncles. Exclusivity exists, as a preference some couples negotiate rather than a law all are presumed to keep.
 
-The unmarked default is that love is not rivalrous. A partner with other lovers is, to most men, neither scandal nor wound: the [Makris-Webbs](locations/brovdingonai/westslope-gardens.md) keep Darien openly and think nothing of it, and Elio sustains a network of old university partners across half the planet, whom his sons know as uncles. Exclusivity exists—but as a preference some couples negotiate, not a law all are presumed to keep.
+Betrayal is therefore rarely a matter of sex with another man. It is a matter of secrecy, of neglect, or of breaking the terms you set. Seoras and Vel, nine years settled aboard the *Polletio*, argue about money, about family visits, and about whether to renew their contracts together—never about other men. The injuries that end Arrhene households are the quiet ones: a partner who stopped showing up, a promise let lapse, an outside affair allowed to cost the children their dinners.
 
-What this means is that betrayal is rarely a matter of sex with another man. It is a matter of *secrecy*, of *neglect*, or of *breaking the terms you set*. Seoras and Vel, nine years settled [aboard the Polletio](vessels/polletio.md), argue about money, about family visits, about whether to renew their contracts together—never about other men. The injuries that end Arrhene households are the quiet ones: a partner who stopped showing up, a promise let quietly lapse, an outside affair allowed to cost the children their dinners.
+Temperament varies, and the schools of thought lend it language. The Krishna Path counsels a contented non-attachment, the Concordance prizes the household's stability over the thrill, and Agonists can be fiercely possessive and call it devotion. A natural exclusivist born into a non-exclusive world, or its opposite, makes for a familiar kind of heartbreak.
 
-Temperament varies, and the [schools of thought](culture.md) lend it language. The Krishna Path counsels a contented non-attachment; the Concordance prizes the household's stability over the thrill; Agonists can be fiercely possessive and call it devotion. A natural exclusivist born into a non-exclusive world—or its opposite—makes for a familiar kind of heartbreak.
+## Marriage and the household
 
-## Marriage and the Household
+In law, marriage is the formation of a household: a shared economic and domestic unit, registered to a standard template or drawn up as a bespoke contract. Romance is assumed but is not, strictly, the legal point. The household comes in every size—pairs, triads, larger romantic groups, friendship-households with no romance at all, networks whose membership overlaps and shifts.
 
-In law, marriage is the formation of a *household*: a shared economic and domestic unit, registered to a [standard template](society.md) or drawn up as a bespoke contract. Romance is assumed but is not, strictly, the legal point—a distinction a banking world finds perfectly natural. The household is the operative thing, and it comes in every size: pairs, triads, larger romantic groups, friendship-households with no romance at all, networks whose membership overlaps and shifts. The Makris-Webbs are "a household extending beyond blood and legal ties," and the description fits a great many homes.
-
-Because lives are long, marriage is seldom framed as "until death." Contracts are *renewed*, at a chosen interval of some years, and the renewal is a true decision rather than a formality. Households consolidate, widen, dissolve, and reform across two centuries of living; an amicable dissolution at seventy and a fresh household at a hundred and ten raise no eyebrows. A man may have been, in turn and sometimes at once, a single father, a husband in a triad, a member of a network, and a contented solitary—and count none of them a failure.
+Because lives are long, marriage is seldom framed as until death. Contracts are renewed at a chosen interval of some years, and the renewal is a true decision rather than a formality. Households consolidate, widen, dissolve and reform across two centuries, and an amicable dissolution at seventy and a fresh household at a hundred and ten raise no eyebrows. A man may have been, in turn and sometimes at once, a single father, a husband in a triad, a member of a network and a contented solitary, and count none of them a failure.
 
 ## Weddings
 
-Whatever a region's appetite for splendour the rest of the year, weddings are where Arrhenos spends. The reflex is very nearly universal: even men who live plainly, and places that pride themselves on austerity, tip into excess for a wedding.
+Whatever a region's appetite for splendour the rest of the year, weddings are where Arrhenos spends. Even men who live plainly, and places that pride themselves on austerity, tip into excess for a wedding. Not all of them: the couple who sign the contract, eat with six friends and are back at work the same afternoon are a recognised type, admired by some and regarded by others as having missed the entire point.
 
-The day tends to wear two faces, and the contrast is thoroughly Arrhene. First the contract—the dry, exact, lawyerly business of forming a household, often signed before a small audience with all the gravity a banking culture brings to an instrument that matters. Then the feast, which is dryness's opposite: the household, the network, the uncles, the guild, the neighbours, and far more food and drink than sense permits. Vows, where they are spoken at all, reach for the founding language—continuity, the keeping of faith, the [First Fathers](locations/campottoni.md)—the nearest thing the secular republic keeps to a sacrament.
+The day wears two faces. First the contract—the dry, exact, lawyerly business of forming a household, often signed before a small audience with all the gravity a banking culture brings to an instrument that matters. Then the feast: the household, the network, the uncles, the guild, the neighbours, and far more food and drink than sense permits. Vows, where they are spoken at all, reach for the founding language of continuity, the keeping of faith, and the First Fathers.
 
-The form varies enormously by place:
+The form varies by place. Landwick stages weddings as theatre; Zespol keeps its ceremony spare and then lights the largest fire the year's permits allow; Campottonì's understated rich spend ruinously, in perfect taste, on a day nobody outside the network will see; and a merchant wedding is improvised splendour in a freighter's mess.
 
-- **Landwick** stages weddings as theatre: days long, scored, costumed, half of it performance.
-- **Zespol** keeps its weddings as spare as everything else it does—then lights the largest fire the year's permits allow and feeds the entire town.
-- **Campottonì**'s discreet wealth makes its one exception here: the understated rich spend ruinously, in perfect taste, on a day no one outside the network will ever see.
-- A **[merchant](vessels/polletio.md)** wedding is improvised splendour in a freighter's mess—the cook outdoes himself, the still runs hard, and the ship is said, by the men who speak of him that way, to fly steady out of respect.
+## The shapes of a childhood
 
-## The Shapes of a Childhood
+An Arrhene boy's sense of normal depends entirely on the household that raised him, and those households differ so widely that men routinely discover, well into adulthood, that the home they thought ordinary was nothing of the sort.
 
-The variety of adult arrangement is mirrored, a generation back, in the variety of childhood. An Arrhene boy's sense of "normal" depends entirely on the household that raised him, and those households differ so widely that men routinely discover, well into adulthood, that the home they thought ordinary was nothing of the sort.
+A single father and his network give one anchoring figure and a rotation of trusted others. A couple or a triad give several fathers, several tempers to learn, and more opinions over the dinner table. A friendship-household rears a boy among men bound by choice rather than romance, with siblings who are no relation and entirely family. An extended compound gives many generations beneath shared roofs and uncles past counting. Professional fatherhood ranges from the intensely personal to the frankly institutional. And the boy whose fathers died or could not keep him is taken up by an institution or a guild-line.
 
-| Raised by | What the childhood tends to feel like |
-|---|---|
-| A single father and his network | One anchoring figure and a rotation of trusted others; the [network](locations/brovdingonai/westslope-gardens.md) does the lifting a second parent might |
-| A couple or a triad | Several fathers, several tempers to learn, more hands and more opinions over the dinner table |
-| A friendship-household | Reared by men bound by choice rather than romance; siblings who are no relation and entirely family |
-| An extended compound | Many generations beneath shared roofs; uncles and near-cousins past counting, the old men always present |
-| Professional fatherhood | Reared by men, firms, or communities who took it up as a calling or a contract—anywhere from intensely personal to frankly institutional |
-| A guild or a ward | The boy whose fathers died or could not keep him, taken in by an institution or a [guild](government.md)-line; a colder start for some, a found family for others |
-
-Across all of it, blood counts for little and rearing for nearly everything. [Genetic origin](society.md) carries almost no weight—half-brothers who share a recombination donor are nothing to one another and may never learn the other exists, while the boys raised in one house are brothers for life. Lineage, such as it is, runs through households and teachers: the name of the man or the house that raised you carries the weight a bloodline carries elsewhere.
-
-The upshot, which Arrhene men feel without often saying, is that everyone is improvising. A man assembles his household from the pieces of the one he knew and the ones he envied, and no two are put together quite alike. Whether that leaves Arrhenos rootless or simply free depends, as ever, on who you ask.
-
----
-
-*See also: [Society](society.md) — the Continuity Programme, development stages, status, and names; [Culture](culture.md) — the schools of thought that colour these attitudes.*
+Blood counts for little and rearing for nearly everything. Half-brothers who share a recombination donor are nothing to one another and may never learn the other exists, while the boys raised in one house are brothers for life. Lineage runs through households and teachers: the name of the man or the house that raised you carries the weight a bloodline carries elsewhere.
 
 ---
 
@@ -627,46 +402,29 @@ The upshot, which Arrhene men feel without often saying, is that everyone is imp
 
 # Arrhenos: Military
 
-Arrhenos keeps a military the way it keeps a vault door: expensive, visible, and intended never to be interesting. Nothing about the armed forces is glamorous by design—no expeditions, no alliances, no history of victories to celebrate—because the whole strategic proposition of the planet is that attacking it must be costly, pointless, and bad for the attacker's own accounts. The services attract men who like difficult engineering and long quiet watches, and the republic pays them well to be, ideally, never needed.
+Arrhenos keeps a military the way it keeps a vault door: expensive, visible, and intended never to be interesting. There are no expeditions, no alliances, and no history of victories to celebrate, because the whole strategic proposition of the planet is that attacking it must be costly, pointless, and bad for the attacker's own accounts.
 
 ## Doctrine
 
-The Arrhene military emphasises **defence over projection**—ensuring no external power can seize the planet or hold the financial systems hostage.
+Defence over projection: ensuring no external power can seize the planet or hold the financial systems hostage. The principles are a defensive stance, technological superiority, and no permanent military alliances.
 
-### Core Principles
-
-- Defensive stance
-- Technological superiority
-- No permanent military alliances
-
-## Service
-
-Voluntary, with lengthy training requirements.
+Service is voluntary, with lengthy training requirements. The services attract men who like difficult engineering and long quiet watches, and the republic pays them well to be, ideally, never needed.
 
 ## Branches
 
-| Branch | Role |
-|--------|------|
-| Planetary Guard | Surface defence |
-| System Navy | Space fleet |
-| Orbital Defence | Defence platforms |
-| Intelligence Service | Information, counter-intelligence |
-| Merchant Protection | Armed escorts for trade vessels |
+| Planetary Guard      | surface defence                      |
+| System Navy          | space fleet                          |
+| Orbital Defence      | defence platforms                    |
+| Intelligence Service | information and counter-intelligence |
+| Merchant Protection  | armed escorts for trade vessels      |
 
-## Alliance Policy
+## Alliance policy
 
-Arrhenos's neutrality extends to military matters:
+No permanent military alliances. Temporary cooperation only, for anti-piracy operations or disaster relief. Mercenary services are explicitly prohibited, and technology sharing is severely limited.
 
-- **No permanent military alliances**
-- **Temporary cooperation only** for anti-piracy operations or disaster relief
-- **Mercenary services explicitly prohibited**
-- **Technology sharing severely limited**
+## Strategic position
 
-## Strategic Position
-
-The planet's value as a neutral financial centre provides significant protection. No great power moves against Arrhenos cheaply—an attacker would put at hazard the reserves, stakes, and settlements it keeps there itself, like every other great power.
-
-This doesn't make Arrhenos invulnerable, but it raises the cost of aggression considerably.
+Arrhenos is not a prize worth taking. It holds other people's money on terms that evaporate the instant it stops being neutral, so a conquered Arrhenos would be worth a fraction of a free one to whoever took it, and the clients would be gone before the fleet had finished docking. That is the whole of the planet's strategic argument, and the Defence ministry is clear-eyed that it is a commercial argument rather than a military one. It would not survive a power that wanted the system for some other reason, and it has never been tested.
 
 ---
 
@@ -675,86 +433,46 @@ This doesn't make Arrhenos invulnerable, but it raises the cost of aggression co
 
 # Arrhenos: Society
 
-## Reproduction and Family
+## Reproduction and family
 
-### The Continuity Programme
+The Continuity Programme is a decentralised system producing millions of boys annually through artificial gestation. Any adult citizen may initiate reproduction, subject only to medical screening and algorithmically maintained diversity guidelines. The Ministry records choices rather than authorising them.
 
-A decentralised system producing millions of boys annually through artificial gestation.
+Ancestry holds minimal social meaning. What matters is who raises a son.
 
-**Access**: Any adult citizen may initiate reproduction, subject only to:
+Family structures defy simple categorisation. Common arrangements include single fathers with support networks; romantic husbands who are lovers and co-fathers both; triads and larger romantic groups; friendship groups raising children together without romantic involvement; extended family compounds across generations; professional fatherhood, in which individuals, firms or whole communities raise others' sons; and network families with complex, overlapping arrangements. Standard legal templates exist for the common configurations, with bespoke contracts for unusual situations.
 
-- Medical screening
-- Diversity guidelines (maintained algorithmically)
+| 0–3   | early years in family context                    |
+| 4–10  | primary education                                |
+| 11–15 | secondary years; subjects narrow, largely by choice |
+| 16–19 | advanced study, for those who take it            |
+| 20    | full citizenship: the one age fixed by law       |
 
-The Ministry records choices rather than authorising them. Ancestry holds minimal social meaning; what matters is who raises a son.
-
-### Family Structures
-
-Family structures defy simple categorisation. Common arrangements include:
-
-- **Single fathers** with support networks
-- **Romantic husbands** (lovers and co-fathers)
-- **Triads and larger romantic groups**
-- **Friendship groups** raising children together without romantic involvement
-- **Extended family compounds** across generations
-- **Professional fatherhood** — individuals, corporations, or communities raising others' sons
-- **Network families** with complex, overlapping arrangements
-
-Standard legal templates exist for common configurations, with bespoke contracts for unusual situations.
-
-See [Intimacy and Kinship](intimacy.md) for the lived texture of these arrangements—courtship, exclusivity, marriage, weddings, and the shapes of an Arrhene childhood.
-
-### Development Stages
-
-| Age | Stage |
-|-----|-------|
-| 0–3 | Early years in family context |
-| 4–10 | Primary education |
-| 11–15 | Secondary training with specialisation |
-| 16–19 | Advanced study |
-| 20 | Full citizenship |
-
-See [Fatherhood and Brotherhood](fatherhood-and-brotherhood.md) for what each stage entails, the rites that mark them, and the bonds between brothers.
+Only the last line is a schedule. What happens in the years above it is a matter for the city, the guild and the household, and varies accordingly.
 
 ## Status
 
-Society organises around merit rather than family. No formal aristocracy exists.
+Society organises around merit rather than family, and no formal aristocracy exists. An informal one does, and everybody knows it: eight centuries of Anvil households in Campottonì, networks that place a young man where a stranger would not be seen. The republic abolished the childhood placement three hundred years ago on precisely this reasoning, and did not thereby solve the problem, which every generation argues about again.
 
-### Professional Insignia
+The sorting that matters is the guild boards—professional examinations, sat at whatever age a man chooses to sit them, repeatable, and the gate to the licensed trades and to the Guildhall itself. A man may take his first board at twenty or at ninety, and career changes across a two-century life are ordinary enough that the boards see both.
 
-Coloured insignia may indicate expertise fields, though most men don't wear them:
+Coloured insignia may indicate fields of expertise, though most men do not wear them.
 
-| Colour | Field |
-|--------|-------|
-| Violet | Sciences |
-| Green | Agriculture |
-| Blue | Finance |
-| Red | Military |
-| Gold | Governance |
-| White | Students |
+| violet | sciences    |
+| green  | agriculture |
+| blue   | finance     |
+| red    | military    |
+| gold   | governance  |
+| white  | those in formal training, at any age |
 
 ## Torcs
 
-Metal neck bands, worn by very nearly everyone on Arrhenos—the bare-necked exist, a scattering of ascetics, contrarians, and men who simply dislike the weight, and they manage, with some daily friction, to live. Torcs serve both traditional aesthetic purposes and practical functions:
+Metal neck bands, worn by very nearly everyone on Arrhenos. The bare-necked exist—a scattering of ascetics, contrarians, and men who simply dislike the weight—and manage, with some daily friction, to live.
 
-- Identity verification
-- Secure communication
-- Data storage
-- Enhancement management
-- Medical monitoring
-- Interface with neural implants
-
-Style indicates personal taste more than status.
+Torcs serve traditional aesthetic purposes and practical ones: identity verification, secure communication, data storage, enhancement management, medical monitoring, and interface with neural implants. Style indicates personal taste more than status.
 
 ## Names
 
-**Given names** draw from classical Earth cultures: Nahuatl, Gaulish, Sanskrit, Homeric Greek, Latin, and others.
-
-**Surnames** may:
-
-- Honour fathers who raised one
-- Combine elements from multiple fathers
-- Reflect personal achievements
+Given names draw from classical Earth cultures: Nahuatl, Gaulish, Sanskrit, Homeric Greek, Latin and others. Surnames may honour the fathers who raised one, combine elements from several fathers, or reflect personal achievements.
 
 ---
 
@@ -763,54 +481,44 @@ Style indicates personal taste more than status.
 
 # Arrhenos: Women and Gender
 
-How the gendered galaxy receives an Arrhene depends on where he lands. In the ports that see Arrhene clerks every week, he is furniture; in regions that know Arrhenos only as a bank, the gender arrangements come as trivia, learned late and shrugged at; and there are worlds that have never heard of the place at all and simply meet a banker with a strange accent. But where the planet is known mainly as a curiosity—which is a great deal of the galaxy—one assumption recurs often enough that the diaspora has a tired joke for it: that a man from a world without women must be naive about them—sheltered, fascinated, easily startled. Arrhenes find the assumption tiresome, because it is almost exactly wrong. They have never lived alongside women, but they have grown up *surrounded by them* all the same: in [Vega's](../../powers/vega-throne/index.md) entertainments, which travel nearly everywhere ships do; in the news that arrives with every ship; in history, literature, and the testimony of the [diaspora](diaspora.md). The average Arrhene has seen more women on screen than he could ever count and met a fair number in person, at [Gamma](locations/verenstad-gamma/gamma.md) or abroad. Awe is not the reflex. Mild impatience at being *expected* to feel awe is closer.
+How the gendered galaxy receives an Arrhene depends on where he lands. In the ports that see Arrhene clerks every week he is furniture; in regions that know Arrhenos only as a bank, the gender arrangements come as trivia, learned late and shrugged at; and there are worlds that have never heard of the place at all.
 
-## What They Know, and What They Don't
+Where the planet is known mainly as a curiosity, one assumption recurs often enough that the diaspora has a tired joke for it: that a man from a world without women must be naive about them—sheltered, fascinated, easily startled. Arrhenes have never lived alongside women, and they have grown up surrounded by them all the same, in Vega's entertainments, in the news that arrives with every ship, in history and literature and the testimony of the diaspora. The average Arrhene has seen more women on screen than he could count and met a fair number in person, at Gamma or abroad.
 
-It helps to separate two things outsiders tend to run together.
+## What they know, and what they do not
 
-The first—the existence of women, their appearance and biology, their roles and histories elsewhere—Arrhenes know thoroughly, the way one knows a foreign country studied closely but never visited. There is no mystery in it, and little charge.
+The existence of women—their appearance and biology, their roles and histories elsewhere—Arrhenes know thoroughly, the way one knows a foreign country studied closely but never visited.
 
-The second is harder, and it is not *women* at all but the *dance*: the gendered choreography other societies conduct without noticing—the deference and the flirtation, the charge that crosses a mixed room, the thousand small ways manner bends around gender. An Arrhene can know the grammar of all this perfectly and still never once have stood inside a real argument conducted in it. That, not the fact of women, is what occasionally leaves a [diaspora](diaspora.md) Arrhene a half-step behind in a room—and even that, most learn to read soon enough.
+The harder thing is not women at all but the dance: the gendered choreography other societies conduct without noticing, the deference and the flirtation, the charge that crosses a mixed room, the thousand small ways manner bends around gender. An Arrhene can know the grammar of all this perfectly and never once have stood inside a real argument conducted in it. That is what occasionally leaves a diaspora Arrhene a half-step behind in a room, and even that most learn to read soon enough.
 
-## The Absent Pronoun
+## The absent pronoun
 
-[Arrhene languages](culture.md) carry a single set of animate pronouns, used for everyone. Gender is not a thing one marks, because at home there is nothing to mark it against; it is simply not a category the mind reaches for. An Arrhene recounting his day does not register the gender of anyone in it, any more than a speaker of another tongue registers the case-endings he uses without thought.
+Arrhene languages carry a single set of animate pronouns, used for everyone. Gender is not a thing one marks, because at home there is nothing to mark it against. An Arrhene recounting his day does not register the gender of anyone in it.
 
-This surfaces, oddly, in [Trade Tongue](culture.md), which does carry gender. An Arrhene speaking it must handle a distinction he does not feel, and the handling has a tell—a flatness, an over-correction, a gender marked a beat late or not at all. To people who know the accent, it is as good as a passport—though a diaspora man thirty years abroad may have sanded the tell away entirely, and enjoys being mistaken for whatever they mistake him for. Gendered insults and idioms from other languages, meanwhile, tend to land on him inert; the machinery that makes them sting was never installed.
+This surfaces in Trade Tongue, which does carry gender. An Arrhene speaking it must handle a distinction he does not feel, and the handling has a tell—a flatness, an over-correction, a gender marked a beat late or not at all. To people who know the accent it is as good as a passport, though a diaspora man thirty years abroad may have sanded the tell away entirely. Gendered insults and idioms from other languages tend to land on him inert.
 
-## The Range of Feeling
+## The range of feeling
 
-There is no single Arrhene attitude to women, only a spread:
+Indifference is commonest: women are people who live in other places, regarded with about the interest one gives any distant nation.
 
-- **Indifference**, most commonly. Women are people who live in other places, regarded with about the interest one gives any distant nation—real, unremarkable, not often thought about.
-- **Curiosity**, among the scholarly. The [Archivists](culture.md) and their kind treat gendered societies as a genuine object of study, the way one might examine any custom one's own people happen not to keep.
-- **Longing**, in a quiet minority. Some Arrhenes are simply oriented toward women, and for them the homeworld is a closet of a different shape—a place their desire has no room to stand. A number leave for the wider sky to find lives the planet cannot offer them; the [diaspora](diaspora.md) is partly made of them, and not everyone at home understands why they went.
+Curiosity runs among the scholarly. The Archivists and their kind treat gendered societies as a genuine object of study.
 
-A reactionary edge exists as well—men who regard the mixed-gender galaxy as faintly contaminating and contact with it as a thing to be minded. On a planet built upon profitable engagement with everyone, they are a cranky minority, and they know it.
+Longing exists in a quiet minority. Some Arrhenes are simply oriented toward women, and for them the homeworld is a closet of a different shape. A number leave for the wider sky to find lives the planet cannot offer them, and not everyone at home understands why they went.
 
-## The Outside View
+A reactionary edge exists as well: men who regard the mixed-gender galaxy as faintly contaminating and contact with it as a thing to be minded. On a planet built upon profitable engagement with everyone, they are a cranky minority, and they know it.
 
-The traffic runs both ways. If outsiders misread Arrhenos, it is partly because most of them only ever see [Gamma](locations/verenstad-gamma/gamma.md)'s polished corridors and conclude the place is a service economy with pretensions. The wider range of foreign opinion sorts roughly so:
+## The outside view
 
-| The view | Held by |
-|---|---|
-| A gimmick—bankers with a conceit | The dismissive, who have seen only the orbital |
-| A prurient curiosity—*how does it even work* | The crude, of whom there are always plenty |
-| A refuge—a life without the frictions of gender | Those who would not mind living as Arrhenos lives |
-| A planet of misogynists—a wall built to keep women out | Those who read the founding as a rejection rather than an experiment; to eyes looking for contempt, indifference will do. The cranky reactionary fringe, on the rare occasions it travels, keeps the notion in business |
-| An offence against nature or scripture | The worlds where scripture governs—more of them than the corridors remember |
-| An indispensable nuisance | Everyone whose money depends on Arrhene neutrality |
+| A gimmick, bankers with a conceit                | the dismissive, who have seen only the orbital                        |
+| A prurient curiosity                             | the crude, of whom there are always plenty                            |
+| A refuge from the frictions of gender            | those who would not mind living as Arrhenos lives                     |
+| A planet of misogynists                          | those who read the founding as a rejection rather than an experiment. The reactionary fringe, on the rare occasions it travels, keeps the notion in business |
+| An offence against nature or scripture           | the worlds where scripture governs, more of them than the corridors remember |
+| An indispensable nuisance                        | everyone whose money depends on Arrhene neutrality                    |
 
-The table is missing its least impressed entry. In ten thousand settled worlds, Arrhenos is not the only society to have rearranged gender—merely the largest, the richest, and the one with a bank attached. There are single-sex colonies that stayed small or failed, post-gender collectives, worlds that count five genders and worlds that stopped counting; their inhabitants regard Arrhenos without wonder, the way one old experiment regards another, and Arrhene scholars keep up a quiet, cousinly correspondence with several. The galaxy's fascination is a provincialism of the majority, and both parties to that correspondence know it.
+In ten thousand settled worlds, Arrhenos is not the only society to have rearranged gender—merely the largest, the richest, and the one with a bank attached. There are single-sex colonies that stayed small or failed, post-gender collectives, worlds that count five genders and worlds that stopped counting. Their inhabitants regard Arrhenos without wonder, the way one old experiment regards another, and Arrhene scholars keep up a quiet, cousinly correspondence with several.
 
-Women who visit meet the sharpest form of the gap. A woman arriving at Gamma often braces to be a sensation—to be stared at, flustered over, made strange. What she meets instead is courteous, cosmopolitan disinterest: men too well-acquainted with the idea of her to gawk, conducting their business as though she were any other traveller. To be unremarkable in the one place she expected to be remarkable is its own uncanny experience, and a common note in off-world accounts of the planet.
-
-All of this travels. An Arrhene who leaves home carries both the worldliness and the reputation with him—see [Diaspora](diaspora.md).
-
----
-
-*See also: [Diaspora](diaspora.md) — how these attitudes and reputations play out among Arrhenes living off-world; [Culture](culture.md) — language, schools of thought, and literature.*
+Women who visit meet the sharpest form of the gap. A woman arriving at Gamma often braces to be a sensation, and meets instead a courteous, cosmopolitan disinterest: men too well acquainted with the idea of her to gawk, conducting their business as though she were any other traveller. To be unremarkable in the one place she expected to be remarkable is a common note in off-world accounts of the planet.
 
 ---
 
@@ -819,44 +527,37 @@ All of this travels. An Arrhene who leaves home carries both the worldliness and
 
 # Arrhenos: Locations
 
-## Major Regions and Cities
-
 This list is radically non-exhaustive. There is considerably more geography, both physical and human, on Arrhenos.
 
-### Cities
+## Cities
 
-| Location | Coordinates | Character |
-|----------|-------------|-----------|
-| [Campottonì](campottoni.md) | 34°S, 0°E | Capital, financial centre |
-| [Landwick](landwick/) | 13°S, 72°E | Coastal cultural centre |
-| [Brovdingonai](brovdingonai/) | 40°S, 80°E | Provincial city, financial services |
-| Carmanto | 42°S, 50°W | Manufacturing hub |
-| Port Magnus | 8°N, 2°W | Premium spaceport |
-| [Zespol](nemora-zespol/zespol.md) | 58°N, 178°W | Wilderness-adjacent research city |
-| [Verenstad](verenstad-gamma/) | 0°N, 102°W | Equatorial spaceport |
+| Campottonì   | 34°S, 0°E    | capital and financial centre                            |
+| Landwick     | 13°S, 72°E   | coastal cultural centre                                 |
+| Brovdingonai | 40°S, 80°E   | provincial city; financial services                     |
+| Carmanto     | 42°S, 50°W   | manufacturing hub, industrial in character              |
+| Port Magnus  | 8°N, 2°W     | premium spaceport, higher-end than Verenstad            |
+| Zespol       | 58°N, 178°W  | wilderness-adjacent research city                       |
+| Verenstad    | 0°N, 102°W   | equatorial spaceport, paired with the Gamma orbital     |
 
-### Regions
+## Regions
 
-| Region | Location | Character |
-|--------|----------|-----------|
-| The Marchpane | 36–42°S, 20–30°E | Agricultural technology, vertical farms |
-| [The Nemora](nemora-zespol/) | 0–90°N, 175°E–175°W | Wilderness preserves |
+The Marchpane, at 36–42°S and 20–30°E, holds the agricultural technology centres: towering vertical farms, lower-density residential communities, and biological research stations.
 
-### Orbital
+The Nemora, from the equator to the pole between 175°E and 175°W, is the wilderness preserve.
 
-| Location | Character |
-|----------|-----------|
-| Uxel | Primary orbital hub, tens of millions |
-| [Gamma](verenstad-gamma/gamma.md) | Geostationary complex above Verenstad |
-| The Argantorate | Orbital financial stations |
+Tyrosene has a ceramics museum well worth the day trip.
 
-### Off-World Holdings and Enclaves
+## Orbital
 
-| Location | Character |
-|----------|-----------|
-| Oryx | Mining |
-| Outrase | Research |
-| [Little Arrhenos (Aurelius City)](little-arrhenos.md) | The diaspora's largest enclave, in Vega |
+| Uxel            | primary orbital hub, housing tens of millions; trading platforms, defence installations, solar collectors, shipyards |
+| Gamma           | geostationary complex above Verenstad                                     |
+| The Argantorate | orbital financial stations; the banking infrastructure extended into space |
+
+## Off-world holdings and enclaves
+
+| Oryx                            | mining operations                                       |
+| Outrase Station                 | research facility                                       |
+| Little Arrhenos, Aurelius City  | the diaspora's largest enclave, in Vega                 |
 
 ---
 
@@ -865,163 +566,37 @@ This list is radically non-exhaustive. There is considerably more geography, bot
 
 # Campottonì
 
-**Coordinates:** 34°S, 0°E — the prime meridian runs through the Founders' Memorial, because the men who drew the maps landed here first and saw no reason for false modesty.
+The capital region, at 34°S, 0°E—the prime meridian runs through the Founders' Memorial, because the men who drew the maps landed here first. Around 31 million people in the metropolitan area, sprawling from the original landing site of the Endeavour Fleet in 2901 C.
 
-The capital region, a sprawling complex extending from the original landing site of the Endeavour Fleet in 2901 C. Campottonì combines the weight of history—this is where, by its own confident account, humanity's most successful intentional society began—with the bustle of a working capital. Government, finance, and scholarship concentrate here, drawing ambitious men from across the planet, and the city's oldest joke is that it is full of people from somewhere else explaining Campottonì to each other.
-
-| Attribute | Value |
-|-----------|-------|
-| Population | ~31 million (metropolitan) |
-| Founded | 2901 C, at planetfall |
-| Character | Power worn quietly; money worn more quietly still |
-| Language | Campottonì Standard—the original, its speakers will note |
+Government, finance and scholarship concentrate here, drawing ambitious men from across the planet, and the city's oldest joke is that it is full of people from somewhere else explaining Campottonì to each other.
 
 ## Character
 
-The capital's style is **discreet wealth**, and the discretion is the display. Where [Landwick](landwick/index.md) performs and [Brovdingonai](brovdingonai/index.md) relaxes, Campottonì *understates*: the best tailoring reads as plain until you stand close; the finest restaurants have no signage; the [weddings](../intimacy.md) of the banking families are ruinously expensive events that no one outside the network will ever see. A man new from the provinces takes a year to learn to read the city—to see that the unremarkable grey building is a two-century private bank, that the quiet man in the unornamented torc chairs a ministry, that the modesty is a code and the code is a wall. Ambition is the city's fuel and its manner is to burn it without smoke. Kasimir, who [left for Zespol](nemora-zespol/zespol.md), called the place *exhausting the way a held breath is exhausting*; Orin, who [stayed and thrived in banking](brovdingonai/westslope-gardens.md), calls that description accurate and the breath worth holding.
+The capital's style is discreet wealth, and the discretion is the display. The best tailoring reads as plain until you stand close, the finest restaurants have no signage, and the weddings of the banking families are ruinously expensive events nobody outside the network will ever see. A man new from the provinces takes a year to learn to read the city: to see that the unremarkable grey building is a two-century private bank, that the quiet man in the unornamented torc chairs a ministry.
 
-## Districts and landmarks
+## Districts
 
-### The Symposium Complex ("the Moss")
+The Symposium Complex, known as the Moss, is the seat of government: the Symposiarch's offices, the Guildhall and Demos chambers, the ministries. The informal name reflects nine centuries of living walls and green architecture layered on one another, so that the state appears to be governed from inside a hill. Debates of the Demos are public and well attended; the real business happens in the anterooms, and in the baths beneath the complex, which are the finest civic baths on the planet.
 
-Seat of government: the Symposiarch's offices, the Guildhall and Demos chambers, the ministries. The informal name reflects the complex's extensive living walls and green architecture—nine centuries of it, layer on layer, so that the state appears to be governed from inside a hill. The aesthetic is deliberate: the Founding generation wanted a government that looked *grown* rather than imposed, and their successors have kept the argument going in moss and stone. Debates of the [Demos](../government.md) are public and well-attended; the real business, as everywhere, happens in the anterooms, and in the baths beneath the complex, which are the finest civic baths on the planet and function as the true upper chamber.
+The Chrysian Towers, the Spires, hold the Financial Consortium's headquarters and the constellation of institutions around it. They are the city's one architectural immodesty—slender, mirrored, visible from the harbour and the high plains both—and the joke runs that the banks put all the planet's flash in one place so they could be plain everywhere else. Beneath them are the quantum vaults; around them, the arbitration chambers where a few hundred disputes a year arrive by courier to be settled by men who will never see the litigants.
 
-### The Chrysian Towers ("the Spires")
+The Founders' Memorial, the First Fathers, is the landing site kept as it was: the scorched apron, the first habitat ring, and memorial figures that are not heroic bronzes but life-sized men in work gear, looking outward. Its language of continuity and the keeping of faith is borrowed by every wedding vow and citizenship oath since. The largest cohort ceremony on the planet is sworn here each Foundation Day; provincial cities hold their own and insist theirs are more sincere.
 
-The financial district's crown: the [Arrhenos Financial Consortium's](../economy.md) headquarters and the constellation of institutions around it. The Spires are the city's one architectural immodesty—slender, mirrored, visible from the harbour and the high plains both—and the joke runs that the banks put all the planet's flash in one place so they could be plain everywhere else. Beneath the towers, the quantum vaults; around them, the arbitration chambers where disputes from half of human space arrive by courier to be settled by men who will never see the litigants; and through it all, daily, the [thin potent slice](../economy.md) of the galaxy's money that has to cross a border to matter.
+The Drome is the major arena for competitions, performances and public gatherings. The Agone finals fill it every Acros, and the roar carries to the Moss, which is generally held to be good for the government's humility.
 
-### The Founders' Memorial ("the First Fathers")
+The University of Campottonì is the planet's oldest institution of learning and its most cosmopolitan address, maintaining a modest set of partnerships off-world—a standing exchange with Haven Ascendant's archives among them—and its scholars ride the Fleet to postings the faculties fight over. Its colleges anchor the schools of thought: the Axiomatics effectively own the policy faculties, the Archivists keep the planet's deep records, and the Krishna Path keeps a contemplative house by the water that admits anyone and advertises never. The University quarter's nightlife is louder than the rest of the capital combined.
 
-The landing site itself, kept as it was: the scorched apron, the first habitat ring, and the memorial figures—not heroic bronzes but life-sized men in work gear, looking outward. This is the planet's sacred ground, insofar as the secular republic keeps any, and its language—continuity, the keeping of faith—is the language borrowed by every [wedding vow](../intimacy.md) and every [citizenship oath](../fatherhood-and-brotherhood.md) since. The largest cohort ceremony on the planet is sworn here each year on Foundation Day, thousands of twenty-year-olds taking the oath together on the ground where the first generation was decanted; provincial cities hold their own, and insist theirs are more sincere.
-
-### The Drome
-
-Major arena for competitions, performances, and public gatherings—the Agone finals fill it every Acros, and the roar carries to the Moss, which is generally held to be good for the government's humility. The Drome is where Campottonì permits itself to be loud, and it takes the permission seriously.
-
-### The University of Campottonì
-
-The planet's oldest and most self-assured institution of learning, and its most cosmopolitan address: the University maintains formal partnerships across human space—it is the lead academic partner of [Haven Ascendant's archives](../../../powers/drift-communities/haven-ascendant/visiting.md), and its scholars ride the [Fleet](../vessels/polletio.md) to postings the Ministry of Culture funds and the faculties fight over. Its colleges anchor the [schools of thought](../culture.md): the Axiomatics effectively own the policy faculties, the Archivists keep the planet's deep records, and the Krishna Path keeps a contemplative house by the water that admits anyone and advertises never. Student Campottonì is the city's pressure valve—the one population licensed to be unsubtle—and the University quarter's nightlife is louder than the rest of the capital combined, which the capital pretends not to know.
-
-### The Anvil
-
-The old quarter between the Memorial and the sea, built in the first century from lander hulls and local stone, now the city's most desirable and least purchasable real estate—properties pass within networks and almost never reach a listing. The Anvil's lanes hold the private banks, the oldest bathhouses, the clubs with no names, and the households of families who have been quietly consequential for eight centuries and would regard the word "aristocracy" as both inaccurate and gauche. [No formal aristocracy exists](../society.md). The Anvil is what informal looks like, given nine hundred years.
+The Anvil is the old quarter between the Memorial and the sea, built in the first century from lander hulls and local stone, and now the city's most desirable and least purchasable real estate: properties pass within networks and almost never reach a listing. Its lanes hold the private banks, the oldest bathhouses, the clubs with no names, and the households of families who have been quietly consequential for eight centuries and would regard the word aristocracy as both inaccurate and gauche.
 
 ## Language
 
-The city's tongue, **Campottonì Standard**, serves as the planetary common language, though natives are often bemused by the simplified version spoken elsewhere—and can be tipped into a half-hour's happy pedantry on the distinction between what the planet speaks and what the capital *meant*. University linguists publish an annual survey of the Standard's provincial drift. The provinces do not read it.
+Campottonì Standard serves as the planetary common language, though natives are often bemused by the simplified version spoken elsewhere, and can be tipped into a half-hour's happy pedantry on the distinction between what the planet speaks and what the capital meant. University linguists publish an annual survey of the Standard's provincial drift. The provinces do not read it.
 
 ## Figures
 
-**Orin Adhaval** (41) — banker in the Spires, and one of [Elio Webb's network](brovdingonai/westslope-gardens.md) of old university partners. Second-generation Campottonì; keeps an Anvil-adjacent flat he could not afford if he hadn't inherited the lease; hosts the network's rare full gatherings because the capital is where the transit lines cross. He loves the city the way its natives do, with complaints prepared.
+Orin Adhaval, 41, is a banker in the Spires and one of Elio Webb's network of old university partners. Second-generation Campottonì, he keeps an Anvil-adjacent flat he could not afford if he had not inherited the lease, and hosts the network's rare full gatherings because the capital is where the transit lines cross. He loves the city the way its natives do, with complaints prepared.
 
-**Sarzin Dawkinholm** (68) — the [Symposiarch](../government.md), in his third seven-year term, a Marchpane agronomist's son who came up through the Guildhall on agricultural policy and has governed through the [Banking War's](../banking-war.md) aftermath and the long prosperity since. His public manner is so measured that impressionists need only slow down; his grip on the Demos is the quietest thing in a quiet city, and the men who have tested it do not describe it that way.
-
----
-
-<!-- source: worlds/arrhenos/locations/landwick/index.md -->
-## `worlds/arrhenos/locations/landwick/index.md`
-
-# Landwick
-
-**Coordinates:** 13°S, 72°E
-
-Coastal cultural centre and artistic heart of Arrhenos.
-
-## Overview
-
-Landwick sprawls along the coast where land gives way to brackish marshland and then the sea. The climate hits immediately—Singapore meeting Mediterranean, hot and humid, with sudden rain that steams off within an hour.
-
-## Character
-
-Where [Campottonì](../campottoni.md) represents power and [Brovdingonai](../brovdingonai/index.md) represents comfortable prosperity, Landwick represents culture—both high and low, traditional and experimental—and it knows it, and the knowing is part of the style. The city is where the planet's taste gets decided: its fashion is the fashion provincial teenagers measure their own cities against and find them wanting; its media houses make most of what Arrhenos watches; its publishing sets the arguments the rest of the planet has secondhand, a season later. Hundreds of theatres and museums, art districts in every medium, and a reputation for creative and intellectual ferment that the city services with the diligence of a place whose ferment is also its export.
-
-The standing tension is the old one everywhere art meets money: Landwick is simultaneously the place where the new thing happens and the place where the new thing is packaged, priced, and shipped—often within the same year, often by the same men—and the fights about which districts have "gone over" are the city's most reliable entertainment after the theatre itself.
-
-## Neighbourhoods
-
-### [The Tep](the-tep.md)
-
-Formally the Tepidarium Quarter. Built on decommissioned geothermal infrastructure, now a three-dimensional bath-city where public and private life blur completely—squatter-built, artist-kept, and the district the rest of Landwick cites when it wants to prove it is still dangerous to taste.
-
-### The Corso
-
-The promenade: the fashion houses, the media studios, the long seafront colonnade where being seen is the activity and everything else is pretext. What the planet means by "Landwick fashion" is decided here, two seasons before it reaches [Brovdingonai](../brovdingonai/index.md)—a lag the Corso finds correct and the provinces find insufferable. The great media houses keep their production lofts in the streets behind, making the serials, the music, and the criticism-of-the-criticism that the planet consumes; off-world, a thin prestige export of it travels the [Fleet](../../vessels/polletio.md) circuits, Arrhenos's modest answer to the Vega machine and, in its home market, preferred to it.
-
-### The Folio
-
-The publishing quarter—presses, review houses, the long arcaded book-lanes, and the cafés where the planet's arguments are staged before they are printed. Every [school of thought](../../culture.md) keeps an organ here; the feuds between journals run for decades and are conducted with a courtesy that fools no one. The Folio's cafés seat by allegiance, the waiters know the factions, and a critic changing his usual table is information that reaches Campottonì by evening.
-
-### The Brackens
-
-Where the city gives out into the marsh: stilt-streets, houseboats, tide-halls that flood on schedule and stage their theatre around the water's timetable. The experimental end of everything happens here—the companies too new or too strange for the Corso's houses, the composers writing for spaces that are dry twice a day—and the district's poverty is partly real and partly a rent the ambitious pay on purpose, since a Brackens address still means the work comes first. The Corso raids it for talent annually, like a harvest, and the Brackens despises and depends on the arrangement in exact balance.
-
-### Saltglass
-
-The old harbour quarter, and the seat of the city's most Landwick industry: the **wedding houses**. [Landwick stages weddings as theatre](../../intimacy.md)—days long, scored, costumed, half of it performance—and Saltglass is where the trade lives: the costumers and composers, the vow-writers (a profession, with a guild), the barge-stages that carry the ceremonies out onto the water at dusk. Families save for years and hire a house the way one hires an opera company; the great houses book seasons ahead; and the quarter's calendar of premieres is reviewed, seriously, in the Folio press, to the periodic outrage of the families being reviewed.
-
-## Figures
-
-**Matthias Orren** (40) — cultural critic, of the Folio's most-read and most-resented column, and one of [Elio Webb's network](../brovdingonai/westslope-gardens.md) of old university partners. His trade is the planet's taste and his private conviction, aired only in the network's long threads, is that Landwick's genius and Landwick's racket are the same organ and he has made his living failing to tell them apart. He keeps a standing table at a café whose faction he refuses to confirm, which is itself a faction.
-
-**Berro and Sun Blackwell** (68, 71) — a Tep-edge household, a fabricator and a baths-keeper, whose youngest son [Fenno](../../vessels/polletio.md) tends bar on a freighter somewhere on the Hesperine Circuit and sends money home every pay cycle. They have stopped asking when he is coming back, which is not the same as having stopped wondering, and the remittances have quietly made them the lenders of first resort for half their lane—a small, warm, unlicensed bank run on a spacer's wages, which Fenno does not know and would find very funny.
-
-**Cadano Ruz** (55) — master of the Saltglass wedding house **Ruz & Tide**, three generations in the trade, composer of forty-one wedding-cycles and the man the great families call when the occasion must be unforgettable and the taste must be beyond reproach. He has never married. Asked why, at intervals, by every client: *"The cobbler's sons go barefoot. And I have seen what it costs done properly."*
-
----
-
-*Additional neighbourhoods—the museum terraces, the conservatory district—remain to be documented.*
-
----
-
-<!-- source: worlds/arrhenos/locations/landwick/the-tep.md -->
-## `worlds/arrhenos/locations/landwick/the-tep.md`
-
-# The Tep
-
-Formally the **Tepidarium Quarter**. A neighbourhood in Landwick's south-eastern reach, where the old geothermal works used to run.
-
-## History
-
-The neighbourhood never quite cooled down—old thermal pipes still leak enough warmth to keep the streets perpetually misty.
-
-When the heating infrastructure was decommissioned eighty years ago, squatters and artists moved into the old pump stations. They've been building upward ever since: crystalline composite additions grafted onto industrial brick, smart-fabric awnings between buildings never meant to touch, bioluminescent moss encouraged because it looks beautiful in the permanent fog.
-
-The mix of styles reads as a physical history of improvisation that somehow cohered into solidity.
-
-## The Baths
-
-The real heart of the Tep—not separate from the neighbourhood but the neighbourhood itself.
-
-What used to be condensation chambers has become a three-dimensional city-within-a-city: interconnected pools on seven levels with waterfalls cascading through floor openings. The sound of falling water is constant, becoming a kind of silence you stop noticing until you leave.
-
-### Daily Life
-
-Men move through in all stages of undress. Someone waist-deep negotiates a contract with someone fully dressed on a walkway overhead. A noodle vendor parks his floating cart at the pool's edge.
-
-Residential alcoves carved into the walls—some curtained, some completely open—show men sleeping, reading, working at holographic interfaces, all while steam drifts past.
-
-People conduct entire lives in what other neighbourhoods would consider semi-public space. A man might live in an alcove, work from a corner of the Baths with displays floating over the water, eat from vendors, socialise in the pools, sleep visible to anyone passing, and consider this perfectly normal.
-
-Whether this makes the Tep liberating or unsettling depends on who you ask.
-
-## Sorian's
-
-Up on the third floor, where two mismatched buildings lean against each other.
-
-### Thales Copper-Hand
-
-The current keeper. He lost three fingers to a fabricator accident and had them replaced with obvious bronze prosthetics he refuses to upgrade.
-
-His torc is remarkable for all the wrong reasons—design reminiscent of the first republic, more antique than sophisticated.
-
-### Business
-
-Grey-market electronics. Not illegal exactly—just *unregistered*.
-
-- Torcs with tracking stripped out
-- Neural interfaces that don't report to the Ministry
-
-If you want your tech to be *private*, Thales is the man you see.
+Sarzin Dawkinholm, 68, is the Symposiarch, in his third seven-year term. A Marchpane agronomist's son, he came up through the Guildhall on agricultural policy and has governed through the Banking War's aftermath and the long prosperity since. His public manner is so measured that impressionists need only slow down, and his grip on the Demos is the quietest thing in a quiet city.
 
 ---
 
@@ -1030,55 +605,32 @@ If you want your tech to be *private*, Thales is the man you see.
 
 # Brovdingonai
 
-**Coordinates:** 40°S, 80°E  
-**Population:** ~700,000
+At 40°S, 80°E: a substantial provincial city of around 700,000 on the Hesperine Plateau, about three thousand kilometres south of Landwick.
 
-A substantial provincial city on the Hesperine Plateau, about three thousand kilometres south of Landwick.
+The plateau, running from 35 to 50°S and 70 to 80°E, has a halfway-house identity—not flashy like the coast, not austere like the northern reaches. The closest thing to a unique quality is that men here tend to run a decimetre or so taller than the global average.
 
-## The Hesperine Plateau
+The climate is genuinely temperate: proper seasons, autumn colour in genetically adapted trees that turn brilliant purples and coppers no Earth tree ever managed, occasional snow.
 
-The plateau (35–50°S, 70–80°E) has a halfway-house identity. It isn't flashy like the coast, not austere like the northern reaches. The closest thing to a unique quality is that men here tend to run a decimetre or so taller than the global average. Whether this makes the plateau special is debatable.
+The city sits where the plateau's gentle elevation gives way to broader lowlands. Residences run four to seven storeys and public spaces and commerce twice that—dense in the good way, mixed-use, interconnected by translucent walkways that glow after dark. Rooftop gardens are everywhere, by ordinance in some districts and by competitive pride in the rest.
 
-## Climate
+## Districts
 
-Genuinely temperate—proper seasons, autumn colour in genetically adapted trees (brilliant purples and coppers that never existed on Earth), occasional snow. The climate is part of the city's identity: comfortable, moderate, unremarkable.
+| Westslope Gardens   | residential; the Makris-Webb household        |
+| The Shambles        | multi-level market district; the city's heart |
+| The Stadium         | jockey, and the Brovdingonai Titans           |
+| Fountain Plazas     | civic squares centred on the city's fountains |
 
-## Character
-
-Brovdingonai sits where the Hesperine Plateau's gentle elevation gives way to broader lowlands.
-
-Residences run four to seven storeys, public spaces and commerce twice that—dense in the good way, mixed-use, interconnected by translucent walkways that glow after dark. Rooftop gardens are everywhere—by ordinance in some districts, by competitive pride in the rest.
-## Locations
-
-- [Westslope Gardens](westslope-gardens.md) — Residential, including the Makris-Webb family
-- [Fountain Plazas](fountain-plazas.md)
-- [The Shambles](shambles.md) — Multi-level market district, the city's commercial and social heart
-- [The Stadium](stadium.md) — Jockey, the Brovdingonai Titans
-- [Industrial District](industrial-district.md) — Agritech towers
-- [Transit Hub](transit-hub.md) — Tram and intercity bullet interchange
-- [Nightlife](nightlife.md) — Bars and entertainment
-- [University Campus](university.md) — Research institution
-
-## The Carnival
-
-Thall 1/7. A week-long celebration commemorating the city's establishment:
-
-- Street performances
-- AR-enhanced theatre
-- Temporary markets
-- Competitions
-
-The closing parade features floating platforms and elaborate costumes with integrated lighting.
-
-There's a specific fried pastry, sweet and dusted with powdered nuts, that only appears during Carnival. People have strong opinions about which vendor makes them best.
+The industrial district holds the agritech towers, reflecting the agricultural technology sector that dominates the Hesperine Plateau: vertical farms, processing facilities, and agricultural research operations. The transit hub connects the internal tram network to the intercity bullet system serving the plateau and beyond. The university campus serves the plateau region, with strengths in agricultural science and financial services reflecting the regional economy.
 
 ## Fountains
 
-Brovdingonai has more public fountains than any comparable city. The modern ones incorporate force-field water containment and holographic projections making water seem to flow upward.
+Brovdingonai has more public fountains than any comparable city. The modern ones incorporate force-field water containment and holographic projections that make water seem to flow upward. People navigate by them: meet me at the fountain near the library.
 
-People navigate by them: "Meet me at the fountain near the library."
+## The Carnival
 
-During Carnival, they synchronise into a city-wide display.
+A week-long celebration of the city's establishment, beginning Thall 1/7: street performances, AR-enhanced theatre, temporary markets, competitions. The closing parade features floating platforms and elaborate costumes with integrated lighting, and the fountains synchronise into a city-wide display.
+
+There is a specific fried pastry, sweet and dusted with powdered nuts, that only appears during Carnival. People have strong opinions about which vendor makes them best.
 
 ---
 
@@ -1087,201 +639,57 @@ During Carnival, they synchronise into a city-wide display.
 
 # The Shambles
 
-A multi-level market district in central Brovdingonai, serving as the city's commercial and social heart.
-
-## Overview
-
-The Shambles defies coherent description. Part market, part neighbourhood, part public amenity—it accumulated over three centuries without planning, and any attempt to impose order has been absorbed into the chaos.
-
-The name derives from Old English *scamol* (bench, stall), though locals appreciate the secondary meaning.
+A multi-level market district in central Brovdingonai, and the city's commercial and social heart. Part market, part neighbourhood, part public amenity, it accumulated over three centuries without planning, and any attempt to impose order has been absorbed into the chaos. The name derives from Old English *scamol*, a bench or stall, though locals appreciate the secondary meaning.
 
 ## Geography
 
-The district occupies a natural terrace where the plateau's gentle slope creates a twenty-metre elevation change across four hundred metres. Ground level is therefore relative: a rooftop garden on the eastern edge sits level with a basement entrance to the west.
+The district occupies a natural terrace where the plateau's slope creates a twenty-metre elevation change across four hundred metres, so ground level is relative: a rooftop garden on the eastern edge sits level with a basement entrance to the west. Buildings run three to twelve storeys, connected by walkways, bridges and shared terraces at irregular intervals.
 
-Buildings range from three to twelve storeys, connected by walkways, bridges, and shared terraces at irregular intervals. The result is a three-dimensional maze where "downstairs" might mean descending into a building's interior or stepping onto an exterior plaza.
+Architecture here never decided whether to be indoors or out. The gradient runs from open plazas with fountains and trees and weather, through covered plazas roofed but wall-less, colonnaded arcades, half-alleys walled on both sides but roofed only by awnings, interior corridors punctuated by skylights, to deep interior that is fully enclosed and climate-controlled. A typical route passes through all six in two hundred metres, and the transitions are unmarked; you notice only when the light changes or the rain stops reaching you. Force-field weather barriers, repurposed fountain technology, let some venues maintain an outdoor ambience in any weather.
 
-### The Gradient
+High and low, old and new, essential and frivolous exist in immediate proximity. A bespoke tailor with a twelve-week wait shares a wall with a stall selling factory seconds by the kilo, and a restaurant with a three-month booking list overlooks a four-stool noodle counter.
 
-Architecture here never decided whether to be indoors or out. The gradient runs:
-
-| Type | Character |
-|------|-----------|
-| Open plazas | Fully exposed, fountains, trees, weather |
-| Covered plazas | Roofed but wall-less, open on multiple sides |
-| Arcades | Colonnaded walkways, partial shelter |
-| Half-alleys | Walls on both sides but roofed only by awnings or overhangs; puddles after rain |
-| Interior corridors | Enclosed but punctuated by skylights, gaps, or sudden balconies |
-| Deep interior | Fully enclosed, artificially lit, climate-controlled |
-
-A typical route might pass through all six types in two hundred metres. The transitions are unmarked; you notice only when the light changes or rain stops reaching you.
-
-Force-field weather barriers (fountain technology repurposed) allow some venues to maintain "outdoor" ambience in any weather. The shimmer at their edges is the only tell.
-
-## Character
-
-The Shambles has no identity except incoherence. High and low, old and new, essential and frivolous exist in immediate proximity. A bespoke tailor (twelve-week wait, appointment only) shares a wall with a stall selling factory seconds by the kilo. A restaurant with a three-month booking list overlooks a four-stool noodle counter.
-
-No one plans this. No one maintains it. It simply is.
-
-### Islands of Coherence
-
-Within the chaos, small pockets of thematic clustering emerge and dissolve:
-
-**The Pans** — A rough food court on Level 3 East, where eight competing vendors share seating. Famous for lunch crowds and conflicting smells.
-
-**Kellwell Lane** — A pedestrian alley that's become an unofficial entertainment strip: two small theatres, a comedy venue, busker pitches, and three bars in eighty metres.
-
-**The Garrets** — Upper-level studios (Levels 7–9, northwest) where artists and craftsmen cluster, drawn by cheap rents and good light from the rooftop gaps.
-
-These islands shift over decades. What's a fashion district now might be tech vendors in twenty years.
+Small pockets of thematic clustering emerge and dissolve over decades. The Pans is a rough food court on Level 3 East where eight competing vendors share seating. Kellwell Lane is a pedestrian alley turned unofficial entertainment strip, with two small theatres, a comedy venue, busker pitches and three bars in eighty metres. The Garrets, on Levels 7 to 9 northwest, are studios where artists and craftsmen cluster, drawn by cheap rents and good light from the rooftop gaps.
 
 ## Commerce
 
-### Retail
+Goods run from planetary imports to handmade crafts to items of questionable provenance: antiques both genuine and convincingly reproduced, clothing from bespoke to bulk, technology from licensed dealers and grey-market operators alike, art in galleries and stalls and direct from the garrets.
 
-Goods available range from planetary imports to handmade crafts to items of questionable provenance:
+The Shambles is where Brovdingonai eats. Street food dominates the plazas and half-alleys, and the signature item is the fold—spiced protein and pickled vegetables in flatbread, eaten one-handed while walking. Every vendor's version differs and loyalties are fierce. Restaurants range from fine dining to workers' canteens, bars from wine lists to establishments where you drink what is poured, and coffee is a minor religion with at least four roasting styles and their adherents.
 
-- Antiques (genuine pre-Scattering artefacts alongside convincing reproductions)
-- Clothing (bespoke to bulk)
-- Tech (licensed dealers, grey-market operators, and everything between)
-- Art (galleries, stalls, and direct-from-artist garret sales)
-- Specialty goods (imported luxuries, local crafts, niche obsessions)
+Body services run the full range: barbers from high-end salons to three-chair walk-ins; baths from the echoing municipal pool to private membership clubs; gyms from gravity-adjusted facilities to basement rooms smelling of decades; tattooists working fashion, traditional and experimental bioluminescent techniques; torc specialists offering legitimate customisation and less official services; and enhancement, with licensed EX clinics alongside backroom operators offering work without questions.
 
-### Food and Drink
+## Social spaces
 
-The Shambles is where Brovdingonai eats.
+Dozens of clubs occupy Shambles premises, from single rooms above shops to multi-floor establishments: trade clubs where particular professions socialise, hobby clubs, athletic clubs, and social clubs organised by neighbourhood, age cohort, or nothing in particular. Most are unpretentious—a room, some chairs, drinks at cost.
 
-**Street food** dominates the plazas and half-alleys. The signature item is the *fold*: spiced protein and pickled vegetables in flatbread, eaten one-handed while walking. Every vendor's version differs; loyalties are fierce.
+Not everything is organised. The Fountain Steps, a plaza on Level 2 where a broad staircase surrounds a fountain, has no formal purpose: men sit and talk and watch, teenagers claim sections after school, and old men argue in the mornings. Several interior corridors open onto shared balconies where seating has appeared and nobody knows who put it there. Above the artist studios, flat rooftops accessible by informal routes draw young men at night.
 
-**Restaurants** range from fine dining to workers' canteens. The concentration means competition; quality is generally high.
+The Shambles is not designed for children, and children exist in it anyway. The Warrens, on Levels 4 and 5, is where the corridors twist into something approaching a playground—officially a fire hazard, and unofficially where generations of Brovdingonai boys have learned to navigate three-dimensional space. The municipal bath's shallow section serves as de facto childcare during market hours.
 
-**Bars** cover the full spectrum from wine bars with extensive lists to establishments where you drink what's poured.
+## Transit and atmosphere
 
-**Coffee** is a minor religion. At least four roasting styles compete, each with adherents.
+The Dusker station sits beneath Level 1, the groundside tram stops along the southern edge, and the Skyline platforms are built into Level 8, opening onto a terrace surrounded by rooftop gardens. All three are within a ten-minute walk of each other but not at a single point, so transfers require navigating the market.
 
-### Body Services
+The dominant smell is food—frying, spices, fresh herbs, coffee in four styles—with ozone from the force-field fountains, wet stone after rain, and the green scent of rooftop gardens. Fountain water runs under everything, with music bleeding between venues, vendor calls, kitchen clatter, and the trams arriving: groundside rumble, skyline whine, dusker vibration through the floor. In early morning there is birdsong from modified species in the rooftop gardens, familiar but not quite right. After dark the translucent walkways glow, making the district a lantern visible from the surrounding neighbourhoods.
 
-| Type | Range |
-|------|-------|
-| Barbers | High-end salons to three-chair walk-ins |
-| Baths | Municipal pool (functional, echoing) to private clubs (membership, discretion) |
-| Gyms | Sleek gravity-adjusted facilities to basement rooms smelling of decades |
-| Tattooists | Fashion work to traditional styles to experimental bioluminescent techniques |
-| Torc specialists | Legitimate customisation, aesthetic modification, and less official services |
-| Enhancement | Licensed EX clinics (mostly 1.1–2.0 range) alongside backroom operators offering work without questions |
+## Carnival
 
-The Shambles is where men go for body services they'd rather not discuss. Whether that's a tattoo their fathers wouldn't approve of or enhancement work that skirts reporting requirements, someone here can help.
+The Shambles is where Carnival starts—not officially, since the programme lists ceremonies elsewhere, but in practice: decorations appear a week early and unofficial performances begin in the plazas. During Carnival week the crowds multiply, temporary stalls fill every available space, and neighbouring residential streets become extensions of the market. The Shambles Fountain Committee adds its own programming to the city-wide display, to the eternal irritation of municipal coordinators. The Carnival pastry probably originates here, and multiple vendors claim the authentic recipe.
 
-## Social Spaces
+Old-timers close entirely—not my Carnival, not my crowds. Others prepare for months. Temporary Carnival-only vendors are regarded with suspicion by regulars.
 
-### Clubs
+## Notable characters
 
-Dozens of clubs occupy Shambles premises, from single rooms above shops to multi-floor establishments:
+Oriol Tam, 68, is a protein vendor, fourth generation at the same stall. He knows the provenance of everything he sells and will lecture customers who seem interested. Prices fair, opinions on preparation non-negotiable. Closes for Carnival week.
 
-- **Trade clubs** where particular professions socialise (the insurers' club, the agricultural engineers' association)
-- **Hobby clubs** (strategy gaming, historical re-enactment, collectors of various sorts)
-- **Athletic clubs** based around specific sports or activities
-- **Social clubs** organised by neighbourhood, age cohort, or nothing in particular
+Venn Sarko, 34, keeps a mid-range walk-in barber's: three chairs, no appointments. He remembers every regular's usual cut and their last three conversations, and the shop functions as a low-grade information exchange. He is unremarkable-looking, which seems intentional for someone who hears so much.
 
-Most are unpretentious—a room, some chairs, drinks at cost. The grand clubs with leather armchairs and waiting lists are elsewhere in the city.
+Bram Drummond, 29, runs a six-stool counter and changes concept every few months, currently historical reconstructions of pre-Scattering Earth cuisines adapted for local ingredients. He has a small following of adventurous eaters and no business sense whatsoever, and survives because his landlord likes him.
 
-### Informal Spaces
+Ivar Selk, 45, owns a basement gym where the equipment is old but maintained and the clientele includes dockworkers, serious amateur athletes, and men who prefer to exercise without observation. He competed at jockey in his twenties, in the lower leagues as a breaker.
 
-Not everything is organised:
-
-**The Fountain Steps** — A plaza on Level 2 where a broad staircase surrounds a fountain. No formal purpose. Men sit, talk, watch. Teenagers claim sections after school. Old men argue in the mornings.
-
-**The Balconies** — Several interior corridors open onto shared balconies overlooking plazas below. Seating has appeared (no one knows who put it there). People linger.
-
-**The Garret Roofs** — Above the artist studios, flat rooftops accessible by informal routes. No official permission; no official prohibition. Young men gather at night.
-
-### Children
-
-The Shambles isn't designed for children, but children exist in it:
-
-**The Warrens** — An area on Levels 4–5 where the corridors twist into something approaching a playground. Officially a fire hazard. Unofficially, generations of Brovdingonai boys have learned to navigate three-dimensional space here.
-
-**The Pool** — The municipal bath's shallow section serves as de facto childcare during market hours. Parents drop sons with older siblings or trusted vendors; the boys splash and shout until collected.
-
-**Busker rings** — Street performers draw child audiences. Some performers cater to this; others tolerate it.
-
-## Transit
-
-**Dusker (underground):** Station beneath Level 1, retrofitted into existing foundations. Platforms connect to the broader underground network—direct lines to the Transit Hub and residential quarters.
-
-**Groundside (surface):** Tram stop along the southern edge, where architecture is lower and the gradient tilts outdoor. Connects to the Fountain District, the Stadium, the western residential areas.
-
-**Skyline (elevated):** Platforms built into Level 8, opening onto a terrace surrounded by rooftop gardens and upper-level cafés. Connects to the university, the industrial district, and intercity services.
-
-The three systems are accessible within a ten-minute walk but not at a single point. Transfers require navigating through the market. Whether this is design flaw or feature depends on who you ask.
-
-**Walkability:** The Shambles sits central to Brovdingonai's dense core. Westslope Gardens is fifteen minutes on foot; the Stadium twenty minutes the other direction.
-
-## Sensory Character
-
-**Smell:** Dominant note is food—frying, spices, fresh herbs, coffee in four styles. Ozone from force-field fountains. Wet stone after rain. Green scent from rooftop gardens. In certain corridors, fabrication chemicals or the sharp note of a nail salon.
-
-**Sound:** Fountain water throughout—bright splashes, deeper rushes. Music bleeding between venues, overlapping at intersections. Vendor calls, kitchen clatter, conversation. Trams arriving (groundside rumble, skyline whine, dusker vibration through the floor). In early morning, birdsong from modified species in the rooftop gardens—familiar but not quite right.
-
-**Light:** Shifts constantly. Sun-washed plazas give way to artificially-lit corridors; skylights create pools of natural light in otherwise enclosed spaces. After dark, the translucent walkways glow, making the district a lantern visible from surrounding neighbourhoods.
-
-## The Carnival
-
-The Shambles is where Carnival starts.
-
-Not officially—the programme lists ceremonies elsewhere—but in practice: decorations appear a week early, unofficial performances begin in the plazas, the energy shifts before the calendar does.
-
-During Carnival week (Thall 1/7), the existing crowds multiply. Temporary stalls fill every available space—plazas, corridors, rooftops. The festival spills outward: neighbouring residential streets become extensions of the market, residents setting up tables to sell food and crafts.
-
-The fountains synchronise with the city-wide display but include local variations—the Shambles Fountain Committee (yes, there's a committee) adds their own programming, to the eternal irritation of municipal coordinators.
-
-**The Carnival pastry** — the sweet fried dough dusted with powdered nuts that appears only during Thall—probably originates here. Multiple vendors claim the authentic recipe. The truth is unknowable and fiercely debated.
-
-**Vendor attitudes split:**
-- Old-timers close entirely ("not my Carnival, not my crowds")
-- Others prepare for months, seeing Carnival as the year's major revenue
-- Temporary Carnival-only vendors are regarded with suspicion by regulars
-
----
-
-## Notable Characters
-
-### Oriol Tam
-
-**Trade:** Protein vendor (fourth generation at the same stall)  
-**Age:** 68
-
-Knows the provenance of everything he sells and will lecture customers who seem interested. Prices fair; opinions on proper preparation non-negotiable. Closes for Carnival week.
-
-### Venn Sarko
-
-**Trade:** Barber, mid-range walk-in  
-**Age:** 34
-
-Three chairs, no appointments. Remembers every regular's usual cut and their last three conversations. The shop functions as low-grade information exchange—nothing illegal, just gossip and connection. Venn himself is unremarkable-looking, which seems intentional for someone who hears so much.
-
-### Bram Drummond
-
-**Trade:** Experimental chef, six-stool counter  
-**Age:** 29
-
-Changes concept every few months. Current iteration: historical reconstructions of pre-Scattering Earth cuisines adapted for local ingredients. Small following of adventurous eaters; no business sense whatsoever. Survives because his landlord likes him.
-
-### Ivar Selk
-
-**Trade:** Gym owner (basement premises)  
-**Age:** 45
-
-The equipment is old but maintained; the clientele includes dockworkers, serious amateur athletes, and men who prefer to exercise without observation. Competed at jockey in his twenties (lower leagues, breaker) and follows the Titans obsessively.
-
-### The Regulars' Table
-
-A group of retired men who've claimed the same café table for fifteen years. They drink coffee for hours, argue about everything, and serve as informal orientation for newcomers—ask where to find something and you'll get three contradictory answers, all correct.
-
----
-
-*Additional vendors, venues, and regulars to be documented as developed.*
+The Regulars' Table is a group of retired men who have claimed the same café table for fifteen years. They drink coffee for hours, argue about everything, and serve as informal orientation for newcomers: ask where to find something and you will get three contradictory answers, all correct.
 
 ---
 
@@ -1290,144 +698,62 @@ A group of retired men who've claimed the same café table for fifteen years. Th
 
 # The Stadium
 
-Home of the Brovdingonai Titans jockey team.
+The Bencawer Bowl seats forty-two thousand across three tiers, in the heart of the city and easily reached by tram or on foot. Match days spill naturally into the surrounding pedestrian streets.
 
-## Overview
-
-The Bencawer Bowl seats forty-two thousand across three tiers. It sits in the heart of the city, easily reached by tram or on foot from the Fountain District and the Marketplace—match days spill naturally into the surrounding pedestrian streets.
-
-The field itself lies below ground level, partly for thermal regulation, partly because the gravity generators work better with bedrock anchoring. From the upper tiers, spectators look down into a gradient-lit oval where the air itself seems to thicken toward the centre. The effect is subtle but visible: banners hang differently at midfield, and players move with that distinctive low-G fluidity that makes jockey what it is.
+The field lies below ground level, partly for thermal regulation and partly because the gravity generators work better with bedrock anchoring. From the upper tiers, spectators look down into a gradient-lit oval where the air itself seems to thicken toward the centre: banners hang differently at midfield, and players move with the low-G fluidity that makes jockey what it is.
 
 ## Jockey
 
-### The Game
+A match pits two teams of twenty against each other on a ninety-metre oval. The objective is to carry a teammate from the team's home area across the field and over the opposing goal line while keeping him off the ground.
 
-A jockey match pits two teams of twenty against each other on a 90-metre oval. The objective: carry a teammate from the team's home area all the way across the field and over the opposing goal line while keeping him off the ground.
+The carried player—the jockey—cannot score by his own locomotion. He must be borne, passed, thrown or launched by his teammates, and if he touches the playing surface he is burned: ineligible to be jockey again until someone scores. Teams therefore carry multiple jockey-capable players, and tight matches become wars of exhaustion, each side burning through its options until the final eligible man is hoisted with desperate care.
 
-The carried player—the **jockey**—cannot score by his own locomotion. He must be borne, passed, thrown, or launched by his teammates. If he touches the playing surface, he's **burned**: ineligible to be jockey again until someone scores.
+The field runs from full standard gravity at each goal line down to about 0.3 G at the centre circle. Midfield becomes aerial territory: throws travel further, chains of leaping transitions become possible, and grappling turns three-dimensional. Approaching the goal, gravity reasserts itself, so spectacular midfield chains must translate into grinding physical carries through increasingly heavy air.
 
-This single rule shapes everything. Teams carry multiple jockey-capable players because attrition is inevitable. Tight matches become wars of exhaustion, each side burning through their options until the final eligible man is hoisted with desperate care.
+| Jockey  | light to medium, strong core, aerial coordination | be carried, leap between teammates, orient mid-flight |
+| Bearer  | strong, stable base, sure hands                   | carry jockeys, serve as platforms, catch throws       |
+| Thrower | powerful upper body, accuracy                     | launch jockeys across significant distances           |
+| Breaker | heavy, grappling specialist                       | clear paths through defence, hold territory on attack |
+| Tackler | heavy to medium, explosive speed                  | bring down opposing bearers, disrupt carries          |
+| Pinner  | heavy, technical grappler, stamina                | target key opponents for removal via pin              |
+| Runner  | fast, agile, good pursuit angles                  | intercept throws, chase carriers, reposition rapidly  |
 
-### The Gravity Gradient
+Positions describe tendencies rather than rigid assignments; the best players read the flow and shift roles fluidly.
 
-The field runs from full standard gravity at each goal line down to approximately 0.3 G at the centre circle. The gradient is smooth, managed by field generators beneath the surface.
+Contact is continuous. Defenders grapple bearers to bring them down, pull jockeys from their perches, and wrestle opponents to clear or block lanes. There is no striking: hands must grip, not punch. A hold restrains an opponent; a pin, both shoulders down for a three-count, removes that player until the next point is scored, and a team with two men pinned faces a compounding disadvantage.
 
-**Effects on play:**
+A carry—jockey grounded across the goal line while held—scores one point. A flight, where the jockey is thrown across the line and caught by a teammate already in the end zone, scores two. When either team scores, all burned jockeys reset and all pinned players return, which gives the sport its rhythm: attritional phases where options narrow, then the release of a score. Matches run two thirty-minute halves.
 
-- **Midfield** becomes aerial territory—throws travel further, chains of leaping transitions become possible, grappling turns three-dimensional
-- **Approaching the goal**, gravity reasserts itself. Spectacular midfield chains must translate into grinding, physical carries through increasingly heavy air
-- **The gradient creates natural elasticity**: a team pushed back toward their own goal finds it easier to launch counter-attacks into the lighter middle ground, while attackers approaching the scoring zone face mounting resistance
-
-The sport would work without variable gravity. But it would be a different sport—more rugby than ballet.
-
-### Positions
-
-|Position|Build|Role|
-|---|---|---|
-|Jockey|Light to medium, strong core, aerial coordination|Be carried, leap between teammates, orient mid-flight|
-|Bearer|Strong, stable base, sure hands|Carry jockeys, serve as platforms, catch incoming throws|
-|Thrower|Powerful upper body, accuracy|Launch jockeys across significant distances|
-|Breaker|Heavy, grappling specialist|Clear paths through opposing defence, hold territory on attack|
-|Tackler|Heavy to medium, explosive speed|Bring down opposing bearers, disrupt carries|
-|Pinner|Heavy, technical grappler, stamina|Target key opponents for removal via pin|
-|Runner|Fast, agile, good pursuit angles|Intercept throws, chase carriers, reposition rapidly|
-
-Positions describe tendencies, not rigid assignments. A man might bear on one sequence and tackle on the next; a runner who spots an opportunity becomes a tackler for those crucial seconds. The best players read the flow and shift roles fluidly. Roster listings reflect a player's primary strength, but match performance demands versatility.
-
-### Grappling
-
-Contact is continuous. Defenders grapple bearers to bring them down, attempt to pull jockeys from their perches, and wrestle opponents to clear or block lanes. No striking—hands must grip, not punch.
-
-A **hold** restrains an opponent; a **pin** (both shoulders to the surface for a three-count) removes that player from the field until the next point is scored. Pins are difficult to achieve against a resisting opponent, but the threat shapes everything—a team with two men pinned faces a numbers disadvantage that compounds with every passing second, incentivising quick attacking play rather than patient build-up.
-
-In low gravity, grappling becomes three-dimensional. Men tumble slowly through contested space, fighting for leverage in conditions that make leverage strange.
-
-### Scoring and Tempo
-
-A **carry** (jockey grounded across the goal line while held) scores one point. A **flight** (jockey thrown across the line and caught by a teammate already in the end zone) scores two but requires extraordinary coordination.
-
-When either team scores, all burned jockeys reset to eligible and all pinned players return to the field. This creates the sport's characteristic rhythm: attritional phases where options narrow, followed by the release of a score and sudden renewed possibility.
-
-Matches run two 30-minute halves with half-time between.
-
-### Terminology
-
-|Term|Meaning|
-|---|---|
-|Jockey|The carried player; also the sport itself|
-|Burned|Jockey ineligible until next score|
-|Pinned|Player removed from field until next score|
-|Up / Live|Jockey currently being carried|
-|Grounded|Jockey touches surface; causes burn|
-|Carry|Transporting a jockey by bearing|
-|Launch|Throwing a jockey|
-|Chain|Multiple aerial transitions without pause|
-|Flight|Two-point score via throw into end zone|
-
----
+| Burned   | jockey ineligible until the next score            |
+| Pinned   | player removed from the field until the next score |
+| Grounded | jockey touches the surface, causing a burn        |
+| Chain    | multiple aerial transitions without pause         |
+| Flight   | a two-point score via throw into the end zone     |
 
 ## The Brovdingonai Titans
 
-The Titans compete in the Hesperine League, one of several regional leagues below the Continental League (itself below the Global Jockey League). Only each regional league's champion earns promotion each year—and relegation claims the bottom finishers just as reliably.
+The Titans compete in the Hesperine League, one of several regional leagues below the Continental League, itself below the Global Jockey League. Only each regional champion earns promotion, and relegation claims the bottom finishers just as reliably.
 
-This is the Titans' first season at this level. They spent years climbing through the plateau's lower professional leagues (League 2, League 3) before finally winning promotion. The step up in quality has been evident, but so has the team's refusal to be intimidated.
+| 3859 | League 2  | 4th          | Vassik's first full season        |
+| 3860 | League 2  | 2nd          | missed promotion by one point     |
+| 3861 | League 2  | 1st          | promotion to the Hesperine League |
+| 3862 | Hesperine | 6th, current | first regional-level season       |
 
-### Character
+The promotion campaign remains fresh in the city's memory, particularly the final match against Torwen United, won by a flight in the dying seconds.
 
-The Titans play a bearer-heavy style suited to their roster—strong on the ground game, methodical advances through the gradient, fewer spectacular chains than flashier coastal teams. Critics call it boring. Fans call it effective.
+The Titans play a bearer-heavy style suited to their roster: strong on the ground game, methodical advances through the gradient, fewer spectacular chains than the flashier coastal teams. Critics call it boring and fans call it effective.
 
-The city's investment in this team exceeds any rational analysis. Match days transform Brovdingonai. Bars arrange seating around displays. Fountains project team colours. Men who couldn't name the Symposiarch have opinions about bearer rotation strategy.
+Tomas Garren, 31, is bearer-captain and the face of the squad. He came up through Brovdingonai's youth system, turned down offers from Landwick clubs, and has spent his entire career with the Titans. He is not the most talented bearer in the league, and he is consistent, smart, and carries himself with a quiet authority that translates on the field.
 
-### Notable Players
+Petro Vassik, 24, plays jockey and runner, and is the most exciting player the Titans have produced in a decade. At 1.4 metres he is exceptionally short for Arrhenos and shorter still by plateau standards, which for a jockey is pure advantage: less mass to hoist, a smaller target to grab, and a low centre of gravity that makes him almost impossible to pull off a bearer's shoulders. Landwick teams have made enquiries.
 
-**Tomas Garren** (31, Bearer-Captain)
+## Match days and youth
 
-The face of the current squad. Garren came up through Brovdingonai's youth system, turned down offers from Landwick clubs, and has spent his entire career with the Titans. He's not the most talented bearer in the league, but he's consistent, smart, and carries himself with a quiet authority that translates on the field.
+The stadium opens three hours before the first lift. The Fountain District's fountains shift to Titans amber-and-purple, colours drawn from the plateau's autumn foliage, and some project live score updates during play, though purists consider watching via fountain slightly shameful. Afterwards the city's bars fill regardless of result: wins produce joy and losses produce analysis, and the discussion continues for days.
 
-When Brovdingonai boys imagine playing jockey, they imagine being Garren.
+The Titans run development programmes across Brovdingonai and its surrounding towns. Boys as young as eight learn fundamentals, and by twelve the promising ones enter structured academies. Body-type diversity is emphasised from the beginning: a heavy twelve-year-old who might feel excluded from other sports is told he has tackler potential, and a slight, light-boned boy goes on the jockey track. The sport finds uses for the bodies that show up.
 
-**Petro Vassik** (24, Jockey/Runner)
-
-The most exciting player the Titans have produced in a decade. At 1.4 metres, Vassik is exceptionally short for Arrhenos—and shorter still by plateau standards, where men tend to run tall. For a jockey, this is pure advantage: less mass for bearers to hoist, a smaller target for defenders to grab, and a lower centre of gravity that makes him almost impossible to pull off a bearer's shoulders.
-
-His aerial instincts border on preternatural. He reads throws before they happen, adjusts mid-flight, makes catches that look like mistakes until they aren't.
-
-Landwick teams have made enquiries. So far, he's stayed.
-
-### Recent History
-
-|Season|League|Position|Notes|
-|---|---|---|---|
-|3859|League 2|4th|Vassik's first full season|
-|3860|League 2|2nd|Missed promotion by one point|
-|3861|League 2|1st|**Promotion to Hesperine League**|
-|3862|Hesperine|6th (current)|First regional-level season|
-
-The promotion campaign remains fresh in the city's memory—particularly the final match against Torwen United, won by a flight in the dying seconds. The step up to regional competition has been humbling (sixth place after years of challenging for titles), but no one expected an immediate push for the championship. Survival is the goal. Anything else is gravy.
-
----
-
-## Match Days
-
-The stadium opens three hours before the first lift. By two hours, the concourse is crowded—food vendors, merchandise stalls, men meeting friends at their usual spots.
-
-**The Fountain District** fountains shift to Titans amber-and-purple on match days—the colours drawn from the plateau's autumn foliage, those genetically adapted trees with their brilliant coppers and deep violets. Some fountains project live score updates during play, though purists consider watching via fountain rather than attending slightly shameful.
-
-**Post-match**, the city's bars fill regardless of result. Wins produce joy; losses produce analysis. The discussion continues for days—what went wrong, what went right, whether the referee understood the grounding rules, whether Vassik should have launched earlier in the third sequence.
-
-For a city that considers itself pleasantly unremarkable, the passion is difficult to explain. But jockey is Brovdingonai's game, and the Titans are Brovdingonai's team, and that seems to be enough.
-
----
-
-## Youth Development
-
-The Titans run development programmes across Brovdingonai and its surrounding towns and villages. Boys as young as eight learn fundamentals; by twelve, the promising ones enter structured academies.
-
-Body type diversity is emphasised from the beginning. A heavy twelve-year-old who might feel excluded from other sports is told: _tackler potential_. A slight, light-boned boy: _jockey track_. The sport finds uses for the bodies that show up.
-
-Young **Nikias Makris-Webb** (11) currently attends weekend sessions at the Westslope pitch. His father Suren suspects the ambition will shift—Nikias's ambitions usually do—but for now, the boy talks of little else.
-
-His coaches see runner potential. Nikias is convinced he'll be a jockey. Time will tell who's right.
+Nikias Makris-Webb, 11, attends weekend sessions at the Westslope pitch. His coaches see runner potential. Nikias is convinced he will be a jockey.
 
 ---
 
@@ -1436,107 +762,45 @@ His coaches see runner potential. Nikias is convinced he'll be a jockey. Time wi
 
 # Westslope Gardens
 
-A residential neighbourhood in Brovdingonai, known locally as "the building" by its residents—though it comprises forty-three residential units across seven floors.
+A residential neighbourhood in Brovdingonai, known to its residents as "the building" though it comprises forty-three residential units across seven floors.
 
-## The Building
+The communal spaces are a dining hall seating eighty with rotating volunteer cooks, a gymnasium with adjustable gravity sections, a library, a workshop with fabrication equipment, courtyards at different levels, and a pool.
 
-### Residential
+## The Makris-Webb household
 
-Forty-three units housing families of various configurations.
+Suren Makris and Elio Webb have been married sixteen years and live here with three sons and a household extending beyond blood and legal ties.
 
-### Communal Spaces
+Suren, 37, works in quantum predictive modelling, specialising in agricultural lending. His morning ritual is swimming in the building's pool. Elio, 39, works in medical data management and neural interface coordination, and takes pride in a wide variety of roast dinners. They met to father Alexios, and grew close enough raising him through infanthood that they married.
 
-- **Dining hall** seating eighty, with rotating volunteer cooks
-- **Gymnasium** with adjustable gravity sections
-- **Library** (where Corin Makris-Webb lives when not at school)
-- **Workshop** with fabrication equipment
-- **Courtyards** at different levels
-- **Pool** (part of Suren's morning ritual)
+Alexios, called Lex, is nineteen and testing everything. He has decided the fashion here is provincial compared to Landwick media, and is building something mysterious in the building's workshop.
 
----
+Corin, 16, is quiet and thoughtful and keeps a journal on a paper-thin flexible display. He wants to study ecology; Suren suspects he will end up in the Nemora research stations. He lives in the library when he is not at school.
 
-## The Makris-Webb Family
+Nikias, 11, has strong opinions about everything, including why his child-sized torc should project larger holograms. His current ambition is to play jockey.
 
-**Suren Makris** and **Elio Webb** have been married for sixteen years. They live in Westslope Gardens with three sons and a household extending beyond blood and legal ties.
+Darien Foss has been Suren and Elio's lover for six years. He works in agricultural systems monitoring and maintains his own flat, has biometric access to their home, sleeps over several nights a week, and takes Nikias to practice. Everyone understands he is family.
 
-### The Fathers
+## Elio's network
 
-**Suren Makris** (37) works in quantum predictive modelling, specialising in agricultural lending. His morning ritual is swimming in the building's pool.
+Elio maintains a network of old university romantic connections spanning the planet and beyond.
 
-**Elio Webb** (39) works in medical data management and neural interface coordination. He takes pride in his wide variety of roast dinners.
+| Elio     | Brovdingonai     | medical data         |
+| Matthias | Landwick         | cultural critic      |
+| Jae-Sun  | Outrase Station  | materials research   |
+| Kasimir  | Zespol, Nemora   | abstract mathematics |
+| Orin     | Campottonì       | banking              |
 
-They met to father Alexios. Their eldest son is nineteen now, and the two men grew close enough when raising Alexios through infanthood that they married.
+They see each other three times a year physically and maintain constant communication otherwise—shared virtual spaces, rambling text exchanges, video calls where they work in comfortable parallel silence. The sons know them all as uncles.
 
-### The Sons
+## Household life
 
-**Alexios ("Lex")** (19) is testing everything. He's decided the fashion here is "provincial" compared to Landwick media. He's building something mysterious in the building's workshop.
+Every fourth week Suren and Elio host a gathering of rotating friends and neighbours, with food and conversation.
 
-**Corin** (16) is quiet, thoughtful, keeps a journal on a paper-thin flexible display. He wants to study ecology—Suren suspects he'll end up in Nemora research stations.
+The discussion group meets twice monthly. It was founded with genuine intellectual aspirations, and what actually happens is twenty minutes of serious engagement with a text, then someone mentions a news story, then celebrity drama, then someone's been watching a serialised fiction, and by evening's end they are three drinks in watching an immersive show while others debate cooking oils in the kitchen. Occasionally they surprise themselves with four hours of real debate, and someone once wrote an essay afterward.
 
-**Nikias** (11) has strong opinions about everything, like why his child-sized torc should project larger holograms. His current ambition is to be a jockey player. This will probably change.
+They travel to Landwick several times a year, make frequent day trips to Tyrosene for the ceramics museum Elio loves, and went once to Campottonì with Orin. They have never been off-world.
 
-### Extended Household
-
-**Darien Foss** has been Suren and Elio's lover for six years. He works in agricultural systems monitoring. He maintains his own flat but has biometric access to their home, sleeps over several nights a week, takes Nikias to football practice.
-
-Everyone understands he's family.
-
-### Elio's Network
-
-Elio maintains a network of old university romantic connections spanning the planet and beyond—five men total:
-
-| Name | Location | Work |
-|------|----------|------|
-| Elio | Brovdingonai | Medical data |
-| Matthias | Landwick | Cultural critic |
-| Jae-Sun | Outrase Station | Materials research |
-| Kasimir | Zespol (Nemora) | Abstract mathematics |
-| Orin | Campottonì | Banking |
-
-They see each other three times a year physically but maintain constant communication—shared virtual spaces, rambling text exchanges, video calls where they work in comfortable parallel silence.
-
-The sons know them all as uncles.
-
-### Social Life
-
-Every fourth week, Suren and Elio host a gathering—rotating friends and neighbours, food and conversation.
-
-The **discussion group** meets twice monthly. Founded with genuine intellectual aspirations, what actually happens is more complicated: twenty minutes of serious engagement with a text, then someone mentions a news story, then celebrity drama, then someone's been watching a serialised fiction, and by evening's end they're three drinks in watching an immersive show while others debate cooking oils in the kitchen.
-
-Occasionally they surprise themselves with four hours of genuine intellectual debate. Someone wrote an actual essay afterward. They're still proud of that evening.
-
-### Travel
-
-- Multiple trips to Landwick
-- Frequent day trips to Tyrosene for the ceramics museum Elio loves
-- Once to Campottonì with Uncle Orin
-
-They've never been off-world—expensive, and neither has professional reasons to go.
-
-### Why Brovdingonai
-
-Suren and Elio chose to stay. They could have gone elsewhere. They like the temperate weather, good schools, pleasant neighbourhoods, the sense that life can be comfortable without being stagnant.
-
----
-
-<!-- source: worlds/arrhenos/locations/brovdingonai/fountain-plazas.md -->
-## `worlds/arrhenos/locations/brovdingonai/fountain-plazas.md`
-
-# Fountain Plazas
-
-Public spaces throughout Brovdingonai centred on the city's distinctive fountains.
-
-## Overview
-
-Brovdingonai has more public fountains than any comparable city. The modern ones incorporate force-field water containment and holographic projections making water seem to flow upward.
-
-People navigate by them: "Meet me at the fountain near the library."
-
-During the Carnival (Thall 1/7), they synchronise into a city-wide display.
-
----
-
-*To be expanded with specific plazas, their characters, and the people who frequent them.*
+Suren and Elio chose to stay in Brovdingonai. They like the temperate weather, the good schools, the pleasant neighbourhoods, and the sense that life can be comfortable without being stagnant.
 
 ---
 
@@ -1545,419 +809,34 @@ During the Carnival (Thall 1/7), they synchronise into a city-wide display.
 
 # Nightlife
 
-Brovdingonai's nightlife reflects the city's character: comfortable rather than cutting-edge, pleasant rather than wild. The city goes out early and comes home at a reasonable hour, and is faintly proud of both. But every city has its edges, and part of the pleasure of a comfortable town is knowing exactly where they are.
+Brovdingonai's nightlife reflects the city's character: comfortable rather than cutting-edge. The city goes out early and comes home at a reasonable hour, and is faintly proud of both.
 
 ## The ordinary evening
 
-The default night out is unambitious and beloved: a neighbourhood bar, a club room above a shop, a late table at the [Shambles](shambles.md), the baths. Most of the city's drinking happens within ten minutes' walk of home, in establishments whose regulars have held the same corner tables for decades and treat a new face as an event. Rounds are bought in strict, unspoken rotation; a man who miscounts is forgiven once.
+The default night out is a neighbourhood bar, a club room above a shop, a late table in the Shambles, or the baths. Most of the city's drinking happens within ten minutes' walk of home, in establishments whose regulars have held the same corner tables for decades and treat a new face as an event. Rounds are bought in strict, unspoken rotation, and a man who miscounts is forgiven once.
 
-**Kellwell Lane** in the Shambles is the nearest thing to a strip: two small theatres, a comedy venue, busker pitches, and three bars in eighty metres, running loud until well past midnight. **Match nights** at the [Stadium](stadium.md) bend the whole city's evening around them—when the Titans play, the bars fill two hours before the whistle and stay full long after, and the walk home from a win is its own institution. The **university quarter** keeps later hours and stranger music, and the rest of the city regards it the way provincial cities everywhere regard their students: fondly, at a slight distance, with occasional complaints about noise.
+Kellwell Lane in the Shambles is the nearest thing to a strip, running loud until well past midnight. Match nights at the Stadium bend the whole city's evening around them: when the Titans play, the bars fill two hours before the whistle and stay full long after, and the walk home from a win is its own institution. The university quarter keeps later hours and stranger music.
 
-The baths run late everywhere—a soak on the way home is the standard end to a night out, and several bathhouses keep their pools open through the small hours for the shift workers and the sleepless. There is a saying that a Brovdingonai night ends in water or it isn't over.
+The baths run late everywhere. A soak on the way home is the standard end to a night out, and several bathhouses keep their pools open through the small hours for the shift workers and the sleepless. There is a saying that a Brovdingonai night ends in water or it isn't over.
 
 ## Venues of note
 
-**The Coppice** — Kellwell Lane's anchor: a three-floor bar in a former timber warehouse, live music on two of the floors, and a roof terrace with a view of the fountain glow. The closest the city comes to glamour, and perfectly aware it wouldn't pass for glamour in Landwick.
+The Coppice is Kellwell Lane's anchor: a three-floor bar in a former timber warehouse, live music on two floors, and a roof terrace with a view of the fountain glow. The closest the city comes to glamour, and perfectly aware it would not pass for glamour in Landwick.
 
-**Harrow's** — the jockey bar, walls dense with Titans memorabilia going back a century, run by a former breaker who will settle any dispute about any match from memory and is never wrong. Silent on match nights until the final whistle; deafening after.
+Harrow's is the jockey bar, walls dense with Titans memorabilia going back a century, run by a former breaker who will settle any dispute about any match from memory and is never wrong. Silent on match nights until the final whistle, deafening after.
 
-**The Ambit** — the university quarter's venue of consequence, booking experimental music from Landwick and beyond. Half the acts are terrible; the other half, the regulars insist, you heard here first.
+The Ambit is the university quarter's venue of consequence, booking experimental music from Landwick and beyond. Half the acts are terrible; the other half, the regulars insist, you heard here first.
 
-**The Lantern Room** — a late-night club above the Fountain Steps, unsigned, membership informal (you are brought, once, and thereafter known). Cards, good brandy, conversation. The discussion groups that outgrew someone's parlour end up here.
+The Lantern Room is a late-night club above the Fountain Steps, unsigned, with informal membership—you are brought, once, and thereafter known. Cards, good brandy, conversation. The discussion groups that outgrew someone's parlour end up here.
 
 ## The edges
 
-Brovdingonai is not a spaceport city, and the [commercial intimacy](../../intimacy.md) that clusters where transients pass through is thin here—legal, as everywhere, and mostly unremarkable where it exists. What the city has instead is one famous embarrassment and a scattering of quiet ones.
+Brovdingonai is not a spaceport city, and the commercial intimacy that clusters where transients pass through is thin here, legal as everywhere and mostly unremarkable where it exists. What the city has instead is one famous embarrassment and a scattering of quiet ones.
 
-**The Velvet Onion** is the famous one: an extremely seedy strip club at the wrong end of the industrial district, in premises that were condemned once and appealed. The performances are earnest, the drinks are watered, the décor has been "provisional" for thirty years, and the clientele is a truce between dockhands, students on a dare, and men from the nicer neighbourhoods who would not want to be seen there and reliably are. The Onion is routinely voted the worst venue in the city by people who keep going. Every so often the municipal council discusses closure, and quietly drops it; the place is, in its way, load-bearing—a comfortable city needs somewhere to be disreputable, and prefers it somewhere known.
+The Velvet Onion is the famous one: an extremely seedy strip club at the wrong end of the industrial district, in premises that were condemned once and appealed. The performances are earnest, the drinks are watered, the décor has been provisional for thirty years, and the clientele is a truce between dockhands, students on a dare, and men from the nicer neighbourhoods who would not want to be seen there and reliably are. It is routinely voted the worst venue in the city by people who keep going. Every so often the municipal council discusses closure and quietly drops it.
 
-The quieter edges: a card game above a fabrication shop in the industrial district with stakes the Lantern Room would blanch at; an after-hours bar in the Warrens with no licence and excellent noodles; the [Shambles](shambles.md) backrooms where the grey-market torc men keep evening hours. The city's police know about all of it, which is the arrangement: edges, in Brovdingonai, are permitted exactly as long as they stay edges.
+The quieter edges: a card game above a fabrication shop in the industrial district with stakes the Lantern Room would blanch at; an after-hours bar in the Warrens with no licence and excellent noodles; the Shambles backrooms where the grey-market torc men keep evening hours. The city's police know about all of it, which is the arrangement: edges are permitted exactly as long as they stay edges.
 
-## Character
-
-Visitors from Landwick find the whole scene provincial, and say so; Alexios Makris-Webb, nineteen and [restless](westslope-gardens.md), agrees with them loudly. His fathers, who did their own restless circuit of these same bars twenty years ago, mostly find it funny. The truth the city knows about itself is that its nightlife is not trying to be memorable. It is trying to be *reliable*—the same warm rooms, the same faces, the same last soak on the way home—and in a life two centuries long, there are worse things for a night out to be.
-
----
-
-<!-- source: worlds/arrhenos/locations/nemora-zespol/index.md -->
-## `worlds/arrhenos/locations/nemora-zespol/index.md`
-
-# The Nemora
-
-A vast wilderness band stretching seven million square kilometres from equator to north polar regions.
-
-## Geography
-
-The Nemora isn't a single forest but a continuous corridor of preserved ecological zones:
-
-- Tropical rainforest (equatorial)
-- Temperate deciduous forest
-- Coniferous zones
-- Taiga
-- Tundra
-- Northern ice
-
-One unbroken corridor, protected by planetary treaty since 2956 C.
-
-## Ecology
-
-The ecology is entirely Earth-descended. Arrhenos had no native life when colonists arrived. What exists now is careful introduction and adaptation over nearly a millennium.
-
-Some species are unmodified transplants. Others have been tweaked for Arrhenos conditions. Still others are genuine innovations for niches that never existed on Earth.
-
-The result looks familiar but wrong in subtle ways:
-
-- Trees grow taller in reduced gravity
-- Certain bird wingspans would be impossible under Earth conditions
-- The undergrowth is denser
-- Fungal networks are more aggressive
-
-Recognisably Earthlike but definitively not Earth.
-
-## Habitation
-
-Most of the Nemora is empty of permanent habitation. The treaty allows:
-
-- **Research stations**: ~300 scattered throughout
-- **Cities**: 7, none larger than half a million
-
-### The Observation Problem
-
-Can you preserve wilderness while living in it? Does research fundamentally alter what it's supposedly preserving?
-
-No one has good answers, but everyone has opinions.
-
-## Cities
-
-[Zespol](zespol.md) is the largest, sitting in the transition zone between temperate and coniferous forest at 58°N.
-
----
-
-*Other Nemora cities and research stations to be documented.*
-
----
-
-<!-- source: worlds/arrhenos/locations/nemora-zespol/zespol.md -->
-## `worlds/arrhenos/locations/nemora-zespol/zespol.md`
-
-# Zespol
-
-**Coordinates:** 58°N, 178°W  
-**Population:** ~280,000
-
-The largest city in the Nemora, sitting in the transition zone between temperate and coniferous forest.
-
-## History
-
-Grew from Research Complex Seven, established in 2987 C. Mid-sized by planetary standards, enormous by Nemora standards.
-
-## Geography
-
-Sits in a bowl valley where the Kiruna River widens into interconnected lakes.
-## Climate
-
-Genuinely cool:
-
-- Summers reach 20°C
-- Winters drop to −30°C
-- Snow lies five months of the year
-
-Zespol's cold is part of its identity.
-
-## Architecture
-
-Buildings are low, designed for thermal efficiency, many partially subterranean.
-
-## Economy
-
-Roughly three equal parts by quid value:
-
-1. **Direct research employment**
-2. **Services supporting researchers**
-3. **People who came for the Nemora itself**:
-   - Wilderness guides
-   - Artists working with natural materials
-   - Scholars on sabbatical
-   - Craftsmen producing goods the old way
-
-## Growing Up in Zespol
-
-Children grow up differently here. By ten, most have basic wilderness training:
-
-- Navigation
-- Avoiding dangerous modified species (wolves, engineered bears)
-- Storm survival
-
-A fifteen-year-old from Zespol can maintain a fire, identify a hundred plants, navigate by stars, and handle predator encounters—but might struggle with urban density and constant connectivity.
-
-## Founders' Night
-
-**Oscur 1/9** (midwinter)
-
-A festival centred on bonfires in the Kiruna Flats—actual wood fires, carefully permitted, using deadfall from the previous year.
-
-No holographic displays. No quantum-linked entertainment. Just fire and food and people and the cold dark pressing in from the wilderness beyond the city's lights.
-
-## Kasimir
-
-One of Elio Webb's distant partners teaches abstract mathematics here. His rooms overlook the wilderness preserves.
-
-He came twelve years ago, finding Campottonì exhausting. Zespol offered space, physical and psychological. Whether he'll stay permanently is an open question.
-
-The city attracts people who are, in some fundamental way, apart from mainstream Arrhene life.
-
----
-
-<!-- source: worlds/arrhenos/locations/verenstad-gamma/index.md -->
-## `worlds/arrhenos/locations/verenstad-gamma/index.md`
-
-# Verenstad & Gamma
-
-An equatorial spaceport city and its geostationary orbital complex, functioning as a single economic unit handling seventeen percent of planetary trade.
-
-## The Tether
-
-Not a physical cable, but a contained beam system derived from Elysian technology.
-
-Ground-based emitters create a corridor of exotic-matter interaction that reduces effective mass within its boundaries. Cargo pods and passenger capsules "fall upward" in eleven minutes, return in twenty-two.
-
-Departures run every four minutes at peak.
-
-**Economics**: Tether transport costs one-fortieth what shuttle transport costs—shaping everything about how both places function.
-
-## The Divide
-
-Surface and Topside have been arguing about who needs whom more for four centuries.
-
-- **Surface workers** tend to view Gamma as parasitic; "going Topside" carries connotations of abandoning real work
-- **Gamma residents** view the surface as provincial—a place you're from, not where you stay if you have options
-
-The reality is more porous: tens of thousands work split schedules, families span both locations, childhood friends maintain relationships via quantum-link while meeting at the Tether terminals.
-
-## Locations
-
-- [Verenstad](verenstad.md) — Surface city
-- [Gamma](gamma.md) — Orbital complex
-- [The Transient Quarter](transient-quarter.md) — District serving those passing through
-
----
-
-<!-- source: worlds/arrhenos/locations/verenstad-gamma/verenstad.md -->
-## `worlds/arrhenos/locations/verenstad-gamma/verenstad.md`
-
-# Verenstad
-
-**Coordinates:** 0°N, 102°W
-
-One of seven spaceport cities strung along the equator. Directly overhead, in geostationary lock, hangs [Gamma](gamma.md).
-
-## Climate
-
-Equatorial and brutal:
-
-- Daytime temperatures reach 38°C regularly
-- Humidity oppressive
-
-## Architecture
-
-The city extends across forty square kilometres, built high and dense and largely enclosed.
-
-Buildings connect via cooled walkways. Public plazas are partially roofed.
-
-## Daily Rhythm
-
-Distinctive and non-standard:
-
-| Time | Activity |
-|------|----------|
-| 04:30 | Markets open |
-| 04:30–10:00 | Streets busy |
-| 10:00–16:00 | City retreats indoors to sleep through the long midday |
-| 16:00 | City stirs again |
-| Evening | Runs past midnight |
-
-Visitors wanting to sightsee at noon are considered baffling.
-
-## Character
-
-Verenstad is a working city—spaceport operations, logistics, the constant flow of goods and people between surface and orbit. It lacks the cultural pretensions of Landwick or the comfortable prosperity of Brovdingonai.
-
-What it has is purpose: keeping the Tether running, processing the cargo, housing the workers who make planetary trade possible.
-
----
-
-<!-- source: worlds/arrhenos/locations/verenstad-gamma/gamma.md -->
-## `worlds/arrhenos/locations/verenstad-gamma/gamma.md`
-
-# Gamma
-
-The orbital complex in geostationary lock above Verenstad.
-
-## Population
-
-- **Permanent residents**: ~900,000
-- **Transients**: ~200,000
-
-## Structure
-
-A three-dimensional maze of rings, spokes, and modules accumulated since 3324 C.
-
-Gravity varies from near-zero in the docks to exactly 1G in the entertainment districts.
-
-## Climate
-
-Perfect—controlled 22°C, scrubbed air faintly scented with something meant to evoke forests.
-
-After a week on Gamma, the surface feels like assault.
-
-## Demographics
-
-Cosmopolitan in ways Verenstad isn't. Arrhene men predominate, but the constant flow of ships brings:
-
-- Mandate bureaucrats
-- Union traders
-- Drift sailors on shore leave
-- Neo-Solar citizens whose modifications draw stares
-
-Women exist here too—not residents mostly, but passengers and tourists who find the all-male society easier to observe from orbit than to inhabit.
-
-## Reputation
-
-Many visitors experience Arrhenos only through Gamma's polished corridors and conclude the planet is merely a service economy with pretensions.
-
-Arrhene men are aware of the reputations that attach to them off-world—this one among several; most don't think about any of them much.
-
-## Culture
-
-Gamma attracts those who want:
-
-- Cosmopolitan life
-- Off-world connections
-- Distance from planetary traditions
-
-Whether this represents sophistication or rootlessness depends on who you ask.
-
----
-
-*See also: [Women and Gender](../../women-and-gender.md) — the reputation Gamma lends the planet, and how Arrhenes regard the women who pass through.*
-
----
-
-<!-- source: worlds/arrhenos/locations/verenstad-gamma/transient-quarter.md -->
-## `worlds/arrhenos/locations/verenstad-gamma/transient-quarter.md`
-
-# The Transient Quarter
-
-A district just west of Verenstad's surface Tether terminal, serving people who aren't staying.
-
-## Character
-
-The name misleads—plenty of men have lived there decades—but the character is shaped by:
-
-- Spacers between voyages
-- Travellers who missed connections
-- Refugees who planned to pass through and stopped
-
-## Architecture
-
-Denser than elsewhere in the city. Buildings packed closer, streets narrower.
-
-## Services
-
-Businesses cater to transient needs:
-
-- Short-term housing
-- Storage lockers
-- Employment agencies
-- Food cheaper and more various than elsewhere
-
-## Language
-
-Trade Tongue dominates. You can get by without speaking any Arrhene language.
-
----
-
-## The Long Descent
-
-A bar that's operated since 3741 C. The name refers to orbital insertion burns.
-
-### Clientele
-
-Mixed:
-
-- Arrhene dockworkers
-- Foreign spacers
-- Men whose jobs are clearly unofficial
-
-### Dez
-
-The barman for the last eleven years. No surname.
-
-Claims to have crewed merchant vessels across the Mandate sphere before settling here.
-
-His torc is obviously non-standard—scratched bronze running local-only.
-
-**What he does:**
-
-- Extends quid judiciously
-- Keeps secrets professionally
-- Knows more about the Quarter's actual economy than anyone who might officially ask
-
----
-
-<!-- source: worlds/arrhenos/locations/other.md -->
-## `worlds/arrhenos/locations/other.md`
-
-# Other Locations
-
-Brief notes on locations not yet fully documented.
-
-## Planetary
-
-### Carmanto
-
-**Coordinates:** 42°S, 50°W
-
-Manufacturing sector hub. Industrial character.
-
-### Port Magnus
-
-**Coordinates:** 8°N, 2°W
-
-Premium spaceport operations. Higher-end than Verenstad, serving different clientele.
-
-### The Marchpane
-
-**Region:** 36–42°S, 20–30°E
-
-Agricultural technology centres with towering vertical farms, lower-density residential communities, and biological research stations.
-
-### Tyrosene
-
-Location of a ceramics museum that Elio Webb loves. The Makris-Webb family makes frequent day trips from Brovdingonai.
-
-## Orbital
-
-### Uxel
-
-Primary orbital hub housing tens of millions. Trading platforms, defence installations, solar collectors, shipyards.
-
-### The Argantorate
-
-Orbital financial stations. Extension of Arrhenos's banking infrastructure into space.
-
-## Off-World Holdings
-
-### Oryx
-
-Mining operations.
-
-### Outrase Station
-
-Research facility. Location of Jae-Sun, one of Elio Webb's distant partners (materials research).
-
----
-
-*Individual files can be created as these locations are developed.*
+Visitors from Landwick find the whole scene provincial and say so. Alexios Makris-Webb, nineteen and restless, agrees with them loudly. His fathers, who did their own restless circuit of these same bars twenty years ago, mostly find it funny.
 
 ---

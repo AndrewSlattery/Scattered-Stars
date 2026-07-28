@@ -1,85 +1,47 @@
 # The Mandate: Culture
 
-A Hiveholm family sits down to dinner speaking Parvatan and switches, without noticing, to Classical the moment the talk turns to a child's examinations. That switch—performed a hundred billion times a day across the empire—is Mandate culture in miniature: a home tongue for living and a state tongue for getting on, and a flawless instinct for which rooms each belongs in. The Mandate's official culture is a single, ancient, exquisitely refined thing radiating from the Chrysanthemum Court. Its actual culture is the two hundred things the official one was supposed to replace, still going, having quietly outlasted every century that was sure they would fade.
+A Hiveholm family may speak Parvatan over dinner and switch to Classical the moment the talk turns to a child's examinations: a home tongue for living and a state tongue for getting on.
 
 ## Language
 
-### Mandate Classical
+Mandate Classical is the language of law, literature, official correspondence and social aspiration. It is required for the civil service examinations and mandatory in the Courts. It is also almost nobody's mother tongue—it is acquired at school, at expense, on purpose—and spoken imperfectly it marks a man as provincial or foreign before he finishes a sentence.
 
-The prestige language: law, literature, official correspondence, social aspiration. It is required for the civil service examinations, mandatory in the Courts, and the surest single marker of an educated upbringing. Spoken well, it signals belonging; spoken imperfectly, it marks the speaker as provincial, low, or foreign before a sentence is finished. Fortunes have turned on a vowel.
+More than two hundred regional languages persist beneath it, winning the kitchen, the market and the funeral. Formal contexts demand Classical; elsewhere people use whatever they share.
 
-It is also almost no one's mother tongue. This is not an embarrassment the Mandate acknowledges; it is simply the arrangement. Classical is the language one *acquires*—at school, at expense, on purpose—which is precisely what makes fluency worth having.
-
-### The two hundred others
-
-Children learn Classical alongside the tongues their grandparents spoke, and the grandparents' tongues win the kitchen, the market, the lullaby and the funeral. More than two hundred distinct regional languages persist, in defiance of centuries of official preference, because a language is not a policy. Society runs on two registers: formal contexts demand Classical; everywhere else, people use whatever they share.
-
-The Bureau monitors both and cares about only one. Sedition in Classical is sedition—committed in the language of the state, before the state, and therefore real. The same words in a regional tongue are more easily filed as folklore, grievance, the noise the provinces make. It is a revealing blind spot, and the Yansieve organisers are widely thought to have lived inside it.
+The Bureau monitors both and takes only one seriously. Sedition in Classical is committed in the language of the state and is therefore real; the same words in a regional tongue are more easily filed as folklore or provincial grumbling.
 
 ## Religion
 
-The Mandate promotes no religion and tolerates most, for a reason it remembers precisely: the First Dynasty fell partly to religious war, and the Modern Mandate was built by people determined never to repeat it. Faith is therefore *managed*, not crushed. Religious bodies register; they accept Bureau monitoring, limits on proselytising, ceilings on property; in return they are left alone to do what they do.
+The Mandate promotes no religion and tolerates most. The First Dynasty fell partly to religious war, and the modern Mandate was built by men determined not to repeat it. Religious bodies register with the Ministry of Rites, accept monitoring, limits on proselytising and ceilings on property, and are otherwise left alone.
 
-No census of the soul is possible across an empire this size; the Ministry's own figures say most citizens and subjects carry no strong religious commitment, and the figures count exactly what people are willing to tell the Ministry of Rites. The worship that shows itself tends to follow traditions older than the Mandate, adapted over generations to attract as little official notice as possible—a faith that has learnt to keep its voice down—and whole provincial worlds are quietly, thoroughly devout in ways the registries record as folklore. The **Ministry of Rites** oversees all of this alongside Imperial ceremony, and its true doctrine is administrative: keep movements visible, fragmented and politically quiet, and they may believe whatever they like.
+The Ministry's figures record that most citizens and subjects carry no strong religious commitment; they also record only what people are willing to tell the Ministry of Rites. Whole provincial worlds are thoroughly devout in ways the registries file as folklore.
 
 ## Art and entertainment
 
-### High culture
+High culture is defined and largely paid for by the Chrysanthemum Court: opera, classical music, formal verse, dances that take decades to learn. The forms were perfected long ago, so mastery now means flawless repetition and innovation is faintly suspect.
 
-The Chrysanthemum Court defines it and largely pays for it: opera, classical music, formal verse, dances that take decades to learn. Imperial patronage serves Imperial ends—the works celebrate the Throne, the dynasty, the order of things—but the Mandate has never confused propaganda with mediocrity, and the best of this work is genuinely among the finest humanity makes. It is also, increasingly, a museum that knows it is a museum: forms perfected so long ago that mastery now means flawless repetition, and innovation is faintly suspect.
+Hiveholm and the manufacturing worlds grow their own—music built on factory rhythm, sculpture from industrial waste, theatre staged in break rooms. Parvatan industrial music has become fashionable well beyond the Mandate, to the Ministry of Rites' faint discomfort.
 
-### Industrial culture
-
-Hiveholm and the manufacturing worlds grow their own: music built on factory rhythm, sculpture from manufacturing waste, theatre staged in break-rooms, stories told down the dormitory corridors. Some of it is openly oppositional; more of it is simply *other*—made by people the high culture was never about, for an audience the Court does not court. Parvatan industrial music has, to the Ministry of Rites' faint discomfort, become fashionable across human space.
-
-### Imported entertainment
-
-Vega Commercial Throne productions are devoured across the connected Mandate—the core, the hubs, anywhere the couriers call—despite, or because of, their foreign origin; out in the slow provinces the same serials arrive years old and are devoured anyway, alongside local productions the core has never heard of. The Bureau screens the imports for subversion and bans the occasional title; the penetration is far too deep to reverse, and everyone involved knows it. The Mandate condescends to Vega's glittering frivolity in public and watches it in private.
+Vega productions are watched wherever the couriers call. They reach the slow provinces years old and are watched anyway, alongside local productions the core has never heard of. The Bureau screens imports and bans the occasional title.
 
 ## Cuisine
 
-An empire of two hundred languages cooks in at least as many kitchens, and the Court has tasted almost none of them. What it has tasted—and canonised—are the throne world's three traditions: the ones Classical poetry has words for, elevated by proximity to power into *the* Mandate cuisines the way Xuanese speech became *the* Classical. They are three philosophies of what food is for.
+The throne world's three traditions have been canonised by proximity to power.
 
-**Xuanese (northern).** Refinement: subtle flavours, exact presentation, ingredients chosen as much for symbol as for taste. A formal Xuanese meal tells a story, and eating it is a performance with rules. Court cuisine; the highest prices and the longest training.
-
-**Parvatan (industrial).** Fuel: efficient, calorie-dense, built for workers eating fast—bold spices to cut through industrial air, fermented condiments that keep for months. Aesthetics are beside the point, which is itself an aesthetic, and one the rest of the Mandate has started ordering.
-
-**Osthavn (agricultural).** Abundance: seasonal feasts impossible to stage anywhere else, fresh produce in varieties the cities never see, more food than the table can finish. The famous fraction is exported; what stays behind is still more than most of Tiamming ever eats.
+| Xuanese (northern)     | Subtle flavours, exact presentation, ingredients chosen for symbol as much as taste. A formal meal is a performance with rules. |
+| Parvatan (industrial)  | Calorie-dense and built for eating fast, with bold spices to cut through industrial air and fermented condiments that keep for months. |
+| Osthavn (agricultural) | Seasonal feasts and fresh produce in varieties the cities never see. |
 
 ## Misrule
 
-For three days at the turn of the Gap, the Mandate inverts itself.
+On the morning of Gap 1 the emperor abdicates in favour of a citizen chosen at random—the Fool Emperor—until sunset on Gap 3. Masters serve servants, officers defer to the enlisted, and subjects are addressed with citizen honorifics.
 
-### The tradition
+Under Misrule, things that would be sedition on any other day may be said aloud without punishment. A subject who tells his employer exactly what he is worth has Misrule's protection: his words may be remembered, but they cannot officially have been heard.
 
-On the morning of Gap 1 the Emperor formally abdicates, handing authority to a citizen chosen at random—the **Fool Emperor**—until midnight on Gap 3. The hierarchies reverse: masters serve servants, officers defer to the enlisted, subjects are addressed with citizen honorifics. For three days the order of the world is ceremonially upside down.
+Observance varies. At the Chrysanthemum Court it is choreographed and documented. On Hiveholm it is raw, and supervisors drink themselves insensible rather than have to remember what was said to them. Provincial estates keep it as the local lord prefers; none has managed to abolish it. On many far worlds it has fused past recognising with older local festivals, which the Ministry of Rites counts as Misrule and does not look into. It protects only those the system recognises: in the Substrate it is three days when the sweeps are less likely to come.
 
-### The reality
+## Manners
 
-Theatre, and no one is fooled. The Fool Emperor's decrees are forgotten by the fourth morning; the masters resume mastery. And yet the theatre does something real. Under Misrule, truths that are sedition on every other day of the year may be spoken aloud and not punished. The subject who tells his employer exactly what he is worth has Misrule's protection: his words may be *remembered*, but they cannot officially be heard.
+Formality tightens toward the core and loosens toward the frontier. Position is meant to be visible—dress signals profession and rank, registration bands mark legal category at a glance, deference runs uphill. Strangers uncertain of their relative standing find the situation uncomfortable, which is part of why the unregistered, who wear no band and fit no slot, are unsettling.
 
-### The function
-
-The Mandate's rulers have always understood that pressure wants a valve. Misrule is the valve—three days of licensed release, after which the system resumes one notch easier to bear. It is one of the oldest instruments of Mandate government, and one of the most honest, because it concedes in its very design that there is something to release. A confident empire might not need it. This one has come to lean on it.
-
-### Regional variations
-
-- **Chrysanthemum Court:** elaborate, choreographed, documented—an inversion so aestheticised it inverts nothing.
-- **Hiveholm:** raw. Workers say things that verge on sedition; supervisors drink themselves insensible rather than have to remember hearing them. The Bureau watches and rarely moves. On the fourth day everyone recalls exactly what was said, and everyone pretends otherwise.
-- **The provincial estates:** as the lord prefers. Some embrace it; some endure it; none has managed to abolish it.
-- **The far worlds:** kept fervently on some, perfunctorily on others, and on many fused past recognising with older local festivals—the Ministry of Rites counts them all as Misrule and is wise enough not to look closer.
-- **The unregistered:** Misrule protects only those the system recognises. In the Substrate the festival is just three days the sweeps are less likely to come.
-
-## Social customs
-
-### Formality
-
-Mandate society is formal—proper address, appropriate dress, correct behaviour for the context—and the formality tightens toward the core and loosens toward the frontier. In the Chrysanthemum Court a misjudged greeting is a small catastrophe; on a Yansieve mining world, before the rebellion, it was barely noticed.
-
-### Visible station
-
-Position is meant to be seen. Dress signals profession and rank; subject registration bands mark legal category at a glance; speech patterns and deference run uphill. Ambiguity about where two strangers stand relative to one another is, to a Mandate sensibility, acutely uncomfortable—which is part of what makes the unregistered, who wear no band and fit no slot, so quietly unsettling to the orderly mind.
-
-### Hospitality
-
-The traditions of the guest run deep across most of the empire, in forms as various as its kitchens—here a formal code, there a habit of the table—but converging on the same core: a guest is sacred; enemies may share a table under hospitality's protection; to violate it is a serious transgression that even hard men are slow to commit. It is the one relation in the Mandate that the citizen-subject distinction is not supposed to touch—an ideal kept with real fervour in some regions and as mere manners in others, which is exactly why it matters so much to the people the distinction touches most, and why its violations are remembered for generations.
+Guest traditions run deep and vary in form, converging on a common core: a guest is protected, enemies may share a table, and violations are remembered for generations. It is the one relation the citizen-subject distinction is not supposed to touch.

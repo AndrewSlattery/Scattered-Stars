@@ -2,69 +2,60 @@
 
 Two bonds frame an Arrhene life. The vertical one is fatherhood: every man on the planet was deliberately chosen and raised by someone, and most will, in time, choose and raise in their turn. The horizontal one is brotherhood: the boys brought up alongside you, related or not, who came through the same household and the same milestones a step ahead or behind.
 
-This is the lived experience of both—the deciding, the raising, the growing up, and the ties between brothers. For the machinery of reproduction and the bare schedule of childhood, see [Society](society.md); for the household arrangements a boy is raised within, see [Intimacy and Kinship](intimacy.md).
+## Deciding to father
 
-## Deciding to Father
+There are no accidents. Every Arrhene child is the result of a decision, often years in the making. *Have you decided to father?* is among the largest questions one man asks another—larger, in some lives, than marriage.
 
-There are no accidents. Every Arrhene child is the result of a decision, often years in the making, and the weight of that fact sits at the centre of adult life. *Have you decided to father?* is among the largest questions one man asks another—larger, in some lives, than marriage.
+The choice can be taken alone, with a co-father, or by a whole household, and made at thirty or deferred past a hundred, since the long life imposes no hurry. A man weighs his work, his household's readiness, and his own appetite for the twenty years of close attention a son will ask. Many never father at all and find no shame in it; there are uncles enough to be.
 
-The choice can be taken alone, with a [co-father](intimacy.md), or by a whole household; it can be made at thirty or deferred past a hundred, since the [long life](../../setting/technology/enhancement.md) imposes no hurry. A man weighs his work, his household's readiness, and his own appetite for the twenty years of close attention a son will ask. Many never father at all, and find no shame in it—there are uncles enough to be, and [men whose calling is to raise others' sons](society.md).
+When a man does decide, he goes to the Continuity Programme, which records the choice rather than granting it. The one place the liberal republic gently steers is here: the diversity guidelines nudge the recombination away from too much sameness, so a father hoping for a son like him finds the system politely resistant.
 
-When a man does decide, he goes to the [Continuity Programme](society.md), which records the choice rather than granting it. The one place the liberal republic gently steers is here: the diversity guidelines, maintained algorithmically, nudge the recombination away from too much sameness. A father hoping for a son "like him" finds the system politely resistant, and the quiet negotiation between what a man would choose and what he is encouraged to accept is the nearest thing fatherhood keeps to a leap of faith.
+## Gestation and the decanting
 
-## Gestation and the Decanting
+Gestation happens outside the body, in chambers held at facilities ranging from grand civic halls in the cities to modest neighbourhood clinics. Because nobody carries the child, every father expects equally. In a couple, a triad or a network, the months of waiting are shared from the first day with none of the asymmetry other worlds take for granted.
 
-Gestation happens outside the body, in chambers held at facilities ranging from grand civic halls in the cities to modest neighbourhood clinics. Because no one carries the child, every father expects equally. In a couple, a triad, or a network, the months of waiting are shared from the first day with none of the asymmetry other worlds take for granted—every father counts the same weeks, and every one of them may visit.
+The bringing-out—the decanting—is what a birth is elsewhere: the household gathers, the uncles crowd in, and the son is lifted out and named, the surname acknowledging whoever will raise him. The event itself is, by the standards of the technology behind it, strikingly homely.
 
-The bringing-out—the **decanting**—is what a birth is elsewhere: the moment the household gathers, the uncles crowd in, and the son is lifted out and **named**. [Names](society.md) are drawn from the old Earth cultures, and the surname acknowledges whoever will raise him. The event itself is, by the standards of the technology behind it, strikingly homely. Whatever solemnity it carries, the family supplies.
+## The milestones of a boyhood
 
-## The Milestones of a Boyhood
+Two rungs are fixed by law, the first and the last. Everything between them is what a city, a guild or a household makes of the years, and the schedule below is best read as the version the Ministry prints rather than one any particular boy climbs.
 
-An Arrhene boyhood runs on a recognised ladder—the same in outline across the planet, however differently each city dresses it:
+| 0     | Decanting and naming | the son is brought from the chamber, named, and recorded with the Ministry |
+| ~2    | First torc           | a child's torc, light and limited, reissued and upgraded as he grows       |
+| ~4    | First school         | the first daily leaving of the household                                   |
+| 4–10  | Primary years        | general schooling, first sports and clubs, and whatever the locality holds a child ought to be able to do: wilderness competence around Zespol, the Shambles' vertical traffic in Brovdingonai, a second and third language on the Marchpane |
+| 11–15 | Secondary years      | subjects narrow, mostly by the boy's own choosing; the first examinations that count for anything |
+| 16–19 | Advanced study       | for those who take it, and often the first living away from home           |
+| 20    | Citizenship          | the oath to the Founding Accords; the vote, the right to father, and the adult torc |
 
-| Age | Milestone | What it entails |
-|---|---|---|
-| 0 | Decanting and naming | The son is brought from the chamber, named, and recorded with the Ministry |
-| ~2 | First torc | A child's [torc](society.md)—light, limited, reissued and upgraded as he grows |
-| ~4 | First school | The first daily leaving of the household; primary education begins |
-| 4–10 | Primary years | General schooling, first sports and clubs, and local competencies—wilderness skills in [Zespol](locations/nemora-zespol/zespol.md), the three-dimensional cities of the [Shambles](locations/brovdingonai/shambles.md) |
-| ~11 | Placement | An assessment of aptitude and inclination points the boy toward a specialisation; he takes up the white insignia of a student |
-| 11–15 | Secondary training | Specialisation deepens; the first serious examinations; boys sorted by what they prove good at |
-| 16–19 | Advanced study | Often the first living away from home; the [university bonds](intimacy.md) that may last a life |
-| 20 | Citizenship | The oath to the [Founding Accords](index.md); full adulthood, the vote, the right to father, and the adult torc |
+## The placement, and the end of it
 
-Two of these rungs matter more than the rest.
+There is no placement, and there has not been for three hundred years. The Second Republic ran one: an assessment at eleven, part examination and part the accumulated opinion of a boy's teachers, which read his aptitudes and pointed him at a field. The Third dismantled it in the 3520s, after four decades of studies—begun under the old republic, and among the things that discredited it—established that what the assessment chiefly measured was the household a boy came from. A meritocracy that sorts at eleven, the argument ran, launders an advantage into a verdict and then makes the boy carry it for a hundred and eighty years. A republic that had just replaced one of its own found the reasoning difficult to duck.
 
-**Placement**, at around eleven, is the first time the meritocracy touches a boy directly. An assessment—part examination, part long observation by teachers—reads his aptitudes and inclinations and steers him toward a field of training. It is not the iron sorting that the later [guild boards](government.md) will be; a placement can be argued, revisited, and overturned by a determined boy or a stubborn talent. But it is the first moment a child feels the gentle, total assumption of his society: that he will be *good at something*, and that finding out what is the serious business of growing up. Eleven-year-old [Nikias Makris-Webb](locations/brovdingonai/westslope-gardens.md), who at present intends to be a jockey, sits exactly at this threshold—his coaches see a runner, Nikias sees a jockey, and the assessment will have its own opinion.
+The word outlived the institution, as words do. Men still speak of a boy being placed, meaning only that he has settled on something, and fathers still ask each other at the fourth drink whether the middle son has placed yet. Several cities kept the ceremony after gutting the machinery behind it: Carmanto walks its eleven-year-olds through the guild halls on a fixed day in Nivir and hands out white cord at the end of it, though nothing whatever is decided. There are households that sit a boy down at eleven and conduct their own version, badly and with enormous seriousness.
 
-**Citizenship**, at twenty, is the capstone. New citizens are commonly recognised together, in an annual cohort gathered on or near [Foundation Day](index.md), and they take the oath to the Founding Accords as one—the secular republic's closest equivalent to a sacrament, alongside the [wedding](intimacy.md) vow that borrows the same founding language. With the oath comes everything at once: legal adulthood, the franchise, the replacement of the student's torc with a full adult [torc](society.md), and—not least—the opening of the Continuity to him. The boy who was decanted and raised becomes, on a single day, a man permitted to decant and raise in his turn. Cohorts keep the tie for life; *year-mates* count for something, the way schoolfellows and shipmates do. [Alexios Makris-Webb](locations/brovdingonai/westslope-gardens.md), nineteen and testing the patience of everyone around him, is a year short of all of it.
+What replaced it is not a system but the absence of one, which each place has filled differently. Brovdingonai's guilds run trial weeks and take on far more eleven-year-olds than they can use, on the theory that the ones who come back are the answer. Landwick auditions. Zespol's children have been in the woods since ten, and what a boy is good at has usually declared itself outdoors. The Marchpane apprentices boys to the farms at whatever age they start being useful and sees nothing there to formalise. Campottonì's schools produce a written assessment, because Campottonì's schools produce a written assessment about everything, and sensible households read it with the scepticism it has earned. And in a great many houses nothing happens at eleven at all: a boy drifts pleasantly through his teens until something catches him, which the planet's teachers will tell you is the commonest route to a good guildsman and the hardest one to explain to an anxious father.
 
-Puberty, in an all-male world, arrives without much ceremony—handled plainly, like the [bodies](intimacy.md) it belongs to, as a thing that happens rather than a thing to be marked. The rites Arrhenos keeps are about *capability and belonging*, not the body.
+Eleven-year-old Nikias Makris-Webb intends to be a jockey. His coaches see a runner. Darien Foss, who takes him to practice, sees a boy who likes being taken to practice. Nothing exists to arbitrate between them, and the question will be settled the way such questions are settled now: slowly, at dinner, by whoever outlasts the others.
+
+The meritocracy's teeth come later and are none the gentler for the wait. The guild boards sit for any man who presents himself, at whatever age he presents himself, and they are the iron sorting the placement never quite managed to be. What the reform changed is not that Arrhenos stopped sorting men. It stopped sorting children, and left the sorting to an age at which a man can argue back.
+
+Citizenship, at twenty, is the capstone and the one rung nobody varies. New citizens are commonly recognised together, in an annual cohort gathered on or near Foundation Day, and take the oath to the Founding Accords as one. With it comes legal adulthood, the franchise, the replacement of the child's torc with a full adult torc, and the opening of the Continuity. Cohorts keep the tie for life, and year-mates count for something, the way schoolfellows and shipmates do. Not everyone swears in company—men abroad take the oath at an enclave or aboard ship, and a certain kind of man declines the ceremony, signs the register alone and goes back to work—but the date is the date, and almost everybody marks it somehow. Alexios Makris-Webb, nineteen and testing the patience of everyone around him, is a year short of all of it.
+
+Puberty, in an all-male world, arrives without much ceremony, handled plainly as a thing that happens rather than a thing to be marked. The rites Arrhenos keeps are about capability and belonging.
 
 ## Brotherhood
 
-Blood does almost nothing here, and rearing does almost everything. The boys raised in one house are brothers for life whether or not they share a recombination donor; the network's children, the friendship-household's sons, the uncle's boys down the hall—these are brothers too, by the only measure that counts. Half-brothers by donor, meanwhile, are nothing to one another and frequently never meet.
+The boys raised in one house are brothers for life whether or not they share a recombination donor, and so are the network's children, the friendship-household's sons, and the uncle's boys down the hall. Half-brothers by donor are nothing to one another and frequently never meet.
 
-Because fathering is deliberate and spaced to a household's readiness, brothers are often years apart. Wide gaps are ordinary, and they shape how brothers hold one another:
+Because fathering is deliberate and spaced to a household's readiness, brothers are often years apart, and the gaps shape how they hold one another. When the gap is large the eldest helps raise the youngest, and the bond carries a parental weight the fathers themselves may envy. An older brother reaches each threshold first—the first examinations, the first leaving, the oath—and the younger watches his own future rehearsed a few years ahead. Close in age, with a meritocracy underfoot, brothers compete over examinations, over who is left alone to get on with it, and over a father's evident pride; though plenty never compete at all, having landed early on trades too far apart to be measured against each other. The brother who is not a father can be told what the fathers cannot. And when the eldest turns twenty and leaves, the household reshapes around the gap.
 
-- **The second father.** When the gap is large, the eldest helps raise the youngest, and the bond carries a parental weight the fathers themselves may envy.
-- **The pathfinder.** An older brother reaches each milestone first—placed, examined, sent away to study, sworn in as a citizen—and the younger watches his own future rehearsed a few years ahead. Much of what a boy expects of growing up, he learns by watching a brother do it.
-- **The rival.** Close in age, with a meritocracy underfoot, brothers compete—over placements, over examinations, over a father's evident pride. The [Agonist](culture.md) temper dignifies the rivalry as devotion; the brothers living it would call it ordinary.
-- **The confidant.** The brother who is not a father can be told what the fathers cannot—the first attraction, the failed examination, the trouble down in the [Shambles](locations/brovdingonai/shambles.md). He covers, he warns, he translates the household's rules.
-- **The departed.** When the eldest turns twenty and leaves—for study, for work, for the wider sky—the household reshapes around the gap, and the younger brothers feel the first edge of the same door.
+The Makris-Webb household holds the whole spread in three sons: Alexios at nineteen, building something secret in the workshop and already half gone into adulthood; Corin at sixteen, quiet and watchful, the likeliest confidant; Nikias at eleven, who has opinions about everything and two older brothers to measure himself against.
 
-The [Makris-Webb](locations/brovdingonai/westslope-gardens.md) household holds the whole spread in three sons: Alexios at nineteen, building something secret in the workshop and already half gone into adulthood; Corin at sixteen, quiet and watchful, the likeliest confidant; Nikias at eleven, who has opinions about everything and two older brothers to measure himself against. To Nikias, Alexios is nearly a third father and Corin an ally; to Alexios, the younger two are a responsibility he has not yet noticed he accepts.
+The word stretches past the household, too, to cover the cohort sworn in together, the schoolfellows of the long training years, the guild-brothers who came up in the same craft, and, off-world, the shipmates who learn one another's breathing in a cot two men wide.
 
-Brotherhood reaches past the household, too. The word stretches to cover the cohort sworn in together, the schoolfellows of the long training years, the guild-brothers who came up in the same craft, and—off-world—the [shipmates](vessels/polletio.md) who learn one another's breathing in a cot two men wide. The household brothers come first. The rest are how a man stays brothered once the household has scattered.
+## Fatherhood across a long life
 
-## Fatherhood Across a Long Life
+A father does not stop being one when his sons reach twenty, but the shape changes. Two centuries of life turn the fierce, exhausting decades of a boyhood into a long prologue, and what follows is a hundred years and more of fathers and grown sons as something nearer to peers.
 
-A father does not stop being one when his sons reach twenty, but the shape changes. Two centuries of life turn the fierce, exhausting decades of a boyhood into a long prologue; what follows is a hundred years and more of fathers and grown sons as something nearer to peers—old friends with an unrepayable debt running one way and an unbreakable claim running the other.
-
-The long life rearranges the rest as well. A man may father once in his thirties and again past a hundred, and so produce brothers seventy years apart who share a household only in name. When a father dies before his work is done—accident or violence, the only things that still kill on schedule—the [household, the network, or a guild](intimacy.md) closes over the gap and the son is raised regardless; the [ward](intimacy.md) taken up by an institution is no rarer, and no less loved for the colder start, than any other boy. And some men make the raising itself their life's work, fathering many in turn or at once, by calling or by contract, so that the planet never wants for someone willing to do the oldest thing it does.
-
-Which bond a man holds dearest in the end—the fathers who made him or the brothers who came up beside him—depends, as ever, on who you ask.
-
----
-
-*See also: [Society](society.md) — reproduction, development stages, torcs, and names; [Intimacy and Kinship](intimacy.md) — courtship, marriage, and the household forms a boy is raised within.*
+The long life rearranges the rest as well. A man may father once in his thirties and again past a hundred, producing brothers seventy years apart who share a household only in name. When a father dies before his work is done—accident or violence, the only things that still kill on schedule—the household, the network or a guild closes over the gap and the son is raised regardless. And some men make the raising itself their life's work, fathering many in turn or at once, by calling or by contract.

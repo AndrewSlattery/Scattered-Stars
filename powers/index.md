@@ -2,24 +2,12 @@
 
 Seven major political entities dominate human space, though none controls more than a fraction of inhabited systems.
 
-| Power                                                         | Centre              | Population    | Character                   |
-| ------------------------------------------------------------- | ------------------- | ------------- | --------------------------- |
-| [The Mandate](mandate/index.md)                        | Tiamming            | 2.4+ trillion | Imperial, bureaucratic      |
-| [Union of Frontier Freeholds](union-freeholds/index.md)             | Decentralised       | ~1.7 trillion | Frontier libertarianism     |
-| [Elysian Collective](elysian-collective/index.md)             | The Garden (mobile) | ~40 million   | Terraforming specialists    |
-| [The Sable Cartel](sable-cartel/index.md)                     | Unknown             | Unknown       | Corporate finance           |
-| [Neo-Solar Republic](neo-solar-republic/index.md)             | Synthesis (Sol L5)  | ~80 billion   | Transhumanist technologists |
-| [Vega Commercial Throne](vega-throne/index.md)                      | Vega system         | ~1.5 trillion | Media and luxury feudalism  |
-| [The Drift Communities](drift-communities/overview.md) | Nomadic             | ~900 billion  | Space-station societies     |
+| The Mandate                 | Tiamming            | 2.4+ trillion | imperial, bureaucratic      |
+| Union of Frontier Freeholds | decentralised       | ~1.7 trillion | frontier libertarianism     |
+| Vega Commercial Throne      | Vega system         | ~1.5 trillion | media and luxury feudalism  |
+| The Drift Communities       | nomadic             | ~900 billion  | space-station societies     |
+| Neo-Solar Republic          | Synthesis, Sol L5   | ~80 billion   | transhumanist technologists |
+| Elysian Collective          | the Garden (mobile) | ~40 million   | terraforming specialists    |
+| The Sable Cartel            | none                | unknown       | corporate finance           |
 
-## Beyond the Great Powers
-
-Thousands of independent polities exist outside the great powers' direct control:
-
-- Single-system governments
-- Regional coalitions
-- Corporate territories
-- Ungoverned frontier zones
-- Disputed territories
-
-Many maintain complex relationships with one or more great powers while preserving nominal independence. For a ten-entry sample of the range—regional powers, devout communions, rival banks and rival media, and the worlds the corridors forget—see [Beyond the Seven](minor-powers.md).
+Thousands of independent polities exist outside their direct control: single-system governments, regional coalitions, corporate territories, ungoverned frontier zones, disputed territories. Many maintain complex relationships with one or more great powers while preserving nominal independence. See minor-powers.md for a ten-entry sample of the range.
