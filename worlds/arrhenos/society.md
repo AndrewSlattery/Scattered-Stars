@@ -35,7 +35,7 @@ Coloured insignia may indicate fields of expertise, though most men do not wear 
 
 Metal neck bands, worn by very nearly everyone on Arrhenos. The bare-necked exist—a scattering of ascetics, contrarians, and men who simply dislike the weight—and manage, with some daily friction, to live.
 
-Torcs serve traditional aesthetic purposes and practical ones: identity verification, secure communication, data storage, enhancement management, medical monitoring, and interface with neural implants. Style indicates personal taste more than status.
+Torcs serve traditional aesthetic purposes and practical ones: identity verification, secure communication, data storage, enhancement management, medical monitoring, and interface with neural implants. Style indicates personal taste more than status. While wearing a torc one can make payments with a hand gesture, a thumbprint or a muttered phrase.
 
 ## Names
 
