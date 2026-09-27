@@ -1,0 +1,109 @@
+{
+  "cities": [
+    {
+      "name": "Campottonì",
+      "lon": 0,
+      "lat": -34,
+      "coastal": true,
+      "canon": "capital; harbour; high plains inland; prime meridian"
+    },
+    {
+      "name": "Landwick",
+      "lon": 72,
+      "lat": -13,
+      "coastal": true,
+      "canon": "coast; brackish marsh; old geothermal works"
+    },
+    {
+      "name": "Brovdingonai",
+      "lon": 80,
+      "lat": -40,
+      "canon": "edge of the Hesperine Plateau, above lowlands"
+    },
+    {
+      "name": "Carmanto",
+      "lon": -50,
+      "lat": -42,
+      "canon": "manufacturing hub"
+    },
+    {
+      "name": "Port Magnus",
+      "lon": -2,
+      "lat": 8,
+      "canon": "equatorial spaceport"
+    },
+    {
+      "name": "Zespol",
+      "lon": -178,
+      "lat": 58,
+      "canon": "bowl valley, Kiruna River lakes; uplands nearby"
+    },
+    {
+      "name": "Verenstad",
+      "lon": -102,
+      "lat": 0,
+      "canon": "equatorial spaceport under Gamma"
+    }
+  ],
+  "regions": [
+    {
+      "name": "Marchpane",
+      "box": [20, -42, 30, -36],
+      "canon": "agricultural"
+    },
+    {
+      "name": "Hesperine Plateau",
+      "box": [70, -50, 80, -35],
+      "canon": "temperate upland"
+    },
+    {
+      "name": "Nemora",
+      "box": [175, 0, 185, 90],
+      "canon": "wilderness preserve, equator to pole"
+    }
+  ],
+  "spaceport_sites": [
+    {
+      "name": "Verenstad",
+      "lon": -102,
+      "lat": 0,
+      "status": "canon"
+    },
+    {
+      "name": "Port Magnus",
+      "lon": -2,
+      "lat": 8,
+      "status": "canon"
+    },
+    {
+      "name": "A's horn",
+      "lon": 27.5,
+      "lat": 2.5,
+      "status": "proposed"
+    },
+    {
+      "name": "F",
+      "lon": 115.4,
+      "lat": -0.9,
+      "status": "proposed"
+    },
+    {
+      "name": "D west",
+      "lon": 172.8,
+      "lat": 1.0,
+      "status": "proposed"
+    },
+    {
+      "name": "D east",
+      "lon": 192.0,
+      "lat": 3.0,
+      "status": "proposed"
+    },
+    {
+      "name": "H",
+      "lon": -141.0,
+      "lat": 0.6,
+      "status": "proposed"
+    }
+  ]
+}

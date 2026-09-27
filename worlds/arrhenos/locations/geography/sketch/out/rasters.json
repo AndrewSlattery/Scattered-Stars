@@ -1,0 +1,10 @@
+{
+  "projection": "equirectangular; west edge 180°W, north edge 90°N",
+  "resolution_deg": 0.1,
+  "size": [
+    3600,
+    1800
+  ],
+  "heightmap": "16-bit greyscale PNG: elevation in metres = value - 12000 (the ice-sheet surface where there is ice; lake surfaces on lakes)",
+  "landmask": "1-bit PNG: white = land (lakes count as land)"
+}

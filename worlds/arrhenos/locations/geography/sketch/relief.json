@@ -1,0 +1,611 @@
+{
+  "notes": "Heights in metres above sea level; widths are half-widths in km. 'style': young (sharp, high relief), old (rounded, worn), volcanic (cones and shields), rift (fault-bounded walls), glacial (ice-carved). Plateaus are polygons raised to a level with a scarp of the given width. Basins pull the land down towards a level.",
+  "ranges": [
+    {
+      "name": "Austral Cordillera",
+      "style": "young",
+      "height": 3600,
+      "width": 170,
+      "line": [
+        [8, -50.5], [16, -50.8], [24, -51], [32, -50.4], [39, -49.4], [44, -46.4], [49, -45.4], [54, -46.5],
+        [58, -49.8], [61.5, -53.5], [64.5, -57.8], [68, -61.5], [73, -64.5], [80, -66.3], [87, -66], [92, -64]
+      ]
+    },
+    {
+      "name": "Eastern Cordillera (A)",
+      "style": "young",
+      "height": 4800,
+      "width": 150,
+      "line": [
+        [96.2, -18.8], [97.6, -23], [97.4, -28], [97.2, -33], [98, -37.5], [97.2, -41.5], [95.6, -45.5], [94.9, -50],
+        [94.4, -55], [93.4, -60], [92, -64]
+      ]
+    },
+    {
+      "name": "Tail highlands",
+      "style": "glacial",
+      "height": 2600,
+      "width": 380,
+      "line": [
+        [70, -58], [78, -61], [86, -61.5], [90, -58]
+      ]
+    },
+    {
+      "name": "Landwick volcanic line",
+      "style": "volcanic",
+      "height": 1300,
+      "width": 80,
+      "line": [
+        [75.4, -32], [75, -26], [74.6, -20], [74.8, -16]
+      ]
+    },
+    {
+      "name": "Campottonì high plains (north shoulder)",
+      "style": "old",
+      "height": 750,
+      "width": 230,
+      "line": [
+        [-26, -18.2], [-15, -21.2], [-5, -24.8], [3, -27.6], [12, -24.6], [20, -22.4]
+      ]
+    },
+    {
+      "name": "Campottonì high plains (south shoulder)",
+      "style": "old",
+      "height": 820,
+      "width": 210,
+      "line": [
+        [-26, -28.8], [-15, -32.8], [-5, -37], [3, -37.6], [12, -33.6], [20, -30.6]
+      ]
+    },
+    {
+      "name": "Carmanto Hills",
+      "style": "old",
+      "height": 1300,
+      "width": 150,
+      "line": [
+        [-52.5, -37.8], [-47, -40.8], [-42, -43.2], [-36, -44.4], [-30, -44]
+      ]
+    },
+    {
+      "name": "Horn spine",
+      "style": "old",
+      "height": 1400,
+      "width": 90,
+      "line": [
+        [14.5, -4.8], [19, -1.8], [24, 1.2], [27.8, 3.2]
+      ]
+    },
+    {
+      "name": "North arm uplands",
+      "style": "old",
+      "height": 900,
+      "width": 150,
+      "line": [
+        [-23, -13.5], [-16, -11], [-8, -12.5], [0, -15.5], [8, -12]
+      ]
+    },
+    {
+      "name": "C Northern Highlands",
+      "style": "glacial",
+      "height": 1900,
+      "width": 180,
+      "line": [
+        [-35, 55.2], [-27, 54.4], [-18, 53.8], [-10, 54.4], [-2, 55.6], [5, 54.6], [11, 50.8]
+      ]
+    },
+    {
+      "name": "C West Coast Uplands",
+      "style": "old",
+      "height": 1100,
+      "width": 110,
+      "line": [
+        [-38.2, 52.5], [-39.2, 48.5], [-39.4, 41], [-38.8, 35.5]
+      ]
+    },
+    {
+      "name": "C East Coast Uplands",
+      "style": "old",
+      "height": 950,
+      "width": 110,
+      "line": [
+        [30.6, 45.2], [30.2, 38.5], [31.2, 33.5], [26.5, 27.5]
+      ]
+    },
+    {
+      "name": "Boreal Arc",
+      "style": "volcanic",
+      "height": 3400,
+      "width": 90,
+      "line": [
+        [87.2, 32.2], [91, 30], [95, 28.4], [99, 25.8], [102.5, 25], [106, 27], [110, 27.5], [114, 29.5]
+      ]
+    },
+    {
+      "name": "B·ne Cordillera",
+      "style": "young",
+      "height": 4200,
+      "width": 150,
+      "line": [
+        [114, 30.2], [120, 29.8], [127, 29.6], [132.5, 33.2], [138, 37], [144, 38.2], [150, 40.2], [157, 41.2]
+      ]
+    },
+    {
+      "name": "B·ne interior ranges (west)",
+      "style": "young",
+      "height": 2900,
+      "width": 170,
+      "line": [
+        [79, 47], [86, 49.8], [94, 51.6], [103, 52.8], [110, 52.2]
+      ]
+    },
+    {
+      "name": "B·ne interior ranges (east)",
+      "style": "old",
+      "height": 2200,
+      "width": 190,
+      "line": [
+        [112, 55.4], [120, 54.6], [129, 52.9], [137, 50.6], [146, 49.8]
+      ]
+    },
+    {
+      "name": "Rift Walls (west)",
+      "style": "rift",
+      "height": 2300,
+      "width": 85,
+      "line": [
+        [-140.28, 26], [-138.93, 30], [-138.22, 34], [-138.93, 38], [-138.72, 42], [-138.16, 46], [-137.68, 50], [-139.03, 54],
+        [-138.33, 58], [-138.03, 62], [-139.3, 66], [-141.06, 70]
+      ]
+    },
+    {
+      "name": "Rift Walls (east)",
+      "style": "rift",
+      "height": 2300,
+      "width": 85,
+      "line": [
+        [-133.56, 29], [-132.53, 33], [-132.8, 37], [-132.99, 41], [-131.78, 45], [-131.27, 49], [-132.16, 53], [-131.21, 57],
+        [-130.4, 61], [-130.71, 65], [-130.77, 69]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (D, south)",
+      "style": "old",
+      "height": 1900,
+      "width": 150,
+      "line": [
+        [176.4, -3], [177.4, 3], [176.9, 9]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (D, middle)",
+      "style": "old",
+      "height": 2300,
+      "width": 165,
+      "line": [
+        [178.6, 10.5], [179.4, 16], [178.2, 22.5]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (D, north)",
+      "style": "old",
+      "height": 1700,
+      "width": 150,
+      "line": [
+        [179.6, 24], [181, 29], [180.2, 33.5], [180.6, 38.6]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (B, south)",
+      "style": "old",
+      "height": 1300,
+      "width": 160,
+      "line": [
+        [180.4, 42.5], [178.9, 46], [179.6, 49.5]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (B, middle)",
+      "style": "old",
+      "height": 1700,
+      "width": 150,
+      "line": [
+        [181.8, 50.8], [180.3, 54], [180.9, 56.3]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (B, north)",
+      "style": "old",
+      "height": 1400,
+      "width": 170,
+      "line": [
+        [183.9, 59.6], [182.2, 63], [181.1, 66.2]
+      ]
+    },
+    {
+      "name": "Nemoran Spine (B, far north)",
+      "style": "glacial",
+      "height": 1100,
+      "width": 180,
+      "line": [
+        [179.4, 67.5], [180.8, 70.5], [180.1, 73.4]
+      ]
+    },
+    {
+      "name": "Zespol Uplands",
+      "style": "old",
+      "height": 1400,
+      "width": 90,
+      "line": [
+        [184.6, 55.2], [186.2, 57.8], [185.2, 60.6]
+      ]
+    },
+    {
+      "name": "Verenstad Arc",
+      "style": "volcanic",
+      "height": 3300,
+      "width": 75,
+      "line": [
+        [-110.5, 25], [-108, 20.5], [-105.8, 15.5], [-104.3, 10.5], [-103.4, 6], [-103, 2], [-102.9, -2], [-102.2, -5.5]
+      ]
+    },
+    {
+      "name": "Occidental volcanic belt",
+      "style": "volcanic",
+      "height": 2900,
+      "width": 110,
+      "line": [
+        [-110.5, 26.2], [-104, 28.2], [-97, 29.6]
+      ]
+    },
+    {
+      "name": "Occidental east uplands",
+      "style": "old",
+      "height": 1400,
+      "width": 150,
+      "line": [
+        [-77, 30], [-80, 35], [-88, 40], [-94, 44]
+      ]
+    },
+    {
+      "name": "Occidental north uplands",
+      "style": "glacial",
+      "height": 1600,
+      "width": 150,
+      "line": [
+        [-130, 66], [-126, 62], [-122, 59], [-115, 56.8]
+      ]
+    },
+    {
+      "name": "Nemoran West Arc",
+      "style": "volcanic",
+      "height": 3000,
+      "width": 85,
+      "line": [
+        [149.4, 29.2], [148.8, 24.5], [150.6, 20.4], [156, 17.1], [163, 16.6], [168.6, 12.8], [170.1, 7], [170.6, 4.5]
+      ]
+    },
+    {
+      "name": "Nemoran South Arc",
+      "style": "volcanic",
+      "height": 2600,
+      "width": 75,
+      "line": [
+        [166.5, -5.2], [171, -4.8], [175, -3.2]
+      ]
+    },
+    {
+      "name": "Meridian Cordillera",
+      "style": "young",
+      "height": 5600,
+      "width": 160,
+      "line": [
+        [-119.4, -18.4], [-120.6, -20], [-121.4, -24.5], [-122.4, -29], [-123.6, -33], [-125.1, -37], [-126.9, -40.5], [-128.6, -44],
+        [-130.2, -47.5], [-131, -50.8]
+      ]
+    },
+    {
+      "name": "Meridian east uplands",
+      "style": "old",
+      "height": 1200,
+      "width": 140,
+      "line": [
+        [-85.2, -24.5], [-87.4, -29], [-90.4, -34.5], [-91.7, -40], [-93.2, -44]
+      ]
+    },
+    {
+      "name": "Southern arc (submarine)",
+      "style": "volcanic",
+      "height": 2600,
+      "width": 60,
+      "submarine": true,
+      "line": [
+        [119, -5], [124.6, -6.9], [132, -7.9], [139.5, -8.3], [147, -8], [153, -7.7], [161, -7]
+      ]
+    },
+    {
+      "name": "F spine",
+      "style": "volcanic",
+      "height": 2800,
+      "width": 70,
+      "line": [
+        [102.5, -13.5], [105.5, -11.5], [108.5, -8.2], [111.5, -5], [114.5, -2.6], [115.8, -0.5]
+      ]
+    },
+    {
+      "name": "G spine",
+      "style": "glacial",
+      "height": 2000,
+      "width": 75,
+      "line": [
+        [-71.2, -39.5], [-70.4, -44], [-71.2, -49.8]
+      ]
+    },
+    {
+      "name": "I hills",
+      "style": "glacial",
+      "height": 900,
+      "width": 110,
+      "line": [
+        [66.5, 49.3], [68.5, 50.5], [70.5, 51.4]
+      ]
+    }
+  ],
+  "volcanoes": [
+    {
+      "name": "H north shields",
+      "lon": -143.8,
+      "lat": 1.4,
+      "height": 3800,
+      "radius": 170
+    },
+    {
+      "name": "H south shields",
+      "lon": -140.5,
+      "lat": -12.4,
+      "height": 2400,
+      "radius": 130
+    }
+  ],
+  "plateaus": [
+    {
+      "name": "Hesperine Plateau",
+      "height": 850,
+      "scarp": 110,
+      "style": "volcanic-flat",
+      "polygon": [
+        [67, -34], [72, -33.2], [78, -34], [81.2, -36.8], [81.6, -41.5], [80.8, -46.5], [77.8, -50.6], [72, -51.8],
+        [67.5, -50.2], [65.4, -45], [65.8, -38.5]
+      ]
+    },
+    {
+      "name": "A interior tableland",
+      "height": 330,
+      "scarp": 450,
+      "style": "old",
+      "polygon": [
+        [35, -26.5], [50, -22.5], [62, -21.5], [66.5, -28], [63.5, -36], [55, -40.5], [42, -42], [33, -36.5]
+      ]
+    },
+    {
+      "name": "Magnus shield",
+      "height": 420,
+      "scarp": 200,
+      "style": "old",
+      "polygon": [
+        [-10, 6.5], [4.5, 6.5], [5, 14], [2, 20], [-8, 18], [-10.5, 12]
+      ]
+    }
+  ],
+  "basins": [
+    {
+      "name": "Marchpane",
+      "level": 140,
+      "radius": 420,
+      "lon": 25,
+      "lat": -39
+    },
+    {
+      "name": "Campottonì harbour lowland",
+      "level": 30,
+      "radius": 90,
+      "lon": 0.8,
+      "lat": -33.5
+    },
+    {
+      "name": "Landwick delta",
+      "level": 4,
+      "radius": 190,
+      "lon": 76.0,
+      "lat": -13.8
+    },
+    {
+      "name": "Landwick coastal plain",
+      "level": 12,
+      "radius": 110,
+      "lon": 72.4,
+      "lat": -13.5
+    },
+    {
+      "name": "Horn Bay deltas",
+      "level": 20,
+      "radius": 260,
+      "lon": 26.0,
+      "lat": -18.5
+    },
+    {
+      "name": "Campottonì graben",
+      "level": 60,
+      "radius": 120,
+      "line": [
+        [2.6, -32.4], [8, -30.4], [14, -28.2], [20, -26.2]
+      ]
+    },
+    {
+      "name": "Hesperine foreland (Brovdingonai lowlands)",
+      "level": 150,
+      "radius": 300,
+      "lon": 87,
+      "lat": -38
+    },
+    {
+      "name": "Zespol bowl",
+      "level": 320,
+      "radius": 55,
+      "lon": 182,
+      "lat": 58
+    },
+    {
+      "name": "C inland sea lowlands",
+      "level": 40,
+      "radius": 380,
+      "lon": -28,
+      "lat": 44
+    }
+  ],
+  "ice_sheets": [
+    {
+      "name": "Boreal Ice Sheet",
+      "thickness": 3000,
+      "notes": "Covers B's land north of the margin line.",
+      "margin": [
+        [-40, 78.8], [0, 78], [40, 78.8], [80, 76.2], [110, 73.5], [140, 73], [175, 74.8], [200, 75.5],
+        [225, 76], [260, 78.5], [320, 78.8]
+      ]
+    }
+  ],
+  "coast_zones": [
+    {
+      "name": "E fjord coast",
+      "style": "fjord",
+      "polygon": [
+        [-136, -37.5], [-125, -37.5], [-125, -53.5], [-136, -53.5]
+      ]
+    },
+    {
+      "name": "Tail fjords",
+      "style": "fjord",
+      "polygon": [
+        [58, -56], [72, -60], [100, -60], [100, -72], [58, -72]
+      ]
+    },
+    {
+      "name": "G west coast",
+      "style": "fjord",
+      "polygon": [
+        [-77, -42], [-71, -42], [-71, -52.5], [-77, -52.5]
+      ]
+    },
+    {
+      "name": "C north coast",
+      "style": "fjord",
+      "polygon": [
+        [-42, 51], [12, 51], [12, 60], [-42, 60]
+      ]
+    },
+    {
+      "name": "C inland sea north arm",
+      "style": "skerry",
+      "polygon": [
+        [-32, 46], [-20, 46], [-20, 54], [-32, 54]
+      ]
+    },
+    {
+      "name": "B·nw north coast",
+      "style": "fjord",
+      "polygon": [
+        [-140, 56], [-100, 56], [-100, 72], [-140, 72]
+      ]
+    },
+    {
+      "name": "Boreal Ice Sheet coast",
+      "style": "fjord",
+      "polygon": [
+        [-40, 70], [320, 70], [320, 90], [-40, 90]
+      ]
+    },
+    {
+      "name": "I",
+      "style": "fjord",
+      "polygon": [
+        [63, 47.5], [73, 47.5], [73, 53.5], [63, 53.5]
+      ]
+    },
+    {
+      "name": "Verenstad peninsula west coast",
+      "style": "smooth",
+      "polygon": [
+        [-117, 0], [-103, 0], [-103, 26], [-117, 26]
+      ]
+    },
+    {
+      "name": "E desert coast",
+      "style": "smooth",
+      "polygon": [
+        [-126, -14], [-116, -14], [-116, -33], [-126, -33]
+      ]
+    },
+    {
+      "name": "A west desert coast",
+      "style": "smooth",
+      "polygon": [
+        [-31, -8], [-18, -8], [-18, -20.5], [-31, -20.5]
+      ]
+    },
+    {
+      "name": "C southwest desert coast",
+      "style": "smooth",
+      "polygon": [
+        [-42, 17], [-26, 17], [-26, 33], [-42, 33]
+      ]
+    },
+    {
+      "name": "Campottonì Gulf",
+      "style": "tidal",
+      "polygon": [
+        [-30, -18.5], [4, -18.5], [4, -35], [-30, -35]
+      ]
+    },
+    {
+      "name": "C inland sea",
+      "style": "inland",
+      "polygon": [
+        [-39, 34], [-11, 34], [-11, 47.2], [-39, 47.2]
+      ]
+    },
+    {
+      "name": "Nemoran Strait",
+      "style": "strait",
+      "polygon": [
+        [174.5, 39.2], [187, 39.2], [187, 41.9], [174.5, 41.9]
+      ]
+    },
+    {
+      "name": "Rift Sea coasts",
+      "style": "rift",
+      "polygon": [
+        [-142, 22], [-130, 22], [-130, 72], [-142, 72]
+      ]
+    },
+    {
+      "name": "Landwick delta",
+      "style": "delta",
+      "polygon": [
+        [71, -11], [84, -11], [84, -19], [71, -19]
+      ]
+    },
+    {
+      "name": "Horn Bay deltas",
+      "style": "delta",
+      "polygon": [
+        [15, -5], [46, -5], [46, -25], [15, -25]
+      ]
+    },
+    {
+      "name": "B·nw delta gulf",
+      "style": "delta",
+      "polygon": [
+        [-110, 38], [-94, 38], [-94, 48], [-110, 48]
+      ]
+    }
+  ]
+}
