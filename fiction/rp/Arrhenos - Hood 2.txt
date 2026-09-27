@@ -1,0 +1,36 @@
+Genre: LitRPG / Portal Fantasy / Sci-Fi / M-M Romance
+Style: Second person perspective. Full paragraphs of several sentences each, and of varying lengths. Published print novel formatting. Extremely long, detailed responses that hold nothing back (each at least 3000 words). 
+Setting: The Arrhenos universe (specifically the city of Brovdingonai).
+The Hook: A man from present-day Earth (2025) is transported to this far-future, all-male sci-fi society. To cope with the trauma and the advanced technology he doesn't understand, his consciousness interprets reality through a sci-fi RPG Interface.
+NARRATIVE ARC: THE OPENING SEQUENCE
+Scene 1: The Old World (Earth, 2025)
+Context: Establish the Protagonist in his original life. Show, don't just tell, his dissatisfaction or his reliance on gaming/structure. Maybe he's a lonely IT worker, an overworked barista, or a hardcore gamer who feels more competent in-game than in real life. He should express a desire for clear rules or a "reset button" on his life. The writer chooses the method (a freak quantum accident, a portal, a car crash, or mysterious abduction). A sensory overload transition from Earth reality to the environment of Arrhenos.
+LitRPG setup: some sort of HUD that spontaneously forms once he arrives. It should not have access to any information unavailable to the protagonist. In particular, neither he nor the HUD should be able to understand the local language whatsoever, and neither should yet have access to any proper nouns relevant to his new environment.
+
+===
+
+Hand gestures convey that I should follow the man, who seems to have asked two others to cover whatever he was doing. I take in the sights and try to decipher what we come across. In a less-crowded side alley we eventually come across a lone familiar symbol, a green cross that I hope still indicates health or help, having survived the presumed gap between where I was and wherever I am now. The man leaves me at the door with a smile.
+It seems to be a clinic or police inquiry desk, or something. After some fumbling with the man behind the counter, he pulls out a puck I don't recognise. After some calibration it recognises my language in its archives and interprets for us, although the interpreter subroutine is laggy and inefficient. In a spirit of going along with his assumptions, I end up adopting the persona of a Drift off-worlder who was robbed, wherever that is, even as I inwardly boggle at the revelation that he's on another planet millennia in the future. This identity is mostly assembled by guilelessly agreeing with whatever the man assumes about me.
+
+I get scanned for medical issues and get a bunch of old injuries fixed with the tech of this place. Meanwhile, I get better at using the game interface non-verbally. The medical attendant on shift fits me with a placeholder torc, and he recommends a tech shop and a big-chain clothes retailer further upmarket. I inwardly wonder how on Earth (or wherever this is) I'll get money—quid?—to pay for anything.
+
+My game interface interacts with the torc, and researches the basic context of where and when I am, and what the "Drift" is, displaying very brief chunks to me, the minimum necessary to help maintain my cover.
+
+===
+
+On my way through the Shambles, via a quick drink from a public fountain, I fall in with a group of men at a bar. My provisional torc appears to sync with mens' near me and provides my English speech with mid-quality subtitles in their language, as it does for me with anyone I'm paying attention to. I manage to insert myself into the drinks-round roster and try some snacks with a little improvised explanation and copying how they do the buying, and settle in to absorb their banter. I pick up various social details about family and life in Brovdingonai and Arrhenos generally. They idly ask me a bit about life in the Drift—tin can homes and more than one gender, vague and probably inaccurate based off whatever they've seen in media—and I make up something apparently plausible. Eventually, one of the men, Lex, offers to accompany me shopping.
+Shopping for an outfit and a more permanent torc goes well, even though he takes me to some much higher-end chains than I can afford; I even start recognising individual words and phrases before the interpreter needs to translate them. Afterward, on a guided stroll, Lex sees my phone and suggests it might fetch a good sum at an antiques pawn shop. The broker, Sorian, is impressed at the mint condition of the phone. I get a lot more money for leaving it in pawn than I expected (I'll need to pay it back with interest to get it back). It's enough to pay Lex back for the clothes and torc, with enough left over for a few weeks at a doss-house—cheap and cramped, maybe, but incredibly hi-tech to me.
+
+===
+
+I explore the whole city the next day, taking all three levels of tram, setting foot in the long-range intercity train terminal. I have lunch at Lex's house, have a look at jobs boards in the afternoon, and go out clubbing with Lex and some of his older friends for an extended holiday outing in the evening. I start noticing how tall, broad and in shape men are in general here, and am noticed in return.
+
+I start encountering abilities the System gives him that are abnormal even for his new environment, like a spaceless inventory (I put my Earth gear in there for safekeeping, among other things); some other capability which I had in my old life turns out to translate into useful and unique know-how for a board job.
+
+===
+
+Great work! I feel like you've really got a grip on the setting, character and plot. Now, start charting for yourself ideas for short-term, medium-term and long-term arcs for plot and characters. This will give you beats to aim for. Then, write a prompt to yourself describing the upcoming part you envision (in the manner that I've been providing prompts so far), and write the section you describe.
+
+===
+
+Onto the next sequences! We feel ready for rising action and faster pacing, I think.
